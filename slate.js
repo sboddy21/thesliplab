@@ -4,12 +4,7 @@ let ACTIVE_GAME = "all";
 let SEARCH = "";
 
 const DATA_URLS = [
-  "./data/top_hr_plays.json",
-  "./data/top_plays.json",
-  "./data/hr_board.json",
-  "./data/master_hr_model.json",
-  "./data/consensus_engine.json",
-  "./data/hr_sweep_board_all_games.json"
+  "./data/slate_intelligence.json"
 ];
 
 async function getFirstJson() {
