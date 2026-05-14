@@ -202,7 +202,7 @@
 
     .weather-card {
       display: grid;
-      grid-template-columns: 1.65fr 1fr 1fr 1fr 1.35fr;
+      grid-template-columns: 1.45fr .85fr .85fr .85fr 1.1fr 1.5fr;
       min-height: 112px;
       border: 1px solid rgba(255,255,255,.10);
       background: rgba(255,255,255,.04);
@@ -349,14 +349,105 @@
       }
 
       .weather-card {
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr;
       }
 
       .cell {
         border-bottom: 1px solid rgba(255,255,255,.08);
       }
     }
-  </style>
+  
+    .park-cell {
+      padding: 14px;
+      border-right: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-left: 1px solid rgba(255,255,255,.10);
+    }
+
+    .park-diagram {
+      width: 150px;
+      text-align: center;
+    }
+
+    .park-label {
+      color: #9ca3af;
+      font-size: 10px;
+      text-transform: uppercase;
+      letter-spacing: .14em;
+      font-weight: 900;
+      margin-bottom: 8px;
+    }
+
+    .mini-field {
+      position: relative;
+      width: 132px;
+      height: 92px;
+      margin: 0 auto 6px;
+      border: 1px solid rgba(0,255,136,.28);
+      border-bottom: 0;
+      border-radius: 70px 70px 12px 12px;
+      background:
+        radial-gradient(circle at 50% 90%, rgba(245,158,11,.42), transparent 18%),
+        linear-gradient(180deg, rgba(0,255,136,.13), rgba(59,130,246,.10));
+      overflow: hidden;
+    }
+
+    .mini-field:before {
+      content: "";
+      position: absolute;
+      left: 50%;
+      bottom: -16px;
+      width: 58px;
+      height: 58px;
+      background: rgba(245,158,11,.28);
+      transform: translateX(-50%) rotate(45deg);
+      border: 1px solid rgba(245,158,11,.35);
+    }
+
+    .diamond-base {
+      position: absolute;
+      left: 50%;
+      bottom: 8px;
+      width: 18px;
+      height: 18px;
+      background: rgba(255,255,255,.9);
+      transform: translateX(-50%) rotate(45deg);
+      opacity: .65;
+    }
+
+    .dim {
+      position: absolute;
+      font-size: 11px;
+      font-weight: 900;
+      color: #00ff88;
+      text-shadow: 0 0 8px rgba(0,0,0,.7);
+    }
+
+    .dim.lf { left: 8px; bottom: 18px; }
+    .dim.lcf { left: 25px; top: 26px; }
+    .dim.cf { left: 50%; top: 8px; transform: translateX(-50%); color: #facc15; }
+    .dim.rcf { right: 25px; top: 26px; }
+    .dim.rf { right: 8px; bottom: 18px; }
+
+    .dim-row {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 2px;
+      color: #7c8a83;
+      font-size: 9px;
+      font-weight: 900;
+      letter-spacing: .08em;
+    }
+
+    .park-missing {
+      color: #64748b;
+      font-size: 12px;
+      padding: 22px 0;
+    }
+
+</style>
 </head>
 
 <body>
