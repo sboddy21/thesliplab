@@ -10,7 +10,25 @@
     "hits": 3,
     "rbi": 6,
     "at_bats": 5,
-    "result": "HR"
+    "result": "HR",
+    "tags": [
+      {
+        "label": "MULTI HR",
+        "type": "hot"
+      },
+      {
+        "label": "HOT BAT",
+        "type": "strong"
+      },
+      {
+        "label": "RBI GAME",
+        "type": "value"
+      },
+      {
+        "label": "POWER GAME",
+        "type": "hot"
+      }
+    ]
   },
   {
     "date": "2026-05-14",
@@ -23,7 +41,13 @@
     "hits": 2,
     "rbi": 1,
     "at_bats": 4,
-    "result": "HR"
+    "result": "HR",
+    "tags": [
+      {
+        "label": "POWER GAME",
+        "type": "hot"
+      }
+    ]
   },
   {
     "date": "2026-05-14",
@@ -36,7 +60,8 @@
     "hits": 1,
     "rbi": 2,
     "at_bats": 3,
-    "result": "HR"
+    "result": "HR",
+    "tags": []
   },
   {
     "date": "2026-05-14",
@@ -49,7 +74,13 @@
     "hits": 1,
     "rbi": 3,
     "at_bats": 4,
-    "result": "HR"
+    "result": "HR",
+    "tags": [
+      {
+        "label": "RBI GAME",
+        "type": "value"
+      }
+    ]
   },
   {
     "date": "2026-05-14",
@@ -62,7 +93,8 @@
     "hits": 1,
     "rbi": 1,
     "at_bats": 4,
-    "result": "HR"
+    "result": "HR",
+    "tags": []
   },
   {
     "date": "2026-05-14",
@@ -75,7 +107,17 @@
     "hits": 2,
     "rbi": 3,
     "at_bats": 4,
-    "result": "HR"
+    "result": "HR",
+    "tags": [
+      {
+        "label": "RBI GAME",
+        "type": "value"
+      },
+      {
+        "label": "POWER GAME",
+        "type": "hot"
+      }
+    ]
   },
   {
     "date": "2026-05-14",
@@ -88,7 +130,13 @@
     "hits": 2,
     "rbi": 2,
     "at_bats": 5,
-    "result": "HR"
+    "result": "HR",
+    "tags": [
+      {
+        "label": "POWER GAME",
+        "type": "hot"
+      }
+    ]
   },
   {
     "date": "2026-05-14",
@@ -101,7 +149,13 @@
     "hits": 2,
     "rbi": 2,
     "at_bats": 5,
-    "result": "HR"
+    "result": "HR",
+    "tags": [
+      {
+        "label": "POWER GAME",
+        "type": "hot"
+      }
+    ]
   },
   {
     "date": "2026-05-14",
@@ -114,7 +168,17 @@
     "hits": 2,
     "rbi": 3,
     "at_bats": 5,
-    "result": "HR"
+    "result": "HR",
+    "tags": [
+      {
+        "label": "RBI GAME",
+        "type": "value"
+      },
+      {
+        "label": "POWER GAME",
+        "type": "hot"
+      }
+    ]
   },
   {
     "date": "2026-05-14",
@@ -127,7 +191,13 @@
     "hits": 2,
     "rbi": 1,
     "at_bats": 3,
-    "result": "HR"
+    "result": "HR",
+    "tags": [
+      {
+        "label": "POWER GAME",
+        "type": "hot"
+      }
+    ]
   },
   {
     "date": "2026-05-14",
@@ -140,7 +210,8 @@
     "hits": 1,
     "rbi": 2,
     "at_bats": 4,
-    "result": "HR"
+    "result": "HR",
+    "tags": []
   },
   {
     "date": "2026-05-14",
@@ -153,7 +224,13 @@
     "hits": 2,
     "rbi": 2,
     "at_bats": 3,
-    "result": "HR"
+    "result": "HR",
+    "tags": [
+      {
+        "label": "POWER GAME",
+        "type": "hot"
+      }
+    ]
   },
   {
     "date": "2026-05-14",
@@ -166,7 +243,8 @@
     "hits": 1,
     "rbi": 2,
     "at_bats": 3,
-    "result": "HR"
+    "result": "HR",
+    "tags": []
   },
   {
     "date": "2026-05-14",
@@ -179,7 +257,13 @@
     "hits": 2,
     "rbi": 1,
     "at_bats": 3,
-    "result": "HR"
+    "result": "HR",
+    "tags": [
+      {
+        "label": "POWER GAME",
+        "type": "hot"
+      }
+    ]
   },
   {
     "date": "2026-05-14",
@@ -192,7 +276,17 @@
     "hits": 3,
     "rbi": 2,
     "at_bats": 4,
-    "result": "HR"
+    "result": "HR",
+    "tags": [
+      {
+        "label": "HOT BAT",
+        "type": "strong"
+      },
+      {
+        "label": "POWER GAME",
+        "type": "hot"
+      }
+    ]
   },
   {
     "date": "2026-05-14",
@@ -205,7 +299,8 @@
     "hits": 1,
     "rbi": 1,
     "at_bats": 3,
-    "result": "HR"
+    "result": "HR",
+    "tags": []
   },
   {
     "date": "2026-05-14",
@@ -218,7 +313,17 @@
     "hits": 3,
     "rbi": 1,
     "at_bats": 3,
-    "result": "HR"
+    "result": "HR",
+    "tags": [
+      {
+        "label": "HOT BAT",
+        "type": "strong"
+      },
+      {
+        "label": "POWER GAME",
+        "type": "hot"
+      }
+    ]
   },
   {
     "date": "2026-05-14",
@@ -231,6 +336,12 @@
     "hits": 2,
     "rbi": 1,
     "at_bats": 4,
-    "result": "HR"
+    "result": "HR",
+    "tags": [
+      {
+        "label": "POWER GAME",
+        "type": "hot"
+      }
+    ]
   }
 ]
