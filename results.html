@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Slip Lab Results</title>
+  <link rel="stylesheet" href="style.css" />
+  <style>
+    .results_wrap {
+      max-width: 1180px;
+      margin: 0 auto;
+      padding: 40px 20px;
+    }
+
+    .results_hero {
+      background: linear-gradient(135deg, rgba(0,255,136,0.14), rgba(0,0,0,0.45));
+      border: 1px solid rgba(0,255,136,0.28);
+      border-radius: 22px;
+      padding: 28px;
+      margin-bottom: 24px;
+    }
+
+    .results_hero h1 {
+      margin: 0 0 10px;
+      font-size: 42px;
+      color: #ffffff;
+    }
+
+    .results_hero p {
+      margin: 0;
+      color: #b8c7bd;
+      line-height: 1.5;
+    }
+
+    .results_stats {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 16px;
+      margin-bottom: 24px;
+    }
+
+    .results_card {
+      background: rgba(8, 14, 11, 0.92);
+      border: 1px solid rgba(0,255,136,0.18);
+      border-radius: 18px;
+      padding: 18px;
+    }
+
+    .results_card span {
+      display: block;
+      color: #8fa39a;
+      font-size: 13px;
+      margin-bottom: 8px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+
+    .results_card strong {
+      color: #00ff88;
+      font-size: 28px;
+    }
+
+    .results_table_wrap {
+      overflow-x: auto;
+      background: rgba(8, 14, 11, 0.92);
+      border: 1px solid rgba(0,255,136,0.18);
+      border-radius: 18px;
+    }
+
+    table.results_table {
+      width: 100%;
+      border-collapse: collapse;
+      min-width: 980px;
+    }
+
+    .results_table th,
+    .results_table td {
+      text-align: left;
+      padding: 14px 16px;
+      border-bottom: 1px solid rgba(255,255,255,0.07);
+      color: #dce7e1;
+      font-size: 14px;
+    }
+
+    .results_table th {
+      color: #00ff88;
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      background: rgba(0,255,136,0.06);
+    }
+
+    .badge_win,
+    .badge_loss,
+    .badge_pending {
+      display: inline-block;
+      border-radius: 999px;
+      padding: 5px 10px;
+      font-size: 12px;
+      font-weight: 800;
+    }
+
+    .badge_win {
+      color: #001f11;
+      background: #00ff88;
+    }
+
+    .badge_loss {
+      color: #ffffff;
+      background: #d94141;
+    }
+
+    .badge_pending {
+      color: #111111;
+      background: #ffd166;
+    }
+
+    .results_note {
+      margin-top: 16px;
+      color: #8fa39a;
+      font-size: 13px;
+      line-height: 1.5;
+    }
+
+    @media (max-width: 800px) {
+      .results_stats {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+
+      .results_hero h1 {
+        font-size: 32px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="results_wrap">
+    <section class="results_hero">
+      <h1>Official Results</h1>
+      <p>
+        This page only tracks official plays posted by The Slip Lab.
+        Watchlist names, model leans, passes, and research cards are not counted as bets.
+      </p>
+    </section>
+
+    <section class="results_stats">
+      <div class="results_card">
+        <span>Official Plays</span>
+        <strong id="official_plays">0</strong>
+      </div>
+      <div class="results_card">
+        <span>Record</span>
+        <strong id="official_record">0-0</strong>
+      </div>
+      <div class="results_card">
+        <span>Units</span>
+        <strong id="official_units">0.00</strong>
+      </div>
+      <div class="results_card">
+        <span>CLV Wins</span>
+        <strong id="official_clv">0</strong>
+      </div>
+    </section>
+
+    <section class="results_table_wrap">
+      <table class="results_table">
+        <thead>
+          <tr>
+            <th>Date</th>
+            <th>Player</th>
+            <th>Team</th>
+            <th>Market</th>
+            <th>Posted Odds</th>
+            <th>Closing Odds</th>
+            <th>CLV</th>
+            <th>Result</th>
+            <th>Units</th>
+            <th>Profit</th>
+            <th>Note</th>
+          </tr>
+        </thead>
+        <tbody id="results_body"></tbody>
+      </table>
+    </section>
+
+    <p class="results_note">
+      Results are updated from official posted plays only. This keeps the page honest and avoids counting every model output as a bet.
+    </p>
+  </main>
+
+  <script src="results.js"></script>
+</body>
+</html>

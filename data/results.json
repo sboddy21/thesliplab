@@ -1,0 +1,15 @@
+[
+  {
+    "date": "2026-05-14",
+    "player": "Example Player",
+    "team": "NYY",
+    "market": "Home Run",
+    "odds_posted": "+420",
+    "closing_odds": "+380",
+    "result": "Pending",
+    "units": 0.25,
+    "profit": 0,
+    "clv": "+40",
+    "note": "Replace this row with official posted plays only"
+  }
+]
