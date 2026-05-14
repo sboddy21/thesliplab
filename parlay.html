@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Slip Lab Parlay Builder</title>
+  <link rel="stylesheet" href="parlay.css" />
+</head>
+
+<body>
+  <aside class="sidebar">
+    <div class="brand">
+      <div class="logo">TSL</div>
+      <div>
+        <h1>The Slip Lab</h1>
+        <p>HR Parlay Generator</p>
+      </div>
+    </div>
+
+    <div class="panel">
+      <h2>Parlay Configuration</h2>
+
+      <label>Strategy</label>
+      <select id="strategy">
+        <option value="auto">Auto Recommended</option>
+        <option value="probability">Probability Focus</option>
+        <option value="value">Value Focus</option>
+        <option value="stacks">Stack Focus</option>
+        <option value="diversified">Diversified</option>
+      </select>
+
+      <label>Legs Per Parlay</label>
+      <input id="legs" type="number" min="2" max="6" value="4" />
+
+      <label>Number of Parlays</label>
+      <input id="count" type="number" min="1" max="25" value="6" />
+
+      <label>Max Players Per Game</label>
+      <input id="maxPerGame" type="number" min="1" max="4" value="1" />
+
+      <button id="generateBtn">Generate Parlays</button>
+    </div>
+
+    <div class="panel">
+      <h2>Data Status</h2>
+      <div class="status" id="statusBox">Loading data...</div>
+    </div>
+
+    <a class="back" href="index.html">Back to Home</a>
+  </aside>
+
+  <main class="main">
+    <section class="hero">
+      <p class="eyebrow">Phase 13 Parlay Tool</p>
+      <h1>HR Parlay Generator</h1>
+      <p>
+        Build parlay ideas from The Slip Lab simulation engine, value model,
+        game correlation, and same game HR stack outputs.
+      </p>
+    </section>
+
+    <section class="summary">
+      <div>
+        <span id="totalParlays">0</span>
+        <p>Total Parlays</p>
+      </div>
+
+      <div>
+        <span id="avgProb">0%</span>
+        <p>Average Probability</p>
+      </div>
+
+      <div>
+        <span id="avgOdds">0</span>
+        <p>Average Odds</p>
+      </div>
+
+      <div>
+        <span id="avgScore">0</span>
+        <p>Average Score</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="sectionHead">
+        <div>
+          <p class="eyebrow">Generated Output</p>
+          <h2>Generated Parlays</h2>
+        </div>
+      </div>
+
+      <div id="parlayList" class="parlayList"></div>
+    </section>
+  </main>
+
+  <script src="parlay.js"></script>
+</body>
+</html>
