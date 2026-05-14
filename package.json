@@ -1,0 +1,12 @@
+{
+  "name": "the-slip-lab-website",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo Static site ready"
+  },
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
