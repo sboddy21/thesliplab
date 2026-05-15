@@ -1,4 +1,41 @@
+import fs from "fs";
+import path from "path";
 
+const ROOT = process.cwd();
+const INDEX = path.join(ROOT, "index.html");
+
+let html = fs.readFileSync(INDEX, "utf8");
+
+html = html.replace(/<script src="home-scroll-fix\.js"><\/script>/g, "");
+
+html = html.replace(/href="index\.html#top-plays"/g, 'href="#" data-scroll-section="top-plays"');
+html = html.replace(/href="#top-plays"/g, 'href="#" data-scroll-section="top-plays"');
+
+html = html.replace(/href="index\.html#value-plays"/g, 'href="#" data-scroll-section="value-plays"');
+html = html.replace(/href="#value-plays"/g, 'href="#" data-scroll-section="value-plays"');
+
+html = html.replace(/href="index\.html#stacks"/g, 'href="#" data-scroll-section="stacks"');
+html = html.replace(/href="#stacks"/g, 'href="#" data-scroll-section="stacks"');
+
+html = html.replace(/href="javascript:void\(0\)" data-scroll-target="top-plays"/g, 'href="#" data-scroll-section="top-plays"');
+html = html.replace(/href="javascript:void\(0\)" data-scroll-target="value-plays"/g, 'href="#" data-scroll-section="value-plays"');
+html = html.replace(/href="javascript:void\(0\)" data-scroll-target="stacks"/g, 'href="#" data-scroll-section="stacks"');
+
+html = html.replace(/id="top-plays"/g, "");
+html = html.replace(/id="value-plays"/g, "");
+html = html.replace(/id="stacks"/g, "");
+html = html.replace(/<div class="tsl-real-scroll-anchor"><\/div>\s*/g, "");
+html = html.replace(/<div class="tsl-scroll-target"><\/div>\s*/g, "");
+html = html.replace(/<div class="scroll-anchor"><\/div>\s*/g, "");
+
+if (!html.includes("home-scroll-fix.js")) {
+  html = html.replace(/<\/body>/i, `  <script src="home-scroll-fix.js?v=final-runtime-1"></script>
+</body>`);
+}
+
+fs.writeFileSync(INDEX, html);
+
+const js = `
 (function () {
   var MAP = {
     "top-plays": [
@@ -22,7 +59,7 @@
   };
 
   function cleanText(value) {
-    return String(value || "").replace(/\\s+/g, " ").trim().toLowerCase();
+    return String(value || "").replace(/\\\\s+/g, " ").trim().toLowerCase();
   }
 
   function isBadElement(el) {
@@ -177,3 +214,9 @@
 
   window.tslScrollToSection = scrollToSection;
 })();
+`;
+
+fs.writeFileSync(path.join(ROOT, "home-scroll-fix.js"), js);
+
+console.log("Homepage runtime scroll fixed.");
+console.log("Nav links now use data-scroll-section.");
