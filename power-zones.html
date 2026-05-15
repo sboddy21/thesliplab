@@ -4,14 +4,10 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>The Slip Lab | Power Zones</title>
-  <link rel="stylesheet" href="style.css?v=pz-profile-fix-5" />
-  <link rel="stylesheet" href="power-zones.css?v=pz-profile-fix-5" />
-  <style>
-    .pz-drawer-backdrop{z-index:999998!important}.pz-drawer-panel{z-index:999999!important;width:min(640px,100vw)!important;overflow-y:auto!important;padding:28px!important}.pz-close{position:sticky!important;top:0!important;float:right!important;z-index:1000000!important}.profile-hero{display:grid!important;grid-template-columns:82px minmax(0,1fr) 98px!important;gap:16px!important;align-items:center!important}.profile-panel,.pz-read.profile-panel,.profile-split-panels>div{border:1px solid rgba(255,255,255,.1)!important;border-radius:18px!important;padding:18px!important;background:rgba(0,0,0,.28)!important;margin-top:16px!important}.profile-grid{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:10px!important;margin-top:16px!important}.profile-stat{border:1px solid rgba(255,255,255,.1)!important;border-radius:14px!important;padding:13px!important;background:rgba(255,255,255,.055)!important}.profile-stat span,.profile-stat strong,.profile-mini-row span,.profile-mini-row strong{display:block!important}.profile-stat span,.profile-mini-row span{font-size:11px!important;color:rgba(255,255,255,.55)!important;text-transform:uppercase!important;letter-spacing:.08em!important;font-weight:950!important}.profile-stat strong{margin-top:6px!important;font-size:18px!important}.profile-mini-row{display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:10px!important}.profile-mini-row div{border:1px solid rgba(255,255,255,.1)!important;border-radius:14px!important;padding:13px!important;background:rgba(255,255,255,.055)!important}.profile-split-panels{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:14px!important;margin-top:16px!important}.profile-line{display:flex!important;justify-content:space-between!important;align-items:baseline!important;gap:18px!important;margin:0!important;padding:9px 0!important;border-top:1px solid rgba(255,255,255,.08)!important}.profile-line:first-of-type{border-top:0!important}.profile-line span{display:block!important;color:rgba(255,255,255,.58)!important;font-size:12px!important;font-weight:950!important;text-transform:uppercase!important;letter-spacing:.08em!important;white-space:nowrap!important}.profile-line strong{display:block!important;color:#fff!important;font-size:15px!important;font-weight:950!important;text-align:right!important;word-break:break-word!important}.probability-panel{display:flex!important;justify-content:space-between!important;gap:16px!important}.profile-tag-row{display:flex!important;gap:8px!important;flex-wrap:wrap!important;margin-bottom:16px!important}.profile-tag-row span{border:1px solid rgba(16,255,124,.28)!important;background:rgba(16,255,124,.1)!important;color:#10ff7c!important;border-radius:999px!important;padding:7px 10px!important;font-size:12px!important;font-weight:950!important}@media(max-width:700px){.profile-grid,.profile-split-panels,.profile-mini-row{grid-template-columns:1fr!important}.profile-hero{grid-template-columns:78px 1fr!important}.profile-score-card{grid-column:1/-1!important}}
-  </style>
+  <link rel="stylesheet" href="style.css?v=pz-clean-1" />
+  <link rel="stylesheet" href="power-zones.css?v=pz-clean-1" />
 </head>
 <body>
-
 <header class="tsl-site-header">
   <a class="tsl-brand" href="index.html">
     <div class="tsl-logo">TSL</div>
@@ -20,7 +16,6 @@
       <div class="tsl-brand-subtitle">MLB Home Run Intelligence</div>
     </div>
   </a>
-
   <nav class="tsl-pill-nav">
     <a class="tsl-pill-link" href="index.html">Home</a>
     <a class="tsl-pill-link" href="index.html#top-plays">Top Plays</a>
@@ -32,7 +27,6 @@
     <a class="tsl-pill-link" href="results.html">Results</a>
   </nav>
 </header>
-
 <main class="pz-page">
   <section class="pz-hero">
     <div>
@@ -40,13 +34,11 @@
       <h1>Power Zones</h1>
       <p>Daily HR power profile board built around hitter damage, pitcher vulnerability, park context, weather, and matchup strength.</p>
     </div>
-
     <div class="pz-actions">
       <span id="pzUpdated">Loading data</span>
       <button id="pzRefresh">Refresh</button>
     </div>
   </section>
-
   <section class="pz-controls">
     <input id="pzSearch" placeholder="Search player, team, pitcher, park..." />
     <div class="pz-tabs">
@@ -63,10 +55,8 @@
       <option value="slg">Sort by SLG</option>
     </select>
   </section>
-
   <section id="pzGrid" class="pz-grid"></section>
 </main>
-
 <div id="pzDrawer" class="pz-drawer" aria-hidden="true">
   <div class="pz-drawer-backdrop" id="pzCloseBackdrop"></div>
   <aside class="pz-drawer-panel">
@@ -74,7 +64,31 @@
     <div id="pzDrawerContent"></div>
   </aside>
 </div>
-
-<script src="power-zones.js?v=pz-profile-fix-5"></script>
+<script src="power-zones.js?v=pz-clean-1"></script>
+<script>
+(function(){
+  function num(t){var n=Number(String(t||'').replace(/[^0-9.\-]/g,''));return Number.isFinite(n)?n:0;}
+  function cleanCards(){
+    document.querySelectorAll('.pz-card').forEach(function(card){
+      var txt=card.innerText||'';
+      var stats=[...card.querySelectorAll('.pz-stat-grid strong')].map(function(x){return x.textContent.trim();});
+      var hr=num(stats[0]);
+      var iso=num(stats[1]);
+      var slg=num(stats[2]);
+      var badStats=hr<=0&&iso<=0.05&&slg<=0.25;
+      var badPitcher=/Unknown Pitcher|Pitcher N\/A/i.test(txt);
+      if(badStats||badPitcher){card.remove();}
+    });
+    var grid=document.getElementById('pzGrid');
+    if(grid&&!grid.querySelector('.pz-card')){
+      grid.innerHTML='<div class="pz-empty">No valid Power Zones in this bucket. Empty stat profiles are hidden until real hitter data is available.</div>';
+    }
+  }
+  var obs=new MutationObserver(cleanCards);
+  var grid=document.getElementById('pzGrid');
+  if(grid)obs.observe(grid,{childList:true,subtree:true});
+  setInterval(cleanCards,750);
+})();
+</script>
 </body>
 </html>
