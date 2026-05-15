@@ -69,7 +69,17 @@ function getPark(row) {
 }
 
 function getScore(row) {
-  return num(row.score ?? row.final_score ?? row.hr_score ?? row.model_score ?? row.power_score, 0);
+  return num(
+    row.score ??
+    row.final_score ??
+    row.hr_score ??
+    row.model_score ??
+    row.power_score ??
+    row.consensus_score ??
+    row.rating ??
+    row.rank_score,
+    50
+  );
 }
 
 function getIso(row) {
@@ -112,13 +122,16 @@ function getHr(row) {
 }
 
 function getGrade(row) {
-  const raw = cleanText(row.tier || row.label || row.grade || row.bucket || "").toUpperCase();
+  const raw = cleanText(row.tier || row.label || row.grade || row.bucket || row.tag || row.play_type || "").toUpperCase();
   const score = getScore(row);
+  const oddsNumber = num(row.odds ?? row.best_odds ?? row.hr_odds, 0);
 
-  if (raw.includes("CORE") || score >= 82) return "CORE";
-  if (raw.includes("DANGER") || raw.includes("BAD")) return "DANGER";
-  if (raw.includes("VALUE") || score >= 72) return "VALUE";
-  return "SLEEPER";
+  if (raw.includes("CORE") || raw.includes("ELITE") || raw.includes("SAFEST") || score >= 78) return "CORE";
+  if (raw.includes("DANGER") || raw.includes("BAD") || raw.includes("TRAP") || raw.includes("FADE")) return "DANGER";
+  if (raw.includes("VALUE") || raw.includes("EDGE") || raw.includes("PLUS") || score >= 68 || oddsNumber >= 450) return "VALUE";
+  if (raw.includes("SLEEPER") || raw.includes("LOTTO") || raw.includes("LONG")) return "SLEEPER";
+
+  return "VALUE";
 }
 
 function getZone(row) {
@@ -256,7 +269,26 @@ async function loadMergedRows() {
 
 async function loadData() {
   const rows = await loadMergedRows();
-  allPlayers = rows.map(normalizeRow).filter(player => player.player !== "Unknown Player");
+
+  let normalized = rows
+    .map(normalizeRow)
+    .filter(player => player.player !== "Unknown Player");
+
+  normalized.sort((a, b) => b.score - a.score);
+
+  normalized = normalized.map((player, index) => {
+    if (!player.raw.tier && !player.raw.label && !player.raw.grade && !player.raw.bucket && !player.raw.tag) {
+      if (index < 10) player.grade = "CORE";
+      else if (index < 25) player.grade = "VALUE";
+      else if (index < 45) player.grade = "SLEEPER";
+      else player.grade = "DANGER";
+    }
+
+    return player;
+  });
+
+  allPlayers = normalized;
+
   updatedAt.textContent = "Updated " + new Date().toLocaleTimeString([], { hour: "numeric", minute: "2-digit" });
   render();
 }
@@ -266,11 +298,12 @@ function filteredPlayers() {
 
   let rows = allPlayers.filter(player => {
     const matchesFilter = activeFilter === "ALL" || player.grade === activeFilter;
-    const haystack = [player.player, player.team, player.pitcher, player.game, player.park].join(" ").toLowerCase();
+    const haystack = [player.player, player.team, player.pitcher, player.game, player.park, player.grade].join(" ").toLowerCase();
     return matchesFilter && (!q || haystack.includes(q));
   });
 
   const sortBy = sortSelect.value;
+
   rows.sort((a, b) => {
     if (sortBy === "hr") return b.hr - a.hr;
     if (sortBy === "slg") return b.slg - a.slg;
@@ -327,8 +360,13 @@ function renderCard(player) {
 function render() {
   const rows = filteredPlayers();
 
+  if (!allPlayers.length) {
+    grid.innerHTML = "<div style='color:#ff6b6b;padding:22px'>No player data loaded. Check top_hr_plays.json, value_hr_plays.json, and slate_intelligence.json.</div>";
+    return;
+  }
+
   if (!rows.length) {
-    grid.innerHTML = "<div style='color:#ff6b6b;padding:22px'>No Power Zone players found.</div>";
+    grid.innerHTML = "<div style='color:#ff6b6b;padding:22px'>No players match this filter. Click All or clear the search.</div>";
     return;
   }
 
