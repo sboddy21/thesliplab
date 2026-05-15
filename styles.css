@@ -467,6 +467,13 @@ footer {
 body > header:not(
 
 
+
+
+
+
+
+
+
 html {
   scroll-behavior: smooth;
 }
@@ -474,7 +481,7 @@ html {
 .scroll-anchor {
   display: block;
   position: relative;
-  top: -120px;
+  top: -125px;
   visibility: hidden;
 }
 
@@ -495,11 +502,11 @@ html {
 }
 
 .tsl-brand {
-  display: flex;
+  display: flex !important;
   align-items: center;
   gap: 14px;
-  color: #ffffff;
-  text-decoration: none;
+  color: #ffffff !important;
+  text-decoration: none !important;
   flex-shrink: 0;
 }
 
@@ -512,6 +519,7 @@ html {
   display: grid;
   place-items: center;
   font-weight: 950;
+  font-size: 16px;
 }
 
 .tsl-brand-title {
