@@ -3,7 +3,7 @@
   "original_rows": 84,
   "kept_rows": 84,
   "removed_rows": 0,
-  "backup": "/Users/stevenboddy/Desktop/mlb-sweeper/data/snapshots/player_stats_before_live_slate_filter_2026-05-15.csv",
+  "backup": "/home/runner/work/mlb-sweeper/mlb-sweeper/data/snapshots/player_stats_before_live_slate_filter_2026-05-15.csv",
   "games": [
     {
       "game": "Philadelphia Phillies @ Pittsburgh Pirates",

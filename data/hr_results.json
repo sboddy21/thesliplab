@@ -2145,9 +2145,9 @@
     "date": "2026-05-14",
     "player": "Bobby Witt Jr.",
     "game": "Kansas City Royals @ Chicago White Sox",
-    "hr": "",
-    "home_runs": "",
-    "game_status": "PENDING",
+    "hr": "NO",
+    "home_runs": 0,
+    "game_status": "FINAL",
     "source": "MLB_STATS_API"
   },
   {
@@ -2469,9 +2469,9 @@
     "date": "2026-05-14",
     "player": "Munetaka Murakami",
     "game": "Kansas City Royals @ Chicago White Sox",
-    "hr": "",
-    "home_runs": "",
-    "game_status": "PENDING",
+    "hr": "NO",
+    "home_runs": 0,
+    "game_status": "FINAL",
     "source": "MLB_STATS_API"
   },
   {
@@ -2496,9 +2496,9 @@
     "date": "2026-05-14",
     "player": "Colson Montgomery",
     "game": "Kansas City Royals @ Chicago White Sox",
-    "hr": "",
-    "home_runs": "",
-    "game_status": "PENDING",
+    "hr": "NO",
+    "home_runs": 0,
+    "game_status": "FINAL",
     "source": "MLB_STATS_API"
   },
   {
@@ -2649,9 +2649,9 @@
     "date": "2026-05-14",
     "player": "Salvador Perez",
     "game": "Kansas City Royals @ Chicago White Sox",
-    "hr": "",
-    "home_runs": "",
-    "game_status": "PENDING",
+    "hr": "NO",
+    "home_runs": 0,
+    "game_status": "FINAL",
     "source": "MLB_STATS_API"
   },
   {
@@ -2739,9 +2739,9 @@
     "date": "2026-05-14",
     "player": "Miguel Vargas",
     "game": "Kansas City Royals @ Chicago White Sox",
-    "hr": "",
-    "home_runs": "",
-    "game_status": "PENDING",
+    "hr": "NO",
+    "home_runs": 0,
+    "game_status": "FINAL",
     "source": "MLB_STATS_API"
   },
   {
@@ -2838,9 +2838,9 @@
     "date": "2026-05-14",
     "player": "Andrew Benintendi",
     "game": "Kansas City Royals @ Chicago White Sox",
-    "hr": "",
-    "home_runs": "",
-    "game_status": "PENDING",
+    "hr": "NO",
+    "home_runs": 0,
+    "game_status": "FINAL",
     "source": "MLB_STATS_API"
   },
   {
@@ -2928,9 +2928,9 @@
     "date": "2026-05-14",
     "player": "Vinnie Pasquantino",
     "game": "Kansas City Royals @ Chicago White Sox",
-    "hr": "",
-    "home_runs": "",
-    "game_status": "PENDING",
+    "hr": "NO",
+    "home_runs": 0,
+    "game_status": "FINAL",
     "source": "MLB_STATS_API"
   },
   {
@@ -2955,9 +2955,9 @@
     "date": "2026-05-14",
     "player": "Maikel Garcia",
     "game": "Kansas City Royals @ Chicago White Sox",
-    "hr": "",
-    "home_runs": "",
-    "game_status": "PENDING",
+    "hr": "NO",
+    "home_runs": 0,
+    "game_status": "FINAL",
     "source": "MLB_STATS_API"
   },
   {
@@ -2973,9 +2973,9 @@
     "date": "2026-05-14",
     "player": "Carter Jensen",
     "game": "Kansas City Royals @ Chicago White Sox",
-    "hr": "",
-    "home_runs": "",
-    "game_status": "PENDING",
+    "hr": "NO",
+    "home_runs": 0,
+    "game_status": "FINAL",
     "source": "MLB_STATS_API"
   },
   {
@@ -3009,9 +3009,9 @@
     "date": "2026-05-14",
     "player": "Isaac Collins",
     "game": "Kansas City Royals @ Chicago White Sox",
-    "hr": "",
-    "home_runs": "",
-    "game_status": "PENDING",
+    "hr": "NO",
+    "home_runs": 0,
+    "game_status": "FINAL",
     "source": "MLB_STATS_API"
   },
   {
@@ -3036,9 +3036,9 @@
     "date": "2026-05-14",
     "player": "Lane Thomas",
     "game": "Kansas City Royals @ Chicago White Sox",
-    "hr": "",
-    "home_runs": "",
-    "game_status": "PENDING",
+    "hr": "NO",
+    "home_runs": 0,
+    "game_status": "FINAL",
     "source": "MLB_STATS_API"
   },
   {
@@ -3135,9 +3135,9 @@
     "date": "2026-05-14",
     "player": "Nick Loftin",
     "game": "Kansas City Royals @ Chicago White Sox",
-    "hr": "",
-    "home_runs": "",
-    "game_status": "PENDING",
+    "hr": "NO",
+    "home_runs": 0,
+    "game_status": "FINAL",
     "source": "MLB_STATS_API"
   },
   {
@@ -3405,9 +3405,9 @@
     "date": "2026-05-14",
     "player": "Chase Meidroth",
     "game": "Kansas City Royals @ Chicago White Sox",
-    "hr": "",
-    "home_runs": "",
-    "game_status": "PENDING",
+    "hr": "NO",
+    "home_runs": 0,
+    "game_status": "FINAL",
     "source": "MLB_STATS_API"
   },
   {
@@ -3579,6 +3579,762 @@
     "hr": "NO",
     "home_runs": 0,
     "game_status": "FINAL",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Kazuma Okamoto",
+    "game": "Tampa Bay Rays @ Toronto Blue Jays",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Ian Happ",
+    "game": "Chicago Cubs @ Atlanta Braves",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Corey Seager",
+    "game": "Arizona Diamondbacks @ Texas Rangers",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Bobby Witt Jr.",
+    "game": "Kansas City Royals @ Chicago White Sox",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Moisés Ballesteros",
+    "game": "Chicago Cubs @ Atlanta Braves",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Brandon Nimmo",
+    "game": "Arizona Diamondbacks @ Texas Rangers",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Joc Pederson",
+    "game": "Arizona Diamondbacks @ Texas Rangers",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Dansby Swanson",
+    "game": "Chicago Cubs @ Atlanta Braves",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Carson Kelly",
+    "game": "Chicago Cubs @ Atlanta Braves",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Evan Carter",
+    "game": "Arizona Diamondbacks @ Texas Rangers",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Adrian Del Castillo",
+    "game": "Arizona Diamondbacks @ Texas Rangers",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Gabriel Moreno",
+    "game": "Arizona Diamondbacks @ Texas Rangers",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Ezequiel Duran",
+    "game": "Arizona Diamondbacks @ Texas Rangers",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Nico Hoerner",
+    "game": "Chicago Cubs @ Atlanta Braves",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Alejandro Osuna",
+    "game": "Arizona Diamondbacks @ Texas Rangers",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Tyler Heineman",
+    "game": "Tampa Bay Rays @ Toronto Blue Jays",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Chandler Simpson",
+    "game": "Tampa Bay Rays @ Toronto Blue Jays",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Max Muncy",
+    "game": "San Francisco Giants @ Los Angeles Dodgers",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Munetaka Murakami",
+    "game": "Kansas City Royals @ Chicago White Sox",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Colson Montgomery",
+    "game": "Kansas City Royals @ Chicago White Sox",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Corbin Carroll",
+    "game": "Arizona Diamondbacks @ Texas Rangers",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Ketel Marte",
+    "game": "Arizona Diamondbacks @ Texas Rangers",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Seiya Suzuki",
+    "game": "Chicago Cubs @ Atlanta Braves",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Jake Burger",
+    "game": "Arizona Diamondbacks @ Texas Rangers",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Michael Busch",
+    "game": "Chicago Cubs @ Atlanta Braves",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Will Smith",
+    "game": "San Francisco Giants @ Los Angeles Dodgers",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Matt Olson",
+    "game": "Chicago Cubs @ Atlanta Braves",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Andy Pages",
+    "game": "San Francisco Giants @ Los Angeles Dodgers",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Salvador Perez",
+    "game": "Kansas City Royals @ Chicago White Sox",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Pete Crow-Armstrong",
+    "game": "Chicago Cubs @ Atlanta Braves",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Teoscar Hernández",
+    "game": "San Francisco Giants @ Los Angeles Dodgers",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Freddie Freeman",
+    "game": "San Francisco Giants @ Los Angeles Dodgers",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Josh Jung",
+    "game": "Arizona Diamondbacks @ Texas Rangers",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Miguel Vargas",
+    "game": "Kansas City Royals @ Chicago White Sox",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Austin Riley",
+    "game": "Chicago Cubs @ Atlanta Braves",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Michael Harris II",
+    "game": "Chicago Cubs @ Atlanta Braves",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Vladimir Guerrero Jr.",
+    "game": "Tampa Bay Rays @ Toronto Blue Jays",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Dalton Rushing",
+    "game": "San Francisco Giants @ Los Angeles Dodgers",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Alex Bregman",
+    "game": "Chicago Cubs @ Atlanta Braves",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Mookie Betts",
+    "game": "San Francisco Giants @ Los Angeles Dodgers",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Junior Caminero",
+    "game": "Tampa Bay Rays @ Toronto Blue Jays",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "George Springer",
+    "game": "Tampa Bay Rays @ Toronto Blue Jays",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Daulton Varsho",
+    "game": "Tampa Bay Rays @ Toronto Blue Jays",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Andrew Benintendi",
+    "game": "Kansas City Royals @ Chicago White Sox",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Kyle Tucker",
+    "game": "San Francisco Giants @ Los Angeles Dodgers",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Casey Schmitt",
+    "game": "San Francisco Giants @ Los Angeles Dodgers",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Drake Baldwin",
+    "game": "Chicago Cubs @ Atlanta Braves",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Jesús Sánchez",
+    "game": "Tampa Bay Rays @ Toronto Blue Jays",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Heliot Ramos",
+    "game": "San Francisco Giants @ Los Angeles Dodgers",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Danny Jansen",
+    "game": "Arizona Diamondbacks @ Texas Rangers",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Vinnie Pasquantino",
+    "game": "Kansas City Royals @ Chicago White Sox",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Maikel Garcia",
+    "game": "Kansas City Royals @ Chicago White Sox",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Carter Jensen",
+    "game": "Kansas City Royals @ Chicago White Sox",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Isaac Collins",
+    "game": "Kansas City Royals @ Chicago White Sox",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Lane Thomas",
+    "game": "Kansas City Royals @ Chicago White Sox",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Rafael Devers",
+    "game": "San Francisco Giants @ Los Angeles Dodgers",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Nolan Arenado",
+    "game": "Arizona Diamondbacks @ Texas Rangers",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "James McCann",
+    "game": "Arizona Diamondbacks @ Texas Rangers",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Ozzie Albies",
+    "game": "Chicago Cubs @ Atlanta Braves",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Nick Loftin",
+    "game": "Kansas City Royals @ Chicago White Sox",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Jonathan Aranda",
+    "game": "Tampa Bay Rays @ Toronto Blue Jays",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Lourdes Gurriel Jr.",
+    "game": "Arizona Diamondbacks @ Texas Rangers",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Ha-Seong Kim",
+    "game": "Chicago Cubs @ Atlanta Braves",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Geraldo Perdomo",
+    "game": "Arizona Diamondbacks @ Texas Rangers",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Mike Yastrzemski",
+    "game": "Chicago Cubs @ Atlanta Braves",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Andrés Giménez",
+    "game": "Tampa Bay Rays @ Toronto Blue Jays",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Willy Adames",
+    "game": "San Francisco Giants @ Los Angeles Dodgers",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Ernie Clement",
+    "game": "Tampa Bay Rays @ Toronto Blue Jays",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Yandy Díaz",
+    "game": "Tampa Bay Rays @ Toronto Blue Jays",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Jorge Mateo",
+    "game": "Chicago Cubs @ Atlanta Braves",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Harrison Bader",
+    "game": "San Francisco Giants @ Los Angeles Dodgers",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Matt Chapman",
+    "game": "San Francisco Giants @ Los Angeles Dodgers",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Chase Meidroth",
+    "game": "Kansas City Royals @ Chicago White Sox",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Mauricio Dubón",
+    "game": "Chicago Cubs @ Atlanta Braves",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Jake Fraley",
+    "game": "Tampa Bay Rays @ Toronto Blue Jays",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Nick Fortes",
+    "game": "Tampa Bay Rays @ Toronto Blue Jays",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Jung Hoo Lee",
+    "game": "San Francisco Giants @ Los Angeles Dodgers",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Jesus Rodriguez",
+    "game": "San Francisco Giants @ Los Angeles Dodgers",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Cedric Mullins",
+    "game": "Tampa Bay Rays @ Toronto Blue Jays",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Taylor Walls",
+    "game": "Tampa Bay Rays @ Toronto Blue Jays",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Ben Williamson",
+    "game": "Tampa Bay Rays @ Toronto Blue Jays",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Jonny DeLuca",
+    "game": "Tampa Bay Rays @ Toronto Blue Jays",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Ryan Vilade",
+    "game": "Tampa Bay Rays @ Toronto Blue Jays",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "date": "2026-05-15",
+    "player": "Luis Arraez",
+    "game": "San Francisco Giants @ Los Angeles Dodgers",
+    "hr": "",
+    "home_runs": "",
+    "game_status": "NO_GAME_MATCH",
     "source": "MLB_STATS_API"
   }
 ]

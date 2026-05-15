@@ -1,31 +1,31 @@
 group_by,group,bets,graded,wins,losses,pending,hit_rate,profit_1u,roi,avg_model_probability,avg_ev
 betting_tier,PROBABILITY_PLAY,8,8,4,4,0,50.00%,13.1100,163.88%,15.38%,-16.03%
-betting_tier,PASS,89,66,9,57,23,13.64%,28.3300,42.92%,8.53%,-19.94%
-betting_tier,PASS_OVERPRICED,355,235,21,214,120,8.94%,-100.6600,-42.83%,7.55%,-44.69%
-betting_tier,WATCHLIST,27,19,1,18,8,5.26%,-13.2500,-69.74%,13.41%,-21.33%
+betting_tier,PASS,87,68,9,59,19,13.24%,26.3300,38.72%,8.63%,-19.79%
+betting_tier,PASS_OVERPRICED,358,245,21,224,113,8.57%,-110.6600,-45.17%,7.50%,-44.99%
+betting_tier,WATCHLIST,26,20,1,19,6,5.00%,-14.2500,-71.25%,13.35%,-21.17%
 betting_tier,BETTABLE_VALUE,1,1,0,1,0,0.00%,-1.0000,-100.00%,9.54%,24.05%
 betting_tier,VALUE_LEAN,1,1,0,1,0,0.00%,-1.0000,-100.00%,8.99%,18.70%
 betting_tier,HIGH_PROBABILITY_PLAY,1,1,0,1,0,0.00%,-1.0000,-100.00%,18.39%,-15.05%
 probability_tier,TOP_PROBABILITY,5,5,2,3,0,40.00%,3.6600,73.20%,17.90%,-25.30%
-probability_tier,LEAN_PROBABILITY,105,68,10,58,37,14.71%,-5.5100,-8.10%,9.74%,-34.38%
-probability_tier,PLAYABLE_PROBABILITY,61,43,7,36,18,16.28%,-7.7000,-17.91%,12.02%,-30.51%
-probability_tier,STRONG_PROBABILITY,31,21,3,18,10,14.29%,-4.2200,-20.10%,14.91%,-27.40%
-probability_tier,THIN_PROBABILITY,278,192,13,179,86,6.77%,-59.7000,-31.09%,5.81%,-42.47%
+probability_tier,LEAN_PROBABILITY,101,70,10,60,31,14.29%,-7.5100,-10.73%,9.74%,-34.23%
+probability_tier,PLAYABLE_PROBABILITY,61,46,7,39,15,15.22%,-10.7000,-23.26%,12.01%,-30.61%
+probability_tier,STRONG_PROBABILITY,31,22,3,19,9,13.64%,-5.2200,-23.73%,14.87%,-27.59%
+probability_tier,THIN_PROBABILITY,282,199,13,186,83,6.53%,-66.7000,-33.52%,5.80%,-42.95%
 probability_tier,ELITE_PROBABILITY,2,2,0,2,0,0.00%,-2.0000,-100.00%,20.16%,-31.45%
-value_label,FAIR_OR_THIN,40,37,6,31,3,16.22%,29.3800,79.41%,10.21%,-11.19%
-value_label,TAXED_PRICE,83,55,8,47,28,14.55%,-0.1900,-0.35%,10.16%,-24.84%
-value_label,OVERPRICED,355,235,21,214,120,8.94%,-100.6600,-42.83%,7.55%,-44.69%
+value_label,FAIR_OR_THIN,40,37,6,31,3,16.22%,29.3800,79.41%,10.21%,-11.20%
+value_label,TAXED_PRICE,80,58,8,50,22,13.79%,-3.1900,-5.50%,10.25%,-24.79%
+value_label,OVERPRICED,358,245,21,224,113,8.57%,-110.6600,-45.17%,7.50%,-44.99%
 value_label,PLUS_EV,2,2,0,2,0,0.00%,-2.0000,-100.00%,9.26%,21.38%
 value_label,SMALL_EDGE,2,2,0,2,0,0.00%,-2.0000,-100.00%,5.50%,7.64%
-consensus_decision,PLAYABLE,19,16,4,12,3,25.00%,5.1100,31.94%,15.00%,-23.91%
-consensus_decision,THIN,305,207,24,183,98,11.59%,-26.6600,-12.88%,7.99%,-37.00%
+consensus_decision,PLAYABLE,19,16,4,12,3,25.00%,5.1100,31.94%,14.97%,-24.08%
 consensus_decision,STRONG_PLAY,5,5,1,4,0,20.00%,-0.6700,-13.40%,18.25%,-19.79%
-consensus_decision,LEANS_PLAYABLE,61,42,4,38,19,9.52%,-13.5500,-32.26%,12.43%,-24.29%
-consensus_decision,FADE,92,61,2,59,31,3.28%,-39.7000,-65.08%,4.25%,-54.32%
-calibration_bucket,0 to 5%,94,65,3,62,29,4.62%,-20.7000,-31.85%,,
-calibration_bucket,5 to 8%,148,108,7,101,40,6.48%,-45.0500,-41.71%,,
-calibration_bucket,8 to 11%,141,87,13,74,54,14.94%,0.5400,0.62%,,
-calibration_bucket,11 to 14%,63,45,7,38,18,15.56%,-9.7000,-21.56%,,
-calibration_bucket,14 to 17%,30,20,4,16,10,20.00%,1.1100,5.55%,,
+consensus_decision,THIN,305,218,24,194,87,11.01%,-37.6600,-17.28%,7.95%,-37.30%
+consensus_decision,LEANS_PLAYABLE,61,44,4,40,17,9.09%,-15.5500,-35.34%,12.41%,-24.38%
+consensus_decision,FADE,92,61,2,59,31,3.28%,-39.7000,-65.08%,4.20%,-54.98%
+calibration_bucket,0 to 5%,98,66,3,63,32,4.55%,-21.7000,-32.88%,,
+calibration_bucket,5 to 8%,147,112,7,105,35,6.25%,-49.0500,-43.79%,,
+calibration_bucket,8 to 11%,138,91,13,78,47,14.29%,-3.4600,-3.80%,,
+calibration_bucket,11 to 14%,64,48,7,41,16,14.58%,-12.7000,-26.46%,,
+calibration_bucket,14 to 17%,29,21,4,17,8,19.05%,0.1100,0.52%,,
 calibration_bucket,17 to 20%,5,5,1,4,0,20.00%,-0.6700,-13.40%,,
 calibration_bucket,20% plus,1,1,0,1,0,0.00%,-1.0000,-100.00%,,

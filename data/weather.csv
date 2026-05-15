@@ -1,6 +1,6 @@
 game,home_team,away_team,venue,city,temp,humidity,wind_speed,wind_deg,wind_text,weather_desc,weather_boost,weather_label,roof_flag,roof_status,fetched_at
-Chicago Cubs @ Atlanta Braves,Atlanta Braves,Chicago Cubs,Truist Park,Atlanta,62.4,48,3.4,340,3 MPH Wind NNW,clear sky,0,Neutral,0,OPEN_AIR,2026-05-15T01:58:56.233Z
-Arizona Diamondbacks @ Texas Rangers,Texas Rangers,Arizona Diamondbacks,Globe Life Field,Arlington,83.1,50,17.3,180,Roof Stadium,clear sky,0,Roof controlled,1,ROOF_OR_RETRACTABLE,2026-05-15T01:58:56.367Z
-Tampa Bay Rays @ Toronto Blue Jays,Toronto Blue Jays,Tampa Bay Rays,Rogers Centre,Toronto,51.4,76,12.7,340,Roof Stadium,overcast clouds,0,Roof controlled,1,ROOF_OR_RETRACTABLE,2026-05-15T01:58:56.405Z
-Kansas City Royals @ Chicago White Sox,Chicago White Sox,Kansas City Royals,Guaranteed Rate Field,Chicago,55.8,50,8.1,110,8 MPH Wind ESE,broken clouds,1,Mild boost,0,OPEN_AIR,2026-05-15T01:58:56.443Z
-San Francisco Giants @ Los Angeles Dodgers,Los Angeles Dodgers,San Francisco Giants,Dodger Stadium,Los Angeles,67.5,65,11.5,260,12 MPH Wind W,clear sky,2,Mild boost,0,OPEN_AIR,2026-05-15T01:58:56.482Z
+Chicago Cubs @ Atlanta Braves,Atlanta Braves,Chicago Cubs,Truist Park,Atlanta,59.4,55,1.0,70,1 MPH Wind ENE,clear sky,0,Neutral,0,OPEN_AIR,2026-05-15T03:09:23.665Z
+Arizona Diamondbacks @ Texas Rangers,Texas Rangers,Arizona Diamondbacks,Globe Life Field,Arlington,80.8,57,12.7,170,Roof Stadium,clear sky,0,Roof controlled,1,ROOF_OR_RETRACTABLE,2026-05-15T03:09:23.739Z
+Tampa Bay Rays @ Toronto Blue Jays,Toronto Blue Jays,Tampa Bay Rays,Rogers Centre,Toronto,51.0,79,1.0,0,Roof Stadium,overcast clouds,0,Roof controlled,1,ROOF_OR_RETRACTABLE,2026-05-15T03:09:23.768Z
+Kansas City Royals @ Chicago White Sox,Chicago White Sox,Kansas City Royals,Guaranteed Rate Field,Chicago,54.6,56,6.9,120,7 MPH Wind ESE,broken clouds,-1,Mild suppress,0,OPEN_AIR,2026-05-15T03:09:23.789Z
+San Francisco Giants @ Los Angeles Dodgers,Los Angeles Dodgers,San Francisco Giants,Dodger Stadium,Los Angeles,63.5,73,8.1,190,8 MPH Wind S,clear sky,1,Mild boost,0,OPEN_AIR,2026-05-15T03:09:23.811Z

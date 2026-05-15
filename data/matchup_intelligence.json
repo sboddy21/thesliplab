@@ -159,9 +159,9 @@
     "hh": 63.9,
     "contact": 94.1,
     "pitcherScore": 37,
-    "env": 53.7,
+    "env": 52.9,
     "recent": 50,
-    "intel": 64.9,
+    "intel": 64.8,
     "grade": "NEUTRAL"
   },
   {
@@ -234,7 +234,7 @@
     "hh": 55.7,
     "contact": 87.6,
     "pitcherScore": 40.3,
-    "env": 54.1,
+    "env": 53.7,
     "recent": 50,
     "intel": 63.4,
     "grade": "NEUTRAL"
@@ -294,9 +294,9 @@
     "hh": 51.8,
     "contact": 72.4,
     "pitcherScore": 56.5,
-    "env": 53.1,
+    "env": 52.3,
     "recent": 50,
-    "intel": 62.2,
+    "intel": 62.1,
     "grade": "NEUTRAL"
   },
   {
@@ -766,21 +766,6 @@
   },
   {
     "rank": 52,
-    "name": "Colson Montgomery",
-    "team": "Chicago White Sox",
-    "pitcher": "Seth Lugo",
-    "odds": "350",
-    "brl": 14.3,
-    "hh": 41.8,
-    "contact": 67.2,
-    "pitcherScore": 37,
-    "env": 53.7,
-    "recent": 50,
-    "intel": 57.3,
-    "grade": "NEUTRAL"
-  },
-  {
-    "rank": 53,
     "name": "Salvador Perez",
     "team": "Kansas City Royals",
     "pitcher": "Noah Schultz",
@@ -789,9 +774,24 @@
     "hh": 40.2,
     "contact": 52.7,
     "pitcherScore": 56.5,
-    "env": 53.1,
+    "env": 52.3,
     "recent": 50,
-    "intel": 57.3,
+    "intel": 57.2,
+    "grade": "NEUTRAL"
+  },
+  {
+    "rank": 53,
+    "name": "Colson Montgomery",
+    "team": "Chicago White Sox",
+    "pitcher": "Seth Lugo",
+    "odds": "350",
+    "brl": 14.3,
+    "hh": 41.8,
+    "contact": 67.2,
+    "pitcherScore": 37,
+    "env": 52.9,
+    "recent": 50,
+    "intel": 57.1,
     "grade": "NEUTRAL"
   },
   {
@@ -916,21 +916,6 @@
   },
   {
     "rank": 62,
-    "name": "Will Smith",
-    "team": "Los Angeles Dodgers",
-    "pitcher": "Robbie Ray",
-    "odds": "420",
-    "brl": 13.4,
-    "hh": 38.1,
-    "contact": 62,
-    "pitcherScore": 40.3,
-    "env": 54.1,
-    "recent": 50,
-    "intel": 56,
-    "grade": "NEUTRAL"
-  },
-  {
-    "rank": 63,
     "name": "Zack Gelof",
     "team": "Athletics",
     "pitcher": "Matthew Liberatore",
@@ -945,22 +930,22 @@
     "grade": "NEUTRAL"
   },
   {
-    "rank": 64,
-    "name": "Miguel Vargas",
-    "team": "Chicago White Sox",
-    "pitcher": "Seth Lugo",
-    "odds": "550",
-    "brl": 15.5,
-    "hh": 44,
-    "contact": 72,
-    "pitcherScore": 37,
+    "rank": 63,
+    "name": "Will Smith",
+    "team": "Los Angeles Dodgers",
+    "pitcher": "Robbie Ray",
+    "odds": "420",
+    "brl": 13.4,
+    "hh": 38.1,
+    "contact": 62,
+    "pitcherScore": 40.3,
     "env": 53.7,
     "recent": 50,
     "intel": 55.9,
     "grade": "NEUTRAL"
   },
   {
-    "rank": 65,
+    "rank": 64,
     "name": "Marcelo Mayer",
     "team": "Boston Red Sox",
     "pitcher": "Andrew Painter",
@@ -972,6 +957,21 @@
     "env": 35,
     "recent": 50,
     "intel": 55.8,
+    "grade": "NEUTRAL"
+  },
+  {
+    "rank": 65,
+    "name": "Miguel Vargas",
+    "team": "Chicago White Sox",
+    "pitcher": "Seth Lugo",
+    "odds": "550",
+    "brl": 15.5,
+    "hh": 44,
+    "contact": 72,
+    "pitcherScore": 37,
+    "env": 52.9,
+    "recent": 50,
+    "intel": 55.7,
     "grade": "NEUTRAL"
   },
   {
@@ -1021,21 +1021,6 @@
   },
   {
     "rank": 69,
-    "name": "Freddie Freeman",
-    "team": "Los Angeles Dodgers",
-    "pitcher": "Robbie Ray",
-    "odds": "520",
-    "brl": 11.9,
-    "hh": 47.8,
-    "contact": 66,
-    "pitcherScore": 40.3,
-    "env": 54.1,
-    "recent": 50,
-    "intel": 55.5,
-    "grade": "NEUTRAL"
-  },
-  {
-    "rank": 70,
     "name": "Adrian Del Castillo",
     "team": "Arizona Diamondbacks",
     "pitcher": "Kumar Rocker",
@@ -1047,6 +1032,21 @@
     "env": 51.2,
     "recent": 50,
     "intel": 55.5,
+    "grade": "NEUTRAL"
+  },
+  {
+    "rank": 70,
+    "name": "Freddie Freeman",
+    "team": "Los Angeles Dodgers",
+    "pitcher": "Robbie Ray",
+    "odds": "520",
+    "brl": 11.9,
+    "hh": 47.8,
+    "contact": 66,
+    "pitcherScore": 40.3,
+    "env": 53.7,
+    "recent": 50,
+    "intel": 55.4,
     "grade": "NEUTRAL"
   },
   {
@@ -1074,10 +1074,10 @@
     "hh": 43,
     "contact": 60.9,
     "pitcherScore": 56.5,
-    "env": 53.1,
+    "env": 52.3,
     "recent": 50,
-    "intel": 55.1,
-    "grade": "NEUTRAL"
+    "intel": 54.9,
+    "grade": "THIN"
   },
   {
     "rank": 73,
@@ -1156,21 +1156,6 @@
   },
   {
     "rank": 78,
-    "name": "Andy Pages",
-    "team": "Los Angeles Dodgers",
-    "pitcher": "Robbie Ray",
-    "odds": "490",
-    "brl": 7.4,
-    "hh": 52.5,
-    "contact": 58.5,
-    "pitcherScore": 40.3,
-    "env": 54.1,
-    "recent": 50,
-    "intel": 54.7,
-    "grade": "THIN"
-  },
-  {
-    "rank": 79,
     "name": "Jeff McNeil",
     "team": "Athletics",
     "pitcher": "Matthew Liberatore",
@@ -1185,7 +1170,7 @@
     "grade": "THIN"
   },
   {
-    "rank": 80,
+    "rank": 79,
     "name": "Bryce Harper",
     "team": "Philadelphia Phillies",
     "pitcher": "Sonny Gray",
@@ -1195,6 +1180,21 @@
     "contact": 67.1,
     "pitcherScore": 44.8,
     "env": 35,
+    "recent": 50,
+    "intel": 54.6,
+    "grade": "THIN"
+  },
+  {
+    "rank": 80,
+    "name": "Andy Pages",
+    "team": "Los Angeles Dodgers",
+    "pitcher": "Robbie Ray",
+    "odds": "490",
+    "brl": 7.4,
+    "hh": 52.5,
+    "contact": 58.5,
+    "pitcherScore": 40.3,
+    "env": 53.7,
     "recent": 50,
     "intel": 54.6,
     "grade": "THIN"
@@ -1239,43 +1239,13 @@
     "hh": 44.4,
     "contact": 61.3,
     "pitcherScore": 40.3,
-    "env": 54.1,
+    "env": 53.7,
     "recent": 50,
-    "intel": 54.3,
+    "intel": 54.2,
     "grade": "THIN"
   },
   {
     "rank": 84,
-    "name": "Teoscar Hernández",
-    "team": "Los Angeles Dodgers",
-    "pitcher": "Robbie Ray",
-    "odds": "440",
-    "brl": 9,
-    "hh": 43.3,
-    "contact": 55.1,
-    "pitcherScore": 40.3,
-    "env": 54.1,
-    "recent": 50,
-    "intel": 54.2,
-    "grade": "THIN"
-  },
-  {
-    "rank": 85,
-    "name": "Vinnie Pasquantino",
-    "team": "Kansas City Royals",
-    "pitcher": "Noah Schultz",
-    "odds": "680",
-    "brl": 10,
-    "hh": 40,
-    "contact": 55,
-    "pitcherScore": 56.5,
-    "env": 53.1,
-    "recent": 50,
-    "intel": 54.2,
-    "grade": "THIN"
-  },
-  {
-    "rank": 86,
     "name": "Riley Greene",
     "team": "Detroit Tigers",
     "pitcher": "Christian Scott",
@@ -1285,6 +1255,36 @@
     "contact": 73.2,
     "pitcherScore": 34.6,
     "env": 35,
+    "recent": 50,
+    "intel": 54.1,
+    "grade": "THIN"
+  },
+  {
+    "rank": 85,
+    "name": "Teoscar Hernández",
+    "team": "Los Angeles Dodgers",
+    "pitcher": "Robbie Ray",
+    "odds": "440",
+    "brl": 9,
+    "hh": 43.3,
+    "contact": 55.1,
+    "pitcherScore": 40.3,
+    "env": 53.7,
+    "recent": 50,
+    "intel": 54.1,
+    "grade": "THIN"
+  },
+  {
+    "rank": 86,
+    "name": "Vinnie Pasquantino",
+    "team": "Kansas City Royals",
+    "pitcher": "Noah Schultz",
+    "odds": "680",
+    "brl": 10,
+    "hh": 40,
+    "contact": 55,
+    "pitcherScore": 56.5,
+    "env": 52.3,
     "recent": 50,
     "intel": 54.1,
     "grade": "THIN"
@@ -1321,21 +1321,6 @@
   },
   {
     "rank": 89,
-    "name": "Andrew Benintendi",
-    "team": "Chicago White Sox",
-    "pitcher": "Seth Lugo",
-    "odds": "650",
-    "brl": 10.3,
-    "hh": 53.2,
-    "contact": 66.3,
-    "pitcherScore": 37,
-    "env": 53.7,
-    "recent": 50,
-    "intel": 53.6,
-    "grade": "THIN"
-  },
-  {
-    "rank": 90,
     "name": "Joe Mack",
     "team": "Miami Marlins",
     "pitcher": "Simeon Woods Richardson",
@@ -1350,7 +1335,7 @@
     "grade": "THIN"
   },
   {
-    "rank": 91,
+    "rank": 90,
     "name": "Ezequiel Duran",
     "team": "Texas Rangers",
     "pitcher": "Ryne Nelson",
@@ -1365,7 +1350,7 @@
     "grade": "THIN"
   },
   {
-    "rank": 92,
+    "rank": 91,
     "name": "Dillon Dingler",
     "team": "Detroit Tigers",
     "pitcher": "Christian Scott",
@@ -1375,6 +1360,21 @@
     "contact": 76.8,
     "pitcherScore": 34.6,
     "env": 35,
+    "recent": 50,
+    "intel": 53.4,
+    "grade": "THIN"
+  },
+  {
+    "rank": 92,
+    "name": "Andrew Benintendi",
+    "team": "Chicago White Sox",
+    "pitcher": "Seth Lugo",
+    "odds": "650",
+    "brl": 10.3,
+    "hh": 53.2,
+    "contact": 66.3,
+    "pitcherScore": 37,
+    "env": 52.9,
     "recent": 50,
     "intel": 53.4,
     "grade": "THIN"
@@ -1419,9 +1419,9 @@
     "hh": 41.3,
     "contact": 54.3,
     "pitcherScore": 56.5,
-    "env": 53.1,
+    "env": 52.3,
     "recent": 50,
-    "intel": 53.1,
+    "intel": 53,
     "grade": "THIN"
   },
   {
@@ -1456,21 +1456,6 @@
   },
   {
     "rank": 98,
-    "name": "Maikel Garcia",
-    "team": "Kansas City Royals",
-    "pitcher": "Noah Schultz",
-    "odds": "725",
-    "brl": 6.1,
-    "hh": 43.9,
-    "contact": 48.4,
-    "pitcherScore": 56.5,
-    "env": 53.1,
-    "recent": 50,
-    "intel": 52.2,
-    "grade": "THIN"
-  },
-  {
-    "rank": 99,
     "name": "J.P. Crawford",
     "team": "Seattle Mariners",
     "pitcher": "Lance McCullers Jr.",
@@ -1485,7 +1470,7 @@
     "grade": "THIN"
   },
   {
-    "rank": 100,
+    "rank": 99,
     "name": "Brendan Donovan",
     "team": "Seattle Mariners",
     "pitcher": "Lance McCullers Jr.",
@@ -1495,6 +1480,21 @@
     "contact": 31.2,
     "pitcherScore": 80.6,
     "env": 35,
+    "recent": 50,
+    "intel": 52.1,
+    "grade": "THIN"
+  },
+  {
+    "rank": 100,
+    "name": "Maikel Garcia",
+    "team": "Kansas City Royals",
+    "pitcher": "Noah Schultz",
+    "odds": "725",
+    "brl": 6.1,
+    "hh": 43.9,
+    "contact": 48.4,
+    "pitcherScore": 56.5,
+    "env": 52.3,
     "recent": 50,
     "intel": 52.1,
     "grade": "THIN"
@@ -1576,21 +1576,6 @@
   },
   {
     "rank": 106,
-    "name": "Mookie Betts",
-    "team": "Los Angeles Dodgers",
-    "pitcher": "Robbie Ray",
-    "odds": "390",
-    "brl": 6.3,
-    "hh": 34.4,
-    "contact": 41.3,
-    "pitcherScore": 40.3,
-    "env": 54.1,
-    "recent": 50,
-    "intel": 51.4,
-    "grade": "THIN"
-  },
-  {
-    "rank": 107,
     "name": "Byron Buxton",
     "team": "Minnesota Twins",
     "pitcher": "Max Meyer",
@@ -1600,6 +1585,21 @@
     "contact": 80.4,
     "pitcherScore": 11.9,
     "env": 35,
+    "recent": 50,
+    "intel": 51.3,
+    "grade": "THIN"
+  },
+  {
+    "rank": 107,
+    "name": "Mookie Betts",
+    "team": "Los Angeles Dodgers",
+    "pitcher": "Robbie Ray",
+    "odds": "390",
+    "brl": 6.3,
+    "hh": 34.4,
+    "contact": 41.3,
+    "pitcherScore": 40.3,
+    "env": 53.7,
     "recent": 50,
     "intel": 51.3,
     "grade": "THIN"
@@ -1674,9 +1674,9 @@
     "hh": 41.9,
     "contact": 48.5,
     "pitcherScore": 40.3,
-    "env": 54.1,
+    "env": 53.7,
     "recent": 50,
-    "intel": 50.8,
+    "intel": 50.7,
     "grade": "THIN"
   },
   {
@@ -1809,9 +1809,9 @@
     "hh": 37.5,
     "contact": 38,
     "pitcherScore": 56.5,
-    "env": 53.1,
+    "env": 52.3,
     "recent": 50,
-    "intel": 49.8,
+    "intel": 49.7,
     "grade": "THIN"
   },
   {
@@ -1921,21 +1921,6 @@
   },
   {
     "rank": 129,
-    "name": "Nick Loftin",
-    "team": "Kansas City Royals",
-    "pitcher": "Noah Schultz",
-    "odds": "940",
-    "brl": 5.1,
-    "hh": 38.5,
-    "contact": 41.6,
-    "pitcherScore": 56.5,
-    "env": 53.1,
-    "recent": 50,
-    "intel": 48.5,
-    "grade": "THIN"
-  },
-  {
-    "rank": 130,
     "name": "Marcus Semien",
     "team": "New York Mets",
     "pitcher": "Framber Valdez",
@@ -1950,7 +1935,7 @@
     "grade": "THIN"
   },
   {
-    "rank": 131,
+    "rank": 130,
     "name": "Geraldo Perdomo",
     "team": "Arizona Diamondbacks",
     "pitcher": "Kumar Rocker",
@@ -1962,6 +1947,21 @@
     "env": 51.2,
     "recent": 50,
     "intel": 48.4,
+    "grade": "THIN"
+  },
+  {
+    "rank": 131,
+    "name": "Nick Loftin",
+    "team": "Kansas City Royals",
+    "pitcher": "Noah Schultz",
+    "odds": "940",
+    "brl": 5.1,
+    "hh": 38.5,
+    "contact": 41.6,
+    "pitcherScore": 56.5,
+    "env": 52.3,
+    "recent": 50,
+    "intel": 48.3,
     "grade": "THIN"
   },
   {
@@ -2041,21 +2041,6 @@
   },
   {
     "rank": 137,
-    "name": "Casey Schmitt",
-    "team": "San Francisco Giants",
-    "pitcher": "Shohei Ohtani",
-    "odds": "550",
-    "brl": 14.7,
-    "hh": 47.6,
-    "contact": 72.8,
-    "pitcherScore": 3.6,
-    "env": 51.8,
-    "recent": 50,
-    "intel": 47.8,
-    "grade": "THIN"
-  },
-  {
-    "rank": 138,
     "name": "Fernando Tatis Jr.",
     "team": "San Diego Padres",
     "pitcher": "Jacob Misiorowski",
@@ -2067,6 +2052,21 @@
     "env": 35,
     "recent": 50,
     "intel": 47.8,
+    "grade": "THIN"
+  },
+  {
+    "rank": 138,
+    "name": "Casey Schmitt",
+    "team": "San Francisco Giants",
+    "pitcher": "Shohei Ohtani",
+    "odds": "550",
+    "brl": 14.7,
+    "hh": 47.6,
+    "contact": 72.8,
+    "pitcherScore": 3.6,
+    "env": 51.4,
+    "recent": 50,
+    "intel": 47.7,
     "grade": "THIN"
   },
   {
@@ -2101,21 +2101,6 @@
   },
   {
     "rank": 141,
-    "name": "Heliot Ramos",
-    "team": "San Francisco Giants",
-    "pitcher": "Shohei Ohtani",
-    "odds": "575",
-    "brl": 13.1,
-    "hh": 50,
-    "contact": 70.8,
-    "pitcherScore": 3.6,
-    "env": 51.8,
-    "recent": 50,
-    "intel": 47,
-    "grade": "THIN"
-  },
-  {
-    "rank": 142,
     "name": "Mickey Moniak",
     "team": "Colorado Rockies",
     "pitcher": "Mitch Keller",
@@ -2125,6 +2110,21 @@
     "contact": 62.6,
     "pitcherScore": 15.8,
     "env": 35,
+    "recent": 50,
+    "intel": 46.9,
+    "grade": "THIN"
+  },
+  {
+    "rank": 142,
+    "name": "Heliot Ramos",
+    "team": "San Francisco Giants",
+    "pitcher": "Shohei Ohtani",
+    "odds": "575",
+    "brl": 13.1,
+    "hh": 50,
+    "contact": 70.8,
+    "pitcherScore": 3.6,
+    "env": 51.4,
     "recent": 50,
     "intel": 46.9,
     "grade": "THIN"
@@ -2529,7 +2529,7 @@
     "hh": 45.4,
     "contact": 55.3,
     "pitcherScore": 3.6,
-    "env": 51.8,
+    "env": 51.4,
     "recent": 50,
     "intel": 43.4,
     "grade": "AVOID"
@@ -2596,21 +2596,6 @@
   },
   {
     "rank": 174,
-    "name": "Chase Meidroth",
-    "team": "Chicago White Sox",
-    "pitcher": "Seth Lugo",
-    "odds": "1200",
-    "brl": 4.7,
-    "hh": 37,
-    "contact": 39.4,
-    "pitcherScore": 37,
-    "env": 53.7,
-    "recent": 50,
-    "intel": 42.6,
-    "grade": "AVOID"
-  },
-  {
-    "rank": 175,
     "name": "TJ Friedl",
     "team": "Cincinnati Reds",
     "pitcher": "Jake Irvin",
@@ -2622,6 +2607,21 @@
     "env": 35,
     "recent": 50,
     "intel": 42.5,
+    "grade": "AVOID"
+  },
+  {
+    "rank": 175,
+    "name": "Chase Meidroth",
+    "team": "Chicago White Sox",
+    "pitcher": "Seth Lugo",
+    "odds": "1200",
+    "brl": 4.7,
+    "hh": 37,
+    "contact": 39.4,
+    "pitcherScore": 37,
+    "env": 52.9,
+    "recent": 50,
+    "intel": 42.4,
     "grade": "AVOID"
   },
   {
@@ -2784,7 +2784,7 @@
     "hh": 40.5,
     "contact": 51.9,
     "pitcherScore": 3.6,
-    "env": 51.8,
+    "env": 51.4,
     "recent": 50,
     "intel": 40.2,
     "grade": "AVOID"
@@ -2904,9 +2904,9 @@
     "hh": 43.9,
     "contact": 51.4,
     "pitcherScore": 3.6,
-    "env": 51.8,
+    "env": 51.4,
     "recent": 50,
-    "intel": 38.3,
+    "intel": 38.2,
     "grade": "AVOID"
   },
   {
@@ -3084,9 +3084,9 @@
     "hh": 38.9,
     "contact": 49.1,
     "pitcherScore": 3.6,
-    "env": 51.8,
+    "env": 51.4,
     "recent": 50,
-    "intel": 36.7,
+    "intel": 36.6,
     "grade": "AVOID"
   },
   {
@@ -3159,7 +3159,7 @@
     "hh": 30.7,
     "contact": 36.1,
     "pitcherScore": 3.6,
-    "env": 51.8,
+    "env": 51.4,
     "recent": 50,
     "intel": 35.7,
     "grade": "AVOID"
@@ -3271,21 +3271,6 @@
   },
   {
     "rank": 219,
-    "name": "Luis Arraez",
-    "team": "San Francisco Giants",
-    "pitcher": "Shohei Ohtani",
-    "odds": "1500",
-    "brl": 0,
-    "hh": 19,
-    "contact": 40,
-    "pitcherScore": 3.6,
-    "env": 51.8,
-    "recent": 50,
-    "intel": 33.8,
-    "grade": "AVOID"
-  },
-  {
-    "rank": 220,
     "name": "David Hamilton",
     "team": "Milwaukee Brewers",
     "pitcher": "Michael King",
@@ -3300,7 +3285,7 @@
     "grade": "AVOID"
   },
   {
-    "rank": 221,
+    "rank": 220,
     "name": "Sal Frelick",
     "team": "Milwaukee Brewers",
     "pitcher": "Michael King",
@@ -3312,6 +3297,21 @@
     "env": 35,
     "recent": 50,
     "intel": 33.8,
+    "grade": "AVOID"
+  },
+  {
+    "rank": 221,
+    "name": "Luis Arraez",
+    "team": "San Francisco Giants",
+    "pitcher": "Shohei Ohtani",
+    "odds": "1500",
+    "brl": 0,
+    "hh": 19,
+    "contact": 40,
+    "pitcherScore": 3.6,
+    "env": 51.4,
+    "recent": 50,
+    "intel": 33.7,
     "grade": "AVOID"
   },
   {
@@ -3354,9 +3354,9 @@
     "hh": 31.9,
     "contact": 33.5,
     "pitcherScore": 3.6,
-    "env": 51.8,
+    "env": 51.4,
     "recent": 50,
-    "intel": 33,
+    "intel": 32.9,
     "grade": "AVOID"
   },
   {
