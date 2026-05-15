@@ -1,0 +1,50 @@
+name: Update The Slip Lab Data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/15 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-slip-lab:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+
+    env:
+      ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+      SGO_API_KEY: ${{ secrets.SGO_API_KEY }}
+      OPENWEATHER_API_KEY: ${{ secrets.OPENWEATHER_API_KEY }}
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install script dependencies
+        run: |
+          cd scripts
+          npm ci
+
+      - name: Run The Slip Lab pipeline
+        run: |
+          node scripts/run_all.js
+
+      - name: Stamp website update time
+        run: |
+          mkdir -p website/data
+          node -e "const fs=require('fs');fs.writeFileSync('website/data/site_last_updated.json', JSON.stringify({ updated_at:new Date().toISOString(), source:'github_actions', repo:'mlb-sweeper' }, null, 2));"
+
+      - name: Commit updated data
+        run: |
+          git config user.name "The Slip Lab Bot"
+          git config user.email "actions@github.com"
+          git add data exports website/data hits_board.csv tb_board.csv
+          git diff --cached --quiet || git commit -m "Auto update Slip Lab data"
+          git push
