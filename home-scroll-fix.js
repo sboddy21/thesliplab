@@ -1,20 +1,14 @@
-
 (function () {
-  function scrollToId(id) {
+  function scrollToTarget(id) {
     var el = document.getElementById(id);
-    if (!el) return false;
+    if (!el) return;
 
     var header = document.querySelector(".tsl-site-header");
     var offset = header ? header.offsetHeight + 24 : 120;
-    var top = el.getBoundingClientRect().top + window.pageYOffset - offset;
+    var top = el.getBoundingClientRect().top + window.scrollY - offset;
 
-    window.scrollTo({
-      top: top,
-      behavior: "smooth"
-    });
-
+    window.scrollTo({ top: top, behavior: "smooth" });
     history.replaceState(null, "", "#" + id);
-    return true;
   }
 
   document.addEventListener("click", function (e) {
@@ -22,41 +16,24 @@
     if (!link) return;
 
     var href = link.getAttribute("href") || "";
+    var id = "";
 
-    if (
-      href === "#value-plays" ||
-      href === "index.html#value-plays" ||
-      href.endsWith("/#value-plays")
-    ) {
-      e.preventDefault();
-      scrollToId("value-plays");
-    }
+    if (href.includes("#top-plays")) id = "top-plays";
+    if (href.includes("#value-plays")) id = "value-plays";
+    if (href.includes("#stacks")) id = "stacks";
 
-    if (
-      href === "#stacks" ||
-      href === "index.html#stacks" ||
-      href.endsWith("/#stacks")
-    ) {
-      e.preventDefault();
-      scrollToId("stacks");
-    }
+    if (!id) return;
 
-    if (
-      href === "#top-plays" ||
-      href === "index.html#top-plays" ||
-      href.endsWith("/#top-plays")
-    ) {
-      e.preventDefault();
-      scrollToId("top-plays");
-    }
+    e.preventDefault();
+    scrollToTarget(id);
   });
 
   window.addEventListener("load", function () {
-    var id = (window.location.hash || "").replace("#", "");
-    if (id === "value-plays" || id === "stacks" || id === "top-plays") {
+    var id = location.hash.replace("#", "");
+    if (["top-plays", "value-plays", "stacks"].includes(id)) {
       setTimeout(function () {
-        scrollToId(id);
-      }, 250);
+        scrollToTarget(id);
+      }, 300);
     }
   });
 })();
