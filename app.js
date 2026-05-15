@@ -1,5 +1,13 @@
 async function getJSON(path) {
-  const response = await fetch(path);
+  const separator = path.includes("?") ? "&" : "?";
+  const freshPath = `${path}${separator}v=${Date.now()}`;
+
+  const response = await fetch(freshPath, {
+    cache: "no-store",
+    headers: {
+      "Cache-Control": "no-cache"
+    }
+  });
 
   if (!response.ok) {
     return [];
