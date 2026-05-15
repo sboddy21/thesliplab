@@ -1,10 +1,11 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>The Slip Lab Power Zones</title>
-<link rel="stylesheet" href="./power-zones.css">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>The Slip Lab | Power Zones</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="power-zones.css" />
 </head>
 <body>
 
@@ -29,69 +30,49 @@
   </nav>
 </header>
 
-<main class="page">
-  <section class="hero">
+
+<main class="pz-page">
+  <section class="pz-hero">
     <div>
-      <div class="kicker">THE SLIP LAB</div>
+      <p class="eyebrow">The Slip Lab</p>
       <h1>Power Zones</h1>
       <p>Daily HR power profile board built around hitter damage, pitcher vulnerability, park context, weather, and matchup strength.</p>
     </div>
 
-    <div class="hero-actions">
-      <div id="updatedAt" class="updated">Loading data</div>
-      <button id="refreshBtn">Refresh</button>
+    <div class="pz-actions">
+      <span id="pzUpdated">Loading data</span>
+      <button id="pzRefresh">Refresh</button>
     </div>
   </section>
 
-  <section class="controls">
-    <input id="searchInput" type="search" placeholder="Search player, team, pitcher, park..." />
-
-    <div class="chips">
-      <button class="chip active" data-filter="ALL">All</button>
-      <button class="chip" data-filter="CORE">Core</button>
-      <button class="chip" data-filter="DANGER">Danger</button>
-      <button class="chip" data-filter="VALUE">Value</button>
-      <button class="chip" data-filter="SLEEPER">Sleeper</button>
+  <section class="pz-controls">
+    <input id="pzSearch" placeholder="Search player, team, pitcher, park..." />
+    <div class="pz-tabs">
+      <button class="pz-filter active" data-filter="ALL">All</button>
+      <button class="pz-filter" data-filter="CORE">Core</button>
+      <button class="pz-filter" data-filter="DANGER">Danger</button>
+      <button class="pz-filter" data-filter="VALUE">Value</button>
+      <button class="pz-filter" data-filter="SLEEPER">Sleeper</button>
     </div>
-
-    <select id="sortSelect">
+    <select id="pzSort">
       <option value="score">Sort by Slip Score</option>
       <option value="hr">Sort by HR</option>
-      <option value="slg">Sort by SLG</option>
       <option value="iso">Sort by ISO</option>
-      <option value="odds">Sort by Odds</option>
+      <option value="slg">Sort by SLG</option>
     </select>
   </section>
 
-  <section id="cardsGrid" class="cards-grid"></section>
+  <section id="pzGrid" class="pz-grid"></section>
 </main>
 
-<div id="modalBackdrop" class="modal-backdrop">
-  <aside class="player-modal">
-    <button id="closeModal" class="close-btn">×</button>
-
-    <section class="modal-top">
-      <div class="avatar" id="modalInitials">TSL</div>
-      <div>
-        <h2 id="modalName">Player</h2>
-        <p id="modalSub">Team • Matchup</p>
-      </div>
-      <div id="modalBadge" class="modal-score">0</div>
-    </section>
-
-    <section class="modal-metrics" id="modalMetrics"></section>
-
-    <nav class="modal-tabs">
-      <button class="tab active" data-tab="overview">Overview</button>
-      <button class="tab" data-tab="matchup">Matchup</button>
-      <button class="tab" data-tab="power">Power</button>
-      <button class="tab" data-tab="weather">Weather</button>
-    </nav>
-
-    <section id="tabContent" class="tab-content"></section>
+<div id="pzDrawer" class="pz-drawer" aria-hidden="true">
+  <div class="pz-drawer-backdrop" id="pzCloseBackdrop"></div>
+  <aside class="pz-drawer-panel">
+    <button id="pzClose" class="pz-close">×</button>
+    <div id="pzDrawerContent"></div>
   </aside>
 </div>
 
-<script src="./power-zones.js"></script>
+<script src="power-zones.js?v=hard-reset-1"></script>
 </body>
 </html>
