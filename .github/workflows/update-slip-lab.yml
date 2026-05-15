@@ -3,7 +3,7 @@ name: Update The Slip Lab Data
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "*/30 * * * *"
 
 permissions:
   contents: write
@@ -11,12 +11,13 @@ permissions:
 jobs:
   update-slip-lab:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 30
 
     env:
       ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
       SGO_API_KEY: ${{ secrets.SGO_API_KEY }}
       OPENWEATHER_API_KEY: ${{ secrets.OPENWEATHER_API_KEY }}
+      CI: true
 
     steps:
       - name: Checkout repo
@@ -30,18 +31,24 @@ jobs:
       - name: Install script dependencies
         run: |
           cd scripts
-          npm ci
+          if [ -f package-lock.json ]; then
+            npm ci
+          else
+            npm install
+          fi
 
       - name: Run The Slip Lab pipeline
         run: |
           node scripts/run_all.js
 
       - name: Stamp website update time
+        if: always()
         run: |
           mkdir -p website/data
           node -e "const fs=require('fs');fs.writeFileSync('website/data/site_last_updated.json', JSON.stringify({ updated_at:new Date().toISOString(), source:'github_actions', repo:'mlb-sweeper' }, null, 2));"
 
       - name: Commit updated data
+        if: always()
         run: |
           git config user.name "The Slip Lab Bot"
           git config user.email "actions@github.com"
