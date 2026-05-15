@@ -367,56 +367,93 @@ footer {
 }
 
 
-.tsl-top-nav {
+
+
+
+.site-header {
   width: 100%;
-  padding: 18px 24px;
+  height: 92px;
+  padding: 0 32px;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background: rgba(5, 8, 18, 0.92);
-  border-bottom: 1px solid rgba(255,255,255,0.1);
+  background: rgba(5, 7, 13, 0.96);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.09);
   position: sticky;
   top: 0;
-  z-index: 50;
-  backdrop-filter: blur(14px);
+  z-index: 100;
+  backdrop-filter: blur(16px);
 }
 
-.tsl-nav-brand {
-  color: #ffffff;
-  font-weight: 900;
-  letter-spacing: 0.04em;
-  text-decoration: none;
-}
-
-.tsl-nav-links {
+.brand {
   display: flex;
-  gap: 12px;
   align-items: center;
+  gap: 14px;
 }
 
-.tsl-nav-links a {
+.logo {
+  width: 48px;
+  height: 48px;
+  border-radius: 14px;
+  background: #10ff7c;
+  color: #06100b;
+  display: grid;
+  place-items: center;
+  font-weight: 950;
+  box-shadow: 0 0 28px rgba(16, 255, 124, 0.22);
+}
+
+.brand-title {
   color: #ffffff;
+  font-size: 22px;
+  line-height: 1;
+  font-weight: 950;
+}
+
+.brand-subtitle {
+  margin-top: 6px;
+  color: #10ff7c;
+  font-size: 12px;
+  line-height: 1;
+  font-weight: 900;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+}
+
+.main-nav {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 26px;
+}
+
+.main-nav a {
+  color: rgba(255, 255, 255, 0.68);
   text-decoration: none;
-  font-weight: 800;
-  padding: 10px 14px;
-  border-radius: 999px;
-  background: rgba(255,255,255,0.08);
-  border: 1px solid rgba(255,255,255,0.12);
+  font-size: 13px;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  transition: color 0.15s ease, transform 0.15s ease;
 }
 
-.tsl-nav-links a:hover {
-  background: rgba(25, 255, 130, 0.16);
-  border-color: rgba(25, 255, 130, 0.45);
+.main-nav a:hover,
+.main-nav a.active {
+  color: #10ff7c;
+  transform: translateY(-1px);
 }
 
-@media (max-width: 700px) {
-  .tsl-top-nav {
+@media (max-width: 900px) {
+  .site-header {
+    height: auto;
+    padding: 18px;
     flex-direction: column;
-    gap: 12px;
+    gap: 18px;
   }
 
-  .tsl-nav-links {
+  .main-nav {
     flex-wrap: wrap;
     justify-content: center;
+    gap: 14px;
   }
 }
