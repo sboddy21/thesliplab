@@ -448,7 +448,92 @@
     }
 
 </style>
-  <link rel="stylesheet" href="./public/css/park_dimensions.css">\n</head>
+  <link rel="stylesheet" href="./public/css/park_dimensions.css">\n
+<style>
+.slip-park-mini {
+  width: 190px;
+  min-width: 190px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.slip-park-svg {
+  width: 185px;
+  height: 135px;
+  display: block;
+  filter: drop-shadow(0 0 18px rgba(0,255,140,.18));
+}
+
+.slip-park-outfield {
+  fill: url(#slipGrass);
+  stroke: rgba(0,255,140,.9);
+  stroke-width: 3;
+}
+
+.slip-park-infield {
+  fill: rgba(194,130,61,.48);
+  stroke: rgba(255,255,255,.34);
+  stroke-width: 1.6;
+}
+
+.slip-park-line {
+  stroke: rgba(255,255,255,.22);
+  stroke-width: 1.2;
+  stroke-dasharray: 4 5;
+}
+
+.slip-park-base {
+  fill: #fff;
+}
+
+.slip-park-text {
+  fill: #fff;
+  font-size: 12px;
+  font-weight: 900;
+  letter-spacing: .02em;
+  paint-order: stroke;
+  stroke: #020403;
+  stroke-width: 4px;
+}
+
+.slip-park-caption {
+  color: #b77cff;
+  font-size: 11px;
+  font-weight: 800;
+  line-height: 1.1;
+  margin-top: 1px;
+}
+
+.slip-park-wind {
+  color: rgba(255,255,255,.70);
+  font-size: 10px;
+  line-height: 1.15;
+  margin-top: 3px;
+  max-width: 170px;
+}
+
+.weather-card .slip-park-mini,
+.weather-row .slip-park-mini {
+  margin-left: auto;
+}
+
+@media (max-width: 900px) {
+  .slip-park-mini {
+    width: 100%;
+    min-width: 100%;
+  }
+
+  .slip-park-svg {
+    width: 100%;
+    max-width: 240px;
+    height: auto;
+  }
+}
+</style>
+
+</head>
 
 <body>
   <header class="tsl-nav">

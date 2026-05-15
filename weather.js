@@ -1,4 +1,88 @@
 
+function getParkDimensionsByVenue(venue = "") {
+  const key = String(venue).toLowerCase();
+
+  const parks = {
+    "target field": { lf: 339, lcf: 377, cf: 411, rcf: 367, rf: 328 },
+    "daikin park": { lf: 315, lcf: 362, cf: 409, rcf: 373, rf: 326 },
+    "sutter health park": { lf: 330, lcf: 388, cf: 403, rcf: 388, rf: 325 },
+    "truist park": { lf: 335, lcf: 385, cf: 400, rcf: 375, rf: 325 },
+    "globe life field": { lf: 329, lcf: 372, cf: 407, rcf: 374, rf: 326 },
+    "rogers centre": { lf: 328, lcf: 375, cf: 400, rcf: 375, rf: 328 },
+    "progressive field": { lf: 325, lcf: 370, cf: 405, rcf: 375, rf: 325 },
+    "wrigley field": { lf: 355, lcf: 368, cf: 400, rcf: 368, rf: 353 },
+    "fenway park": { lf: 310, lcf: 379, cf: 390, rcf: 380, rf: 302 },
+    "yankee stadium": { lf: 318, lcf: 399, cf: 408, rcf: 385, rf: 314 },
+    "dodger stadium": { lf: 330, lcf: 375, cf: 395, rcf: 375, rf: 330 },
+    "oracle park": { lf: 339, lcf: 399, cf: 391, rcf: 421, rf: 309 },
+    "coors field": { lf: 347, lcf: 390, cf: 415, rcf: 375, rf: 350 },
+    "citizens bank park": { lf: 329, lcf: 374, cf: 401, rcf: 369, rf: 330 },
+    "citi field": { lf: 335, lcf: 385, cf: 408, rcf: 398, rf: 330 },
+    "pnc park": { lf: 325, lcf: 389, cf: 399, rcf: 375, rf: 320 },
+    "petco park": { lf: 336, lcf: 390, cf: 396, rcf: 391, rf: 322 },
+    "busch stadium": { lf: 336, lcf: 375, cf: 400, rcf: 375, rf: 335 },
+    "american family field": { lf: 344, lcf: 371, cf: 400, rcf: 374, rf: 345 },
+    "kauffman stadium": { lf: 330, lcf: 387, cf: 410, rcf: 387, rf: 330 },
+    "comerica park": { lf: 345, lcf: 370, cf: 420, rcf: 365, rf: 330 },
+    "chase field": { lf: 330, lcf: 374, cf: 407, rcf: 374, rf: 334 },
+    "angel stadium": { lf: 347, lcf: 390, cf: 396, rcf: 370, rf: 350 },
+    "t-mobile park": { lf: 331, lcf: 378, cf: 401, rcf: 381, rf: 326 },
+    "nationals park": { lf: 337, lcf: 377, cf: 402, rcf: 370, rf: 335 },
+    "great american ball park": { lf: 328, lcf: 379, cf: 404, rcf: 370, rf: 325 },
+    "loanDepot park": { lf: 344, lcf: 386, cf: 400, rcf: 387, rf: 335 },
+    "oriole park": { lf: 333, lcf: 384, cf: 410, rcf: 373, rf: 318 },
+    "rate field": { lf: 330, lcf: 375, cf: 400, rcf: 375, rf: 335 },
+    "steinbrenner": { lf: 318, lcf: 399, cf: 408, rcf: 385, rf: 314 }
+  };
+
+  for (const name of Object.keys(parks)) {
+    if (key.includes(name.toLowerCase())) return parks[name];
+  }
+
+  return { lf: 330, lcf: 375, cf: 400, rcf: 375, rf: 330 };
+}
+
+function renderSlipParkOutline(venue = "", windText = "") {
+  const d = getParkDimensionsByVenue(venue);
+
+  return `
+    <div class="slip-park-mini">
+      <svg viewBox="0 0 260 190" class="slip-park-svg" aria-label="Park dimensions">
+        <defs>
+          <radialGradient id="slipGrass" cx="50%" cy="45%" r="65%">
+            <stop offset="0%" stop-color="rgba(0,255,140,.30)" />
+            <stop offset="100%" stop-color="rgba(0,255,140,.06)" />
+          </radialGradient>
+        </defs>
+
+        <path d="M130 178 L23 78 Q130 8 237 78 Z" class="slip-park-outfield"></path>
+        <path d="M130 178 L92 140 L130 102 L168 140 Z" class="slip-park-infield"></path>
+
+        <line x1="130" y1="178" x2="23" y2="78" class="slip-park-line"></line>
+        <line x1="130" y1="178" x2="74" y2="38" class="slip-park-line"></line>
+        <line x1="130" y1="178" x2="130" y2="16" class="slip-park-line"></line>
+        <line x1="130" y1="178" x2="186" y2="38" class="slip-park-line"></line>
+        <line x1="130" y1="178" x2="237" y2="78" class="slip-park-line"></line>
+
+        <text x="20" y="73" class="slip-park-text">LF ${d.lf}</text>
+        <text x="54" y="35" class="slip-park-text">LC ${d.lcf}</text>
+        <text x="111" y="18" class="slip-park-text">CF ${d.cf}</text>
+        <text x="171" y="35" class="slip-park-text">RC ${d.rcf}</text>
+        <text x="213" y="73" class="slip-park-text">RF ${d.rf}</text>
+
+        <circle cx="130" cy="178" r="4" class="slip-park-base"></circle>
+        <circle cx="92" cy="140" r="3" class="slip-park-base"></circle>
+        <circle cx="130" cy="102" r="3" class="slip-park-base"></circle>
+        <circle cx="168" cy="140" r="3" class="slip-park-base"></circle>
+      </svg>
+      <div class="slip-park-caption">${venue || "MLB Park"}</div>
+      <div class="slip-park-wind">${windText || ""}</div>
+    </div>
+  `;
+}
+
+
+
 const PARK_DIMENSIONS = {
   "PNC Park": { lf: 325, lcf: 383, cf: 399, rcf: 375, rf: 320 },
   "Great American Ball Park": { lf: 328, lcf: 379, cf: 404, rcf: 370, rf: 325 },
