@@ -56,6 +56,26 @@ body{margin:0;background:#020504;color:#fff;font-family:Arial,Helvetica,sans-ser
 </style>
 </head>
 <body>
+<header class="tsl-site-header">
+  <a class="tsl-brand" href="index.html">
+    <div class="tsl-logo">TSL</div>
+    <div>
+      <div class="tsl-brand-title">The Slip Lab</div>
+      <div class="tsl-brand-subtitle">MLB Home Run Intelligence</div>
+    </div>
+  </a>
+
+  <nav class="tsl-pill-nav">
+      <a class="tsl-pill-link" href="index.html">Home</a>
+      <a class="tsl-pill-link" href="index.html#top-plays">Top Plays</a>
+      <a class="tsl-pill-link" href="index.html#value-plays">Value</a>
+      <a class="tsl-pill-link" href="power-zones.html">Power Zones</a>
+      <a class="tsl-pill-link" href="index.html#stacks">Stacks</a>
+      <a class="tsl-pill-link" href="index.html#slate">Slate</a>
+      <a class="tsl-pill-link active" href="weather.html">Weather</a>
+      <a class="tsl-pill-link" href="results.html">Results</a>
+  </nav>
+</header>
 <header class="header">
 <a class="brand" href="/">
 <div class="logo">TSL</div>
@@ -126,7 +146,7 @@ function parkFor(v){const k=clean(v);for(const [n,p] of Object.entries(PARKS)){i
 function status(g){if(Number(g.roof_flag||0)===1||/roof/i.test(g.weather_label||""))return"roof";if(Number(g.precip||0)>=60)return"delay";return"clear"}
 function icon(g){if(status(g)==="roof")return"🏟️";const s=String(g.weather_label||"").toLowerCase();if(s.includes("cloud"))return"☁️";if(s.includes("rain"))return"🌧️";return"☀️"}
 function abbr(t){return String(t||"").split(" ").pop().slice(0,3).toUpperCase()}
-function matchup(g){return (g.away_abbr||abbr(g.away_team))+" @\n"+(g.home_abbr||abbr(g.home_team))}
+function matchup(g){return (g.away_abbr||abbr(g.away_team))+" @"+(g.home_abbr||abbr(g.home_team))}
 function time(g){const v=g.game_time||g.time||g.commence_time;if(!v)return"";const d=new Date(v);return Number.isNaN(d.getTime())?String(v):d.toLocaleTimeString([],{hour:"numeric",minute:"2-digit"})}
 function rot(g){const s=String(g.wind_text||"").toLowerCase();if(s.includes("out"))return 0;if(s.includes("in"))return 180;if(s.includes("left"))return 270;if(s.includes("right"))return 90;return Number(g.wind_deg||0)||0}
 function svg(g){
@@ -161,7 +181,7 @@ const wt=g.wind_text||"";
 const venue=g.venue||g.park||g.ballpark||"";
 return `<article class="card ${st}">
 <div class="cell game"><div class="matchup">${matchup(g)}</div><div class="park">${venue}</div><div class="time">${time(g)}</div></div>
-<div class="cell iconbox"><div class="icon">${icon(g)}</div><div class="label">${st==="roof"?"ROOF\nCONTROLLED":"HR\nBOOST"}</div></div>
+<div class="cell iconbox"><div class="icon">${icon(g)}</div><div class="label">${st==="roof"?"ROOFCONTROLLED":"HRBOOST"}</div></div>
 <div class="cell metric"><div class="big">${temp}°F</div><div class="small">TEMP</div></div>
 <div class="cell metric"><div class="big">${precip}%</div><div class="small">PRECIP</div></div>
 <div class="cell parkcell">${svg(g)}</div>
