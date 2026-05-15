@@ -5,32 +5,46 @@
 
     var header = document.querySelector(".tsl-site-header");
     var offset = header ? header.offsetHeight + 24 : 120;
-    var top = el.getBoundingClientRect().top + window.scrollY - offset;
+    var top = el.getBoundingClientRect().top + window.pageYOffset - offset;
 
-    window.scrollTo({ top: top, behavior: "smooth" });
+    if (top < 0) top = 0;
+
+    window.scrollTo({
+      top: top,
+      behavior: "smooth"
+    });
+
     history.replaceState(null, "", "#" + id);
   }
 
-  document.addEventListener("click", function (e) {
-    var link = e.target.closest("a");
+  document.addEventListener("click", function (event) {
+    var link = event.target.closest("a");
     if (!link) return;
 
     var href = link.getAttribute("href") || "";
-    var id = "";
 
-    if (href.includes("#top-plays")) id = "top-plays";
-    if (href.includes("#value-plays")) id = "value-plays";
-    if (href.includes("#stacks")) id = "stacks";
+    if (href.includes("#top-plays")) {
+      event.preventDefault();
+      scrollToTarget("top-plays");
+      return;
+    }
 
-    if (!id) return;
+    if (href.includes("#value-plays")) {
+      event.preventDefault();
+      scrollToTarget("value-plays");
+      return;
+    }
 
-    e.preventDefault();
-    scrollToTarget(id);
+    if (href.includes("#stacks")) {
+      event.preventDefault();
+      scrollToTarget("stacks");
+      return;
+    }
   });
 
   window.addEventListener("load", function () {
     var id = location.hash.replace("#", "");
-    if (["top-plays", "value-plays", "stacks"].includes(id)) {
+    if (id === "top-plays" || id === "value-plays" || id === "stacks") {
       setTimeout(function () {
         scrollToTarget(id);
       }, 300);
