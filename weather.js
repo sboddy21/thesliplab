@@ -132,6 +132,15 @@ function precip(row) {
   return `${Math.round(Number(val) || 0)}%`;
 }
 
+function wind(row) {
+  const text = row.wind_text || row.wind || row.wind_label || "";
+  const speed = row.wind_speed || row.wind_mph || row.windSpeed || "";
+
+  if (text) return text;
+  if (speed) return `${Math.round(Number(speed) || 0)} MPH`;
+  return "Wind N/A";
+}
+
 function roof(row) {
   const txt = `${row.roof || row.roof_flag || row.weather_label || row.label || ""}`.toLowerCase();
   return txt.includes("roof") || txt === "1" || txt.includes("closed");
@@ -210,6 +219,11 @@ function card(row) {
         <div class="weather-cell">
           <div class="big-stat">${precip(row)}</div>
           <div class="weather-label">Precip</div>
+        </div>
+
+        <div class="weather-cell">
+          <div class="big-stat wind-stat">${wind(row)}</div>
+          <div class="weather-label">Wind</div>
         </div>
 
         <div class="weather-cell">

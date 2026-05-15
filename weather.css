@@ -205,3 +205,9 @@
     border-bottom: 1px solid rgba(255,255,255,0.09);
   }
 }
+
+.wind-stat {
+  font-size: 18px !important;
+  line-height: 1.15 !important;
+  max-width: 130px;
+}
