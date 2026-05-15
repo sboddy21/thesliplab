@@ -172,8 +172,15 @@ function initials(name) {
 }
 
 function headshotUrl(player) {
-  if (!player?.mlbam) return "";
-  return "https://img.mlbstatic.com/mlb-photos/image/upload/w_180,q_auto:best/v1/people/" + player.mlbam + "/headshot/67/current";
+  return (
+    player?.headshot_url ||
+    player?.headshot ||
+    player?.player_image ||
+    player?.mlb_headshot_url ||
+    player?.image ||
+    player?.photo ||
+    ""
+  );
 }
 
 function playerAvatar(player, size = "card") {

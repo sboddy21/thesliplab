@@ -365,3 +365,58 @@ footer {
     grid-template-columns: 1fr;
   }
 }
+
+
+.tsl-top-nav {
+  width: 100%;
+  padding: 18px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: rgba(5, 8, 18, 0.92);
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  backdrop-filter: blur(14px);
+}
+
+.tsl-nav-brand {
+  color: #ffffff;
+  font-weight: 900;
+  letter-spacing: 0.04em;
+  text-decoration: none;
+}
+
+.tsl-nav-links {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+
+.tsl-nav-links a {
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: 800;
+  padding: 10px 14px;
+  border-radius: 999px;
+  background: rgba(255,255,255,0.08);
+  border: 1px solid rgba(255,255,255,0.12);
+}
+
+.tsl-nav-links a:hover {
+  background: rgba(25, 255, 130, 0.16);
+  border-color: rgba(25, 255, 130, 0.45);
+}
+
+@media (max-width: 700px) {
+  .tsl-top-nav {
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .tsl-nav-links {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
