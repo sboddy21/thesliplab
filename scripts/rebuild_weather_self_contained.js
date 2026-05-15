@@ -1,4 +1,9 @@
-<!doctype html>
+import fs from "fs";
+import path from "path";
+
+const ROOT = process.cwd();
+
+const html = `<!doctype html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -126,31 +131,31 @@ function parkFor(v){const k=clean(v);for(const [n,p] of Object.entries(PARKS)){i
 function status(g){if(Number(g.roof_flag||0)===1||/roof/i.test(g.weather_label||""))return"roof";if(Number(g.precip||0)>=60)return"delay";return"clear"}
 function icon(g){if(status(g)==="roof")return"🏟️";const s=String(g.weather_label||"").toLowerCase();if(s.includes("cloud"))return"☁️";if(s.includes("rain"))return"🌧️";return"☀️"}
 function abbr(t){return String(t||"").split(" ").pop().slice(0,3).toUpperCase()}
-function matchup(g){return (g.away_abbr||abbr(g.away_team))+" @\n"+(g.home_abbr||abbr(g.home_team))}
+function matchup(g){return (g.away_abbr||abbr(g.away_team))+" @\\n"+(g.home_abbr||abbr(g.home_team))}
 function time(g){const v=g.game_time||g.time||g.commence_time;if(!v)return"";const d=new Date(v);return Number.isNaN(d.getTime())?String(v):d.toLocaleTimeString([],{hour:"numeric",minute:"2-digit"})}
 function rot(g){const s=String(g.wind_text||"").toLowerCase();if(s.includes("out"))return 0;if(s.includes("in"))return 180;if(s.includes("left"))return 270;if(s.includes("right"))return 90;return Number(g.wind_deg||0)||0}
 function svg(g){
 const venue=g.venue||g.park||g.ballpark||"";
 const p=parkFor(venue);
-return `<svg class="ballpark" viewBox="0 0 200 160">
-<path class="fieldglow" d="${p.shape}"></path>
-<path class="fieldfill" d="${p.shape}"></path>
-<path class="fieldline" d="${p.shape}"></path>
+return \`<svg class="ballpark" viewBox="0 0 200 160">
+<path class="fieldglow" d="\${p.shape}"></path>
+<path class="fieldfill" d="\${p.shape}"></path>
+<path class="fieldline" d="\${p.shape}"></path>
 <path class="infield" d="M100 144 L76 121 L100 98 L124 121 Z"></path>
 <circle class="base" cx="100" cy="144" r="2.7"></circle>
 <circle class="base" cx="76" cy="121" r="2.2"></circle>
 <circle class="base" cx="100" cy="98" r="2.2"></circle>
 <circle class="base" cx="124" cy="121" r="2.2"></circle>
-<text class="dim" x="36" y="88">${p.lf}</text><text class="sub" x="36" y="100">LF</text>
-<text class="dim" x="67" y="39">${p.lcf}</text><text class="sub" x="67" y="51">L-CF</text>
-<text class="dim" x="100" y="23">${p.cf}</text>
-<text class="dim" x="134" y="39">${p.rcf}</text><text class="sub" x="134" y="51">R-CF</text>
-<text class="dim" x="164" y="88">${p.rf}</text><text class="sub" x="164" y="100">RF</text>
-<g transform="translate(100 84) rotate(${rot(g)})">
+<text class="dim" x="36" y="88">\${p.lf}</text><text class="sub" x="36" y="100">LF</text>
+<text class="dim" x="67" y="39">\${p.lcf}</text><text class="sub" x="67" y="51">L-CF</text>
+<text class="dim" x="100" y="23">\${p.cf}</text>
+<text class="dim" x="134" y="39">\${p.rcf}</text><text class="sub" x="134" y="51">R-CF</text>
+<text class="dim" x="164" y="88">\${p.rf}</text><text class="sub" x="164" y="100">RF</text>
+<g transform="translate(100 84) rotate(\${rot(g)})">
 <circle class="arrowcircle" cx="0" cy="0" r="20"></circle>
 <path class="arrow" d="M-7 2 L0 -12 L7 2 L3 2 L3 12 L-3 12 L-3 2 Z"></path>
 </g>
-</svg>`
+</svg>\`
 }
 function card(g){
 const st=status(g);
@@ -159,14 +164,14 @@ const precip=Math.round(Number(g.precip||0));
 const ws=Math.round(Number(g.wind_speed||0));
 const wt=g.wind_text||"";
 const venue=g.venue||g.park||g.ballpark||"";
-return `<article class="card ${st}">
-<div class="cell game"><div class="matchup">${matchup(g)}</div><div class="park">${venue}</div><div class="time">${time(g)}</div></div>
-<div class="cell iconbox"><div class="icon">${icon(g)}</div><div class="label">${st==="roof"?"ROOF\nCONTROLLED":"HR\nBOOST"}</div></div>
-<div class="cell metric"><div class="big">${temp}°F</div><div class="small">TEMP</div></div>
-<div class="cell metric"><div class="big">${precip}%</div><div class="small">PRECIP</div></div>
-<div class="cell parkcell">${svg(g)}</div>
-<div class="cell wind"><div class="windnum">${ws}</div><div class="small">MPH</div><div class="windtxt">${wt}</div></div>
-</article>`
+return \`<article class="card \${st}">
+<div class="cell game"><div class="matchup">\${matchup(g)}</div><div class="park">\${venue}</div><div class="time">\${time(g)}</div></div>
+<div class="cell iconbox"><div class="icon">\${icon(g)}</div><div class="label">\${st==="roof"?"ROOF\\nCONTROLLED":"HR\\nBOOST"}</div></div>
+<div class="cell metric"><div class="big">\${temp}°F</div><div class="small">TEMP</div></div>
+<div class="cell metric"><div class="big">\${precip}%</div><div class="small">PRECIP</div></div>
+<div class="cell parkcell">\${svg(g)}</div>
+<div class="cell wind"><div class="windnum">\${ws}</div><div class="small">MPH</div><div class="windtxt">\${wt}</div></div>
+</article>\`
 }
 async function run(){
 const grid=document.getElementById("grid");
@@ -180,4 +185,35 @@ grid.innerHTML=games.map(card).join("");
 run();
 </script>
 </body>
-</html>
+</html>`;
+
+fs.writeFileSync(path.join(ROOT, "weather.html"), html);
+
+const build = `import fs from "fs";
+import path from "path";
+
+const ROOT = process.cwd();
+const DIST = path.join(ROOT, "dist");
+
+function rm(dir){if(fs.existsSync(dir))fs.rmSync(dir,{recursive:true,force:true})}
+function copyFile(src,dest){if(!fs.existsSync(src))return;fs.mkdirSync(path.dirname(dest),{recursive:true});fs.copyFileSync(src,dest)}
+function copyDir(src,dest){if(!fs.existsSync(src))return;fs.mkdirSync(dest,{recursive:true});for(const item of fs.readdirSync(src)){const from=path.join(src,item);const to=path.join(dest,item);const stat=fs.statSync(from);if(stat.isDirectory())copyDir(from,to);else copyFile(from,to)}}
+
+rm(DIST);
+fs.mkdirSync(DIST,{recursive:true});
+
+for(const file of fs.readdirSync(ROOT)){
+  if(file.endsWith(".html")||file.endsWith(".js")||file.endsWith(".css")||file==="vercel.json"){
+    copyFile(path.join(ROOT,file),path.join(DIST,file));
+  }
+}
+
+copyDir(path.join(ROOT,"data"),path.join(DIST,"data"));
+copyDir(path.join(ROOT,"assets"),path.join(DIST,"assets"));
+
+console.log("THE SLIP LAB STATIC BUILD COMPLETE");
+`;
+
+fs.writeFileSync(path.join(ROOT, "scripts", "build_static_site.js"), build);
+
+console.log("Weather page rebuilt as self contained HTML");
