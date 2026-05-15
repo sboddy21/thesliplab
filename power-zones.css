@@ -635,3 +635,63 @@ select {
 .modal-top .player-photo-fallback {
   margin-right: 0;
 }
+
+
+.card-player-main {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  min-width: 0;
+}
+
+.tsl-player-photo-wrap,
+.tsl-player-photo-fallback {
+  flex: 0 0 auto;
+  border-radius: 999px;
+  border: 1px solid rgba(255,255,255,.18);
+  background:
+    radial-gradient(circle at top, rgba(0,255,136,.25), rgba(255,255,255,.05)),
+    #111722;
+  overflow: hidden;
+  display: grid;
+  place-items: center;
+}
+
+.tsl-player-photo-wrap.card,
+.tsl-player-photo-fallback.card {
+  width: 48px;
+  height: 48px;
+}
+
+.tsl-player-photo-wrap.modal,
+.tsl-player-photo-fallback.modal {
+  width: 70px;
+  height: 70px;
+}
+
+.tsl-player-photo {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center top;
+  display: block;
+}
+
+.tsl-player-photo-fallback {
+  color: #00170c;
+  background: linear-gradient(135deg, var(--green), var(--blue));
+  font-weight: 950;
+}
+
+.tsl-player-photo-fallback.card {
+  font-size: 15px;
+}
+
+.tsl-player-photo-fallback.modal {
+  font-size: 20px;
+}
+
+.modal-top .tsl-player-photo-wrap,
+.modal-top .tsl-player-photo-fallback {
+  margin-right: 0;
+}

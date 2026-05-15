@@ -138,6 +138,35 @@ function getZone(row) {
   return score + " zone";
 }
 
+function safeInitials(name) {
+  return String(name || "TSL")
+    .split(" ")
+    .filter(Boolean)
+    .slice(0, 2)
+    .map(part => part[0])
+    .join("")
+    .toUpperCase() || "TSL";
+}
+
+function getHeadshotUrl(player) {
+  const id = player?.mlbam || player?.player_id || player?.id || "";
+  if (!id) return "";
+  return "https://img.mlbstatic.com/mlb-photos/image/upload/w_180,q_auto:best/v1/people/" + id + "/headshot/67/current";
+}
+
+function renderPlayerPhoto(player, size = "card") {
+  const url = getHeadshotUrl(player);
+  const fallback = safeInitials(player?.player);
+
+  if (!url) {
+    return '<div class="tsl-player-photo-fallback ' + size + '">' + fallback + '</div>';
+  }
+
+  return '<div class="tsl-player-photo-wrap ' + size + '">' +
+    '<img class="tsl-player-photo" src="' + url + '" alt="' + String(player?.player || "Player").replaceAll('"', "") + '" loading="lazy" onerror="this.remove(); this.parentElement.innerHTML=\'<div class=&quot;tsl-player-photo-fallback ' + size + '&quot;>' + fallback + '</div>\';" />' +
+  '</div>';
+}
+
 function initials(name) {
   return name.split(" ").filter(Boolean).slice(0, 2).map(part => part[0]).join("").toUpperCase();
 }
@@ -416,7 +445,15 @@ function renderModal() {
   const p = activePlayer;
   if (!p) return;
 
-  document.getElementById("modalInitials").outerHTML = playerAvatar(p, "modal");
+  const existingPhoto = document.querySelector(".modal-top .tsl-player-photo-wrap, .modal-top .tsl-player-photo-fallback");
+  if (existingPhoto) {
+    existingPhoto.outerHTML = '<div class="avatar" id="modalInitials">TSL</div>';
+  }
+
+  const modalAvatar = document.getElementById("modalInitials");
+  if (modalAvatar) {
+    modalAvatar.outerHTML = renderPlayerPhoto(p, "modal");
+  }
   document.getElementById("modalName").textContent = p.player;
   document.getElementById("modalSub").textContent = `${p.team} • ${p.grade} • vs ${p.pitcher}`;
   document.getElementById("modalBadge").textContent = p.score.toFixed(1);
