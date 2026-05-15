@@ -1,11 +1,8 @@
 const DATA_CANDIDATES = [
+  "./data/power_zones.json",
   "./data/top_hr_plays.json",
   "./data/value_hr_plays.json",
-  "./data/slate_intelligence.json",
-  "./data/slate_intelligence_summary.json",
-  "./data/weather_page.json",
-  "./data/weather_summary.json",
-  "./data/park_dimensions.json"
+  "./data/slate_intelligence.json"
 ];
 
 let allPlayers = [];
