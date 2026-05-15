@@ -1,6 +1,6 @@
 game,home_team,away_team,venue,city,temp,humidity,wind_speed,wind_deg,wind_text,weather_desc,weather_boost,weather_label,roof_flag,roof_status,fetched_at
-Chicago Cubs @ Atlanta Braves,Atlanta Braves,Chicago Cubs,Truist Park,Atlanta,52.4,70,1.0,141,1 MPH Wind SE,clear sky,-2,Mild suppress,0,OPEN_AIR,2026-05-15T06:45:30.258Z
-Arizona Diamondbacks @ Texas Rangers,Texas Rangers,Arizona Diamondbacks,Globe Life Field,Arlington,75.7,65,10.4,180,Roof Stadium,clear sky,0,Roof controlled,1,ROOF_OR_RETRACTABLE,2026-05-15T06:45:30.298Z
-Tampa Bay Rays @ Toronto Blue Jays,Toronto Blue Jays,Tampa Bay Rays,Rogers Centre,Toronto,48.4,78,3.4,290,Roof Stadium,clear sky,0,Roof controlled,1,ROOF_OR_RETRACTABLE,2026-05-15T06:45:30.311Z
-Kansas City Royals @ Chicago White Sox,Chicago White Sox,Kansas City Royals,Guaranteed Rate Field,Chicago,53.9,60,4.6,0,5 MPH Wind N,overcast clouds,-2,Mild suppress,0,OPEN_AIR,2026-05-15T06:45:30.324Z
-San Francisco Giants @ Los Angeles Dodgers,Los Angeles Dodgers,San Francisco Giants,Dodger Stadium,Los Angeles,59.4,77,4.6,170,5 MPH Wind S,clear sky,0,Neutral,0,OPEN_AIR,2026-05-15T06:45:30.338Z
+Chicago Cubs @ Atlanta Braves,Atlanta Braves,Chicago Cubs,Truist Park,Atlanta,48.8,80,0.0,0,Calm,clear sky,-2,Mild suppress,0,OPEN_AIR,2026-05-15T09:48:24.290Z
+Arizona Diamondbacks @ Texas Rangers,Texas Rangers,Arizona Diamondbacks,Globe Life Field,Arlington,71.2,68,17.3,180,Roof Stadium,clear sky,0,Roof controlled,1,ROOF_OR_RETRACTABLE,2026-05-15T09:48:24.340Z
+Tampa Bay Rays @ Toronto Blue Jays,Toronto Blue Jays,Tampa Bay Rays,Rogers Centre,Toronto,47.4,69,8.1,330,Roof Stadium,clear sky,0,Roof controlled,1,ROOF_OR_RETRACTABLE,2026-05-15T09:48:24.353Z
+Kansas City Royals @ Chicago White Sox,Chicago White Sox,Kansas City Royals,Guaranteed Rate Field,Chicago,55.2,62,8.1,170,8 MPH Wind S,broken clouds,1,Mild boost,0,OPEN_AIR,2026-05-15T09:48:24.366Z
+San Francisco Giants @ Los Angeles Dodgers,Los Angeles Dodgers,San Francisco Giants,Dodger Stadium,Los Angeles,57.9,86,3.4,200,3 MPH Wind SSW,clear sky,0,Neutral,0,OPEN_AIR,2026-05-15T09:48:24.381Z

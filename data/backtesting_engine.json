@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T06:45:33.951Z",
+  "generated_at": "2026-05-15T09:48:27.955Z",
   "tracking_rows": 482,
   "graded_results_applied": 361,
   "summaries": [
@@ -20,16 +20,16 @@
     {
       "group_by": "betting_tier",
       "group": "PASS",
-      "bets": 87,
+      "bets": 86,
       "graded": 68,
       "wins": 9,
       "losses": 59,
-      "pending": 19,
+      "pending": 18,
       "hit_rate": "13.24%",
       "profit_1u": "26.3300",
       "roi": "38.72%",
-      "avg_model_probability": "8.66%",
-      "avg_ev": "-19.89%"
+      "avg_model_probability": "8.61%",
+      "avg_ev": "-19.80%"
     },
     {
       "group_by": "betting_tier",
@@ -48,16 +48,16 @@
     {
       "group_by": "betting_tier",
       "group": "WATCHLIST",
-      "bets": 25,
+      "bets": 26,
       "graded": 20,
       "wins": 1,
       "losses": 19,
-      "pending": 5,
+      "pending": 6,
       "hit_rate": "5.00%",
       "profit_1u": "-14.2500",
       "roi": "-71.25%",
-      "avg_model_probability": "13.35%",
-      "avg_ev": "-21.11%"
+      "avg_model_probability": "13.33%",
+      "avg_ev": "-21.30%"
     },
     {
       "group_by": "betting_tier",
@@ -118,58 +118,58 @@
     {
       "group_by": "probability_tier",
       "group": "PLAYABLE_PROBABILITY",
-      "bets": 61,
+      "bets": 62,
       "graded": 47,
       "wins": 8,
       "losses": 39,
-      "pending": 14,
+      "pending": 15,
       "hit_rate": "17.02%",
       "profit_1u": "-6.5000",
       "roi": "-13.83%",
-      "avg_model_probability": "11.98%",
-      "avg_ev": "-30.76%"
+      "avg_model_probability": "12.01%",
+      "avg_ev": "-30.74%"
     },
     {
       "group_by": "probability_tier",
       "group": "LEAN_PROBABILITY",
-      "bets": 101,
+      "bets": 100,
       "graded": 75,
       "wins": 10,
       "losses": 65,
-      "pending": 26,
+      "pending": 25,
       "hit_rate": "13.33%",
       "profit_1u": "-12.5100",
       "roi": "-16.68%",
-      "avg_model_probability": "9.71%",
-      "avg_ev": "-34.44%"
+      "avg_model_probability": "9.73%",
+      "avg_ev": "-34.12%"
     },
     {
       "group_by": "probability_tier",
       "group": "STRONG_PROBABILITY",
-      "bets": 31,
+      "bets": 30,
       "graded": 23,
       "wins": 3,
       "losses": 20,
-      "pending": 8,
+      "pending": 7,
       "hit_rate": "13.04%",
       "profit_1u": "-6.2200",
       "roi": "-27.04%",
-      "avg_model_probability": "14.85%",
-      "avg_ev": "-27.70%"
+      "avg_model_probability": "14.89%",
+      "avg_ev": "-27.54%"
     },
     {
       "group_by": "probability_tier",
       "group": "THIN_PROBABILITY",
-      "bets": 282,
+      "bets": 283,
       "graded": 209,
       "wins": 14,
       "losses": 195,
-      "pending": 73,
+      "pending": 74,
       "hit_rate": "6.70%",
       "profit_1u": "-64.9000",
       "roi": "-31.05%",
       "avg_model_probability": "5.79%",
-      "avg_ev": "-43.08%"
+      "avg_ev": "-43.16%"
     },
     {
       "group_by": "probability_tier",
@@ -210,8 +210,8 @@
       "hit_rate": "13.79%",
       "profit_1u": "-3.1900",
       "roi": "-5.50%",
-      "avg_model_probability": "10.24%",
-      "avg_ev": "-24.88%"
+      "avg_model_probability": "10.25%",
+      "avg_ev": "-24.85%"
     },
     {
       "group_by": "value_label",
@@ -266,8 +266,8 @@
       "hit_rate": "25.00%",
       "profit_1u": "5.1100",
       "roi": "31.94%",
-      "avg_model_probability": "14.95%",
-      "avg_ev": "-24.19%"
+      "avg_model_probability": "14.92%",
+      "avg_ev": "-24.33%"
     },
     {
       "group_by": "consensus_decision",
@@ -286,16 +286,16 @@
     {
       "group_by": "consensus_decision",
       "group": "THIN",
-      "bets": 303,
+      "bets": 304,
       "graded": 229,
       "wins": 25,
       "losses": 204,
-      "pending": 74,
+      "pending": 75,
       "hit_rate": "10.92%",
       "profit_1u": "-43.4600",
       "roi": "-18.98%",
-      "avg_model_probability": "7.95%",
-      "avg_ev": "-37.39%"
+      "avg_model_probability": "7.94%",
+      "avg_ev": "-37.41%"
     },
     {
       "group_by": "consensus_decision",
@@ -308,22 +308,22 @@
       "hit_rate": "8.89%",
       "profit_1u": "-16.5500",
       "roi": "-36.78%",
-      "avg_model_probability": "12.38%",
-      "avg_ev": "-24.60%"
+      "avg_model_probability": "12.39%",
+      "avg_ev": "-24.53%"
     },
     {
       "group_by": "consensus_decision",
       "group": "FADE",
-      "bets": 94,
+      "bets": 93,
       "graded": 66,
       "wins": 3,
       "losses": 63,
-      "pending": 28,
+      "pending": 27,
       "hit_rate": "4.55%",
       "profit_1u": "-32.9000",
       "roi": "-49.85%",
       "avg_model_probability": "4.19%",
-      "avg_ev": "-54.91%"
+      "avg_ev": "-55.03%"
     },
     {
       "group_by": "calibration_bucket",
@@ -334,33 +334,33 @@
       "losses": 67,
       "pending": 28,
       "hit_rate": "5.63%",
-      "expected_hit_rate": "3.98%",
-      "calibration_gap": "1.65%",
+      "expected_hit_rate": "3.97%",
+      "calibration_gap": "1.66%",
       "profit_1u": "-14.9000",
       "roi": "-20.99%"
     },
     {
       "group_by": "calibration_bucket",
       "group": "5 to 8%",
-      "bets": 147,
+      "bets": 148,
       "graded": 114,
       "wins": 7,
       "losses": 107,
-      "pending": 33,
+      "pending": 34,
       "hit_rate": "6.14%",
-      "expected_hit_rate": "6.41%",
-      "calibration_gap": "-0.27%",
+      "expected_hit_rate": "6.43%",
+      "calibration_gap": "-0.29%",
       "profit_1u": "-51.0500",
       "roi": "-44.78%"
     },
     {
       "group_by": "calibration_bucket",
       "group": "8 to 11%",
-      "bets": 137,
+      "bets": 136,
       "graded": 99,
       "wins": 13,
       "losses": 86,
-      "pending": 38,
+      "pending": 37,
       "hit_rate": "13.13%",
       "expected_hit_rate": "9.32%",
       "calibration_gap": "3.81%",
@@ -377,7 +377,7 @@
       "pending": 15,
       "hit_rate": "16.33%",
       "expected_hit_rate": "12.06%",
-      "calibration_gap": "4.27%",
+      "calibration_gap": "4.26%",
       "profit_1u": "-8.5000",
       "roi": "-17.35%"
     },
@@ -390,8 +390,8 @@
       "losses": 18,
       "pending": 7,
       "hit_rate": "18.18%",
-      "expected_hit_rate": "15.02%",
-      "calibration_gap": "3.16%",
+      "expected_hit_rate": "15.03%",
+      "calibration_gap": "3.15%",
       "profit_1u": "-0.8900",
       "roi": "-4.05%"
     },

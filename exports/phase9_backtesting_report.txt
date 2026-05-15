@@ -18,17 +18,17 @@ ROI: -24.51%
 TOP GROUP SUMMARIES
 
 betting_tier | PROBABILITY_PLAY | Bets: 8 | Graded: 8 | Hit: 50.00% | ROI: 163.88% | Profit: 13.1100
-betting_tier | PASS | Bets: 87 | Graded: 68 | Hit: 13.24% | ROI: 38.72% | Profit: 26.3300
+betting_tier | PASS | Bets: 86 | Graded: 68 | Hit: 13.24% | ROI: 38.72% | Profit: 26.3300
 betting_tier | PASS_OVERPRICED | Bets: 359 | Graded: 262 | Hit: 8.78% | ROI: -42.24% | Profit: -110.6600
-betting_tier | WATCHLIST | Bets: 25 | Graded: 20 | Hit: 5.00% | ROI: -71.25% | Profit: -14.2500
+betting_tier | WATCHLIST | Bets: 26 | Graded: 20 | Hit: 5.00% | ROI: -71.25% | Profit: -14.2500
 betting_tier | BETTABLE_VALUE | Bets: 1 | Graded: 1 | Hit: 0.00% | ROI: -100.00% | Profit: -1.0000
 betting_tier | VALUE_LEAN | Bets: 1 | Graded: 1 | Hit: 0.00% | ROI: -100.00% | Profit: -1.0000
 betting_tier | HIGH_PROBABILITY_PLAY | Bets: 1 | Graded: 1 | Hit: 0.00% | ROI: -100.00% | Profit: -1.0000
 probability_tier | TOP_PROBABILITY | Bets: 5 | Graded: 5 | Hit: 40.00% | ROI: 73.20% | Profit: 3.6600
-probability_tier | PLAYABLE_PROBABILITY | Bets: 61 | Graded: 47 | Hit: 17.02% | ROI: -13.83% | Profit: -6.5000
-probability_tier | LEAN_PROBABILITY | Bets: 101 | Graded: 75 | Hit: 13.33% | ROI: -16.68% | Profit: -12.5100
-probability_tier | STRONG_PROBABILITY | Bets: 31 | Graded: 23 | Hit: 13.04% | ROI: -27.04% | Profit: -6.2200
-probability_tier | THIN_PROBABILITY | Bets: 282 | Graded: 209 | Hit: 6.70% | ROI: -31.05% | Profit: -64.9000
+probability_tier | PLAYABLE_PROBABILITY | Bets: 62 | Graded: 47 | Hit: 17.02% | ROI: -13.83% | Profit: -6.5000
+probability_tier | LEAN_PROBABILITY | Bets: 100 | Graded: 75 | Hit: 13.33% | ROI: -16.68% | Profit: -12.5100
+probability_tier | STRONG_PROBABILITY | Bets: 30 | Graded: 23 | Hit: 13.04% | ROI: -27.04% | Profit: -6.2200
+probability_tier | THIN_PROBABILITY | Bets: 283 | Graded: 209 | Hit: 6.70% | ROI: -31.05% | Profit: -64.9000
 probability_tier | ELITE_PROBABILITY | Bets: 2 | Graded: 2 | Hit: 0.00% | ROI: -100.00% | Profit: -2.0000
 value_label | FAIR_OR_THIN | Bets: 40 | Graded: 37 | Hit: 16.22% | ROI: 79.41% | Profit: 29.3800
 value_label | TAXED_PRICE | Bets: 79 | Graded: 58 | Hit: 13.79% | ROI: -5.50% | Profit: -3.1900
@@ -37,11 +37,11 @@ value_label | PLUS_EV | Bets: 2 | Graded: 2 | Hit: 0.00% | ROI: -100.00% | Profi
 value_label | SMALL_EDGE | Bets: 2 | Graded: 2 | Hit: 0.00% | ROI: -100.00% | Profit: -2.0000
 consensus_decision | PLAYABLE | Bets: 19 | Graded: 16 | Hit: 25.00% | ROI: 31.94% | Profit: 5.1100
 consensus_decision | STRONG_PLAY | Bets: 5 | Graded: 5 | Hit: 20.00% | ROI: -13.40% | Profit: -0.6700
-consensus_decision | THIN | Bets: 303 | Graded: 229 | Hit: 10.92% | ROI: -18.98% | Profit: -43.4600
+consensus_decision | THIN | Bets: 304 | Graded: 229 | Hit: 10.92% | ROI: -18.98% | Profit: -43.4600
 consensus_decision | LEANS_PLAYABLE | Bets: 61 | Graded: 45 | Hit: 8.89% | ROI: -36.78% | Profit: -16.5500
-consensus_decision | FADE | Bets: 94 | Graded: 66 | Hit: 4.55% | ROI: -49.85% | Profit: -32.9000
+consensus_decision | FADE | Bets: 93 | Graded: 66 | Hit: 4.55% | ROI: -49.85% | Profit: -32.9000
 calibration_bucket | 0 to 5% | Bets: 99 | Graded: 71 | Hit: 5.63% | ROI: -20.99% | Profit: -14.9000
-calibration_bucket | 5 to 8% | Bets: 147 | Graded: 114 | Hit: 6.14% | ROI: -44.78% | Profit: -51.0500
+calibration_bucket | 5 to 8% | Bets: 148 | Graded: 114 | Hit: 6.14% | ROI: -44.78% | Profit: -51.0500
 
 FILES CREATED
 

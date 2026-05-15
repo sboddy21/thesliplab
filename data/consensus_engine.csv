@@ -1,85 +1,85 @@
 rank,player,team,game,pitcher,odds,matchup_score,pitcher_splits_score,per_pitch_score,weather_environment_score,market_score,green_lights,red_flags,floor_score,ceiling_score,agreement_spread,agreement_penalty,consensus_score,agreement_grade,confidence,decision,matchup_matched,splits_matched,per_pitch_matched,weather_matched
-1,Kazuma Okamoto,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,Griffin Jax,398,67.90,73.80,78.70,45.70,59.00,3,0,45.70,78.70,33.00,1.65,70.68,POSITIVE_AGREEMENT,MEDIUM,PLAYABLE,YES,YES,YES,YES
-2,Ian Happ,Chicago Cubs,Chicago Cubs @ Atlanta Braves,JR Ritchie,430,68.10,77.90,75.10,47.20,52.00,3,0,47.20,77.90,30.70,1.54,70.00,POSITIVE_AGREEMENT,MEDIUM,PLAYABLE,YES,YES,YES,YES
-3,Corey Seager,Texas Rangers,Arizona Diamondbacks @ Texas Rangers,Ryne Nelson,441,65.90,74.70,81.00,50.30,56.00,2,0,50.30,81.00,30.70,1.54,69.60,POSITIVE_AGREEMENT,LOW_MEDIUM,LEANS_PLAYABLE,YES,YES,YES,YES
-4,Max Muncy,Los Angeles Dodgers,San Francisco Giants @ Los Angeles Dodgers,Robbie Ray,320,63.30,68.40,83.90,51.10,59.00,2,0,51.10,83.90,32.80,1.64,68.52,POSITIVE_AGREEMENT,LOW_MEDIUM,LEANS_PLAYABLE,YES,YES,YES,YES
-5,Munetaka Murakami,Chicago White Sox,Kansas City Royals @ Chicago White Sox,Seth Lugo,293,64.70,68.90,78.50,48.60,55.00,2,0,48.60,78.50,29.90,1.50,66.97,MIXED_POSITIVE,LOW_MEDIUM,LEANS_PLAYABLE,YES,YES,YES,YES
-6,Moisés Ballesteros,Chicago Cubs,Chicago Cubs @ Atlanta Braves,JR Ritchie,610,64.10,76.30,73.20,47.20,49.00,2,0,47.20,76.30,29.10,1.45,66.33,MIXED_POSITIVE,LOW_MEDIUM,LEANS_PLAYABLE,YES,YES,YES,YES
-7,Brandon Nimmo,Texas Rangers,Arizona Diamondbacks @ Texas Rangers,Ryne Nelson,573,60.80,69.50,73.90,50.30,56.00,2,0,50.30,73.90,23.60,1.18,65.74,MIXED_POSITIVE,LOW_MEDIUM,LEANS_PLAYABLE,YES,YES,YES,YES
-8,Corbin Carroll,Arizona Diamondbacks,Arizona Diamondbacks @ Texas Rangers,Kumar Rocker,451,62.40,68.80,72.50,50.30,56.00,2,0,50.30,72.50,22.20,1.11,65.71,MIXED_POSITIVE,LOW_MEDIUM,LEANS_PLAYABLE,YES,YES,YES,YES
-9,Bobby Witt Jr.,Kansas City Royals,Kansas City Royals @ Chicago White Sox,Noah Schultz,475,62.00,69.60,76.80,48.60,52.00,2,0,48.60,76.80,28.20,1.41,65.65,MIXED_POSITIVE,LOW_MEDIUM,LEANS_PLAYABLE,YES,YES,YES,YES
-10,Joc Pederson,Texas Rangers,Arizona Diamondbacks @ Texas Rangers,Ryne Nelson,590,58.90,67.10,71.50,50.30,56.00,2,0,50.30,71.50,21.20,1.06,64.23,MIXED_POSITIVE,LOW_MEDIUM,LEANS_PLAYABLE,YES,YES,YES,YES
-11,Jake Burger,Texas Rangers,Arizona Diamondbacks @ Texas Rangers,Ryne Nelson,470,61.90,65.90,72.30,50.30,56.00,1,0,50.30,72.30,22.00,1.10,63.43,MIXED_POSITIVE,LOW,THIN,YES,YES,YES,YES
-12,Ketel Marte,Arizona Diamondbacks,Arizona Diamondbacks @ Texas Rangers,Kumar Rocker,426,61.70,65.70,71.50,50.30,56.00,1,0,50.30,71.50,21.20,1.06,63.19,MIXED_POSITIVE,LOW,THIN,YES,YES,YES,YES
-13,Seiya Suzuki,Chicago Cubs,Chicago Cubs @ Atlanta Braves,JR Ritchie,425,62.80,67.20,66.60,47.20,52.00,2,0,47.20,67.20,20.00,1.00,63.18,MIXED_POSITIVE,LOW_MEDIUM,LEANS_PLAYABLE,YES,YES,YES,YES
+1,Ian Happ,Chicago Cubs,Chicago Cubs @ Atlanta Braves,JR Ritchie,430,68.10,77.90,75.10,47.20,52.00,3,0,47.20,77.90,30.70,1.54,70.00,POSITIVE_AGREEMENT,MEDIUM,PLAYABLE,YES,YES,YES,YES
+2,Corey Seager,Texas Rangers,Arizona Diamondbacks @ Texas Rangers,Ryne Nelson,441,65.90,74.70,81.00,50.00,56.00,2,0,50.00,81.00,31.00,1.55,69.55,POSITIVE_AGREEMENT,LOW_MEDIUM,LEANS_PLAYABLE,YES,YES,YES,YES
+3,Munetaka Murakami,Chicago White Sox,Kansas City Royals @ Chicago White Sox,Seth Lugo,293,64.90,69.00,78.50,51.60,61.00,2,0,51.60,78.50,26.90,1.34,68.52,POSITIVE_AGREEMENT,LOW_MEDIUM,LEANS_PLAYABLE,YES,YES,YES,YES
+4,Max Muncy,Los Angeles Dodgers,San Francisco Giants @ Los Angeles Dodgers,Robbie Ray,320,63.30,68.40,83.90,49.50,59.00,2,0,49.50,83.90,34.40,1.72,68.28,POSITIVE_AGREEMENT,LOW_MEDIUM,LEANS_PLAYABLE,YES,YES,YES,YES
+5,Bobby Witt Jr.,Kansas City Royals,Kansas City Royals @ Chicago White Sox,Noah Schultz,475,62.20,69.80,76.80,51.60,58.00,2,0,51.60,76.80,25.20,1.26,67.22,MIXED_POSITIVE,LOW_MEDIUM,LEANS_PLAYABLE,YES,YES,YES,YES
+6,Kazuma Okamoto,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,Griffin Jax,398,67.90,73.80,78.70,44.10,59.00,3,1,44.10,78.70,34.60,1.73,66.94,MIXED_POSITIVE,MEDIUM,PLAYABLE,YES,YES,YES,YES
+7,Moisés Ballesteros,Chicago Cubs,Chicago Cubs @ Atlanta Braves,JR Ritchie,610,64.10,76.30,73.20,47.20,49.00,2,0,47.20,76.30,29.10,1.45,66.33,MIXED_POSITIVE,LOW_MEDIUM,LEANS_PLAYABLE,YES,YES,YES,YES
+8,Brandon Nimmo,Texas Rangers,Arizona Diamondbacks @ Texas Rangers,Ryne Nelson,573,60.80,69.50,73.90,50.00,56.00,2,0,50.00,73.90,23.90,1.20,65.70,MIXED_POSITIVE,LOW_MEDIUM,LEANS_PLAYABLE,YES,YES,YES,YES
+9,Corbin Carroll,Arizona Diamondbacks,Arizona Diamondbacks @ Texas Rangers,Kumar Rocker,451,62.40,68.80,72.50,50.00,56.00,2,0,50.00,72.50,22.50,1.13,65.67,MIXED_POSITIVE,LOW_MEDIUM,LEANS_PLAYABLE,YES,YES,YES,YES
+10,Joc Pederson,Texas Rangers,Arizona Diamondbacks @ Texas Rangers,Ryne Nelson,590,58.90,67.10,71.50,50.00,56.00,2,0,50.00,71.50,21.50,1.07,64.19,MIXED_POSITIVE,LOW_MEDIUM,LEANS_PLAYABLE,YES,YES,YES,YES
+11,Jake Burger,Texas Rangers,Arizona Diamondbacks @ Texas Rangers,Ryne Nelson,470,61.90,65.90,72.30,50.00,56.00,1,0,50.00,72.30,22.30,1.11,63.38,MIXED_POSITIVE,LOW,THIN,YES,YES,YES,YES
+12,Seiya Suzuki,Chicago Cubs,Chicago Cubs @ Atlanta Braves,JR Ritchie,425,62.80,67.20,66.60,47.20,52.00,2,0,47.20,67.20,20.00,1.00,63.18,MIXED_POSITIVE,LOW_MEDIUM,LEANS_PLAYABLE,YES,YES,YES,YES
+13,Ketel Marte,Arizona Diamondbacks,Arizona Diamondbacks @ Texas Rangers,Kumar Rocker,426,61.70,65.70,71.50,50.00,56.00,1,0,50.00,71.50,21.50,1.07,63.14,MIXED_POSITIVE,LOW,THIN,YES,YES,YES,YES
 14,Pete Crow-Armstrong,Chicago Cubs,Chicago Cubs @ Atlanta Braves,JR Ritchie,550,60.80,69.10,66.50,47.20,52.00,2,0,47.20,69.10,21.90,1.09,63.03,MIXED_POSITIVE,LOW_MEDIUM,LEANS_PLAYABLE,YES,YES,YES,YES
 15,Dansby Swanson,Chicago Cubs,Chicago Cubs @ Atlanta Braves,JR Ritchie,650,60.60,68.20,68.60,47.20,49.00,2,0,47.20,68.60,21.40,1.07,62.76,MIXED_POSITIVE,LOW_MEDIUM,LEANS_PLAYABLE,YES,YES,YES,YES
-16,Michael Busch,Chicago Cubs,Chicago Cubs @ Atlanta Braves,JR Ritchie,450,61.60,67.50,65.60,47.20,52.00,1,0,47.20,67.50,20.30,1.01,61.31,MIXED_POSITIVE,LOW,THIN,YES,YES,YES,YES
-17,Josh Jung,Texas Rangers,Arizona Diamondbacks @ Texas Rangers,Ryne Nelson,550,57.70,62.80,69.50,50.30,56.00,1,0,50.30,69.50,19.20,0.96,61.10,MIXED_POSITIVE,LOW,THIN,YES,YES,YES,YES
-18,Colson Montgomery,Chicago White Sox,Kansas City Royals @ Chicago White Sox,Seth Lugo,350,57.10,60.90,74.80,48.60,55.00,1,0,48.60,74.80,26.20,1.31,61.00,MIXED_POSITIVE,LOW,THIN,YES,YES,YES,YES
-19,Will Smith,Los Angeles Dodgers,San Francisco Giants @ Los Angeles Dodgers,Robbie Ray,420,55.90,60.40,74.00,51.10,56.00,1,0,51.10,74.00,22.90,1.15,60.98,MIXED_POSITIVE,LOW,THIN,YES,YES,YES,YES
-20,Freddie Freeman,Los Angeles Dodgers,San Francisco Giants @ Los Angeles Dodgers,Robbie Ray,520,55.30,59.40,75.40,51.10,56.00,1,0,51.10,75.40,24.30,1.22,60.83,MIXED_POSITIVE,LOW,THIN,YES,YES,YES,YES
-21,Andy Pages,Los Angeles Dodgers,San Francisco Giants @ Los Angeles Dodgers,Robbie Ray,490,54.50,59.10,75.60,51.10,56.00,1,0,51.10,75.60,24.50,1.22,60.59,MIXED_POSITIVE,LOW,THIN,YES,YES,YES,YES
-22,Evan Carter,Texas Rangers,Arizona Diamondbacks @ Texas Rangers,Ryne Nelson,770,55.20,64.70,68.90,50.30,53.00,1,0,50.30,68.90,18.60,0.93,60.33,MIXED_POSITIVE,LOW,THIN,YES,YES,YES,YES
-23,Gabriel Moreno,Arizona Diamondbacks,Arizona Diamondbacks @ Texas Rangers,Kumar Rocker,1000,57.10,65.80,67.60,50.30,48.00,1,0,48.00,67.60,19.60,0.98,59.88,MIXED,LOW,THIN,YES,YES,YES,YES
-24,Matt Olson,Atlanta Braves,Chicago Cubs @ Atlanta Braves,Shota Imanaga,400,54.60,57.80,76.70,47.20,55.00,1,0,47.20,76.70,29.50,1.48,59.74,MIXED,LOW,THIN,YES,YES,YES,YES
-25,Michael Harris II,Atlanta Braves,Chicago Cubs @ Atlanta Braves,Shota Imanaga,590,52.50,60.10,79.10,47.20,52.00,1,0,47.20,79.10,31.90,1.59,59.71,MIXED,LOW,THIN,YES,YES,YES,YES
-26,Miguel Vargas,Chicago White Sox,Kansas City Royals @ Chicago White Sox,Seth Lugo,550,55.70,60.50,70.40,48.60,52.00,1,0,48.60,70.40,21.80,1.09,59.25,MIXED,LOW,THIN,YES,YES,YES,YES
-27,Teoscar Hernández,Los Angeles Dodgers,San Francisco Giants @ Los Angeles Dodgers,Robbie Ray,440,54.10,57.50,70.60,51.10,56.00,1,0,51.10,70.60,19.50,0.97,59.19,MIXED,LOW,THIN,YES,YES,YES,YES
-28,Carson Kelly,Chicago Cubs,Chicago Cubs @ Atlanta Braves,JR Ritchie,680,59.10,67.00,60.80,47.20,49.00,1,0,47.20,67.00,19.80,0.99,58.97,MIXED,LOW,THIN,YES,YES,YES,YES
-29,Salvador Perez,Kansas City Royals,Kansas City Royals @ Chicago White Sox,Noah Schultz,430,57.10,59.40,67.60,48.60,52.00,1,0,48.60,67.60,19.00,0.95,58.82,MIXED,LOW,THIN,YES,YES,YES,YES
-30,Dalton Rushing,Los Angeles Dodgers,San Francisco Giants @ Los Angeles Dodgers,Robbie Ray,520,54.10,56.10,68.70,51.10,56.00,1,0,51.10,68.70,17.60,0.88,58.50,MIXED,LOW,THIN,YES,YES,YES,YES
-31,Vladimir Guerrero Jr.,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,Griffin Jax,544,58.80,62.80,65.10,45.70,56.00,0,0,45.70,65.10,19.40,0.97,58.49,MIXED,LOW,THIN,YES,YES,YES,YES
-32,Adrian Del Castillo,Arizona Diamondbacks,Arizona Diamondbacks @ Texas Rangers,Kumar Rocker,780,55.50,63.60,64.80,50.30,53.00,0,0,50.30,64.80,14.50,0.73,57.99,MIXED,LOW,THIN,YES,YES,YES,YES
-33,Ezequiel Duran,Texas Rangers,Arizona Diamondbacks @ Texas Rangers,Ryne Nelson,930,53.50,62.40,66.40,50.30,48.00,1,0,48.00,66.40,18.40,0.92,57.92,MIXED,LOW,THIN,YES,YES,YES,YES
+16,Colson Montgomery,Chicago White Sox,Kansas City Royals @ Chicago White Sox,Seth Lugo,350,57.30,61.00,74.80,51.60,61.00,1,0,51.60,74.80,23.20,1.16,62.55,MIXED_POSITIVE,LOW,THIN,YES,YES,YES,YES
+17,Michael Busch,Chicago Cubs,Chicago Cubs @ Atlanta Braves,JR Ritchie,450,61.60,67.50,65.60,47.20,52.00,1,0,47.20,67.50,20.30,1.01,61.31,MIXED_POSITIVE,LOW,THIN,YES,YES,YES,YES
+18,Josh Jung,Texas Rangers,Arizona Diamondbacks @ Texas Rangers,Ryne Nelson,550,57.70,62.80,69.50,50.00,56.00,1,0,50.00,69.50,19.50,0.98,61.05,MIXED_POSITIVE,LOW,THIN,YES,YES,YES,YES
+19,Miguel Vargas,Chicago White Sox,Kansas City Royals @ Chicago White Sox,Seth Lugo,550,55.90,60.60,70.40,51.60,58.00,1,0,51.60,70.40,18.80,0.94,60.80,MIXED_POSITIVE,LOW,THIN,YES,YES,YES,YES
+20,Will Smith,Los Angeles Dodgers,San Francisco Giants @ Los Angeles Dodgers,Robbie Ray,420,55.90,60.40,74.00,49.50,56.00,1,0,49.50,74.00,24.50,1.23,60.74,MIXED_POSITIVE,LOW,THIN,YES,YES,YES,YES
+21,Freddie Freeman,Los Angeles Dodgers,San Francisco Giants @ Los Angeles Dodgers,Robbie Ray,520,55.30,59.40,75.40,49.50,56.00,1,0,49.50,75.40,25.90,1.30,60.59,MIXED_POSITIVE,LOW,THIN,YES,YES,YES,YES
+22,Salvador Perez,Kansas City Royals,Kansas City Royals @ Chicago White Sox,Noah Schultz,430,57.30,59.50,67.60,51.60,58.00,1,0,51.60,67.60,16.00,0.80,60.37,MIXED_POSITIVE,LOW,THIN,YES,YES,YES,YES
+23,Andy Pages,Los Angeles Dodgers,San Francisco Giants @ Los Angeles Dodgers,Robbie Ray,490,54.50,59.10,75.60,49.50,56.00,1,0,49.50,75.60,26.10,1.30,60.35,MIXED_POSITIVE,LOW,THIN,YES,YES,YES,YES
+24,Evan Carter,Texas Rangers,Arizona Diamondbacks @ Texas Rangers,Ryne Nelson,770,55.20,64.70,68.90,50.00,53.00,1,0,50.00,68.90,18.90,0.95,60.29,MIXED_POSITIVE,LOW,THIN,YES,YES,YES,YES
+25,Gabriel Moreno,Arizona Diamondbacks,Arizona Diamondbacks @ Texas Rangers,Kumar Rocker,1000,57.10,65.80,67.60,50.00,48.00,1,0,48.00,67.60,19.60,0.98,59.85,MIXED,LOW,THIN,YES,YES,YES,YES
+26,Matt Olson,Atlanta Braves,Chicago Cubs @ Atlanta Braves,Shota Imanaga,400,54.60,57.80,76.70,47.20,55.00,1,0,47.20,76.70,29.50,1.48,59.74,MIXED,LOW,THIN,YES,YES,YES,YES
+27,Michael Harris II,Atlanta Braves,Chicago Cubs @ Atlanta Braves,Shota Imanaga,590,52.50,60.10,79.10,47.20,52.00,1,0,47.20,79.10,31.90,1.59,59.71,MIXED,LOW,THIN,YES,YES,YES,YES
+28,Andrew Benintendi,Chicago White Sox,Kansas City Royals @ Chicago White Sox,Seth Lugo,650,53.60,58.00,70.20,51.60,55.00,1,0,51.60,70.20,18.60,0.93,59.03,MIXED,LOW,THIN,YES,YES,YES,YES
+29,Carson Kelly,Chicago Cubs,Chicago Cubs @ Atlanta Braves,JR Ritchie,680,59.10,67.00,60.80,47.20,49.00,1,0,47.20,67.00,19.80,0.99,58.97,MIXED,LOW,THIN,YES,YES,YES,YES
+30,Teoscar Hernández,Los Angeles Dodgers,San Francisco Giants @ Los Angeles Dodgers,Robbie Ray,440,54.10,57.50,70.60,49.50,56.00,1,0,49.50,70.60,21.10,1.05,58.95,MIXED,LOW,THIN,YES,YES,YES,YES
+31,Dalton Rushing,Los Angeles Dodgers,San Francisco Giants @ Los Angeles Dodgers,Robbie Ray,520,54.10,56.10,68.70,49.50,56.00,1,0,49.50,68.70,19.20,0.96,58.26,MIXED,LOW,THIN,YES,YES,YES,YES
+32,Adrian Del Castillo,Arizona Diamondbacks,Arizona Diamondbacks @ Texas Rangers,Kumar Rocker,780,55.50,63.60,64.80,50.00,53.00,0,0,50.00,64.80,14.80,0.74,57.95,MIXED,LOW,THIN,YES,YES,YES,YES
+33,Ezequiel Duran,Texas Rangers,Arizona Diamondbacks @ Texas Rangers,Ryne Nelson,930,53.50,62.40,66.40,50.00,48.00,1,0,48.00,66.40,18.40,0.92,57.89,MIXED,LOW,THIN,YES,YES,YES,YES
 34,Alex Bregman,Chicago Cubs,Chicago Cubs @ Atlanta Braves,JR Ritchie,576,58.80,64.30,61.30,47.20,52.00,0,0,47.20,64.30,17.10,0.85,57.58,MIXED,LOW,THIN,YES,YES,YES,YES
-35,Andrew Benintendi,Chicago White Sox,Kansas City Royals @ Chicago White Sox,Seth Lugo,650,53.40,57.90,70.20,48.60,49.00,1,0,48.60,70.20,21.60,1.08,57.48,MIXED,LOW,THIN,YES,YES,YES,YES
-36,George Springer,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,Griffin Jax,503,58.30,59.60,62.20,45.70,56.00,0,0,45.70,62.20,16.50,0.83,57.05,MIXED,LOW,THIN,YES,YES,YES,YES
-37,Daulton Varsho,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,Griffin Jax,520,55.70,59.60,65.60,45.70,56.00,0,0,45.70,65.60,19.90,0.99,57.01,MIXED,LOW,THIN,YES,YES,YES,YES
-38,Casey Schmitt,San Francisco Giants,San Francisco Giants @ Los Angeles Dodgers,Shohei Ohtani,550,47.60,52.20,74.50,51.10,56.00,1,0,47.60,74.50,26.90,1.34,56.77,MIXED,LOW,THIN,YES,YES,YES,YES
-39,Jesús Sánchez,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,Griffin Jax,690,56.10,63.00,60.80,45.70,53.00,0,0,45.70,63.00,17.30,0.86,56.47,MIXED,LOW,THIN,YES,YES,YES,YES
-40,Junior Caminero,Tampa Bay Rays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,440,51.60,51.30,71.70,45.70,56.00,1,0,45.70,71.70,26.00,1.30,56.41,MIXED,LOW,THIN,YES,YES,YES,YES
-41,Kyle Tucker,Los Angeles Dodgers,San Francisco Giants @ Los Angeles Dodgers,Robbie Ray,533,50.70,52.20,67.20,51.10,56.00,1,0,50.70,67.20,16.50,0.83,56.39,MIXED,LOW,THIN,YES,YES,YES,YES
-42,Heliot Ramos,San Francisco Giants,San Francisco Giants @ Los Angeles Dodgers,Shohei Ohtani,575,46.80,51.10,75.20,51.10,56.00,1,0,46.80,75.20,28.40,1.42,56.38,MIXED,LOW,THIN,YES,YES,YES,YES
-43,Drake Baldwin,Atlanta Braves,Chicago Cubs @ Atlanta Braves,Shota Imanaga,525,49.80,53.90,71.90,47.20,52.00,1,0,47.20,71.90,24.70,1.24,56.19,MIXED,LOW,THIN,YES,YES,YES,YES
-44,Carter Jensen,Kansas City Royals,Kansas City Royals @ Chicago White Sox,Noah Schultz,800,54.90,59.50,65.20,48.60,49.00,0,0,48.60,65.20,16.60,0.83,55.96,MIXED,LOW,THIN,YES,YES,YES,YES
-45,Austin Riley,Atlanta Braves,Chicago Cubs @ Atlanta Braves,Shota Imanaga,441,47.90,51.90,75.80,47.20,52.00,1,0,47.20,75.80,28.60,1.43,55.91,MIXED,LOW,THIN,YES,YES,YES,YES
-46,Danny Jansen,Texas Rangers,Arizona Diamondbacks @ Texas Rangers,Ryne Nelson,620,54.50,57.70,61.20,50.30,53.00,0,0,50.30,61.20,10.90,0.55,55.62,MIXED,LOW,THIN,YES,YES,YES,YES
-47,Isaac Collins,Kansas City Royals,Kansas City Royals @ Chicago White Sox,Noah Schultz,850,52.90,59.70,64.50,48.60,49.00,0,0,48.60,64.50,15.90,0.79,55.38,MIXED,LOW,THIN,YES,YES,YES,YES
-48,Maikel Garcia,Kansas City Royals,Kansas City Royals @ Chicago White Sox,Noah Schultz,725,52.00,59.20,64.20,48.60,49.00,0,0,48.60,64.20,15.60,0.78,54.98,MIXED,LOW,THIN,YES,YES,YES,YES
-49,Nolan Arenado,Arizona Diamondbacks,Arizona Diamondbacks @ Texas Rangers,Kumar Rocker,840,52.00,56.70,60.90,50.30,53.00,0,0,50.30,60.90,10.60,0.53,54.69,MIXED,LOW,THIN,YES,YES,YES,YES
-50,Vinnie Pasquantino,Kansas City Royals,Kansas City Royals @ Chicago White Sox,Noah Schultz,680,54.00,57.00,62.80,48.60,49.00,0,0,48.60,62.80,14.20,0.71,54.67,MIXED,LOW,THIN,YES,YES,YES,YES
-51,James McCann,Arizona Diamondbacks,Arizona Diamondbacks @ Texas Rangers,Kumar Rocker,950,51.80,57.90,60.30,50.30,48.00,0,0,48.00,60.30,12.30,0.61,53.87,MIXED,LOW,THIN,YES,YES,YES,YES
-52,Mookie Betts,Los Angeles Dodgers,San Francisco Giants @ Los Angeles Dodgers,Robbie Ray,390,51.30,51.10,58.70,51.10,59.00,0,0,51.10,59.00,7.90,0.39,53.85,MIXED,LOW,THIN,YES,YES,YES,YES
-53,Lourdes Gurriel Jr.,Arizona Diamondbacks,Arizona Diamondbacks @ Texas Rangers,Kumar Rocker,890,50.70,54.80,58.80,50.30,48.00,0,0,48.00,58.80,10.80,0.54,52.55,MIXED,LOW,THIN,YES,YES,YES,YES
-54,Lane Thomas,Kansas City Royals,Kansas City Royals @ Chicago White Sox,Noah Schultz,680,49.60,52.20,61.00,48.60,49.00,0,0,48.60,61.00,12.40,0.62,52.05,MIXED,LOW,THIN,YES,YES,YES,YES
-55,Alejandro Osuna,Texas Rangers,Arizona Diamondbacks @ Texas Rangers,Ryne Nelson,1220,50.00,60.60,48.40,50.30,48.00,0,0,48.00,60.60,12.60,0.63,51.34,WEAK,LOW,THIN,YES,YES,YES,YES
-56,Geraldo Perdomo,Arizona Diamondbacks,Arizona Diamondbacks @ Texas Rangers,Kumar Rocker,1100,48.40,53.90,56.20,50.30,48.00,0,0,48.00,56.20,8.20,0.41,51.28,WEAK,LOW,THIN,YES,YES,YES,YES
-57,Jonathan Aranda,Tampa Bay Rays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,720,45.40,49.50,64.00,45.70,53.00,0,0,45.40,64.00,18.60,0.93,51.09,WEAK,LOW,THIN,YES,YES,YES,YES
-58,Andrés Giménez,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,Griffin Jax,1120,47.90,55.10,55.60,45.70,48.00,0,0,45.70,55.60,9.90,0.49,50.77,WEAK,LOW,THIN,YES,YES,YES,YES
-59,Tyler Heineman,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,Griffin Jax,1280,50.00,55.00,52.80,45.70,48.00,0,0,45.70,55.00,9.30,0.46,50.66,WEAK,LOW,THIN,YES,YES,YES,YES
-60,Ernie Clement,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,Griffin Jax,1200,47.60,52.90,55.10,45.70,48.00,0,0,45.70,55.10,9.40,0.47,50.06,WEAK,LOW,THIN,YES,YES,YES,YES
-61,Rafael Devers,San Francisco Giants,San Francisco Giants @ Los Angeles Dodgers,Shohei Ohtani,525,43.30,46.00,68.00,51.10,56.00,1,1,43.30,68.00,24.70,1.24,49.26,WEAK,LOW,THIN,YES,YES,YES,YES
-62,Nick Loftin,Kansas City Royals,Kansas City Royals @ Chicago White Sox,Noah Schultz,940,48.30,56.30,63.10,48.60,44.00,0,1,44.00,63.10,19.10,0.96,48.55,WEAK,LOW,THIN,YES,YES,YES,YES
-63,Nico Hoerner,Chicago Cubs,Chicago Cubs @ Atlanta Braves,JR Ritchie,1280,49.10,57.10,56.60,47.20,44.00,0,1,44.00,57.10,13.10,0.66,47.61,WEAK,LOW,THIN,YES,YES,YES,YES
+35,Carter Jensen,Kansas City Royals,Kansas City Royals @ Chicago White Sox,Noah Schultz,800,55.10,59.60,65.20,51.60,55.00,0,0,51.60,65.20,13.60,0.68,57.50,MIXED,LOW,THIN,YES,YES,YES,YES
+36,Isaac Collins,Kansas City Royals,Kansas City Royals @ Chicago White Sox,Noah Schultz,850,53.10,59.80,64.50,51.60,55.00,0,0,51.60,64.50,12.90,0.65,56.92,MIXED,LOW,THIN,YES,YES,YES,YES
+37,Casey Schmitt,San Francisco Giants,San Francisco Giants @ Los Angeles Dodgers,Shohei Ohtani,550,47.60,52.20,74.50,49.50,56.00,1,0,47.60,74.50,26.90,1.34,56.61,MIXED,LOW,THIN,YES,YES,YES,YES
+38,Maikel Garcia,Kansas City Royals,Kansas City Royals @ Chicago White Sox,Noah Schultz,725,52.20,59.30,64.20,51.60,55.00,0,0,51.60,64.20,12.60,0.63,56.52,MIXED,LOW,THIN,YES,YES,YES,YES
+39,Vinnie Pasquantino,Kansas City Royals,Kansas City Royals @ Chicago White Sox,Noah Schultz,680,54.20,57.20,62.80,51.60,55.00,0,0,51.60,62.80,11.20,0.56,56.24,MIXED,LOW,THIN,YES,YES,YES,YES
+40,Heliot Ramos,San Francisco Giants,San Francisco Giants @ Los Angeles Dodgers,Shohei Ohtani,575,46.80,51.10,75.20,49.50,56.00,1,0,46.80,75.20,28.40,1.42,56.22,MIXED,LOW,THIN,YES,YES,YES,YES
+41,Drake Baldwin,Atlanta Braves,Chicago Cubs @ Atlanta Braves,Shota Imanaga,525,49.80,53.90,71.90,47.20,52.00,1,0,47.20,71.90,24.70,1.24,56.19,MIXED,LOW,THIN,YES,YES,YES,YES
+42,Kyle Tucker,Los Angeles Dodgers,San Francisco Giants @ Los Angeles Dodgers,Robbie Ray,533,50.70,52.20,67.20,49.50,56.00,1,0,49.50,67.20,17.70,0.89,56.17,MIXED,LOW,THIN,YES,YES,YES,YES
+43,Austin Riley,Atlanta Braves,Chicago Cubs @ Atlanta Braves,Shota Imanaga,441,47.90,51.90,75.80,47.20,52.00,1,0,47.20,75.80,28.60,1.43,55.91,MIXED,LOW,THIN,YES,YES,YES,YES
+44,Danny Jansen,Texas Rangers,Arizona Diamondbacks @ Texas Rangers,Ryne Nelson,620,54.50,57.70,61.20,50.00,53.00,0,0,50.00,61.20,11.20,0.56,55.58,MIXED,LOW,THIN,YES,YES,YES,YES
+45,Vladimir Guerrero Jr.,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,Griffin Jax,544,58.80,62.80,65.10,44.10,56.00,0,1,44.10,65.10,21.00,1.05,54.75,MIXED,LOW,THIN,YES,YES,YES,YES
+46,Nolan Arenado,Arizona Diamondbacks,Arizona Diamondbacks @ Texas Rangers,Kumar Rocker,840,52.00,56.70,60.90,50.00,53.00,0,0,50.00,60.90,10.90,0.54,54.65,MIXED,LOW,THIN,YES,YES,YES,YES
+47,James McCann,Arizona Diamondbacks,Arizona Diamondbacks @ Texas Rangers,Kumar Rocker,950,51.80,57.90,60.30,50.00,48.00,0,0,48.00,60.30,12.30,0.61,53.84,MIXED,LOW,THIN,YES,YES,YES,YES
+48,Nick Loftin,Kansas City Royals,Kansas City Royals @ Chicago White Sox,Noah Schultz,940,48.50,56.40,63.10,51.60,50.00,0,0,48.50,63.10,14.60,0.73,53.67,MIXED,LOW,THIN,YES,YES,YES,YES
+49,Mookie Betts,Los Angeles Dodgers,San Francisco Giants @ Los Angeles Dodgers,Robbie Ray,390,51.30,51.10,58.70,49.50,59.00,0,0,49.50,59.00,9.50,0.48,53.61,MIXED,LOW,THIN,YES,YES,YES,YES
+50,Lane Thomas,Kansas City Royals,Kansas City Royals @ Chicago White Sox,Noah Schultz,680,49.80,52.30,61.00,51.60,55.00,0,0,49.80,61.00,11.20,0.56,53.51,MIXED,LOW,THIN,YES,YES,YES,YES
+51,George Springer,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,Griffin Jax,503,58.30,59.60,62.20,44.10,56.00,0,1,44.10,62.20,18.10,0.91,53.31,MIXED,LOW,THIN,YES,YES,YES,YES
+52,Daulton Varsho,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,Griffin Jax,520,55.70,59.60,65.60,44.10,56.00,0,1,44.10,65.60,21.50,1.07,53.27,MIXED,LOW,THIN,YES,YES,YES,YES
+53,Jesús Sánchez,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,Griffin Jax,690,56.10,63.00,60.80,44.10,53.00,0,1,44.10,63.00,18.90,0.94,52.73,MIXED,LOW,THIN,YES,YES,YES,YES
+54,Junior Caminero,Tampa Bay Rays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,440,51.60,51.30,71.70,44.10,56.00,1,1,44.10,71.70,27.60,1.38,52.67,MIXED,LOW,THIN,YES,YES,YES,YES
+55,Lourdes Gurriel Jr.,Arizona Diamondbacks,Arizona Diamondbacks @ Texas Rangers,Kumar Rocker,890,50.70,54.80,58.80,50.00,48.00,0,0,48.00,58.80,10.80,0.54,52.52,MIXED,LOW,THIN,YES,YES,YES,YES
+56,Alejandro Osuna,Texas Rangers,Arizona Diamondbacks @ Texas Rangers,Ryne Nelson,1220,50.00,60.60,48.40,50.00,48.00,0,0,48.00,60.60,12.60,0.63,51.31,WEAK,LOW,THIN,YES,YES,YES,YES
+57,Geraldo Perdomo,Arizona Diamondbacks,Arizona Diamondbacks @ Texas Rangers,Kumar Rocker,1100,48.40,53.90,56.20,50.00,48.00,0,0,48.00,56.20,8.20,0.41,51.25,WEAK,LOW,THIN,YES,YES,YES,YES
+58,Rafael Devers,San Francisco Giants,San Francisco Giants @ Los Angeles Dodgers,Shohei Ohtani,525,43.30,46.00,68.00,49.50,56.00,1,1,43.30,68.00,24.70,1.24,49.10,WEAK,LOW,THIN,YES,YES,YES,YES
+59,Nico Hoerner,Chicago Cubs,Chicago Cubs @ Atlanta Braves,JR Ritchie,1280,49.10,57.10,56.60,47.20,44.00,0,1,44.00,57.10,13.10,0.66,47.61,WEAK,LOW,THIN,YES,YES,YES,YES
+60,Jonathan Aranda,Tampa Bay Rays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,720,45.40,49.50,64.00,44.10,53.00,0,1,44.10,64.00,19.90,0.99,47.37,WEAK,LOW,THIN,YES,YES,YES,YES
+61,Andrés Giménez,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,Griffin Jax,1120,47.90,55.10,55.60,44.10,48.00,0,1,44.10,55.60,11.50,0.58,47.03,WEAK,LOW,THIN,YES,YES,YES,YES
+62,Tyler Heineman,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,Griffin Jax,1280,50.00,55.00,52.80,44.10,48.00,0,1,44.10,55.00,10.90,0.54,46.92,WEAK,LOW,THIN,YES,YES,YES,YES
+63,Ernie Clement,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,Griffin Jax,1200,47.60,52.90,55.10,44.10,48.00,0,1,44.10,55.10,11.00,0.55,46.32,WEAK,LOW,THIN,YES,YES,YES,YES
 64,Jorge Mateo,Atlanta Braves,Chicago Cubs @ Atlanta Braves,Shota Imanaga,960,41.30,50.90,70.70,47.20,44.00,1,2,41.30,70.70,29.40,1.47,44.44,WEAK,LOW,FADE,YES,YES,YES,YES
-65,Harrison Bader,San Francisco Giants,San Francisco Giants @ Los Angeles Dodgers,Shohei Ohtani,900,38.10,45.10,65.20,51.10,48.00,0,1,38.10,65.20,27.10,1.36,44.21,WEAK,LOW,THIN,YES,YES,YES,YES
-66,Ha-Seong Kim,Atlanta Braves,Chicago Cubs @ Atlanta Braves,Shota Imanaga,680,46.50,44.70,50.00,47.20,49.00,0,1,44.70,50.00,5.30,0.26,43.58,FADE,LOW,THIN,YES,YES,YES,YES
-67,Yandy Díaz,Tampa Bay Rays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,770,42.60,44.40,61.70,45.70,53.00,0,2,42.60,61.70,19.10,0.96,41.57,FADE,LOW,FADE,YES,YES,YES,YES
-68,Willy Adames,San Francisco Giants,San Francisco Giants @ Los Angeles Dodgers,Shohei Ohtani,720,40.10,42.90,61.80,51.10,53.00,0,2,40.10,61.80,21.70,1.08,41.00,FADE,LOW,FADE,YES,YES,YES,YES
-69,Chase Meidroth,Chicago White Sox,Kansas City Royals @ Chicago White Sox,Seth Lugo,1200,42.30,45.20,55.90,48.60,44.00,0,2,42.30,55.90,13.60,0.68,39.39,FADE,LOW,FADE,YES,YES,YES,YES
-70,Ozzie Albies,Atlanta Braves,Chicago Cubs @ Atlanta Braves,Shota Imanaga,518,38.40,39.60,62.70,47.20,52.00,0,2,38.40,62.70,24.30,1.22,39.27,FADE,LOW,FADE,YES,YES,YES,YES
-71,Jake Fraley,Tampa Bay Rays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,940,39.70,42.60,56.20,45.70,48.00,0,2,39.70,56.20,16.50,0.83,38.41,FADE,LOW,FADE,YES,YES,YES,YES
-72,Nick Fortes,Tampa Bay Rays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,1100,39.80,41.80,56.80,45.70,48.00,0,2,39.80,56.80,17.00,0.85,38.34,FADE,LOW,FADE,YES,YES,YES,YES
-73,Mike Yastrzemski,Atlanta Braves,Chicago Cubs @ Atlanta Braves,Shota Imanaga,620,39.80,38.10,57.60,47.20,49.00,0,2,38.10,57.60,19.50,0.98,37.80,FADE,LOW,FADE,YES,YES,YES,YES
-74,Taylor Walls,Tampa Bay Rays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,1300,37.80,41.10,56.00,45.70,48.00,0,2,37.80,56.00,18.20,0.91,37.43,FADE,LOW,FADE,YES,YES,YES,YES
-75,Jesus Rodriguez,San Francisco Giants,San Francisco Giants @ Los Angeles Dodgers,Shohei Ohtani,1220,36.50,40.30,55.90,51.10,48.00,0,2,36.50,55.90,19.40,0.97,37.36,FADE,LOW,FADE,YES,YES,YES,YES
-76,Ben Williamson,Tampa Bay Rays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,1300,37.50,40.00,56.00,45.70,48.00,0,2,37.50,56.00,18.50,0.93,37.06,FADE,LOW,FADE,YES,YES,YES,YES
-77,Matt Chapman,San Francisco Giants,San Francisco Giants @ Los Angeles Dodgers,Shohei Ohtani,790,35.60,35.80,56.60,51.10,53.00,0,2,35.60,56.60,21.00,1.05,36.94,FADE,LOW,FADE,YES,YES,YES,YES
-78,Jung Hoo Lee,San Francisco Giants,San Francisco Giants @ Los Angeles Dodgers,Shohei Ohtani,1080,32.90,37.90,61.30,51.10,48.00,0,2,32.90,61.30,28.40,1.42,36.65,FADE,LOW,FADE,YES,YES,YES,YES
-79,Luis Arraez,San Francisco Giants,San Francisco Giants @ Los Angeles Dodgers,Shohei Ohtani,1500,33.60,39.90,56.00,51.10,48.00,0,2,33.60,56.00,22.40,1.12,36.41,FADE,LOW,FADE,YES,YES,YES,YES
-80,Chandler Simpson,Tampa Bay Rays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,2200,37.40,42.20,48.40,45.70,48.00,0,2,37.40,48.40,11.00,0.55,36.21,FADE,LOW,FADE,YES,YES,YES,YES
-81,Cedric Mullins,Tampa Bay Rays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,980,36.10,38.20,55.20,45.70,48.00,0,2,36.10,55.20,19.10,0.96,36.05,FADE,LOW,FADE,YES,YES,YES,YES
-82,Ryan Vilade,Tampa Bay Rays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,1060,37.50,38.70,49.80,45.70,48.00,0,2,37.50,49.80,12.30,0.61,35.62,FADE,LOW,FADE,YES,YES,YES,YES
-83,Jonny DeLuca,Tampa Bay Rays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,990,37.00,37.40,51.30,45.70,48.00,0,2,37.00,51.30,14.30,0.71,35.41,FADE,LOW,FADE,YES,YES,YES,YES
-84,Mauricio Dubón,Atlanta Braves,Chicago Cubs @ Atlanta Braves,Shota Imanaga,890,35.30,41.20,59.10,47.20,44.00,0,3,35.30,59.10,23.80,1.19,33.73,FADE,LOW,FADE,YES,YES,YES,YES
+65,Chase Meidroth,Chicago White Sox,Kansas City Royals @ Chicago White Sox,Seth Lugo,1200,42.60,45.30,55.90,51.60,50.00,0,1,42.60,55.90,13.30,0.66,44.33,WEAK,LOW,THIN,YES,YES,YES,YES
+66,Harrison Bader,San Francisco Giants,San Francisco Giants @ Los Angeles Dodgers,Shohei Ohtani,900,38.10,45.10,65.20,49.50,48.00,0,1,38.10,65.20,27.10,1.36,44.05,WEAK,LOW,THIN,YES,YES,YES,YES
+67,Ha-Seong Kim,Atlanta Braves,Chicago Cubs @ Atlanta Braves,Shota Imanaga,680,46.50,44.70,50.00,47.20,49.00,0,1,44.70,50.00,5.30,0.26,43.58,FADE,LOW,THIN,YES,YES,YES,YES
+68,Willy Adames,San Francisco Giants,San Francisco Giants @ Los Angeles Dodgers,Shohei Ohtani,720,40.10,42.90,61.80,49.50,53.00,0,2,40.10,61.80,21.70,1.08,40.84,FADE,LOW,FADE,YES,YES,YES,YES
+69,Ozzie Albies,Atlanta Braves,Chicago Cubs @ Atlanta Braves,Shota Imanaga,518,38.40,39.60,62.70,47.20,52.00,0,2,38.40,62.70,24.30,1.22,39.27,FADE,LOW,FADE,YES,YES,YES,YES
+70,Yandy Díaz,Tampa Bay Rays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,770,42.60,44.40,61.70,44.10,53.00,0,3,42.60,61.70,19.10,0.96,38.41,FADE,LOW,FADE,YES,YES,YES,YES
+71,Mike Yastrzemski,Atlanta Braves,Chicago Cubs @ Atlanta Braves,Shota Imanaga,620,39.80,38.10,57.60,47.20,49.00,0,2,38.10,57.60,19.50,0.98,37.80,FADE,LOW,FADE,YES,YES,YES,YES
+72,Jesus Rodriguez,San Francisco Giants,San Francisco Giants @ Los Angeles Dodgers,Shohei Ohtani,1220,36.50,40.30,55.90,49.50,48.00,0,2,36.50,55.90,19.40,0.97,37.20,FADE,LOW,FADE,YES,YES,YES,YES
+73,Matt Chapman,San Francisco Giants,San Francisco Giants @ Los Angeles Dodgers,Shohei Ohtani,790,35.60,35.80,56.60,49.50,53.00,0,2,35.60,56.60,21.00,1.05,36.78,FADE,LOW,FADE,YES,YES,YES,YES
+74,Jung Hoo Lee,San Francisco Giants,San Francisco Giants @ Los Angeles Dodgers,Shohei Ohtani,1080,32.90,37.90,61.30,49.50,48.00,0,2,32.90,61.30,28.40,1.42,36.49,FADE,LOW,FADE,YES,YES,YES,YES
+75,Luis Arraez,San Francisco Giants,San Francisco Giants @ Los Angeles Dodgers,Shohei Ohtani,1500,33.60,39.90,56.00,49.50,48.00,0,2,33.60,56.00,22.40,1.12,36.25,FADE,LOW,FADE,YES,YES,YES,YES
+76,Jake Fraley,Tampa Bay Rays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,940,39.70,42.60,56.20,44.10,48.00,0,3,39.70,56.20,16.50,0.83,35.25,FADE,LOW,FADE,YES,YES,YES,YES
+77,Nick Fortes,Tampa Bay Rays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,1100,39.80,41.80,56.80,44.10,48.00,0,3,39.80,56.80,17.00,0.85,35.18,FADE,LOW,FADE,YES,YES,YES,YES
+78,Taylor Walls,Tampa Bay Rays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,1300,37.80,41.10,56.00,44.10,48.00,0,3,37.80,56.00,18.20,0.91,34.27,FADE,LOW,FADE,YES,YES,YES,YES
+79,Ben Williamson,Tampa Bay Rays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,1300,37.50,40.00,56.00,44.10,48.00,0,3,37.50,56.00,18.50,0.93,33.90,FADE,LOW,FADE,YES,YES,YES,YES
+80,Mauricio Dubón,Atlanta Braves,Chicago Cubs @ Atlanta Braves,Shota Imanaga,890,35.30,41.20,59.10,47.20,44.00,0,3,35.30,59.10,23.80,1.19,33.73,FADE,LOW,FADE,YES,YES,YES,YES
+81,Chandler Simpson,Tampa Bay Rays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,2200,37.40,42.20,48.40,44.10,48.00,0,3,37.40,48.40,11.00,0.55,33.05,FADE,LOW,FADE,YES,YES,YES,YES
+82,Cedric Mullins,Tampa Bay Rays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,980,36.10,38.20,55.20,44.10,48.00,0,3,36.10,55.20,19.10,0.96,32.89,FADE,LOW,FADE,YES,YES,YES,YES
+83,Ryan Vilade,Tampa Bay Rays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,1060,37.50,38.70,49.80,44.10,48.00,0,3,37.50,49.80,12.30,0.61,32.46,FADE,LOW,FADE,YES,YES,YES,YES
+84,Jonny DeLuca,Tampa Bay Rays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,990,37.00,37.40,51.30,44.10,48.00,0,3,37.00,51.30,14.30,0.71,32.25,FADE,LOW,FADE,YES,YES,YES,YES
