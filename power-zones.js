@@ -577,3 +577,29 @@ sortSelect.addEventListener("change", render);
 document.getElementById("refreshBtn").addEventListener("click", loadData);
 
 loadData();
+
+
+document.addEventListener("DOMContentLoaded", function () {
+  setTimeout(function () {
+    var grid = document.querySelector(".power-grid, #powerGrid, .cards-grid, .players-grid");
+    if (!grid) return;
+
+    var observer = new MutationObserver(function () {
+      var hasCards = grid.children && grid.children.length > 0;
+      var existing = document.querySelector(".tsl-empty-power-zones");
+
+      if (!hasCards && !existing) {
+        var empty = document.createElement("div");
+        empty.className = "tsl-empty-power-zones";
+        empty.textContent = "No Power Zones match this search.";
+        grid.appendChild(empty);
+      }
+
+      if (hasCards && existing && grid.children.length > 1) {
+        existing.remove();
+      }
+    });
+
+    observer.observe(grid, { childList: true });
+  }, 700);
+});
