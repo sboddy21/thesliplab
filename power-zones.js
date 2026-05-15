@@ -163,7 +163,7 @@ function renderPlayerPhoto(player, size = "card") {
   }
 
   return '<div class="tsl-player-photo-wrap ' + size + '">' +
-    '<img class="tsl-player-photo" src="' + url + '" alt="' + String(player?.player || "Player").replaceAll('"', "") + '" loading="lazy" onerror="this.remove(); this.parentElement.innerHTML=\'<div class=&quot;tsl-player-photo-fallback ' + size + '&quot;>' + fallback + '</div>\';" />' +
+    '<img class="tsl-player-photo" src="' + url + '" alt="' + String(player?.player || "Player").replaceAll('"', "") + '" loading="lazy" onerror="this.style.display='none'; this.parentElement.classList.add('photo-failed'); this.parentElement.innerHTML=\'<div class=&quot;tsl-player-photo-fallback ' + size + '&quot;>' + fallback + '</div>\';" />' +
   '</div>';
 }
 
