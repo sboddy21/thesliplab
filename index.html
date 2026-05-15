@@ -19,11 +19,11 @@
 
   <nav class="tsl-pill-nav">
     <a class="tsl-pill-link active" href="index.html">Home</a>
-    <a class="tsl-pill-link active" href="#top-plays">Top Plays</a>
-    <a class="tsl-pill-link active" href="#value-plays">Value</a>
+    <a class="tsl-pill-link active" href="javascript:void(0)" data-scroll-target="top-plays">Top Plays</a>
+    <a class="tsl-pill-link active" href="javascript:void(0)" data-scroll-target="value-plays">Value</a>
     <a class="tsl-pill-link" href="power-zones.html">Power Zones</a>
     <div  class="scroll-anchor"></div>
-<a class="tsl-pill-link active" href="#stacks">Stacks</a>
+<a class="tsl-pill-link active" href="javascript:void(0)" data-scroll-target="stacks">Stacks</a>
     <div id="slate" class="scroll-anchor"></div>
 <a class="tsl-pill-link" href="slate.html">Slate</a>
     <a class="tsl-pill-link" href="weather.html">Weather</a>
@@ -47,7 +47,7 @@
 
       <div class="heroButtons">
         <a href="#top" class="button primary">View Top Plays</a>
-        <a href="#stacks" class="button ghost">View HR Stacks</a>
+        <a href="javascript:void(0)" data-scroll-target="stacks" class="button ghost">View HR Stacks</a>
       </div>
     </div>
 
@@ -76,7 +76,7 @@
   </section></section>
 
   <main>
-    <section id="value-plays" class="tsl-scroll-target"><section id="top-plays" class="tsl-scroll-target"><section id="top" class="section">
+    <section  class="tsl-scroll-target"><section  class="tsl-scroll-target"><section id="top" class="section">
       <div class="sectionHead">
         <div>
           <p class="eyebrow">Probability Board</p>
@@ -112,8 +112,7 @@
         <p>Same game HR environments ranked by simulation score.</p>
       </div>
 
-      <div id="stacks" class="tsl-scroll-target"></div>
-<div id="stackPlays" class="stackList"></div>
+      <div id="stackPlays" class="stackList"></div>
     </section>
 
     
@@ -126,7 +125,8 @@
   </footer>
 
   <script src="app.js"></script>
-  <script src="./public/js/park_dimensions.js"></script>  <script src="home-scroll-fix.js"></script>
+  <script src="./public/js/park_dimensions.js"></script>  
+  <script src="home-scroll-fix.js"></script>
 </body>
 </html>
 

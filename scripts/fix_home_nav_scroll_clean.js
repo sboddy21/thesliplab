@@ -1,7 +1,42 @@
+import fs from "fs";
+import path from "path";
 
+const ROOT = process.cwd();
+const indexFile = path.join(ROOT, "index.html");
+
+let html = fs.readFileSync(indexFile, "utf8");
+
+html = html.replace(/<div id="top-plays" class="[^"]*"><\/div>\s*/g, "");
+html = html.replace(/<div id="value-plays" class="[^"]*"><\/div>\s*/g, "");
+html = html.replace(/<div id="stacks" class="[^"]*"><\/div>\s*/g, "");
+
+html = html.replace(/id="top-plays"/g, "");
+html = html.replace(/id="value-plays"/g, "");
+html = html.replace(/id="stacks"/g, "");
+
+html = html.replace(/href="#top-plays"/g, 'href="javascript:void(0)" data-scroll-target="top-plays"');
+html = html.replace(/href="index.html#top-plays"/g, 'href="javascript:void(0)" data-scroll-target="top-plays"');
+
+html = html.replace(/href="#value-plays"/g, 'href="javascript:void(0)" data-scroll-target="value-plays"');
+html = html.replace(/href="index.html#value-plays"/g, 'href="javascript:void(0)" data-scroll-target="value-plays"');
+
+html = html.replace(/href="#stacks"/g, 'href="javascript:void(0)" data-scroll-target="stacks"');
+html = html.replace(/href="index.html#stacks"/g, 'href="javascript:void(0)" data-scroll-target="stacks"');
+
+html = html.replace(/<script src="home-scroll-fix\.js"><\/script>/g, "");
+
+html = html.replace(
+  /<\/body>/i,
+  `  <script src="home-scroll-fix.js"></script>
+</body>`
+);
+
+fs.writeFileSync(indexFile, html);
+
+const js = `
 (function () {
   function visibleText(el) {
-    return (el.innerText || el.textContent || "").replace(/\s+/g, " ").trim().toLowerCase();
+    return (el.innerText || el.textContent || "").replace(/\\s+/g, " ").trim().toLowerCase();
   }
 
   function scoreTarget(el, words) {
@@ -104,3 +139,8 @@
     }
   });
 })();
+`;
+
+fs.writeFileSync(path.join(ROOT, "home-scroll-fix.js"), js);
+
+console.log("Clean homepage scroll reset complete.");
