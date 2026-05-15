@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>The Slip Lab | Live MLB Results</title>
+  <title>The Slip Lab | Live HR Results</title>
   <link rel="stylesheet" href="style.css" />
   <link rel="stylesheet" href="results.css" />
 </head>
@@ -34,10 +34,10 @@
   <section class="results-hero">
     <div>
       <p class="eyebrow">Live MLB Stats API</p>
-      <h1>Live Results</h1>
-      <p>Scores, inning state, game status, and final results update directly from MLB live data.</p>
+      <h1>Live HR Results</h1>
+      <p>Only players who hit home runs today. Pulled directly from MLB live game data.</p>
     </div>
-    <button id="refreshResults">Refresh Results</button>
+    <button id="refreshResults">Refresh HR Results</button>
   </section>
 
   <section class="results-meta">
@@ -46,8 +46,8 @@
       <strong id="lastUpdated">Loading...</strong>
     </div>
     <div>
-      <span>Games found</span>
-      <strong id="gameCount">0</strong>
+      <span>HR hitters</span>
+      <strong id="hrCount">0</strong>
     </div>
     <div>
       <span>Status</span>
@@ -57,7 +57,6 @@
 
   <section id="resultsGrid" class="results-grid"></section>
 </main>
-
-<script src="results.js"></script>
+<script src="results.js?v=live-hr-1"></script>
 </body>
 </html>

@@ -603,3 +603,13 @@ document.addEventListener("DOMContentLoaded", function () {
     observer.observe(grid, { childList: true });
   }, 700);
 });
+
+
+window.TSL_POWER_FORCE_RENDER = true;
+
+setTimeout(function () {
+  var status = document.querySelector("#lastUpdated, .updated, .last-updated");
+  if (status && /loading data/i.test(status.textContent || "")) {
+    status.textContent = "Data loaded";
+  }
+}, 1200);

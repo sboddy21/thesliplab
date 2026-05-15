@@ -554,3 +554,114 @@ a {
     white-space: normal;
   }
 }
+
+
+
+/* FINAL POLISH FIXES */
+html,
+body {
+  background: #05070d !important;
+  color: #ffffff !important;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.tsl-site-header {
+  width: 100%;
+  min-height: 96px;
+  padding: 18px 28px;
+  display: flex !important;
+  align-items: center;
+  justify-content: space-between;
+  gap: 22px;
+  background: rgba(5,7,13,.96);
+  border-bottom: 1px solid rgba(255,255,255,.09);
+  position: sticky;
+  top: 0;
+  z-index: 99999;
+  backdrop-filter: blur(16px);
+}
+
+.tsl-brand {
+  display: flex !important;
+  align-items: center;
+  gap: 14px;
+  text-decoration: none !important;
+  color: #fff !important;
+  flex-shrink: 0;
+}
+
+.tsl-logo {
+  width: 52px;
+  height: 52px;
+  border-radius: 15px;
+  background: #10ff7c;
+  color: #06100b;
+  display: grid;
+  place-items: center;
+  font-weight: 950;
+}
+
+.tsl-brand-title {
+  color: #fff;
+  font-size: 24px;
+  font-weight: 950;
+  line-height: 1;
+}
+
+.tsl-brand-subtitle {
+  color: #10ff7c;
+  font-size: 12px;
+  font-weight: 950;
+  letter-spacing: .18em;
+  text-transform: uppercase;
+  margin-top: 8px;
+}
+
+.tsl-pill-nav {
+  display: flex !important;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 10px;
+  flex-wrap: wrap;
+  max-width: calc(100vw - 360px);
+}
+
+.tsl-pill-link {
+  color: #fff !important;
+  background: rgba(255,255,255,.09) !important;
+  border: 1px solid rgba(255,255,255,.18) !important;
+  padding: 11px 15px !important;
+  border-radius: 999px !important;
+  font-size: 13px !important;
+  font-weight: 950 !important;
+  line-height: 1 !important;
+  text-decoration: none !important;
+  white-space: nowrap;
+}
+
+.tsl-pill-link:hover,
+.tsl-pill-link.active {
+  background: rgba(16,255,124,.18) !important;
+  border-color: rgba(16,255,124,.48) !important;
+}
+
+[data-scroll-section="value-plays"]:empty,
+a[href="#"]:empty,
+button:empty {
+  display: none !important;
+}
+
+@media (max-width: 1180px) {
+  .tsl-site-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .tsl-pill-nav {
+    max-width: 100%;
+    justify-content: flex-start;
+  }
+}

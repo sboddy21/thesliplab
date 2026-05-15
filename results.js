@@ -1,6 +1,7 @@
+
 const grid = document.getElementById("resultsGrid");
 const lastUpdated = document.getElementById("lastUpdated");
-const gameCount = document.getElementById("gameCount");
+const hrCount = document.getElementById("hrCount");
 const feedStatus = document.getElementById("feedStatus");
 const refreshBtn = document.getElementById("refreshResults");
 
@@ -12,117 +13,122 @@ function todayEt() {
     day: "2-digit"
   }).formatToParts(new Date());
 
-  const y = parts.find(p => p.type === "year").value;
-  const m = parts.find(p => p.type === "month").value;
-  const d = parts.find(p => p.type === "day").value;
-
-  return `${y}-${m}-${d}`;
+  return parts.find(p => p.type === "year").value + "-" +
+    parts.find(p => p.type === "month").value + "-" +
+    parts.find(p => p.type === "day").value;
 }
 
-function statusClass(game) {
-  const detailed = game?.status?.detailedState || "";
-  const abstract = game?.status?.abstractGameState || "";
-
-  if (abstract === "Live") return "live";
-  if (abstract === "Final" || detailed.toLowerCase().includes("final")) return "final";
-  return "";
+function playerImg(id) {
+  return id
+    ? "https://img.mlbstatic.com/mlb-photos/image/upload/w_180,q_auto:best/v1/people/" + id + "/headshot/67/current"
+    : "";
 }
 
-function statusText(game) {
-  const status = game?.status || {};
-  const linescore = game?.linescore || {};
-
-  if (status.abstractGameState === "Live") {
-    const inning = linescore.currentInningOrdinal || "";
-    const half = linescore.inningHalf || "";
-    return `${half} ${inning}`.trim() || "Live";
-  }
-
-  return status.detailedState || status.abstractGameState || "Scheduled";
-}
-
-function recordText(team) {
-  const leagueRecord = team?.leagueRecord;
-  if (!leagueRecord) return "";
-  return `${leagueRecord.wins || 0}-${leagueRecord.losses || 0}`;
-}
-
-function card(game) {
-  const away = game.teams.away;
-  const home = game.teams.home;
-
-  const awayScore = away.score ?? 0;
-  const homeScore = home.score ?? 0;
-
-  const venue = game?.venue?.name || "";
-  const note = game?.status?.abstractGameState === "Preview"
-    ? new Date(game.gameDate).toLocaleTimeString([], { hour: "numeric", minute: "2-digit" })
-    : venue;
+function hrCard(hr) {
+  const img = playerImg(hr.playerId);
 
   return `
-    <article class="result-card">
-      <div class="result-top">
-        <strong>${venue || "MLB Game"}</strong>
-        <span class="status-pill ${statusClass(game)}">${statusText(game)}</span>
-      </div>
-
-      <div class="team-row">
-        <div>
-          <div class="team-name">${away.team.name}</div>
-          <div class="team-record">${recordText(away)}</div>
+    <article class="hr-result-card">
+      <div class="hr-player-top">
+        <div class="hr-photo-wrap">
+          ${img ? `<img src="${img}" alt="${hr.player}" onerror="this.style.display='none'">` : ""}
         </div>
-        <div class="team-score">${awayScore}</div>
-      </div>
-
-      <div class="team-row">
         <div>
-          <div class="team-name">${home.team.name}</div>
-          <div class="team-record">${recordText(home)}</div>
+          <h3>${hr.player}</h3>
+          <p>${hr.team} vs ${hr.opponent}</p>
         </div>
-        <div class="team-score">${homeScore}</div>
+        <div class="hr-badge">HR</div>
       </div>
 
-      <div class="game-note">${note || ""}</div>
+      <div class="hr-result-stats">
+        <div><span>Inning</span><strong>${hr.inning}</strong></div>
+        <div><span>Score</span><strong>${hr.score}</strong></div>
+        <div><span>RBI</span><strong>${hr.rbi}</strong></div>
+      </div>
+
+      <p class="hr-description">${hr.description}</p>
+      <p class="hr-venue">${hr.venue}</p>
     </article>
   `;
 }
 
-async function loadResults() {
+async function getSchedule() {
+  const url = "https://statsapi.mlb.com/api/v1/schedule?sportId=1&date=" + todayEt();
+  const res = await fetch(url, { cache: "no-store" });
+  const data = await res.json();
+  return data?.dates?.[0]?.games || [];
+}
+
+async function getGameHr(game) {
+  const feed = "https://statsapi.mlb.com/api/v1.1/game/" + game.gamePk + "/feed/live";
+  const res = await fetch(feed, { cache: "no-store" });
+  const data = await res.json();
+
+  const plays = data?.liveData?.plays?.allPlays || [];
+  const home = data?.gameData?.teams?.home?.name || "";
+  const away = data?.gameData?.teams?.away?.name || "";
+  const venue = data?.gameData?.venue?.name || "";
+
+  const hrs = [];
+
+  for (const play of plays) {
+    const event = play?.result?.event || "";
+    if (event !== "Home Run") continue;
+
+    const batter = play?.matchup?.batter || {};
+    const battingTeam = play?.about?.isTopInning ? away : home;
+    const opponent = play?.about?.isTopInning ? home : away;
+
+    hrs.push({
+      player: batter.fullName || "Unknown Player",
+      playerId: batter.id || "",
+      team: battingTeam,
+      opponent,
+      venue,
+      inning: (play?.about?.halfInning || "") + " " + (play?.about?.inning || ""),
+      score: (play?.result?.awayScore ?? 0) + "-" + (play?.result?.homeScore ?? 0),
+      rbi: play?.result?.rbi ?? "",
+      description: play?.result?.description || "Home Run"
+    });
+  }
+
+  return hrs;
+}
+
+async function loadHrResults() {
   try {
     feedStatus.textContent = "Live";
-    grid.innerHTML = "";
+    grid.innerHTML = '<article class="hr-result-card">Loading live HR results...</article>';
 
-    const date = todayEt();
-    const url = `https://statsapi.mlb.com/api/v1/schedule?sportId=1&date=${date}&hydrate=team,linescore,venue,probablePitcher`;
+    const games = await getSchedule();
+    const all = [];
 
-    const res = await fetch(url, { cache: "no-store" });
+    for (const game of games) {
+      const hrs = await getGameHr(game);
+      all.push(...hrs);
+    }
 
-    if (!res.ok) throw new Error("MLB feed failed");
-
-    const data = await res.json();
-    const games = data?.dates?.[0]?.games || [];
-
-    gameCount.textContent = games.length;
     lastUpdated.textContent = new Date().toLocaleTimeString([], {
       hour: "numeric",
       minute: "2-digit",
       second: "2-digit"
     });
 
-    if (!games.length) {
-      grid.innerHTML = `<article class="result-card">No MLB games found for today.</article>`;
+    hrCount.textContent = all.length;
+
+    if (!all.length) {
+      grid.innerHTML = '<article class="hr-result-card">No home runs found yet from today\'s MLB live feed.</article>';
       return;
     }
 
-    grid.innerHTML = games.map(card).join("");
-  } catch (error) {
+    grid.innerHTML = all.map(hrCard).join("");
+  } catch (err) {
+    console.error(err);
     feedStatus.textContent = "Error";
-    grid.innerHTML = `<article class="result-card">Live MLB results could not load. Try refreshing.</article>`;
-    console.error(error);
+    grid.innerHTML = '<article class="hr-result-card">Could not load live HR results from MLB Stats API.</article>';
   }
 }
 
-refreshBtn.addEventListener("click", loadResults);
-
-loadResults();
-setInterval(loadResults, 60000);
+refreshBtn.addEventListener("click", loadHrResults);
+loadHrResults();
+setInterval(loadHrResults, 60000);
