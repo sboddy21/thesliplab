@@ -1,228 +1,228 @@
 player,team,opponent,game,pitcher,lineup,odds,book,batter_power_score,environment_score,pitcher_collapse_score,vegas_total,weather_boost,correlation_score,correlation_tier,same_game_stack_flag,negative_correlation_flag
-Ian Happ,Chicago Cubs,Atlanta Braves,Chicago Cubs @ Atlanta Braves,JR Ritchie,,,DraftKings,39.44,45.60,77.40,,,52.88,NEUTRAL,NO,NO
-Moisés Ballesteros,Chicago Cubs,Atlanta Braves,Chicago Cubs @ Atlanta Braves,JR Ritchie,,,FanDuel,39.02,44.94,77.02,,,52.46,NEUTRAL,NO,NO
 Otto Lopez,Miami Marlins,Minnesota Twins,Miami Marlins @ Minnesota Twins,Simeon Woods Richardson,,,BetMGM,42.20,34.00,81.99,,,52.23,NEUTRAL,NO,NO
-Seiya Suzuki,Chicago Cubs,Atlanta Braves,Chicago Cubs @ Atlanta Braves,JR Ritchie,,,BetMGM,39.53,44.37,75.70,,,52.12,NEUTRAL,NO,NO
-Corey Seager,Texas Rangers,Arizona Diamondbacks,Arizona Diamondbacks @ Texas Rangers,Ryne Nelson,,,DraftKings,38.26,45.52,75.47,,,51.90,NEUTRAL,NO,NO
-Dansby Swanson,Chicago Cubs,Atlanta Braves,Chicago Cubs @ Atlanta Braves,JR Ritchie,,,BetMGM,38.62,44.30,76.10,,,51.90,NEUTRAL,NO,NO
-James Wood,Washington Nationals,Cincinnati Reds,Washington Nationals @ Cincinnati Reds,Nick Lodolo,,,DraftKings,43.75,34.00,78.75,,,51.86,NEUTRAL,NO,NO
-Pete Crow-Armstrong,Chicago Cubs,Atlanta Braves,Chicago Cubs @ Atlanta Braves,JR Ritchie,,,DraftKings,38.40,44.35,75.68,,,51.72,NEUTRAL,NO,NO
-Liam Hicks,Miami Marlins,Minnesota Twins,Miami Marlins @ Minnesota Twins,Simeon Woods Richardson,,,BetMGM,41.92,34.00,80.43,,,51.69,NEUTRAL,NO,NO
-Kyle Stowers,Miami Marlins,Minnesota Twins,Miami Marlins @ Minnesota Twins,Simeon Woods Richardson,,,BetMGM,40.90,34.00,81.57,,,51.66,NEUTRAL,NO,NO
-Kazuma Okamoto,Toronto Blue Jays,Tampa Bay Rays,Tampa Bay Rays @ Toronto Blue Jays,Griffin Jax,,,DraftKings,38.63,45.05,74.48,,,51.64,NEUTRAL,NO,NO
-Xavier Edwards,Miami Marlins,Minnesota Twins,Miami Marlins @ Minnesota Twins,Simeon Woods Richardson,,,Caesars,41.68,34.00,80.35,,,51.59,NEUTRAL,NO,NO
-Luke Raley,Seattle Mariners,Houston Astros,Seattle Mariners @ Houston Astros,Lance McCullers Jr.,,,DraftKings,43.66,34.00,77.70,,,51.54,NEUTRAL,NO,NO
-Michael Busch,Chicago Cubs,Atlanta Braves,Chicago Cubs @ Atlanta Braves,JR Ritchie,,,DraftKings,38.22,44.04,75.50,,,51.53,NEUTRAL,NO,NO
+James Wood,Washington Nationals,Cincinnati Reds,Washington Nationals @ Cincinnati Reds,Nick Lodolo,,,DraftKings,43.75,34.00,78.99,,,51.93,NEUTRAL,NO,NO
+Liam Hicks,Miami Marlins,Minnesota Twins,Miami Marlins @ Minnesota Twins,Simeon Woods Richardson,,,BetMGM,41.92,34.00,80.67,,,51.76,NEUTRAL,NO,NO
+Kyle Stowers,Miami Marlins,Minnesota Twins,Miami Marlins @ Minnesota Twins,Simeon Woods Richardson,,,BetMGM,40.90,34.00,81.81,,,51.72,NEUTRAL,NO,NO
+Xavier Edwards,Miami Marlins,Minnesota Twins,Miami Marlins @ Minnesota Twins,Simeon Woods Richardson,,,Caesars,41.68,34.00,80.51,,,51.63,NEUTRAL,NO,NO
+Luke Raley,Seattle Mariners,Houston Astros,Seattle Mariners @ Houston Astros,Lance McCullers Jr.,,,DraftKings,43.66,34.00,77.94,,,51.61,NEUTRAL,NO,NO
+Owen Caissie,Miami Marlins,Minnesota Twins,Miami Marlins @ Minnesota Twins,Simeon Woods Richardson,,,BetMGM,40.65,34.00,81.43,,,51.53,NEUTRAL,NO,NO
 Willson Contreras,Boston Red Sox,Philadelphia Phillies,Philadelphia Phillies @ Boston Red Sox,Andrew Painter,,,FanDuel,41.17,34.00,80.71,,,51.51,NEUTRAL,NO,NO
-Brandon Nimmo,Texas Rangers,Arizona Diamondbacks,Arizona Diamondbacks @ Texas Rangers,Ryne Nelson,,,DraftKings,38.67,44.83,74.05,,,51.47,NEUTRAL,NO,NO
-Owen Caissie,Miami Marlins,Minnesota Twins,Miami Marlins @ Minnesota Twins,Simeon Woods Richardson,,,BetMGM,40.65,34.00,81.19,,,51.46,NEUTRAL,NO,NO
+Wilyer Abreu,Boston Red Sox,Philadelphia Phillies,Philadelphia Phillies @ Boston Red Sox,Andrew Painter,,,FanDuel,40.75,34.00,80.99,,,51.44,NEUTRAL,NO,NO
 Heriberto Hernández,Miami Marlins,Minnesota Twins,Miami Marlins @ Minnesota Twins,Simeon Woods Richardson,,,DraftKings,40.79,34.00,80.87,,,51.42,NEUTRAL,NO,NO
-Wilyer Abreu,Boston Red Sox,Philadelphia Phillies,Philadelphia Phillies @ Boston Red Sox,Andrew Painter,,,FanDuel,40.75,34.00,80.75,,,51.37,NEUTRAL,NO,NO
 Connor Norby,Miami Marlins,Minnesota Twins,Miami Marlins @ Minnesota Twins,Simeon Woods Richardson,,,BetMGM,40.41,34.00,81.05,,,51.34,NEUTRAL,NO,NO
-Carson Kelly,Chicago Cubs,Atlanta Braves,Chicago Cubs @ Atlanta Braves,JR Ritchie,,,DraftKings,38.40,43.61,74.54,,,51.21,NEUTRAL,NO,NO
-Alex Bregman,Chicago Cubs,Atlanta Braves,Chicago Cubs @ Atlanta Braves,JR Ritchie,,,DraftKings,38.45,43.36,74.64,,,51.20,NEUTRAL,NO,NO
-Corbin Carroll,Arizona Diamondbacks,Texas Rangers,Arizona Diamondbacks @ Texas Rangers,Kumar Rocker,,,DraftKings,38.18,44.82,73.50,,,51.15,NEUTRAL,NO,NO
-Ketel Marte,Arizona Diamondbacks,Texas Rangers,Arizona Diamondbacks @ Texas Rangers,Kumar Rocker,,,DraftKings,38.26,44.37,73.30,,,51.00,NEUTRAL,NO,NO
-Mickey Gasper,Boston Red Sox,Philadelphia Phillies,Philadelphia Phillies @ Boston Red Sox,Andrew Painter,,,FanDuel,43.15,34.00,76.23,,,50.95,NEUTRAL,NO,NO
-Josh Jung,Texas Rangers,Arizona Diamondbacks,Arizona Diamondbacks @ Texas Rangers,Ryne Nelson,,,DraftKings,38.48,43.99,73.17,,,50.95,NEUTRAL,NO,NO
-Jakob Marsee,Miami Marlins,Minnesota Twins,Miami Marlins @ Minnesota Twins,Simeon Woods Richardson,,,BetMGM,39.95,34.00,80.13,,,50.92,NEUTRAL,NO,NO
+Mickey Gasper,Boston Red Sox,Philadelphia Phillies,Philadelphia Phillies @ Boston Red Sox,Andrew Painter,,,FanDuel,43.15,34.00,76.39,,,50.99,NEUTRAL,NO,NO
+Jakob Marsee,Miami Marlins,Minnesota Twins,Miami Marlins @ Minnesota Twins,Simeon Woods Richardson,,,BetMGM,39.95,34.00,80.37,,,50.99,NEUTRAL,NO,NO
+Dominic Canzone,Seattle Mariners,Houston Astros,Seattle Mariners @ Houston Astros,Lance McCullers Jr.,,,DraftKings,42.50,34.00,77.08,,,50.96,NEUTRAL,NO,NO
 Christopher Morel,Miami Marlins,Minnesota Twins,Miami Marlins @ Minnesota Twins,Simeon Woods Richardson,,,FanDuel,38.97,34.00,81.27,,,50.90,NEUTRAL,NO,NO
-Dominic Canzone,Seattle Mariners,Houston Astros,Seattle Mariners @ Houston Astros,Lance McCullers Jr.,,,DraftKings,42.50,34.00,76.84,,,50.89,NEUTRAL,NO,NO
-Jake Burger,Texas Rangers,Arizona Diamondbacks,Arizona Diamondbacks @ Texas Rangers,Ryne Nelson,,,FanDuel,37.53,44.41,73.73,,,50.88,NEUTRAL,NO,NO
-Joc Pederson,Texas Rangers,Arizona Diamondbacks,Arizona Diamondbacks @ Texas Rangers,Ryne Nelson,,,FanDuel,37.57,44.55,73.57,,,50.88,NEUTRAL,NO,NO
+CJ Abrams,Washington Nationals,Cincinnati Reds,Washington Nationals @ Cincinnati Reds,Nick Lodolo,,,DraftKings,42.29,34.00,76.97,,,50.85,NEUTRAL,NO,NO
 Shea Langeliers,Athletics,St. Louis Cardinals,St. Louis Cardinals @ Athletics,Matthew Liberatore,,,BetMGM,42.93,34.00,76.07,,,50.82,NEUTRAL,NO,NO
-CJ Abrams,Washington Nationals,Cincinnati Reds,Washington Nationals @ Cincinnati Reds,Nick Lodolo,,,DraftKings,42.29,34.00,76.73,,,50.79,NEUTRAL,NO,NO
-Joe Mack,Miami Marlins,Minnesota Twins,Miami Marlins @ Minnesota Twins,Simeon Woods Richardson,,,BetMGM,39.11,34.00,79.53,,,50.46,NEUTRAL,NO,NO
+Joe Mack,Miami Marlins,Minnesota Twins,Miami Marlins @ Minnesota Twins,Simeon Woods Richardson,,,BetMGM,39.11,34.00,79.77,,,50.53,NEUTRAL,NO,NO
 Julio Rodríguez,Seattle Mariners,Houston Astros,Seattle Mariners @ Houston Astros,Lance McCullers Jr.,,,FanDuel,41.90,34.00,76.00,,,50.45,NEUTRAL,NO,NO
-Evan Carter,Texas Rangers,Arizona Diamondbacks,Arizona Diamondbacks @ Texas Rangers,Ryne Nelson,,,DraftKings,37.05,43.85,73.05,,,50.38,NEUTRAL,NO,NO
-Bobby Witt Jr.,Kansas City Royals,Chicago White Sox,Kansas City Royals @ Chicago White Sox,Noah Schultz,,,BetMGM,38.39,45.10,70.15,,,50.35,NEUTRAL,NO,NO
-Jarren Duran,Boston Red Sox,Philadelphia Phillies,Philadelphia Phillies @ Boston Red Sox,Andrew Painter,,,DraftKings,39.26,34.00,78.97,,,50.35,NEUTRAL,NO,NO
+Jarren Duran,Boston Red Sox,Philadelphia Phillies,Philadelphia Phillies @ Boston Red Sox,Andrew Painter,,,DraftKings,39.26,34.00,79.21,,,50.42,NEUTRAL,NO,NO
+Nick Kurtz,Athletics,St. Louis Cardinals,St. Louis Cardinals @ Athletics,Matthew Liberatore,,,BetMGM,41.19,34.00,76.55,,,50.35,NEUTRAL,NO,NO
 Cal Raleigh,Seattle Mariners,Houston Astros,Seattle Mariners @ Houston Astros,Lance McCullers Jr.,,,FanDuel,41.19,34.00,76.50,,,50.34,NEUTRAL,NO,NO
-Nick Kurtz,Athletics,St. Louis Cardinals,St. Louis Cardinals @ Athletics,Matthew Liberatore,,,BetMGM,41.19,34.00,76.31,,,50.28,NEUTRAL,NO,NO
-Ezequiel Duran,Texas Rangers,Arizona Diamondbacks,Arizona Diamondbacks @ Texas Rangers,Ryne Nelson,,,DraftKings,37.40,43.42,72.55,,,50.26,NEUTRAL,NO,NO
-Josh Naylor,Seattle Mariners,Houston Astros,Seattle Mariners @ Houston Astros,Lance McCullers Jr.,,,DraftKings,41.59,34.00,75.64,,,50.24,NEUTRAL,NO,NO
+Josh Naylor,Seattle Mariners,Houston Astros,Seattle Mariners @ Houston Astros,Lance McCullers Jr.,,,DraftKings,41.59,34.00,75.88,,,50.30,NEUTRAL,NO,NO
 Brady House,Washington Nationals,Cincinnati Reds,Washington Nationals @ Cincinnati Reds,Nick Lodolo,,,FanDuel,41.56,34.00,75.63,,,50.22,NEUTRAL,NO,NO
-Vladimir Guerrero Jr.,Toronto Blue Jays,Tampa Bay Rays,Tampa Bay Rays @ Toronto Blue Jays,Griffin Jax,,,DraftKings,37.86,42.85,71.76,,,50.06,NEUTRAL,NO,NO
-Marcelo Mayer,Boston Red Sox,Philadelphia Phillies,Philadelphia Phillies @ Boston Red Sox,Andrew Painter,,,FanDuel,38.60,34.00,78.71,,,50.05,NEUTRAL,NO,NO
+Marcelo Mayer,Boston Red Sox,Philadelphia Phillies,Philadelphia Phillies @ Boston Red Sox,Andrew Painter,,,FanDuel,38.60,34.00,78.95,,,50.12,NEUTRAL,NO,NO
 Randy Arozarena,Seattle Mariners,Houston Astros,Seattle Mariners @ Houston Astros,Lance McCullers Jr.,,,DraftKings,41.01,34.00,75.66,,,50.04,NEUTRAL,NO,NO
-Gabriel Moreno,Arizona Diamondbacks,Texas Rangers,Arizona Diamondbacks @ Texas Rangers,Kumar Rocker,,,BetMGM,36.54,43.77,72.52,,,50.04,NEUTRAL,NO,NO
-Daylen Lile,Washington Nationals,Cincinnati Reds,Washington Nationals @ Cincinnati Reds,Nick Lodolo,,,FanDuel,41.75,34.00,74.41,,,49.95,NEGATIVE_CORRELATION,NO,YES
+Daylen Lile,Washington Nationals,Cincinnati Reds,Washington Nationals @ Cincinnati Reds,Nick Lodolo,,,FanDuel,41.75,34.00,74.65,,,50.01,NEUTRAL,NO,NO
+Ian Happ,Chicago Cubs,Atlanta Braves,Chicago Cubs @ Atlanta Braves,JR Ritchie,,,DraftKings,39.44,34.00,77.40,,,49.98,NEGATIVE_CORRELATION,NO,YES
 Carlos Narváez,Boston Red Sox,Philadelphia Phillies,Philadelphia Phillies @ Boston Red Sox,Andrew Painter,,,Caesars,39.08,34.00,77.67,,,49.93,NEGATIVE_CORRELATION,NO,YES
-Adrian Del Castillo,Arizona Diamondbacks,Texas Rangers,Arizona Diamondbacks @ Texas Rangers,Kumar Rocker,,,DraftKings,36.92,43.43,71.96,,,49.93,NEGATIVE_CORRELATION,NO,YES
 Joey Wiemer,Washington Nationals,Cincinnati Reds,Washington Nationals @ Cincinnati Reds,Nick Lodolo,,,FanDuel,40.48,34.00,75.69,,,49.86,NEGATIVE_CORRELATION,NO,YES
-Nolan Arenado,Arizona Diamondbacks,Texas Rangers,Arizona Diamondbacks @ Texas Rangers,Kumar Rocker,,,DraftKings,37.60,42.84,71.18,,,49.80,NEGATIVE_CORRELATION,NO,YES
-Brendan Donovan,Seattle Mariners,Houston Astros,Seattle Mariners @ Houston Astros,Lance McCullers Jr.,,,DraftKings,40.57,34.00,75.26,,,49.77,NEGATIVE_CORRELATION,NO,YES
-Tyler Soderstrom,Athletics,St. Louis Cardinals,St. Louis Cardinals @ Athletics,Matthew Liberatore,,,BetMGM,40.52,34.00,75.19,,,49.73,NEGATIVE_CORRELATION,NO,YES
-Daulton Varsho,Toronto Blue Jays,Tampa Bay Rays,Tampa Bay Rays @ Toronto Blue Jays,Griffin Jax,,,FanDuel,36.96,42.59,71.86,,,49.71,NEGATIVE_CORRELATION,NO,YES
-Jesús Sánchez,Toronto Blue Jays,Tampa Bay Rays,Tampa Bay Rays @ Toronto Blue Jays,Griffin Jax,,,DraftKings,37.78,42.49,70.90,,,49.70,NEGATIVE_CORRELATION,NO,YES
-Cole Young,Seattle Mariners,Houston Astros,Seattle Mariners @ Houston Astros,Lance McCullers Jr.,,,BetMGM,40.27,34.00,75.22,,,49.66,NEGATIVE_CORRELATION,NO,YES
+Brendan Donovan,Seattle Mariners,Houston Astros,Seattle Mariners @ Houston Astros,Lance McCullers Jr.,,,DraftKings,40.57,34.00,75.50,,,49.84,NEGATIVE_CORRELATION,NO,YES
+Tyler Soderstrom,Athletics,St. Louis Cardinals,St. Louis Cardinals @ Athletics,Matthew Liberatore,,,BetMGM,40.52,34.00,75.43,,,49.80,NEGATIVE_CORRELATION,NO,YES
+Cole Young,Seattle Mariners,Houston Astros,Seattle Mariners @ Houston Astros,Lance McCullers Jr.,,,BetMGM,40.27,34.00,75.46,,,49.73,NEGATIVE_CORRELATION,NO,YES
+Moisés Ballesteros,Chicago Cubs,Atlanta Braves,Chicago Cubs @ Atlanta Braves,JR Ritchie,,,FanDuel,39.02,34.00,77.02,,,49.72,NEGATIVE_CORRELATION,NO,YES
 Ceddanne Rafaela,Boston Red Sox,Philadelphia Phillies,Philadelphia Phillies @ Boston Red Sox,Andrew Painter,,,FanDuel,38.12,34.00,77.79,,,49.63,NEGATIVE_CORRELATION,NO,YES
 Brent Rooker,Athletics,St. Louis Cardinals,St. Louis Cardinals @ Athletics,Matthew Liberatore,,,BetMGM,40.07,34.00,75.35,,,49.62,NEGATIVE_CORRELATION,NO,YES
-George Springer,Toronto Blue Jays,Tampa Bay Rays,Tampa Bay Rays @ Toronto Blue Jays,Griffin Jax,,,DraftKings,36.77,42.60,71.18,,,49.45,NEGATIVE_CORRELATION,NO,YES
+Seiya Suzuki,Chicago Cubs,Atlanta Braves,Chicago Cubs @ Atlanta Braves,JR Ritchie,,,BetMGM,39.53,34.00,75.70,,,49.53,NEGATIVE_CORRELATION,NO,YES
 Trevor Story,Boston Red Sox,Philadelphia Phillies,Philadelphia Phillies @ Boston Red Sox,Andrew Painter,,,FanDuel,38.30,34.00,76.85,,,49.42,NEGATIVE_CORRELATION,NO,YES
-Danny Jansen,Texas Rangers,Arizona Diamondbacks,Arizona Diamondbacks @ Texas Rangers,Ryne Nelson,,,DraftKings,36.13,43.00,71.51,,,49.42,NEGATIVE_CORRELATION,NO,YES
 Connor Wong,Boston Red Sox,Philadelphia Phillies,Philadelphia Phillies @ Boston Red Sox,Andrew Painter,,,FanDuel,38.21,34.00,76.81,,,49.38,NEGATIVE_CORRELATION,NO,YES
-Keibert Ruiz,Washington Nationals,Cincinnati Reds,Washington Nationals @ Cincinnati Reds,Nick Lodolo,,,FanDuel,40.03,34.00,74.27,,,49.31,NEGATIVE_CORRELATION,NO,YES
-Lourdes Gurriel Jr.,Arizona Diamondbacks,Texas Rangers,Arizona Diamondbacks @ Texas Rangers,Kumar Rocker,,,DraftKings,36.78,42.45,70.76,,,49.30,NEGATIVE_CORRELATION,NO,YES
-James McCann,Arizona Diamondbacks,Texas Rangers,Arizona Diamondbacks @ Texas Rangers,Kumar Rocker,,,DraftKings,35.95,42.69,71.06,,,49.15,NEGATIVE_CORRELATION,NO,YES
-J.P. Crawford,Seattle Mariners,Houston Astros,Seattle Mariners @ Houston Astros,Lance McCullers Jr.,,,DraftKings,38.90,34.00,74.96,,,49.11,NEGATIVE_CORRELATION,NO,YES
+Keibert Ruiz,Washington Nationals,Cincinnati Reds,Washington Nationals @ Cincinnati Reds,Nick Lodolo,,,FanDuel,40.03,34.00,74.43,,,49.35,NEGATIVE_CORRELATION,NO,YES
+Dansby Swanson,Chicago Cubs,Atlanta Braves,Chicago Cubs @ Atlanta Braves,JR Ritchie,,,BetMGM,38.62,34.00,76.10,,,49.32,NEGATIVE_CORRELATION,NO,YES
+J.P. Crawford,Seattle Mariners,Houston Astros,Seattle Mariners @ Houston Astros,Lance McCullers Jr.,,,DraftKings,38.90,34.00,75.20,,,49.17,NEGATIVE_CORRELATION,NO,YES
+Pete Crow-Armstrong,Chicago Cubs,Atlanta Braves,Chicago Cubs @ Atlanta Braves,JR Ritchie,,,DraftKings,38.40,34.00,75.68,,,49.13,NEGATIVE_CORRELATION,NO,YES
+Corey Seager,Texas Rangers,Arizona Diamondbacks,Arizona Diamondbacks @ Texas Rangers,Ryne Nelson,,,DraftKings,38.26,34.00,75.47,,,49.02,NEGATIVE_CORRELATION,NO,YES
+Michael Busch,Chicago Cubs,Atlanta Braves,Chicago Cubs @ Atlanta Braves,JR Ritchie,,,DraftKings,38.22,34.00,75.50,,,49.02,NEGATIVE_CORRELATION,NO,YES
 Colby Thomas,Athletics,St. Louis Cardinals,St. Louis Cardinals @ Athletics,Matthew Liberatore,,,FanDuel,40.48,34.00,72.53,,,48.98,NEGATIVE_CORRELATION,NO,YES
 Zack Gelof,Athletics,St. Louis Cardinals,St. Louis Cardinals @ Athletics,Matthew Liberatore,,,BetMGM,39.99,34.00,72.95,,,48.92,NEGATIVE_CORRELATION,NO,YES
-Salvador Perez,Kansas City Royals,Chicago White Sox,Kansas City Royals @ Chicago White Sox,Noah Schultz,,,FanDuel,36.44,43.87,68.31,,,48.85,NEGATIVE_CORRELATION,NO,YES
-Masataka Yoshida,Boston Red Sox,Philadelphia Phillies,Philadelphia Phillies @ Boston Red Sox,Andrew Painter,,,DraftKings,35.94,34.00,77.35,,,48.74,NEGATIVE_CORRELATION,NO,YES
-Maikel Garcia,Kansas City Royals,Chicago White Sox,Kansas City Royals @ Chicago White Sox,Noah Schultz,,,BetMGM,36.99,43.17,67.63,,,48.68,NEGATIVE_CORRELATION,NO,YES
-JJ Bleday,Cincinnati Reds,Washington Nationals,Washington Nationals @ Cincinnati Reds,Jake Irvin,,,FanDuel,41.42,34.00,69.89,,,48.56,NEGATIVE_CORRELATION,NO,YES
-Vinnie Pasquantino,Kansas City Royals,Chicago White Sox,Kansas City Royals @ Chicago White Sox,Noah Schultz,,,FanDuel,36.91,43.12,67.35,,,48.56,NEGATIVE_CORRELATION,NO,YES
-Carter Jensen,Kansas City Royals,Chicago White Sox,Kansas City Royals @ Chicago White Sox,Noah Schultz,,,BetMGM,36.34,43.35,67.83,,,48.55,NEGATIVE_CORRELATION,NO,YES
-Max Muncy,Los Angeles Dodgers,San Francisco Giants,San Francisco Giants @ Los Angeles Dodgers,Robbie Ray,,,FanDuel,36.30,45.29,65.87,,,48.47,NEGATIVE_CORRELATION,NO,YES
-Isaac Collins,Kansas City Royals,Chicago White Sox,Kansas City Royals @ Chicago White Sox,Noah Schultz,,,BetMGM,36.03,43.25,67.69,,,48.37,NEGATIVE_CORRELATION,NO,YES
-Nick Loftin,Kansas City Royals,Chicago White Sox,Kansas City Royals @ Chicago White Sox,Noah Schultz,,,DraftKings,36.59,42.66,67.41,,,48.34,NEGATIVE_CORRELATION,NO,YES
-Nico Hoerner,Chicago Cubs,Atlanta Braves,Chicago Cubs @ Atlanta Braves,JR Ritchie,,,DraftKings,31.74,41.57,73.70,,,48.14,NEGATIVE_CORRELATION,NO,YES
-Lane Thomas,Kansas City Royals,Chicago White Sox,Kansas City Royals @ Chicago White Sox,Noah Schultz,,,FanDuel,35.73,42.63,66.99,,,47.92,NEGATIVE_CORRELATION,NO,YES
-Geraldo Perdomo,Arizona Diamondbacks,Texas Rangers,Arizona Diamondbacks @ Texas Rangers,Kumar Rocker,,,DraftKings,33.33,42.23,70.24,,,47.89,NEGATIVE_CORRELATION,NO,YES
+Kazuma Okamoto,Toronto Blue Jays,Tampa Bay Rays,Tampa Bay Rays @ Toronto Blue Jays,Griffin Jax,,,DraftKings,38.63,34.00,74.48,,,48.88,NEGATIVE_CORRELATION,NO,YES
+Alex Bregman,Chicago Cubs,Atlanta Braves,Chicago Cubs @ Atlanta Braves,JR Ritchie,,,DraftKings,38.45,34.00,74.64,,,48.86,NEGATIVE_CORRELATION,NO,YES
+Carson Kelly,Chicago Cubs,Atlanta Braves,Chicago Cubs @ Atlanta Braves,JR Ritchie,,,DraftKings,38.40,34.00,74.54,,,48.81,NEGATIVE_CORRELATION,NO,YES
+Masataka Yoshida,Boston Red Sox,Philadelphia Phillies,Philadelphia Phillies @ Boston Red Sox,Andrew Painter,,,DraftKings,35.94,34.00,77.59,,,48.80,NEGATIVE_CORRELATION,NO,YES
+Brandon Nimmo,Texas Rangers,Arizona Diamondbacks,Arizona Diamondbacks @ Texas Rangers,Ryne Nelson,,,DraftKings,38.67,34.00,74.05,,,48.77,NEGATIVE_CORRELATION,NO,YES
+JJ Bleday,Cincinnati Reds,Washington Nationals,Washington Nationals @ Cincinnati Reds,Jake Irvin,,,FanDuel,41.42,34.00,70.13,,,48.63,NEGATIVE_CORRELATION,NO,YES
+Josh Jung,Texas Rangers,Arizona Diamondbacks,Arizona Diamondbacks @ Texas Rangers,Ryne Nelson,,,DraftKings,38.48,34.00,73.17,,,48.45,NEGATIVE_CORRELATION,NO,YES
+Ketel Marte,Arizona Diamondbacks,Texas Rangers,Arizona Diamondbacks @ Texas Rangers,Kumar Rocker,,,DraftKings,38.26,34.00,73.30,,,48.41,NEGATIVE_CORRELATION,NO,YES
+Corbin Carroll,Arizona Diamondbacks,Texas Rangers,Arizona Diamondbacks @ Texas Rangers,Kumar Rocker,,,DraftKings,38.18,34.00,73.12,,,48.34,NEGATIVE_CORRELATION,NO,YES
+Jake Burger,Texas Rangers,Arizona Diamondbacks,Arizona Diamondbacks @ Texas Rangers,Ryne Nelson,,,FanDuel,37.53,34.00,73.73,,,48.28,NEGATIVE_CORRELATION,NO,YES
+Joc Pederson,Texas Rangers,Arizona Diamondbacks,Arizona Diamondbacks @ Texas Rangers,Ryne Nelson,,,FanDuel,37.57,34.00,73.57,,,48.25,NEGATIVE_CORRELATION,NO,YES
+Evan Carter,Texas Rangers,Arizona Diamondbacks,Arizona Diamondbacks @ Texas Rangers,Ryne Nelson,,,DraftKings,37.05,34.00,73.05,,,47.92,NEGATIVE_CORRELATION,NO,YES
+Ezequiel Duran,Texas Rangers,Arizona Diamondbacks,Arizona Diamondbacks @ Texas Rangers,Ryne Nelson,,,DraftKings,37.40,34.00,72.55,,,47.90,NEGATIVE_CORRELATION,NO,YES
+Vladimir Guerrero Jr.,Toronto Blue Jays,Tampa Bay Rays,Tampa Bay Rays @ Toronto Blue Jays,Griffin Jax,,,DraftKings,37.86,34.00,71.76,,,47.85,NEGATIVE_CORRELATION,NO,YES
 Caleb Durbin,Boston Red Sox,Philadelphia Phillies,Philadelphia Phillies @ Boston Red Sox,Andrew Painter,,,DraftKings,32.54,34.00,78.21,,,47.79,NEGATIVE_CORRELATION,NO,YES
 Sal Stewart,Cincinnati Reds,Washington Nationals,Washington Nationals @ Cincinnati Reds,Jake Irvin,,,DraftKings,39.53,34.00,69.41,,,47.77,NEGATIVE_CORRELATION,NO,YES
-Munetaka Murakami,Chicago White Sox,Kansas City Royals,Kansas City Royals @ Chicago White Sox,Seth Lugo,,,DraftKings,35.82,45.33,63.65,,,47.69,NEGATIVE_CORRELATION,NO,YES
-Elly De La Cruz,Cincinnati Reds,Washington Nationals,Washington Nationals @ Cincinnati Reds,Jake Irvin,,,BetMGM,39.22,34.00,69.13,,,47.58,NEGATIVE_CORRELATION,NO,YES
+Nolan Arenado,Arizona Diamondbacks,Texas Rangers,Arizona Diamondbacks @ Texas Rangers,Kumar Rocker,,,DraftKings,37.60,34.00,71.42,,,47.66,NEGATIVE_CORRELATION,NO,YES
+Gabriel Moreno,Arizona Diamondbacks,Texas Rangers,Arizona Diamondbacks @ Texas Rangers,Kumar Rocker,,,BetMGM,36.54,34.00,72.76,,,47.66,NEGATIVE_CORRELATION,NO,YES
+Elly De La Cruz,Cincinnati Reds,Washington Nationals,Washington Nationals @ Cincinnati Reds,Jake Irvin,,,BetMGM,39.22,34.00,69.29,,,47.63,NEGATIVE_CORRELATION,NO,YES
 Spencer Steer,Cincinnati Reds,Washington Nationals,Washington Nationals @ Cincinnati Reds,Jake Irvin,,,FanDuel,39.32,34.00,69.01,,,47.58,NEGATIVE_CORRELATION,NO,YES
-Andrés Giménez,Toronto Blue Jays,Tampa Bay Rays,Tampa Bay Rays @ Toronto Blue Jays,Griffin Jax,,,DraftKings,32.69,41.47,69.86,,,47.37,NEGATIVE_CORRELATION,NO,YES
-Freddie Freeman,Los Angeles Dodgers,San Francisco Giants,San Francisco Giants @ Los Angeles Dodgers,Robbie Ray,,,FanDuel,35.36,43.91,64.17,,,47.32,NEGATIVE_CORRELATION,NO,YES
-Juan Soto,New York Mets,Detroit Tigers,Detroit Tigers @ New York Mets,Framber Valdez,,,FanDuel,36.30,34.00,71.82,,,47.31,NEGATIVE_CORRELATION,NO,YES
+Jesús Sánchez,Toronto Blue Jays,Tampa Bay Rays,Tampa Bay Rays @ Toronto Blue Jays,Griffin Jax,,,DraftKings,37.78,34.00,70.90,,,47.58,NEGATIVE_CORRELATION,NO,YES
+Daulton Varsho,Toronto Blue Jays,Tampa Bay Rays,Tampa Bay Rays @ Toronto Blue Jays,Griffin Jax,,,FanDuel,36.96,34.00,71.86,,,47.56,NEGATIVE_CORRELATION,NO,YES
+Bobby Witt Jr.,Kansas City Royals,Chicago White Sox,Kansas City Royals @ Chicago White Sox,Noah Schultz,,,BetMGM,38.39,34.00,69.91,,,47.51,NEGATIVE_CORRELATION,NO,YES
+Adrian Del Castillo,Arizona Diamondbacks,Texas Rangers,Arizona Diamondbacks @ Texas Rangers,Kumar Rocker,,,DraftKings,36.92,34.00,71.72,,,47.50,NEGATIVE_CORRELATION,NO,YES
+Juan Soto,New York Mets,Detroit Tigers,Detroit Tigers @ New York Mets,Framber Valdez,,,FanDuel,36.30,34.00,72.06,,,47.38,NEGATIVE_CORRELATION,NO,YES
+Oneil Cruz,Pittsburgh Pirates,Colorado Rockies,Colorado Rockies @ Pittsburgh Pirates,Jose Quintana,,,BetMGM,36.20,34.00,71.95,,,47.31,NEGATIVE_CORRELATION,NO,YES
+George Springer,Toronto Blue Jays,Tampa Bay Rays,Tampa Bay Rays @ Toronto Blue Jays,Griffin Jax,,,DraftKings,36.77,34.00,71.18,,,47.30,NEGATIVE_CORRELATION,NO,YES
 Darell Hernaiz,Athletics,St. Louis Cardinals,St. Louis Cardinals @ Athletics,Matthew Liberatore,,,BetMGM,36.79,34.00,71.07,,,47.28,NEGATIVE_CORRELATION,NO,YES
-Oneil Cruz,Pittsburgh Pirates,Colorado Rockies,Colorado Rockies @ Pittsburgh Pirates,Jose Quintana,,,BetMGM,36.20,34.00,71.71,,,47.25,NEGATIVE_CORRELATION,NO,YES
-Andy Pages,Los Angeles Dodgers,San Francisco Giants,San Francisco Giants @ Los Angeles Dodgers,Robbie Ray,,,FanDuel,34.70,43.86,64.21,,,47.09,NEGATIVE_CORRELATION,NO,YES
+Lourdes Gurriel Jr.,Arizona Diamondbacks,Texas Rangers,Arizona Diamondbacks @ Texas Rangers,Kumar Rocker,,,DraftKings,36.78,34.00,71.00,,,47.25,NEGATIVE_CORRELATION,NO,YES
+Danny Jansen,Texas Rangers,Arizona Diamondbacks,Arizona Diamondbacks @ Texas Rangers,Ryne Nelson,,,DraftKings,36.13,34.00,71.51,,,47.17,NEGATIVE_CORRELATION,NO,YES
+Jeff McNeil,Athletics,St. Louis Cardinals,St. Louis Cardinals @ Athletics,Matthew Liberatore,,,FanDuel,34.33,34.00,73.53,,,47.10,NEGATIVE_CORRELATION,NO,YES
 Tyler Stephenson,Cincinnati Reds,Washington Nationals,Washington Nationals @ Cincinnati Reds,Jake Irvin,,,FanDuel,38.09,34.00,68.67,,,47.06,NEGATIVE_CORRELATION,NO,YES
-Jeff McNeil,Athletics,St. Louis Cardinals,St. Louis Cardinals @ Athletics,Matthew Liberatore,,,FanDuel,34.33,34.00,73.29,,,47.04,NEGATIVE_CORRELATION,NO,YES
-Will Smith,Los Angeles Dodgers,San Francisco Giants,San Francisco Giants @ Los Angeles Dodgers,Robbie Ray,,,FanDuel,34.70,43.93,63.89,,,47.02,NEGATIVE_CORRELATION,NO,YES
-Ernie Clement,Toronto Blue Jays,Tampa Bay Rays,Tampa Bay Rays @ Toronto Blue Jays,Griffin Jax,,,DraftKings,31.61,41.34,69.76,,,46.93,NEGATIVE_CORRELATION,NO,YES
-Will Benson,Cincinnati Reds,Washington Nationals,Washington Nationals @ Cincinnati Reds,Jake Irvin,,,DraftKings,37.68,34.00,68.69,,,46.92,NEGATIVE_CORRELATION,NO,YES
-Nasim Nuñez,Washington Nationals,Cincinnati Reds,Washington Nationals @ Cincinnati Reds,Nick Lodolo,,,BetMGM,34.24,34.00,72.85,,,46.88,NEGATIVE_CORRELATION,NO,YES
-Miguel Vargas,Chicago White Sox,Kansas City Royals,Kansas City Royals @ Chicago White Sox,Seth Lugo,,,BetMGM,35.77,43.94,62.03,,,46.87,NEGATIVE_CORRELATION,NO,YES
-Dalton Rushing,Los Angeles Dodgers,San Francisco Giants,San Francisco Giants @ Los Angeles Dodgers,Robbie Ray,,,FanDuel,35.14,43.49,62.83,,,46.76,NEGATIVE_CORRELATION,NO,YES
-Colson Montgomery,Chicago White Sox,Kansas City Royals,Kansas City Royals @ Chicago White Sox,Seth Lugo,,,BetMGM,34.41,44.26,62.91,,,46.72,NEGATIVE_CORRELATION,NO,YES
+Will Benson,Cincinnati Reds,Washington Nationals,Washington Nationals @ Cincinnati Reds,Jake Irvin,,,DraftKings,37.68,34.00,68.93,,,46.99,NEGATIVE_CORRELATION,NO,YES
+James McCann,Arizona Diamondbacks,Texas Rangers,Arizona Diamondbacks @ Texas Rangers,Kumar Rocker,,,DraftKings,35.95,34.00,71.06,,,46.98,NEGATIVE_CORRELATION,NO,YES
+Nasim Nuñez,Washington Nationals,Cincinnati Reds,Washington Nationals @ Cincinnati Reds,Nick Lodolo,,,BetMGM,34.24,34.00,73.01,,,46.93,NEGATIVE_CORRELATION,NO,YES
 Mark Vientos,New York Mets,Detroit Tigers,Detroit Tigers @ New York Mets,Framber Valdez,,,FanDuel,35.66,34.00,70.22,,,46.64,NEGATIVE_CORRELATION,NO,YES
-Alejandro Osuna,Texas Rangers,Arizona Diamondbacks,Arizona Diamondbacks @ Texas Rangers,Ryne Nelson,,,DraftKings,30.63,42.24,68.95,,,46.59,NEGATIVE_CORRELATION,NO,YES
-Brandon Lowe,Pittsburgh Pirates,Colorado Rockies,Colorado Rockies @ Pittsburgh Pirates,Jose Quintana,,,DraftKings,35.82,34.00,69.47,,,46.49,NEGATIVE_CORRELATION,NO,YES
-Teoscar Hernández,Los Angeles Dodgers,San Francisco Giants,San Francisco Giants @ Los Angeles Dodgers,Robbie Ray,,,DraftKings,33.62,43.61,63.21,,,46.37,NEGATIVE_CORRELATION,NO,YES
-Andrew Benintendi,Chicago White Sox,Kansas City Royals,Kansas City Royals @ Chicago White Sox,Seth Lugo,,,BetMGM,34.12,43.63,61.99,,,46.20,NEGATIVE_CORRELATION,NO,YES
+Brandon Lowe,Pittsburgh Pirates,Colorado Rockies,Colorado Rockies @ Pittsburgh Pirates,Jose Quintana,,,DraftKings,35.82,34.00,69.71,,,46.56,NEGATIVE_CORRELATION,NO,YES
+Vinnie Pasquantino,Kansas City Royals,Chicago White Sox,Kansas City Royals @ Chicago White Sox,Noah Schultz,,,FanDuel,36.91,34.00,67.73,,,46.38,NEGATIVE_CORRELATION,NO,YES
+Carter Jensen,Kansas City Royals,Chicago White Sox,Kansas City Royals @ Chicago White Sox,Noah Schultz,,,BetMGM,36.34,34.00,68.21,,,46.32,NEGATIVE_CORRELATION,NO,YES
+Maikel Garcia,Kansas City Royals,Chicago White Sox,Kansas City Royals @ Chicago White Sox,Noah Schultz,,,BetMGM,36.99,34.00,67.39,,,46.32,NEGATIVE_CORRELATION,NO,YES
+Salvador Perez,Kansas City Royals,Chicago White Sox,Kansas City Royals @ Chicago White Sox,Noah Schultz,,,FanDuel,36.44,34.00,68.07,,,46.31,NEGATIVE_CORRELATION,NO,YES
+Nico Hoerner,Chicago Cubs,Atlanta Braves,Chicago Cubs @ Atlanta Braves,JR Ritchie,,,DraftKings,31.74,34.00,73.70,,,46.24,NEGATIVE_CORRELATION,NO,YES
+Nick Loftin,Kansas City Royals,Chicago White Sox,Kansas City Royals @ Chicago White Sox,Noah Schultz,,,DraftKings,36.59,34.00,67.17,,,46.11,NEGATIVE_CORRELATION,NO,YES
 Matt McLain,Cincinnati Reds,Washington Nationals,Washington Nationals @ Cincinnati Reds,Jake Irvin,,,FanDuel,37.34,34.00,66.19,,,46.10,NEGATIVE_CORRELATION,NO,YES
-Kyle Tucker,Los Angeles Dodgers,San Francisco Giants,San Francisco Giants @ Los Angeles Dodgers,Robbie Ray,,,DraftKings,33.65,43.11,62.53,,,46.06,NEGATIVE_CORRELATION,NO,YES
+Isaac Collins,Kansas City Royals,Chicago White Sox,Kansas City Royals @ Chicago White Sox,Noah Schultz,,,BetMGM,36.03,34.00,67.69,,,46.06,NEGATIVE_CORRELATION,NO,YES
 Ke'Bryan Hayes,Cincinnati Reds,Washington Nationals,Washington Nationals @ Cincinnati Reds,Jake Irvin,,,DraftKings,36.31,34.00,67.31,,,46.05,NEGATIVE_CORRELATION,NO,YES
 Jordan Walker,St. Louis Cardinals,Athletics,St. Louis Cardinals @ Athletics,J.T. Ginn,,,BetMGM,38.02,34.00,64.90,,,45.98,NEGATIVE_CORRELATION,NO,YES
-Tyler Heineman,Toronto Blue Jays,Tampa Bay Rays,Tampa Bay Rays @ Toronto Blue Jays,Griffin Jax,,,DraftKings,28.71,41.45,69.30,,,45.82,NEGATIVE_CORRELATION,NO,YES
+Geraldo Perdomo,Arizona Diamondbacks,Texas Rangers,Arizona Diamondbacks @ Texas Rangers,Kumar Rocker,,,DraftKings,33.33,34.00,70.24,,,45.83,NEGATIVE_CORRELATION,NO,YES
 Marcell Ozuna,Pittsburgh Pirates,Colorado Rockies,Colorado Rockies @ Pittsburgh Pirates,Jose Quintana,,,DraftKings,34.77,34.00,68.33,,,45.80,NEGATIVE_CORRELATION,NO,YES
-TJ Friedl,Cincinnati Reds,Washington Nationals,Washington Nationals @ Cincinnati Reds,Jake Irvin,,,FanDuel,36.33,34.00,65.95,,,45.68,NEGATIVE_CORRELATION,NO,YES
-Bryan Reynolds,Pittsburgh Pirates,Colorado Rockies,Colorado Rockies @ Pittsburgh Pirates,Jose Quintana,,,BetMGM,34.53,34.00,68.11,,,45.66,NEGATIVE_CORRELATION,NO,YES
-Alec Burleson,St. Louis Cardinals,Athletics,St. Louis Cardinals @ Athletics,J.T. Ginn,,,Caesars,37.90,34.00,63.86,,,45.65,NEGATIVE_CORRELATION,NO,YES
-Ryan O'Hearn,Pittsburgh Pirates,Colorado Rockies,Colorado Rockies @ Pittsburgh Pirates,Jose Quintana,,,DraftKings,35.03,34.00,67.47,,,45.65,NEGATIVE_CORRELATION,NO,YES
-Kyle Schwarber,Philadelphia Phillies,Boston Red Sox,Philadelphia Phillies @ Boston Red Sox,Sonny Gray,,,BetMGM,35.56,34.00,66.45,,,45.55,NEGATIVE_CORRELATION,NO,YES
+Max Muncy,Los Angeles Dodgers,San Francisco Giants,San Francisco Giants @ Los Angeles Dodgers,Robbie Ray,,,FanDuel,36.30,34.00,66.25,,,45.75,NEGATIVE_CORRELATION,NO,YES
+TJ Friedl,Cincinnati Reds,Washington Nationals,Washington Nationals @ Cincinnati Reds,Jake Irvin,,,FanDuel,36.33,34.00,66.19,,,45.75,NEGATIVE_CORRELATION,NO,YES
+Ryan O'Hearn,Pittsburgh Pirates,Colorado Rockies,Colorado Rockies @ Pittsburgh Pirates,Jose Quintana,,,DraftKings,35.03,34.00,67.71,,,45.72,NEGATIVE_CORRELATION,NO,YES
+Alec Burleson,St. Louis Cardinals,Athletics,St. Louis Cardinals @ Athletics,J.T. Ginn,,,Caesars,37.90,34.00,64.10,,,45.71,NEGATIVE_CORRELATION,NO,YES
+Bryan Reynolds,Pittsburgh Pirates,Colorado Rockies,Colorado Rockies @ Pittsburgh Pirates,Jose Quintana,,,BetMGM,34.53,34.00,68.27,,,45.70,NEGATIVE_CORRELATION,NO,YES
+Lane Thomas,Kansas City Royals,Chicago White Sox,Kansas City Royals @ Chicago White Sox,Noah Schultz,,,FanDuel,35.73,34.00,66.75,,,45.70,NEGATIVE_CORRELATION,NO,YES
+Kyle Schwarber,Philadelphia Phillies,Boston Red Sox,Philadelphia Phillies @ Boston Red Sox,Sonny Gray,,,BetMGM,35.56,34.00,66.69,,,45.62,NEGATIVE_CORRELATION,NO,YES
 Jacob Young,Washington Nationals,Cincinnati Reds,Washington Nationals @ Cincinnati Reds,Nick Lodolo,,,FanDuel,30.07,34.00,73.31,,,45.55,NEGATIVE_CORRELATION,NO,YES
+Andrés Giménez,Toronto Blue Jays,Tampa Bay Rays,Tampa Bay Rays @ Toronto Blue Jays,Griffin Jax,,,DraftKings,32.69,34.00,69.86,,,45.50,NEGATIVE_CORRELATION,NO,YES
 Bo Bichette,New York Mets,Detroit Tigers,Detroit Tigers @ New York Mets,Framber Valdez,,,DraftKings,34.34,34.00,67.68,,,45.47,NEGATIVE_CORRELATION,NO,YES
-Mookie Betts,Los Angeles Dodgers,San Francisco Giants,San Francisco Giants @ Los Angeles Dodgers,Robbie Ray,,,BetMGM,33.60,42.65,60.83,,,45.45,NEGATIVE_CORRELATION,NO,YES
 Marcus Semien,New York Mets,Detroit Tigers,Detroit Tigers @ New York Mets,Framber Valdez,,,DraftKings,34.11,34.00,67.88,,,45.45,NEGATIVE_CORRELATION,NO,YES
-Nolan Gorman,St. Louis Cardinals,Athletics,St. Louis Cardinals @ Athletics,J.T. Ginn,,,BetMGM,36.29,34.00,64.32,,,45.21,NEGATIVE_CORRELATION,NO,YES
+Nolan Gorman,St. Louis Cardinals,Athletics,St. Louis Cardinals @ Athletics,J.T. Ginn,,,BetMGM,36.29,34.00,64.56,,,45.28,NEGATIVE_CORRELATION,NO,YES
 Nick Yorke,Pittsburgh Pirates,Colorado Rockies,Colorado Rockies @ Pittsburgh Pirates,Jose Quintana,,,FanDuel,34.34,34.00,66.63,,,45.17,NEGATIVE_CORRELATION,NO,YES
 Henry Davis,Pittsburgh Pirates,Colorado Rockies,Colorado Rockies @ Pittsburgh Pirates,Jose Quintana,,,FanDuel,33.51,34.00,67.51,,,45.13,NEGATIVE_CORRELATION,NO,YES
-Bryce Harper,Philadelphia Phillies,Boston Red Sox,Philadelphia Phillies @ Boston Red Sox,Sonny Gray,,,FanDuel,35.55,34.00,64.53,,,45.01,NEGATIVE_CORRELATION,NO,YES
+Ernie Clement,Toronto Blue Jays,Tampa Bay Rays,Tampa Bay Rays @ Toronto Blue Jays,Griffin Jax,,,DraftKings,31.61,34.00,69.76,,,45.10,NEGATIVE_CORRELATION,NO,YES
+Bryce Harper,Philadelphia Phillies,Boston Red Sox,Philadelphia Phillies @ Boston Red Sox,Sonny Gray,,,FanDuel,35.55,34.00,64.77,,,45.08,NEGATIVE_CORRELATION,NO,YES
 Luis Torrens,New York Mets,Detroit Tigers,Detroit Tigers @ New York Mets,Framber Valdez,,,DraftKings,33.36,34.00,67.22,,,45.00,NEGATIVE_CORRELATION,NO,YES
+Freddie Freeman,Los Angeles Dodgers,San Francisco Giants,San Francisco Giants @ Los Angeles Dodgers,Robbie Ray,,,FanDuel,35.36,34.00,64.55,,,44.95,NEGATIVE_CORRELATION,NO,YES
+Munetaka Murakami,Chicago White Sox,Kansas City Royals,Kansas City Royals @ Chicago White Sox,Seth Lugo,,,DraftKings,35.82,34.00,63.65,,,44.86,NEGATIVE_CORRELATION,NO,YES
 Tyrone Taylor,New York Mets,Detroit Tigers,Detroit Tigers @ New York Mets,Framber Valdez,,,FanDuel,32.99,34.00,67.02,,,44.81,NEGATIVE_CORRELATION,NO,YES
-Nathan Church,St. Louis Cardinals,Athletics,St. Louis Cardinals @ Athletics,J.T. Ginn,,,BetMGM,35.19,34.00,63.16,,,44.50,NEGATIVE_CORRELATION,NO,YES
-Michael Harris II,Atlanta Braves,Chicago Cubs,Chicago Cubs @ Atlanta Braves,Shota Imanaga,,,DraftKings,34.96,43.75,54.58,,,44.45,NEGATIVE_CORRELATION,NO,YES
+Nathan Church,St. Louis Cardinals,Athletics,St. Louis Cardinals @ Athletics,J.T. Ginn,,,BetMGM,35.19,34.00,63.40,,,44.57,NEGATIVE_CORRELATION,NO,YES
+Andy Pages,Los Angeles Dodgers,San Francisco Giants,San Francisco Giants @ Los Angeles Dodgers,Robbie Ray,,,FanDuel,34.70,34.00,63.97,,,44.56,NEGATIVE_CORRELATION,NO,YES
+Alejandro Osuna,Texas Rangers,Arizona Diamondbacks,Arizona Diamondbacks @ Texas Rangers,Ryne Nelson,,,DraftKings,30.63,34.00,68.95,,,44.53,NEGATIVE_CORRELATION,NO,YES
+Brett Baty,New York Mets,Detroit Tigers,Detroit Tigers @ New York Mets,Framber Valdez,,,FanDuel,31.69,34.00,67.48,,,44.48,NEGATIVE_CORRELATION,NO,YES
+Will Smith,Los Angeles Dodgers,San Francisco Giants,San Francisco Giants @ Los Angeles Dodgers,Robbie Ray,,,FanDuel,34.70,34.00,63.65,,,44.47,NEGATIVE_CORRELATION,NO,YES
+Dalton Rushing,Los Angeles Dodgers,San Francisco Giants,San Francisco Giants @ Los Angeles Dodgers,Robbie Ray,,,FanDuel,35.14,34.00,62.97,,,44.43,NEGATIVE_CORRELATION,NO,YES
 Pedro Pagés,St. Louis Cardinals,Athletics,St. Louis Cardinals @ Athletics,J.T. Ginn,,,FanDuel,35.53,34.00,62.48,,,44.43,NEGATIVE_CORRELATION,NO,YES
-Brett Baty,New York Mets,Detroit Tigers,Detroit Tigers @ New York Mets,Framber Valdez,,,FanDuel,31.69,34.00,67.24,,,44.42,NEGATIVE_CORRELATION,NO,YES
 Nick Gonzales,Pittsburgh Pirates,Colorado Rockies,Colorado Rockies @ Pittsburgh Pirates,Jose Quintana,,,DraftKings,31.61,34.00,67.35,,,44.42,NEGATIVE_CORRELATION,NO,YES
-Matt Olson,Atlanta Braves,Chicago Cubs,Chicago Cubs @ Atlanta Braves,Shota Imanaga,,,DraftKings,34.79,43.75,54.10,,,44.26,NEGATIVE_CORRELATION,NO,YES
+Miguel Vargas,Chicago White Sox,Kansas City Royals,Kansas City Royals @ Chicago White Sox,Seth Lugo,,,BetMGM,35.77,34.00,62.03,,,44.39,NEGATIVE_CORRELATION,NO,YES
+Colson Montgomery,Chicago White Sox,Kansas City Royals,Kansas City Royals @ Chicago White Sox,Seth Lugo,,,BetMGM,34.41,34.00,62.91,,,44.16,NEGATIVE_CORRELATION,NO,YES
 Billy Cook,Pittsburgh Pirates,Colorado Rockies,Colorado Rockies @ Pittsburgh Pirates,Jose Quintana,,,DraftKings,31.90,34.00,65.91,,,44.12,NEGATIVE_CORRELATION,NO,YES
 Adolis García,Philadelphia Phillies,Boston Red Sox,Philadelphia Phillies @ Boston Red Sox,Sonny Gray,,,DraftKings,33.52,34.00,63.65,,,44.05,NEGATIVE_CORRELATION,NO,YES
+Tyler Heineman,Toronto Blue Jays,Tampa Bay Rays,Tampa Bay Rays @ Toronto Blue Jays,Griffin Jax,,,DraftKings,28.71,34.00,69.14,,,43.91,NEGATIVE_CORRELATION,NO,YES
+Teoscar Hernández,Los Angeles Dodgers,San Francisco Giants,San Francisco Giants @ Los Angeles Dodgers,Robbie Ray,,,DraftKings,33.62,34.00,62.97,,,43.90,NEGATIVE_CORRELATION,NO,YES
+Kyle Tucker,Los Angeles Dodgers,San Francisco Giants,San Francisco Giants @ Los Angeles Dodgers,Robbie Ray,,,DraftKings,33.65,34.00,62.91,,,43.89,NEGATIVE_CORRELATION,NO,YES
+Andrew Benintendi,Chicago White Sox,Kansas City Royals,Kansas City Royals @ Chicago White Sox,Seth Lugo,,,BetMGM,34.12,34.00,61.99,,,43.80,NEGATIVE_CORRELATION,NO,YES
 Jackson Chourio,Milwaukee Brewers,San Diego Padres,San Diego Padres @ Milwaukee Brewers,Michael King,,,BetMGM,36.17,34.00,58.84,,,43.64,NEGATIVE_CORRELATION,NO,YES
-Drake Baldwin,Atlanta Braves,Chicago Cubs,Chicago Cubs @ Atlanta Braves,Shota Imanaga,,,DraftKings,34.01,43.11,53.14,,,43.56,NEGATIVE_CORRELATION,NO,YES
 Trea Turner,Philadelphia Phillies,Boston Red Sox,Philadelphia Phillies @ Boston Red Sox,Sonny Gray,,,DraftKings,32.80,34.00,61.91,,,43.32,NEGATIVE_CORRELATION,NO,YES
 Ivan Herrera,St. Louis Cardinals,Athletics,St. Louis Cardinals @ Athletics,J.T. Ginn,,,DraftKings,31.41,34.00,63.44,,,43.26,NEGATIVE_CORRELATION,NO,YES
-Austin Riley,Atlanta Braves,Chicago Cubs,Chicago Cubs @ Atlanta Braves,Shota Imanaga,,,DraftKings,32.41,43.06,53.92,,,43.21,NEGATIVE_CORRELATION,NO,YES
+Mookie Betts,Los Angeles Dodgers,San Francisco Giants,San Francisco Giants @ Los Angeles Dodgers,Robbie Ray,,,BetMGM,33.60,34.00,60.59,,,43.22,NEGATIVE_CORRELATION,NO,YES
+Brandon Marsh,Philadelphia Phillies,Boston Red Sox,Philadelphia Phillies @ Boston Red Sox,Sonny Gray,,,DraftKings,31.80,34.00,62.67,,,43.18,NEGATIVE_CORRELATION,NO,YES
 J.T. Realmuto,Philadelphia Phillies,Boston Red Sox,Philadelphia Phillies @ Boston Red Sox,Sonny Gray,,,FanDuel,32.27,34.00,62.09,,,43.18,NEGATIVE_CORRELATION,NO,YES
 Brice Turang,Milwaukee Brewers,San Diego Padres,San Diego Padres @ Milwaukee Brewers,Michael King,,,FanDuel,35.23,34.00,58.14,,,43.11,NEGATIVE_CORRELATION,NO,YES
-Brandon Marsh,Philadelphia Phillies,Boston Red Sox,Philadelphia Phillies @ Boston Red Sox,Sonny Gray,,,DraftKings,31.80,34.00,62.43,,,43.11,NEGATIVE_CORRELATION,NO,YES
 Edmundo Sosa,Philadelphia Phillies,Boston Red Sox,Philadelphia Phillies @ Boston Red Sox,Sonny Gray,,,DraftKings,32.41,34.00,61.63,,,43.10,NEGATIVE_CORRELATION,NO,YES
-Casey Schmitt,San Francisco Giants,Los Angeles Dodgers,San Francisco Giants @ Los Angeles Dodgers,Shohei Ohtani,,,BetMGM,34.22,43.19,51.14,,,43.09,NEGATIVE_CORRELATION,NO,YES
-Jonathan Aranda,Tampa Bay Rays,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,,,DraftKings,33.31,41.53,53.73,,,43.09,NEGATIVE_CORRELATION,NO,YES
+Riley Greene,Detroit Tigers,New York Mets,Detroit Tigers @ New York Mets,Christian Scott,,,DraftKings,32.00,34.00,62.02,,,43.07,NEGATIVE_CORRELATION,NO,YES
 Jared Triolo,Pittsburgh Pirates,Colorado Rockies,Colorado Rockies @ Pittsburgh Pirates,Jose Quintana,,,BetMGM,28.06,34.00,66.95,,,43.07,NEGATIVE_CORRELATION,NO,YES
 Dillon Dingler,Detroit Tigers,New York Mets,Detroit Tigers @ New York Mets,Christian Scott,,,BetMGM,32.92,34.00,60.86,,,43.06,NEGATIVE_CORRELATION,NO,YES
-Junior Caminero,Tampa Bay Rays,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,,,FanDuel,31.32,42.48,55.27,,,43.06,NEGATIVE_CORRELATION,NO,YES
-Riley Greene,Detroit Tigers,New York Mets,Detroit Tigers @ New York Mets,Christian Scott,,,DraftKings,32.00,34.00,61.78,,,43.00,NEGATIVE_CORRELATION,NO,YES
-Heliot Ramos,San Francisco Giants,Los Angeles Dodgers,San Francisco Giants @ Los Angeles Dodgers,Shohei Ohtani,,,DraftKings,33.68,43.12,51.28,,,42.93,NEGATIVE_CORRELATION,NO,YES
 Spencer Torkelson,Detroit Tigers,New York Mets,Detroit Tigers @ New York Mets,Christian Scott,,,BetMGM,31.60,34.00,61.84,,,42.87,NEGATIVE_CORRELATION,NO,YES
 Jake Bauers,Milwaukee Brewers,San Diego Padres,San Diego Padres @ Milwaukee Brewers,Michael King,,,BetMGM,34.21,34.00,58.28,,,42.79,NEGATIVE_CORRELATION,NO,YES
 Cesar Prieto,St. Louis Cardinals,Athletics,St. Louis Cardinals @ Athletics,J.T. Ginn,,,FanDuel,31.41,34.00,61.70,,,42.77,NEGATIVE_CORRELATION,NO,YES
-Chase Meidroth,Chicago White Sox,Kansas City Royals,Kansas City Royals @ Chicago White Sox,Seth Lugo,,,BetMGM,28.05,40.98,59.13,,,42.62,NEGATIVE_CORRELATION,NO,YES
 Vidal Bruján,New York Mets,Detroit Tigers,Detroit Tigers @ New York Mets,Framber Valdez,,,BetMGM,28.50,34.00,64.72,,,42.59,NEGATIVE_CORRELATION,NO,YES
-Yandy Díaz,Tampa Bay Rays,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,,,DraftKings,33.10,39.91,53.27,,,42.48,NEGATIVE_CORRELATION,NO,YES
-Jorge Mateo,Atlanta Braves,Chicago Cubs,Chicago Cubs @ Atlanta Braves,Shota Imanaga,,,DraftKings,32.18,41.00,52.90,,,42.32,NEGATIVE_CORRELATION,NO,YES
 William Contreras,Milwaukee Brewers,San Diego Padres,San Diego Padres @ Milwaukee Brewers,Michael King,,,DraftKings,34.05,34.00,56.58,,,42.26,NEGATIVE_CORRELATION,NO,YES
 Andrew Vaughn,Milwaukee Brewers,San Diego Padres,San Diego Padres @ Milwaukee Brewers,Michael King,,,BetMGM,34.09,34.00,56.16,,,42.16,NEGATIVE_CORRELATION,NO,YES
-Bryson Stott,Philadelphia Phillies,Boston Red Sox,Philadelphia Phillies @ Boston Red Sox,Sonny Gray,,,DraftKings,28.79,34.00,62.47,,,42.07,NEGATIVE_CORRELATION,NO,YES
+Bryson Stott,Philadelphia Phillies,Boston Red Sox,Philadelphia Phillies @ Boston Red Sox,Sonny Gray,,,DraftKings,28.79,34.00,62.71,,,42.13,NEGATIVE_CORRELATION,NO,YES
+Michael Harris II,Atlanta Braves,Chicago Cubs,Chicago Cubs @ Atlanta Braves,Shota Imanaga,,,DraftKings,34.96,34.00,54.58,,,42.02,NEGATIVE_CORRELATION,NO,YES
 Alec Bohm,Philadelphia Phillies,Boston Red Sox,Philadelphia Phillies @ Boston Red Sox,Sonny Gray,,,DraftKings,28.53,34.00,62.51,,,41.99,NEGATIVE_CORRELATION,NO,YES
-Colt Keith,Detroit Tigers,New York Mets,Detroit Tigers @ New York Mets,Christian Scott,,,DraftKings,31.19,34.00,58.86,,,41.90,NEGATIVE_CORRELATION,NO,YES
-Wenceel Pérez,Detroit Tigers,New York Mets,Detroit Tigers @ New York Mets,Christian Scott,,,BetMGM,30.77,34.00,59.24,,,41.86,NEGATIVE_CORRELATION,NO,YES
+Colt Keith,Detroit Tigers,New York Mets,Detroit Tigers @ New York Mets,Christian Scott,,,DraftKings,31.19,34.00,59.10,,,41.96,NEGATIVE_CORRELATION,NO,YES
+Wenceel Pérez,Detroit Tigers,New York Mets,Detroit Tigers @ New York Mets,Christian Scott,,,BetMGM,30.77,34.00,59.40,,,41.90,NEGATIVE_CORRELATION,NO,YES
 Garrett Mitchell,Milwaukee Brewers,San Diego Padres,San Diego Padres @ Milwaukee Brewers,Michael King,,,BetMGM,31.96,34.00,57.66,,,41.83,NEGATIVE_CORRELATION,NO,YES
-Rafael Devers,San Francisco Giants,Los Angeles Dodgers,San Francisco Giants @ Los Angeles Dodgers,Shohei Ohtani,,,DraftKings,32.57,41.84,49.84,,,41.82,NEGATIVE_CORRELATION,NO,YES
+Matt Olson,Atlanta Braves,Chicago Cubs,Chicago Cubs @ Atlanta Braves,Shota Imanaga,,,DraftKings,34.79,34.00,54.10,,,41.82,NEGATIVE_CORRELATION,NO,YES
 Matt Vierling,Detroit Tigers,New York Mets,Detroit Tigers @ New York Mets,Christian Scott,,,DraftKings,30.98,34.00,58.74,,,41.79,NEGATIVE_CORRELATION,NO,YES
-Jake Fraley,Tampa Bay Rays,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,,,DraftKings,32.32,39.34,52.17,,,41.76,NEGATIVE_CORRELATION,NO,YES
 Byron Buxton,Minnesota Twins,Miami Marlins,Miami Marlins @ Minnesota Twins,Max Meyer,,,DraftKings,33.75,34.00,54.80,,,41.66,NEGATIVE_CORRELATION,NO,YES
-Ozzie Albies,Atlanta Braves,Chicago Cubs,Chicago Cubs @ Atlanta Braves,Shota Imanaga,,,DraftKings,32.13,40.07,51.30,,,41.62,NEGATIVE_CORRELATION,NO,YES
 Ramón Laureano,San Diego Padres,Milwaukee Brewers,San Diego Padres @ Milwaukee Brewers,Jacob Misiorowski,,,BetMGM,33.77,34.00,54.39,,,41.55,NEGATIVE_CORRELATION,NO,YES
 Ryan Jeffers,Minnesota Twins,Miami Marlins,Miami Marlins @ Minnesota Twins,Max Meyer,,,BetMGM,34.07,34.00,53.88,,,41.51,NEGATIVE_CORRELATION,NO,YES
+Jackson Merrill,San Diego Padres,Milwaukee Brewers,San Diego Padres @ Milwaukee Brewers,Jacob Misiorowski,,,DraftKings,33.95,34.00,53.93,,,41.48,NEGATIVE_CORRELATION,NO,YES
 Fernando Tatis Jr.,San Diego Padres,Milwaukee Brewers,San Diego Padres @ Milwaukee Brewers,Jacob Misiorowski,,,DraftKings,33.62,34.00,54.29,,,41.47,NEGATIVE_CORRELATION,NO,YES
-Jackson Merrill,San Diego Padres,Milwaukee Brewers,San Diego Padres @ Milwaukee Brewers,Jacob Misiorowski,,,DraftKings,33.95,34.00,53.69,,,41.42,NEGATIVE_CORRELATION,NO,YES
-Harrison Bader,San Francisco Giants,Los Angeles Dodgers,San Francisco Giants @ Los Angeles Dodgers,Shohei Ohtani,,,BetMGM,32.34,40.93,49.28,,,41.35,NEGATIVE_CORRELATION,NO,YES
-Gavin Sheets,San Diego Padres,Milwaukee Brewers,San Diego Padres @ Milwaukee Brewers,Jacob Misiorowski,,,FanDuel,33.93,34.00,53.45,,,41.34,NEGATIVE_CORRELATION,NO,YES
+Gavin Sheets,San Diego Padres,Milwaukee Brewers,San Diego Padres @ Milwaukee Brewers,Jacob Misiorowski,,,FanDuel,33.93,34.00,53.69,,,41.41,NEGATIVE_CORRELATION,NO,YES
 Hunter Goodman,Colorado Rockies,Pittsburgh Pirates,Colorado Rockies @ Pittsburgh Pirates,Mitch Keller,,,DraftKings,31.54,34.00,56.29,,,41.30,NEGATIVE_CORRELATION,NO,YES
-Mickey Moniak,Colorado Rockies,Pittsburgh Pirates,Colorado Rockies @ Pittsburgh Pirates,Mitch Keller,,,DraftKings,32.28,34.00,55.03,,,41.21,NEGATIVE_CORRELATION,NO,YES
-Yordan Alvarez,Houston Astros,Seattle Mariners,Seattle Mariners @ Houston Astros,Bryce Miller,,,FanDuel,38.52,34.00,47.06,,,41.16,NEGATIVE_CORRELATION,NO,YES
-Willy Adames,San Francisco Giants,Los Angeles Dodgers,San Francisco Giants @ Los Angeles Dodgers,Shohei Ohtani,,,DraftKings,32.75,40.35,48.60,,,41.16,NEGATIVE_CORRELATION,NO,YES
-Mauricio Dubón,Atlanta Braves,Chicago Cubs,Chicago Cubs @ Atlanta Braves,Shota Imanaga,,,DraftKings,32.02,39.07,50.58,,,41.14,NEGATIVE_CORRELATION,NO,YES
+Drake Baldwin,Atlanta Braves,Chicago Cubs,Chicago Cubs @ Atlanta Braves,Shota Imanaga,,,DraftKings,34.01,34.00,53.14,,,41.28,NEGATIVE_CORRELATION,NO,YES
+Mickey Moniak,Colorado Rockies,Pittsburgh Pirates,Colorado Rockies @ Pittsburgh Pirates,Mitch Keller,,,DraftKings,32.28,34.00,55.27,,,41.27,NEGATIVE_CORRELATION,NO,YES
+Yordan Alvarez,Houston Astros,Seattle Mariners,Seattle Mariners @ Houston Astros,Bryce Miller,,,FanDuel,38.52,34.00,47.30,,,41.23,NEGATIVE_CORRELATION,NO,YES
+Jonathan Aranda,Tampa Bay Rays,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,,,DraftKings,33.31,34.00,53.73,,,41.21,NEGATIVE_CORRELATION,NO,YES
 Xander Bogaerts,San Diego Padres,Milwaukee Brewers,San Diego Padres @ Milwaukee Brewers,Jacob Misiorowski,,,DraftKings,33.90,34.00,52.51,,,41.07,NEGATIVE_CORRELATION,NO,YES
-Jonny DeLuca,Tampa Bay Rays,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,,,DraftKings,31.40,38.80,51.19,,,41.03,NEGATIVE_CORRELATION,NO,YES
+Yandy Díaz,Tampa Bay Rays,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,,,DraftKings,33.10,34.00,53.27,,,41.00,NEGATIVE_CORRELATION,NO,YES
 Kody Clemens,Minnesota Twins,Miami Marlins,Miami Marlins @ Minnesota Twins,Max Meyer,,,BetMGM,32.95,34.00,53.42,,,40.99,NEGATIVE_CORRELATION,NO,YES
-Mike Yastrzemski,Atlanta Braves,Chicago Cubs,Chicago Cubs @ Atlanta Braves,Shota Imanaga,,,DraftKings,31.32,39.80,50.28,,,40.99,NEGATIVE_CORRELATION,NO,YES
 Christian Yelich,Milwaukee Brewers,San Diego Padres,San Diego Padres @ Milwaukee Brewers,Michael King,,,FanDuel,33.06,34.00,53.26,,,40.99,NEGATIVE_CORRELATION,NO,YES
-Cedric Mullins,Tampa Bay Rays,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,,,FanDuel,30.25,38.92,51.97,,,40.87,NEGATIVE_CORRELATION,NO,YES
+Austin Riley,Atlanta Braves,Chicago Cubs,Chicago Cubs @ Atlanta Braves,Shota Imanaga,,,DraftKings,32.41,34.00,53.92,,,40.94,NEGATIVE_CORRELATION,NO,YES
+Junior Caminero,Tampa Bay Rays,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,,,FanDuel,31.32,34.00,55.27,,,40.94,NEGATIVE_CORRELATION,NO,YES
+Chase Meidroth,Chicago White Sox,Kansas City Royals,Kansas City Royals @ Chicago White Sox,Seth Lugo,,,BetMGM,28.05,34.00,59.13,,,40.87,NEGATIVE_CORRELATION,NO,YES
 Miguel Andujar,San Diego Padres,Milwaukee Brewers,San Diego Padres @ Milwaukee Brewers,Jacob Misiorowski,,,FanDuel,33.38,34.00,52.31,,,40.83,NEGATIVE_CORRELATION,NO,YES
 Manny Machado,San Diego Padres,Milwaukee Brewers,San Diego Padres @ Milwaukee Brewers,Jacob Misiorowski,,,DraftKings,33.23,34.00,52.47,,,40.82,NEGATIVE_CORRELATION,NO,YES
+Casey Schmitt,San Francisco Giants,Los Angeles Dodgers,San Francisco Giants @ Los Angeles Dodgers,Shohei Ohtani,,,BetMGM,34.22,34.00,51.14,,,40.80,NEGATIVE_CORRELATION,NO,YES
 Masyn Winn,St. Louis Cardinals,Athletics,St. Louis Cardinals @ Athletics,J.T. Ginn,,,BetMGM,26.39,34.00,60.54,,,40.69,NEGATIVE_CORRELATION,NO,YES
+Heliot Ramos,San Francisco Giants,Los Angeles Dodgers,San Francisco Giants @ Los Angeles Dodgers,Shohei Ohtani,,,DraftKings,33.68,34.00,51.28,,,40.65,NEGATIVE_CORRELATION,NO,YES
 Royce Lewis,Minnesota Twins,Miami Marlins,Miami Marlins @ Minnesota Twins,Max Meyer,,,BetMGM,32.03,34.00,53.26,,,40.62,NEGATIVE_CORRELATION,NO,YES
 Josh Bell,Minnesota Twins,Miami Marlins,Miami Marlins @ Minnesota Twins,Max Meyer,,,BetMGM,32.93,34.00,51.96,,,40.58,NEGATIVE_CORRELATION,NO,YES
 Sung-Mun Song,San Diego Padres,Milwaukee Brewers,San Diego Padres @ Milwaukee Brewers,Jacob Misiorowski,,,BetMGM,32.42,34.00,52.45,,,40.53,NEGATIVE_CORRELATION,NO,YES
-Nick Fortes,Tampa Bay Rays,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,,,DraftKings,28.60,39.33,52.29,,,40.49,NEGATIVE_CORRELATION,NO,YES
-Ryan Vilade,Tampa Bay Rays,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,,,DraftKings,29.71,38.84,50.89,,,40.36,NEGATIVE_CORRELATION,NO,YES
-Matt Chapman,San Francisco Giants,Los Angeles Dodgers,San Francisco Giants @ Los Angeles Dodgers,Shohei Ohtani,,,FanDuel,31.59,39.62,47.56,,,40.28,NEGATIVE_CORRELATION,NO,YES
-Edouard Julien,Colorado Rockies,Pittsburgh Pirates,Colorado Rockies @ Pittsburgh Pirates,Mitch Keller,,,DraftKings,31.53,34.00,52.63,,,40.27,NEGATIVE_CORRELATION,NO,YES
-Troy Johnston,Colorado Rockies,Pittsburgh Pirates,Colorado Rockies @ Pittsburgh Pirates,Mitch Keller,,,BetMGM,31.14,34.00,53.07,,,40.26,NEGATIVE_CORRELATION,NO,YES
-Willi Castro,Colorado Rockies,Pittsburgh Pirates,Colorado Rockies @ Pittsburgh Pirates,Mitch Keller,,,BetMGM,30.44,34.00,53.63,,,40.17,NEGATIVE_CORRELATION,NO,YES
-Zach Cole,Houston Astros,Seattle Mariners,Seattle Mariners @ Houston Astros,Bryce Miller,,,FanDuel,35.77,34.00,46.82,,,40.13,NEGATIVE_CORRELATION,NO,YES
-Ha-Seong Kim,Atlanta Braves,Chicago Cubs,Chicago Cubs @ Atlanta Braves,Shota Imanaga,,,DraftKings,29.33,40.84,48.76,,,40.13,NEGATIVE_CORRELATION,NO,YES
+Jorge Mateo,Atlanta Braves,Chicago Cubs,Chicago Cubs @ Atlanta Braves,Shota Imanaga,,,DraftKings,32.18,34.00,52.66,,,40.51,NEGATIVE_CORRELATION,NO,YES
+Jake Fraley,Tampa Bay Rays,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,,,DraftKings,32.32,34.00,52.17,,,40.42,NEGATIVE_CORRELATION,NO,YES
+Edouard Julien,Colorado Rockies,Pittsburgh Pirates,Colorado Rockies @ Pittsburgh Pirates,Mitch Keller,,,DraftKings,31.53,34.00,52.87,,,40.34,NEGATIVE_CORRELATION,NO,YES
+Troy Johnston,Colorado Rockies,Pittsburgh Pirates,Colorado Rockies @ Pittsburgh Pirates,Mitch Keller,,,BetMGM,31.14,34.00,53.31,,,40.33,NEGATIVE_CORRELATION,NO,YES
+Willi Castro,Colorado Rockies,Pittsburgh Pirates,Colorado Rockies @ Pittsburgh Pirates,Mitch Keller,,,BetMGM,30.44,34.00,53.79,,,40.21,NEGATIVE_CORRELATION,NO,YES
+Zach Cole,Houston Astros,Seattle Mariners,Seattle Mariners @ Houston Astros,Bryce Miller,,,FanDuel,35.77,34.00,47.06,,,40.20,NEGATIVE_CORRELATION,NO,YES
+Ozzie Albies,Atlanta Braves,Chicago Cubs,Chicago Cubs @ Atlanta Braves,Shota Imanaga,,,DraftKings,32.13,34.00,51.30,,,40.11,NEGATIVE_CORRELATION,NO,YES
 Brooks Lee,Minnesota Twins,Miami Marlins,Miami Marlins @ Minnesota Twins,Max Meyer,,,FanDuel,32.00,34.00,50.90,,,39.95,NEGATIVE_CORRELATION,NO,YES
 Christian Walker,Houston Astros,Seattle Mariners,Seattle Mariners @ Houston Astros,Bryce Miller,,,FanDuel,35.52,34.00,46.32,,,39.90,NEGATIVE_CORRELATION,NO,YES
 Trevor Larnach,Minnesota Twins,Miami Marlins,Miami Marlins @ Minnesota Twins,Max Meyer,,,BetMGM,32.12,34.00,50.56,,,39.90,NEGATIVE_CORRELATION,NO,YES
-Jung Hoo Lee,San Francisco Giants,Los Angeles Dodgers,San Francisco Giants @ Los Angeles Dodgers,Shohei Ohtani,,,DraftKings,29.75,39.57,48.50,,,39.88,NEGATIVE_CORRELATION,NO,YES
+Mauricio Dubón,Atlanta Braves,Chicago Cubs,Chicago Cubs @ Atlanta Braves,Shota Imanaga,,,DraftKings,32.02,34.00,50.58,,,39.87,NEGATIVE_CORRELATION,NO,YES
+Rafael Devers,San Francisco Giants,Los Angeles Dodgers,San Francisco Giants @ Los Angeles Dodgers,Shohei Ohtani,,,DraftKings,32.57,34.00,49.84,,,39.86,NEGATIVE_CORRELATION,NO,YES
+Jonny DeLuca,Tampa Bay Rays,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,,,DraftKings,31.40,34.00,51.19,,,39.82,NEGATIVE_CORRELATION,NO,YES
+Cedric Mullins,Tampa Bay Rays,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,,,FanDuel,30.25,34.00,51.97,,,39.64,NEGATIVE_CORRELATION,NO,YES
+Harrison Bader,San Francisco Giants,Los Angeles Dodgers,San Francisco Giants @ Los Angeles Dodgers,Shohei Ohtani,,,BetMGM,32.34,34.00,49.28,,,39.62,NEGATIVE_CORRELATION,NO,YES
 Cam Smith,Houston Astros,Seattle Mariners,Seattle Mariners @ Houston Astros,Bryce Miller,,,DraftKings,35.27,34.00,45.54,,,39.60,NEGATIVE_CORRELATION,NO,YES
+Mike Yastrzemski,Atlanta Braves,Chicago Cubs,Chicago Cubs @ Atlanta Braves,Shota Imanaga,,,DraftKings,31.32,34.00,50.42,,,39.58,NEGATIVE_CORRELATION,NO,YES
+Willy Adames,San Francisco Giants,Los Angeles Dodgers,San Francisco Giants @ Los Angeles Dodgers,Shohei Ohtani,,,DraftKings,32.75,34.00,48.60,,,39.57,NEGATIVE_CORRELATION,NO,YES
 Ezequiel Tovar,Colorado Rockies,Pittsburgh Pirates,Colorado Rockies @ Pittsburgh Pirates,Mitch Keller,,,FanDuel,30.10,34.00,51.69,,,39.51,NEGATIVE_CORRELATION,NO,YES
 Brice Matthews,Houston Astros,Seattle Mariners,Seattle Mariners @ Houston Astros,Bryce Miller,,,FanDuel,34.40,34.00,45.36,,,39.24,NEGATIVE_CORRELATION,NO,YES
-Ben Williamson,Tampa Bay Rays,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,,,Caesars,25.11,39.10,52.13,,,39.16,NEGATIVE_CORRELATION,NO,YES
+Ryan Vilade,Tampa Bay Rays,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,,,DraftKings,29.71,34.00,50.89,,,39.15,NEGATIVE_CORRELATION,NO,YES
+Nick Fortes,Tampa Bay Rays,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,,,DraftKings,28.60,34.00,52.29,,,39.15,NEGATIVE_CORRELATION,NO,YES
 Jose Altuve,Houston Astros,Seattle Mariners,Seattle Mariners @ Houston Astros,Bryce Miller,,,DraftKings,34.48,34.00,44.92,,,39.14,NEGATIVE_CORRELATION,NO,YES
 César Salazar,Houston Astros,Seattle Mariners,Seattle Mariners @ Houston Astros,Bryce Miller,,,Caesars,34.64,34.00,44.52,,,39.09,NEGATIVE_CORRELATION,NO,YES
 Freddy Fermin,San Diego Padres,Milwaukee Brewers,San Diego Padres @ Milwaukee Brewers,Jacob Misiorowski,,,BetMGM,29.66,34.00,50.35,,,38.98,NEGATIVE_CORRELATION,NO,YES
+Matt Chapman,San Francisco Giants,Los Angeles Dodgers,San Francisco Giants @ Los Angeles Dodgers,Shohei Ohtani,,,FanDuel,31.59,34.00,47.56,,,38.87,NEGATIVE_CORRELATION,NO,YES
 Isaac Paredes,Houston Astros,Seattle Mariners,Seattle Mariners @ Houston Astros,Bryce Miller,,,DraftKings,34.08,34.00,44.34,,,38.84,NEGATIVE_CORRELATION,NO,YES
-Jesus Rodriguez,San Francisco Giants,Los Angeles Dodgers,San Francisco Giants @ Los Angeles Dodgers,Shohei Ohtani,,,DraftKings,27.29,39.70,47.42,,,38.76,NEGATIVE_CORRELATION,NO,YES
-Taylor Walls,Tampa Bay Rays,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,,,FanDuel,23.54,39.17,52.13,,,38.63,NEGATIVE_CORRELATION,NO,YES
-Jake McCarthy,Colorado Rockies,Pittsburgh Pirates,Colorado Rockies @ Pittsburgh Pirates,Mitch Keller,,,FanDuel,26.16,34.00,52.69,,,38.41,NEGATIVE_CORRELATION,NO,YES
-Zach McKinstry,Detroit Tigers,New York Mets,Detroit Tigers @ New York Mets,Christian Scott,,,FanDuel,23.05,34.00,56.52,,,38.39,NEGATIVE_CORRELATION,NO,YES
-Victor Scott II,St. Louis Cardinals,Athletics,St. Louis Cardinals @ Athletics,J.T. Ginn,,,BetMGM,19.70,34.00,60.64,,,38.37,NEGATIVE_CORRELATION,NO,YES
+Jung Hoo Lee,San Francisco Giants,Los Angeles Dodgers,San Francisco Giants @ Los Angeles Dodgers,Shohei Ohtani,,,DraftKings,29.75,34.00,48.50,,,38.49,NEGATIVE_CORRELATION,NO,YES
+Jake McCarthy,Colorado Rockies,Pittsburgh Pirates,Colorado Rockies @ Pittsburgh Pirates,Mitch Keller,,,FanDuel,26.16,34.00,52.93,,,38.47,NEGATIVE_CORRELATION,NO,YES
+Zach McKinstry,Detroit Tigers,New York Mets,Detroit Tigers @ New York Mets,Christian Scott,,,FanDuel,23.05,34.00,56.76,,,38.46,NEGATIVE_CORRELATION,NO,YES
+Victor Scott II,St. Louis Cardinals,Athletics,St. Louis Cardinals @ Athletics,J.T. Ginn,,,BetMGM,19.70,34.00,60.88,,,38.44,NEGATIVE_CORRELATION,NO,YES
+Ha-Seong Kim,Atlanta Braves,Chicago Cubs,Chicago Cubs @ Atlanta Braves,Shota Imanaga,,,DraftKings,29.33,34.00,48.76,,,38.42,NEGATIVE_CORRELATION,NO,YES
 Luis Rengifo,Milwaukee Brewers,San Diego Padres,San Diego Padres @ Milwaukee Brewers,Michael King,,,BetMGM,23.26,34.00,55.80,,,38.26,NEGATIVE_CORRELATION,NO,YES
 Kyle Karros,Colorado Rockies,Pittsburgh Pirates,Colorado Rockies @ Pittsburgh Pirates,Mitch Keller,,,DraftKings,24.76,34.00,52.81,,,37.95,NEGATIVE_CORRELATION,NO,YES
+Ben Williamson,Tampa Bay Rays,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,,,Caesars,25.11,34.00,52.13,,,37.89,NEGATIVE_CORRELATION,NO,YES
 David Hamilton,Milwaukee Brewers,San Diego Padres,San Diego Padres @ Milwaukee Brewers,Michael King,,,BetMGM,21.54,34.00,55.22,,,37.50,NEGATIVE_CORRELATION,NO,YES
-Luis Arraez,San Francisco Giants,Los Angeles Dodgers,San Francisco Giants @ Los Angeles Dodgers,Shohei Ohtani,,,DraftKings,22.99,39.52,47.44,,,37.21,NEGATIVE_CORRELATION,NO,YES
+Taylor Walls,Tampa Bay Rays,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,,,FanDuel,23.54,34.00,52.13,,,37.34,NEGATIVE_CORRELATION,NO,YES
+Jesus Rodriguez,San Francisco Giants,Los Angeles Dodgers,San Francisco Giants @ Los Angeles Dodgers,Shohei Ohtani,,,DraftKings,27.29,34.00,47.42,,,37.33,NEGATIVE_CORRELATION,NO,YES
 Luke Keaschall,Minnesota Twins,Miami Marlins,Miami Marlins @ Minnesota Twins,Max Meyer,,,DraftKings,24.16,34.00,50.32,,,37.05,NEGATIVE_CORRELATION,NO,YES
 Sal Frelick,Milwaukee Brewers,San Diego Padres,San Diego Padres @ Milwaukee Brewers,Michael King,,,Caesars,18.82,34.00,54.96,,,36.48,NEGATIVE_CORRELATION,NO,YES
 Tyler Freeman,Colorado Rockies,Pittsburgh Pirates,Colorado Rockies @ Pittsburgh Pirates,Mitch Keller,,,DraftKings,20.58,34.00,52.27,,,36.34,NEGATIVE_CORRELATION,NO,YES
 Austin Martin,Minnesota Twins,Miami Marlins,Miami Marlins @ Minnesota Twins,Max Meyer,,,BetMGM,20.13,34.00,51.04,,,35.84,NEGATIVE_CORRELATION,NO,YES
-Chandler Simpson,Tampa Bay Rays,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,,,DraftKings,16.28,38.95,50.61,,,35.61,NEGATIVE_CORRELATION,NO,YES
+Luis Arraez,San Francisco Giants,Los Angeles Dodgers,San Francisco Giants @ Los Angeles Dodgers,Shohei Ohtani,,,DraftKings,22.99,34.00,47.44,,,35.83,NEGATIVE_CORRELATION,NO,YES
+Chandler Simpson,Tampa Bay Rays,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,Dylan Cease,,,DraftKings,16.28,34.00,50.61,,,34.37,NEGATIVE_CORRELATION,NO,YES

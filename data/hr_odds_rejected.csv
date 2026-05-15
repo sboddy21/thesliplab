@@ -1,17 +1,35 @@
 player,team,game,reason,raw_books,source_file
-Brandon Valenzuela,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,REJECT_WIDE_VARIANCE,BetMGM:+650 | BetMGM:+650,sgo_best_lines.csv
-Hunter Feduccia,Tampa Bay Rays,Tampa Bay Rays @ Boston Red Sox,REJECT_WIDE_VARIANCE,FanDuel:+1500 | FanDuel:+1500,sgo_best_lines.csv
-Javier Sanoja,Miami Marlins,Miami Marlins @ Minnesota Twins,REJECT_WIDE_VARIANCE,BetMGM:+1050 | BetMGM:+1050,sgo_best_lines.csv
-Joey Ortiz,Milwaukee Brewers,San Diego Padres @ Milwaukee Brewers,REJECT_WIDE_VARIANCE,BetMGM:+850 | BetMGM:+850,sgo_best_lines.csv
-Miguel Rojas,Los Angeles Dodgers,San Francisco Giants @ Los Angeles Dodgers,REJECT_WIDE_VARIANCE,FanDuel:+680 | FanDuel:+680,sgo_best_lines.csv
-Richie Palacios,Tampa Bay Rays,Tampa Bay Rays @ Toronto Blue Jays,REJECT_WIDE_VARIANCE,BetMGM:+800 | BetMGM:+800,sgo_best_lines.csv
-Thomas Saggese,St Louis Cardinals,St. Louis Cardinals @ Athletics,REJECT_WIDE_VARIANCE,BetMGM:+850 | BetMGM:+850,sgo_best_lines.csv
-Tristan Peters,Chicago White Sox,Kansas City Royals @ Chicago White Sox,REJECT_WIDE_VARIANCE,BetMGM:+1200 | FanDuel:+790 | Caesars:+750 | DraftKings:+700 | BetMGM:+1200,sgo_best_lines.csv
-Brandon Valenzuela,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,REJECT_WIDE_VARIANCE,BetMGM:+650 | BetMGM:+650,best_lines.csv
-Hunter Feduccia,Tampa Bay Rays,Tampa Bay Rays @ Boston Red Sox,REJECT_WIDE_VARIANCE,FanDuel:+1500 | FanDuel:+1500,best_lines.csv
-Javier Sanoja,Miami Marlins,Miami Marlins @ Minnesota Twins,REJECT_WIDE_VARIANCE,BetMGM:+1050 | BetMGM:+1050,best_lines.csv
-Joey Ortiz,Milwaukee Brewers,San Diego Padres @ Milwaukee Brewers,REJECT_WIDE_VARIANCE,BetMGM:+850 | BetMGM:+850,best_lines.csv
-Miguel Rojas,Los Angeles Dodgers,San Francisco Giants @ Los Angeles Dodgers,REJECT_WIDE_VARIANCE,FanDuel:+680 | FanDuel:+680,best_lines.csv
-Richie Palacios,Tampa Bay Rays,Tampa Bay Rays @ Toronto Blue Jays,REJECT_WIDE_VARIANCE,BetMGM:+800 | BetMGM:+800,best_lines.csv
-Thomas Saggese,St Louis Cardinals,St. Louis Cardinals @ Athletics,REJECT_WIDE_VARIANCE,BetMGM:+850 | BetMGM:+850,best_lines.csv
-Tristan Peters,Chicago White Sox,Kansas City Royals @ Chicago White Sox,REJECT_WIDE_VARIANCE,BetMGM:+1200 | FanDuel:+790 | Caesars:+750 | DraftKings:+700 | BetMGM:+1200,best_lines.csv
+Andrew Vaughn,Milwaukee Brewers,Milwaukee Brewers @ Minnesota Twins,REJECT_WIDE_VARIANCE,DraftKings:+505 | DraftKings:+505,sgo_best_lines.csv
+Brice Turang,Milwaukee Brewers,Milwaukee Brewers @ Minnesota Twins,REJECT_WIDE_VARIANCE,DraftKings:+496 | DraftKings:+496,sgo_best_lines.csv
+Bryce Eldridge,San Francisco Giants,San Francisco Giants @ Athletics,REJECT_WIDE_VARIANCE,DraftKings:+384 | DraftKings:+384,sgo_best_lines.csv
+Colton Cowser,Baltimore Orioles,Baltimore Orioles @ Washington Nationals,REJECT_WIDE_VARIANCE,BetMGM:+500 | BetMGM:+500,sgo_best_lines.csv
+David Fry,Cleveland Guardians,Cincinnati Reds @ Cleveland Guardians,REJECT_WIDE_VARIANCE,BetMGM:+500 | BetMGM:+500,sgo_best_lines.csv
+David Hamilton,Milwaukee Brewers,Milwaukee Brewers @ Minnesota Twins,REJECT_WIDE_VARIANCE,DraftKings:+589 | DraftKings:+589,sgo_best_lines.csv
+Drew Gilbert,San Francisco Giants,San Francisco Giants @ Athletics,REJECT_WIDE_VARIANCE,DraftKings:+535 | DraftKings:+535,sgo_best_lines.csv
+Drew Millas,Washington Nationals,Baltimore Orioles @ Washington Nationals,REJECT_WIDE_VARIANCE,BetMGM:+1000 | BetMGM:+1000,sgo_best_lines.csv
+Garrett Mitchell,Milwaukee Brewers,Milwaukee Brewers @ Minnesota Twins,REJECT_WIDE_VARIANCE,DraftKings:+583 | DraftKings:+583,sgo_best_lines.csv
+Gary Sánchez,Milwaukee Brewers,Milwaukee Brewers @ Minnesota Twins,REJECT_WIDE_VARIANCE,DraftKings:+392 | DraftKings:+392,sgo_best_lines.csv
+J.T. Realmuto,Philadelphia Phillies,Philadelphia Phillies @ Pittsburgh Pirates,REJECT_WIDE_VARIANCE,BetMGM:+1000 | BetMGM:+1000,sgo_best_lines.csv
+Jackson Chourio,Milwaukee Brewers,Milwaukee Brewers @ Minnesota Twins,REJECT_WIDE_VARIANCE,DraftKings:+323 | DraftKings:+323,sgo_best_lines.csv
+Javier Sanoja,Miami Marlins,Miami Marlins @ Tampa Bay Rays,REJECT_WIDE_VARIANCE,BetMGM:+900 | BetMGM:+900,sgo_best_lines.csv
+Kyle Manzardo,Cleveland Guardians,Cincinnati Reds @ Cleveland Guardians,REJECT_WIDE_VARIANCE,FanDuel:+520,sgo_best_lines.csv
+Luis Rengifo,Milwaukee Brewers,Milwaukee Brewers @ Minnesota Twins,REJECT_WIDE_VARIANCE,DraftKings:+573 | DraftKings:+573,sgo_best_lines.csv
+Sal Frelick,Milwaukee Brewers,Milwaukee Brewers @ Minnesota Twins,REJECT_WIDE_VARIANCE,DraftKings:+830 | DraftKings:+830,sgo_best_lines.csv
+William Contreras,Milwaukee Brewers,Milwaukee Brewers @ Minnesota Twins,REJECT_WIDE_VARIANCE,DraftKings:+512 | DraftKings:+512,sgo_best_lines.csv
+Andrew Vaughn,Milwaukee Brewers,Milwaukee Brewers @ Minnesota Twins,REJECT_WIDE_VARIANCE,DraftKings:+505 | DraftKings:+505,best_lines.csv
+Brice Turang,Milwaukee Brewers,Milwaukee Brewers @ Minnesota Twins,REJECT_WIDE_VARIANCE,DraftKings:+496 | DraftKings:+496,best_lines.csv
+Bryce Eldridge,San Francisco Giants,San Francisco Giants @ Athletics,REJECT_WIDE_VARIANCE,DraftKings:+384 | DraftKings:+384,best_lines.csv
+Colton Cowser,Baltimore Orioles,Baltimore Orioles @ Washington Nationals,REJECT_WIDE_VARIANCE,BetMGM:+500 | BetMGM:+500,best_lines.csv
+David Fry,Cleveland Guardians,Cincinnati Reds @ Cleveland Guardians,REJECT_WIDE_VARIANCE,BetMGM:+500 | BetMGM:+500,best_lines.csv
+David Hamilton,Milwaukee Brewers,Milwaukee Brewers @ Minnesota Twins,REJECT_WIDE_VARIANCE,DraftKings:+589 | DraftKings:+589,best_lines.csv
+Drew Gilbert,San Francisco Giants,San Francisco Giants @ Athletics,REJECT_WIDE_VARIANCE,DraftKings:+535 | DraftKings:+535,best_lines.csv
+Drew Millas,Washington Nationals,Baltimore Orioles @ Washington Nationals,REJECT_WIDE_VARIANCE,BetMGM:+1000 | BetMGM:+1000,best_lines.csv
+Garrett Mitchell,Milwaukee Brewers,Milwaukee Brewers @ Minnesota Twins,REJECT_WIDE_VARIANCE,DraftKings:+583 | DraftKings:+583,best_lines.csv
+Gary Sánchez,Milwaukee Brewers,Milwaukee Brewers @ Minnesota Twins,REJECT_WIDE_VARIANCE,DraftKings:+392 | DraftKings:+392,best_lines.csv
+J.T. Realmuto,Philadelphia Phillies,Philadelphia Phillies @ Pittsburgh Pirates,REJECT_WIDE_VARIANCE,BetMGM:+1000 | BetMGM:+1000,best_lines.csv
+Jackson Chourio,Milwaukee Brewers,Milwaukee Brewers @ Minnesota Twins,REJECT_WIDE_VARIANCE,DraftKings:+323 | DraftKings:+323,best_lines.csv
+Javier Sanoja,Miami Marlins,Miami Marlins @ Tampa Bay Rays,REJECT_WIDE_VARIANCE,BetMGM:+900 | BetMGM:+900,best_lines.csv
+Kyle Manzardo,Cleveland Guardians,Cincinnati Reds @ Cleveland Guardians,REJECT_WIDE_VARIANCE,FanDuel:+520,best_lines.csv
+Luis Rengifo,Milwaukee Brewers,Milwaukee Brewers @ Minnesota Twins,REJECT_WIDE_VARIANCE,DraftKings:+573 | DraftKings:+573,best_lines.csv
+Sal Frelick,Milwaukee Brewers,Milwaukee Brewers @ Minnesota Twins,REJECT_WIDE_VARIANCE,DraftKings:+830 | DraftKings:+830,best_lines.csv
+William Contreras,Milwaukee Brewers,Milwaukee Brewers @ Minnesota Twins,REJECT_WIDE_VARIANCE,DraftKings:+512 | DraftKings:+512,best_lines.csv

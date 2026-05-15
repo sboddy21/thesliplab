@@ -1,0 +1,114 @@
+{
+  "date": "2026-05-15",
+  "original_rows": 234,
+  "kept_rows": 234,
+  "removed_rows": 0,
+  "backup": "/Users/stevenboddy/Desktop/mlb-sweeper/data/snapshots/player_stats_before_live_slate_filter_2026-05-15.csv",
+  "games": [
+    {
+      "game": "Philadelphia Phillies @ Pittsburgh Pirates",
+      "status": "UPCOMING",
+      "start": "2026-05-15T22:40:00Z",
+      "detailed_state": "Scheduled",
+      "abstract_state": "Preview"
+    },
+    {
+      "game": "Baltimore Orioles @ Washington Nationals",
+      "status": "UPCOMING",
+      "start": "2026-05-15T22:45:00Z",
+      "detailed_state": "Scheduled",
+      "abstract_state": "Preview"
+    },
+    {
+      "game": "Toronto Blue Jays @ Detroit Tigers",
+      "status": "UPCOMING",
+      "start": "2026-05-15T22:45:00Z",
+      "detailed_state": "Scheduled",
+      "abstract_state": "Preview"
+    },
+    {
+      "game": "Cincinnati Reds @ Cleveland Guardians",
+      "status": "UPCOMING",
+      "start": "2026-05-15T23:10:00Z",
+      "detailed_state": "Scheduled",
+      "abstract_state": "Preview"
+    },
+    {
+      "game": "Miami Marlins @ Tampa Bay Rays",
+      "status": "UPCOMING",
+      "start": "2026-05-15T23:10:00Z",
+      "detailed_state": "Scheduled",
+      "abstract_state": "Preview"
+    },
+    {
+      "game": "Milwaukee Brewers @ Minnesota Twins",
+      "status": "UPCOMING",
+      "start": "2026-05-15T23:10:00Z",
+      "detailed_state": "Scheduled",
+      "abstract_state": "Preview"
+    },
+    {
+      "game": "Boston Red Sox @ Atlanta Braves",
+      "status": "UPCOMING",
+      "start": "2026-05-15T23:15:00Z",
+      "detailed_state": "Scheduled",
+      "abstract_state": "Preview"
+    },
+    {
+      "game": "New York Yankees @ New York Mets",
+      "status": "UPCOMING",
+      "start": "2026-05-15T23:15:00Z",
+      "detailed_state": "Scheduled",
+      "abstract_state": "Preview"
+    },
+    {
+      "game": "Chicago Cubs @ Chicago White Sox",
+      "status": "UPCOMING",
+      "start": "2026-05-15T23:40:00Z",
+      "detailed_state": "Scheduled",
+      "abstract_state": "Preview"
+    },
+    {
+      "game": "Texas Rangers @ Houston Astros",
+      "status": "UPCOMING",
+      "start": "2026-05-16T00:10:00Z",
+      "detailed_state": "Scheduled",
+      "abstract_state": "Preview"
+    },
+    {
+      "game": "Kansas City Royals @ St. Louis Cardinals",
+      "status": "UPCOMING",
+      "start": "2026-05-16T00:15:00Z",
+      "detailed_state": "Scheduled",
+      "abstract_state": "Preview"
+    },
+    {
+      "game": "Arizona Diamondbacks @ Colorado Rockies",
+      "status": "UPCOMING",
+      "start": "2026-05-16T00:40:00Z",
+      "detailed_state": "Scheduled",
+      "abstract_state": "Preview"
+    },
+    {
+      "game": "Los Angeles Dodgers @ Los Angeles Angels",
+      "status": "UPCOMING",
+      "start": "2026-05-16T01:38:00Z",
+      "detailed_state": "Scheduled",
+      "abstract_state": "Preview"
+    },
+    {
+      "game": "San Diego Padres @ Seattle Mariners",
+      "status": "UPCOMING",
+      "start": "2026-05-16T01:40:00Z",
+      "detailed_state": "Scheduled",
+      "abstract_state": "Preview"
+    },
+    {
+      "game": "San Francisco Giants @ Athletics",
+      "status": "UPCOMING",
+      "start": "2026-05-16T01:40:00Z",
+      "detailed_state": "Scheduled",
+      "abstract_state": "Preview"
+    }
+  ]
+}

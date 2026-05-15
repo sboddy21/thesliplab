@@ -1,0 +1,18 @@
+{
+  "slate_date": "2026-05-15",
+  "updated_at": "2026-05-15T10:41:59.044Z",
+  "source": "github_actions_live_pipeline",
+  "copied_required_files": 10,
+  "copied_optional_files": 8,
+  "missing_required_files": 0,
+  "counts": {
+    "top_hr_plays": 20,
+    "value_hr_plays": 1,
+    "top_hr_stacks": 0,
+    "weather_rows": 14,
+    "consensus_rows": 234,
+    "same_game_hr_parlays": 10153,
+    "player_stats_rows": 234,
+    "pitcher_stats_rows": 28
+  }
+}

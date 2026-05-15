@@ -2,128 +2,73 @@ THE SLIP LAB DAILY SLATE REPORT
 
 TOP HR PROBABILITY PLAYS
 
-1. Munetaka Murakami | Chicago White Sox
-HR Probability: 15.69%
-Odds: 293
-Pitcher: Seth Lugo
+1. Shea Langeliers | Athletics
+HR Probability: 18.53%
+Odds: 250
+Pitcher: Tyler Mahle
 Tier: PASS_OVERPRICED
 
-2. Max Muncy | Los Angeles Dodgers
-HR Probability: 15.38%
-Odds: 320
-Pitcher: Robbie Ray
-Tier: PASS_OVERPRICED
-
-3. Corey Seager | Texas Rangers
-HR Probability: 14.14%
-Odds: 441
-Pitcher: Ryne Nelson
-Tier: WATCHLIST
-
-4. Ian Happ | Chicago Cubs
-HR Probability: 14.08%
-Odds: 430
-Pitcher: JR Ritchie
-Tier: WATCHLIST
-
-5. Kazuma Okamoto | Toronto Blue Jays
-HR Probability: 13.34%
-Odds: 398
-Pitcher: Griffin Jax
-Tier: PASS_OVERPRICED
-
-6. Colson Montgomery | Chicago White Sox
-HR Probability: 13.03%
+2. James Wood | Washington Nationals
+HR Probability: 18.08%
 Odds: 350
-Pitcher: Seth Lugo
+Pitcher: Shane Baz
+Tier: PROBABILITY_PLAY
+
+3. Nick Kurtz | Athletics
+HR Probability: 17.24%
+Odds: 300
+Pitcher: Tyler Mahle
 Tier: PASS_OVERPRICED
 
-7. Bobby Witt Jr. | Kansas City Royals
-HR Probability: 12.86%
-Odds: 475
-Pitcher: Noah Schultz
+4. Hunter Goodman | Colorado Rockies
+HR Probability: 15.96%
+Odds: 270
+Pitcher: Merrill Kelly
+Tier: PASS_OVERPRICED
+
+5. Corey Seager | Texas Rangers
+HR Probability: 15.79%
+Odds: 340
+Pitcher: Spencer Arrighetti
+Tier: PASS_OVERPRICED
+
+6. Munetaka Murakami | Chicago White Sox
+HR Probability: 15.31%
+Odds: 310
+Pitcher: Edward Cabrera
+Tier: PASS_OVERPRICED
+
+7. Brent Rooker | Athletics
+HR Probability: 14.88%
+Odds: 340
+Pitcher: Tyler Mahle
+Tier: PASS_OVERPRICED
+
+8. Max Muncy | Los Angeles Dodgers
+HR Probability: 14.36%
+Odds: 410
+Pitcher: Jack Kochanowicz
 Tier: WATCHLIST
-
-8. Corbin Carroll | Arizona Diamondbacks
-HR Probability: 12.41%
-Odds: 451
-Pitcher: Kumar Rocker
-Tier: PASS_OVERPRICED
 
 9. Ketel Marte | Arizona Diamondbacks
-HR Probability: 11.93%
-Odds: 426
-Pitcher: Kumar Rocker
+HR Probability: 14.28%
+Odds: 300
+Pitcher: Kyle Freeland
 Tier: PASS_OVERPRICED
 
-10. Jake Burger | Texas Rangers
-HR Probability: 11.74%
-Odds: 470
-Pitcher: Ryne Nelson
+10. Oneil Cruz | Pittsburgh Pirates
+HR Probability: 13.93%
+Odds: 390
+Pitcher: Aaron Nola
 Tier: PASS_OVERPRICED
 
 
 BEST VALUE HR PLAYS
 
+1. James Wood
+EV: -18.63%
+Odds: 350
+Fair Odds: 453
+
 
 TOP HR STACK ENVIRONMENTS
-
-1. Bobby Witt Jr. + Munetaka Murakami + Colson Montgomery
-Game: Kansas City Royals @ Chicago White Sox
-Any HR: 36.11%
-All HR: 0.3127%
-Grade: SIM_PLAYABLE_3MAN
-
-2. Bobby Witt Jr. + Munetaka Murakami
-Game: Kansas City Royals @ Chicago White Sox
-Any HR: 26.53%
-All HR: 2.4058%
-Grade: SIM_STRONG_2MAN
-
-3. Munetaka Murakami + Colson Montgomery
-Game: Kansas City Royals @ Chicago White Sox
-Any HR: 26.68%
-All HR: 2.4230%
-Grade: SIM_STRONG_2MAN
-
-4. Ian Happ + Moisés Ballesteros
-Game: Chicago Cubs @ Atlanta Braves
-Any HR: 24.10%
-All HR: 1.9852%
-Grade: SIM_PLAYABLE_2MAN
-
-5. Ian Happ + Moisés Ballesteros + Seiya Suzuki + Michael Busch
-Game: Chicago Cubs @ Atlanta Braves
-Any HR: 40.43%
-All HR: 0.0258%
-Grade: SIM_LEAN_4MAN_LOTTO
-
-6. Ian Happ + Seiya Suzuki
-Game: Chicago Cubs @ Atlanta Braves
-Any HR: 24.09%
-All HR: 1.9814%
-Grade: SIM_PLAYABLE_2MAN
-
-7. Corey Seager + Jake Burger
-Game: Arizona Diamondbacks @ Texas Rangers
-Any HR: 24.22%
-All HR: 1.9989%
-Grade: SIM_PLAYABLE_2MAN
-
-8. Ian Happ + Moisés Ballesteros + Seiya Suzuki
-Game: Chicago Cubs @ Atlanta Braves
-Any HR: 32.94%
-All HR: 0.2311%
-Grade: SIM_PLAYABLE_3MAN
-
-9. Bobby Witt Jr. + Salvador Perez + Munetaka Murakami + Colson Montgomery
-Game: Kansas City Royals @ Chicago White Sox
-Any HR: 43.02%
-All HR: 0.0339%
-Grade: SIM_LEAN_4MAN_LOTTO
-
-10. Ian Happ + Moisés Ballesteros + Michael Busch
-Game: Chicago Cubs @ Atlanta Braves
-Any HR: 32.58%
-All HR: 0.2215%
-Grade: SIM_PLAYABLE_3MAN
