@@ -142,6 +142,32 @@ function initials(name) {
   return name.split(" ").filter(Boolean).slice(0, 2).map(part => part[0]).join("").toUpperCase();
 }
 
+function headshotUrl(player) {
+  if (!player?.mlbam) return "";
+  return "https://img.mlbstatic.com/mlb-photos/image/upload/w_180,q_auto:best/v1/people/" + player.mlbam + "/headshot/67/current";
+}
+
+function playerAvatar(player, size = "card") {
+  const url = headshotUrl(player);
+  const fallback = initials(player.player);
+
+  if (!url) {
+    return `<div class="player-photo-fallback ${size}">${fallback}</div>`;
+  }
+
+  return `
+    <div class="player-photo-wrap ${size}">
+      <img
+        class="player-photo"
+        src="${url}"
+        alt="${player.player}"
+        loading="lazy"
+        onerror="this.style.display='none'; this.parentElement.innerHTML='<div class=\'player-photo-fallback ${size}\'>${fallback}</div>';"
+      />
+    </div>
+  `;
+}
+
 function normalizeRow(row, index) {
   return {
     id: index + "-" + getPlayerName(row).replace(/\s+/g, "_"),
@@ -320,9 +346,12 @@ function renderCard(player) {
   return `
     <article class="player-card">
       <div class="card-head">
-        <div>
-          <div class="player-name" data-id="${player.id}">${player.player}</div>
-          <div class="card-sub">${player.team} ${player.handedness ? "• " + player.handedness : ""} ${player.lineup ? "• #" + player.lineup + " Spot" : ""}</div>
+        <div class="card-player-main">
+          ${playerAvatar(player, "card")}
+          <div>
+            <div class="player-name" data-id="${player.id}">${player.player}</div>
+            <div class="card-sub">${player.team} ${player.handedness ? "• " + player.handedness : ""} ${player.lineup ? "• #" + player.lineup + " Spot" : ""}</div>
+          </div>
         </div>
         <div class="grade-pill ${gradeClass(player.grade)}">${player.grade}</div>
       </div>
@@ -387,7 +416,7 @@ function renderModal() {
   const p = activePlayer;
   if (!p) return;
 
-  document.getElementById("modalInitials").textContent = initials(p.player);
+  document.getElementById("modalInitials").outerHTML = playerAvatar(p, "modal");
   document.getElementById("modalName").textContent = p.player;
   document.getElementById("modalSub").textContent = `${p.team} • ${p.grade} • vs ${p.pitcher}`;
   document.getElementById("modalBadge").textContent = p.score.toFixed(1);
