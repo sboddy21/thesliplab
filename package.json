@@ -2,11 +2,8 @@
   "name": "the-slip-lab-website",
   "version": "1.0.0",
   "private": true,
+  "type": "module",
   "scripts": {
-    "start": "npx serve .",
-    "build": "echo Static site ready"
-  },
-  "dependencies": {
-    "serve": "^14.2.4"
+    "build": "node scripts/build_static_site.js"
   }
 }
