@@ -1,0 +1,9 @@
+{
+  "name": "the-slip-lab-website",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build_static_site.js"
+  }
+}

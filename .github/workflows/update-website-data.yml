@@ -1,0 +1,30 @@
+name: Update The Slip Lab Website Data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/15 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout website repo
+        uses: actions/checkout@v4
+
+      - name: Add update timestamp
+        run: |
+          mkdir -p data
+          node -e "const fs=require('fs');fs.writeFileSync('data/site_last_updated.json', JSON.stringify({ updated_at:new Date().toISOString(), source:'github_actions' }, null, 2));"
+
+      - name: Commit updated data
+        run: |
+          git config user.name "The Slip Lab Bot"
+          git config user.email "actions@github.com"
+          git add data/site_last_updated.json
+          git diff --cached --quiet || git commit -m "Auto update website data"
+          git push

@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>The Slip Lab | Power Zones</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="power-zones.css" />
+</head>
+<body>
+
+<header class="tsl-site-header">
+  <a class="tsl-brand" href="index.html">
+    <div class="tsl-logo">TSL</div>
+    <div>
+      <div class="tsl-brand-title">The Slip Lab</div>
+      <div class="tsl-brand-subtitle">MLB Home Run Intelligence</div>
+    </div>
+  </a>
+
+  <nav class="tsl-pill-nav">
+    <a class="tsl-pill-link" href="index.html">Home</a>
+    <a class="tsl-pill-link" href="index.html#top-plays">Top Plays</a>
+    <a class="tsl-pill-link" href="index.html#value-plays">Value</a>
+    <a class="tsl-pill-link" href="power-zones.html">Power Zones</a>
+    <a class="tsl-pill-link" href="index.html#stacks">Stacks</a>
+    <a class="tsl-pill-link" href="slate.html">Slate</a>
+    <a class="tsl-pill-link" href="weather.html">Weather</a>
+    <a class="tsl-pill-link" href="results.html">Results</a>
+  </nav>
+</header>
+
+
+<main class="pz-page">
+  <section class="pz-hero">
+    <div>
+      <p class="eyebrow">The Slip Lab</p>
+      <h1>Power Zones</h1>
+      <p>Daily HR power profile board built around hitter damage, pitcher vulnerability, park context, weather, and matchup strength.</p>
+    </div>
+
+    <div class="pz-actions">
+      <span id="pzUpdated">Loading data</span>
+      <button id="pzRefresh">Refresh</button>
+    </div>
+  </section>
+
+  <section class="pz-controls">
+    <input id="pzSearch" placeholder="Search player, team, pitcher, park..." />
+    <div class="pz-tabs">
+      <button class="pz-filter active" data-filter="ALL">All</button>
+      <button class="pz-filter" data-filter="CORE">Core</button>
+      <button class="pz-filter" data-filter="DANGER">Danger</button>
+      <button class="pz-filter" data-filter="VALUE">Value</button>
+      <button class="pz-filter" data-filter="SLEEPER">Sleeper</button>
+    </div>
+    <select id="pzSort">
+      <option value="score">Sort by Slip Score</option>
+      <option value="hr">Sort by HR</option>
+      <option value="iso">Sort by ISO</option>
+      <option value="slg">Sort by SLG</option>
+    </select>
+  </section>
+
+  <section id="pzGrid" class="pz-grid"></section>
+</main>
+
+<div id="pzDrawer" class="pz-drawer" aria-hidden="true">
+  <div class="pz-drawer-backdrop" id="pzCloseBackdrop"></div>
+  <aside class="pz-drawer-panel">
+    <button id="pzClose" class="pz-close">×</button>
+    <div id="pzDrawerContent"></div>
+  </aside>
+</div>
+
+<script src="power-zones.js?v=hard-reset-1"></script>
+</body>
+</html>

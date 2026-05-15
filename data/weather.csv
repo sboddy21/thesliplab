@@ -1,4 +1,5 @@
 game,home_team,away_team,venue,city,temp,humidity,wind_speed,wind_deg,wind_text,weather_desc,weather_boost,weather_label,roof_flag,roof_status,fetched_at
+<<<<<<< HEAD
 Miami Marlins @ Tampa Bay Rays,Tampa Bay Rays,Miami Marlins,George M. Steinbrenner Field,Tampa,69.7,86,4.6,20,5 MPH Wind NNE,few clouds,0,Neutral,0,OPEN_AIR,2026-05-15T10:39:08.107Z
 Cincinnati Reds @ Cleveland Guardians,Cleveland Guardians,Cincinnati Reds,Progressive Field,Cleveland,40.6,88,0.0,0,Calm,clear sky,-2,Mild suppress,0,OPEN_AIR,2026-05-15T10:39:08.209Z
 Kansas City Royals @ St. Louis Cardinals,St. Louis Cardinals,Kansas City Royals,Busch Stadium,St. Louis,60.9,56,9.2,160,9 MPH Wind SSE,overcast clouds,1,Mild boost,0,OPEN_AIR,2026-05-15T10:39:08.245Z
@@ -13,3 +14,10 @@ Toronto Blue Jays @ Detroit Tigers,Detroit Tigers,Toronto Blue Jays,Comerica Par
 San Francisco Giants @ Athletics,Athletics,San Francisco Giants,Sutter Health Park,Sacramento,59.1,75,6.9,140,7 MPH Wind SE,clear sky,1,Mild boost,0,OPEN_AIR,2026-05-15T10:39:08.565Z
 Texas Rangers @ Houston Astros,Houston Astros,Texas Rangers,Daikin Park,Houston,72.5,89,10.4,180,Roof Stadium,broken clouds,0,Roof controlled,1,ROOF_OR_RETRACTABLE,2026-05-15T10:39:08.596Z
 Arizona Diamondbacks @ Colorado Rockies,Colorado Rockies,Arizona Diamondbacks,Coors Field,Denver,58.6,38,5.8,240,6 MPH Wind WSW,clear sky,0,Neutral,0,OPEN_AIR,2026-05-15T10:39:08.629Z
+=======
+Chicago Cubs @ Atlanta Braves,Atlanta Braves,Chicago Cubs,Truist Park,Atlanta,62.4,48,3.4,340,3 MPH Wind NNW,clear sky,0,Neutral,0,OPEN_AIR,2026-05-15T01:58:56.233Z
+Arizona Diamondbacks @ Texas Rangers,Texas Rangers,Arizona Diamondbacks,Globe Life Field,Arlington,83.1,50,17.3,180,Roof Stadium,clear sky,0,Roof controlled,1,ROOF_OR_RETRACTABLE,2026-05-15T01:58:56.367Z
+Tampa Bay Rays @ Toronto Blue Jays,Toronto Blue Jays,Tampa Bay Rays,Rogers Centre,Toronto,51.4,76,12.7,340,Roof Stadium,overcast clouds,0,Roof controlled,1,ROOF_OR_RETRACTABLE,2026-05-15T01:58:56.405Z
+Kansas City Royals @ Chicago White Sox,Chicago White Sox,Kansas City Royals,Guaranteed Rate Field,Chicago,55.8,50,8.1,110,8 MPH Wind ESE,broken clouds,1,Mild boost,0,OPEN_AIR,2026-05-15T01:58:56.443Z
+San Francisco Giants @ Los Angeles Dodgers,Los Angeles Dodgers,San Francisco Giants,Dodger Stadium,Los Angeles,67.5,65,11.5,260,12 MPH Wind W,clear sky,2,Mild boost,0,OPEN_AIR,2026-05-15T01:58:56.482Z
+>>>>>>> 541e6630ab47d0010d012fa3281b819ca6dac344
