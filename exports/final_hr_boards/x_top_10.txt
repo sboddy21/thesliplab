@@ -1,0 +1,43 @@
+HR TOP 10 BOARD
+
+The Slip Lab HR Decision Engine
+
+1. James Wood (Washington Nationals) vs Nick Lodolo | 362 | Score 89 | SLIP LAB ELITE
+Signals: MASTER|MATCHUP|SPLITS|PITCH|CONTACT
+Pitch edge: Sinker 24.4%
+
+2. Shea Langeliers (Athletics) vs Matthew Liberatore | 240 | Score 80.7 | STRONG PLAY
+Signals: MASTER|SPLITS|PITCH
+Pitch edge: 4-Seam Fastball 32.4%
+
+3. Luke Raley (Seattle Mariners) vs Lance McCullers Jr. | 474 | Score 80.6 | STRONG PLAY
+Signals: MASTER|MATCHUP|SPLITS|CONTACT
+Pitch edge: Cutter 21.8%
+
+4. Willson Contreras (Boston Red Sox) vs Andrew Painter | 490 | Score 80.2 | STRONG PLAY
+Signals: MASTER|SPLITS|CONTACT
+Pitch edge: Slider 17%
+
+5. Nick Kurtz (Athletics) vs Matthew Liberatore | 333 | Score 79.8 | STRONG PLAY
+Signals: MASTER|PITCH|CONTACT
+Pitch edge: 4-Seam Fastball 32.4%
+
+6. JJ Bleday (Cincinnati Reds) vs Jake Irvin | 390 | Score 78.9 | STRONG PLAY
+Signals: MASTER|SPLITS|PITCH|CONTACT
+Pitch edge: 4-Seam Fastball 23.4%
+
+7. Kazuma Okamoto (Toronto Blue Jays) vs Griffin Jax | 398 | Score 76.1 | STRONG PLAY
+Signals: PITCH
+Pitch edge: 4-Seam Fastball 30.4%
+
+8. Oneil Cruz (Pittsburgh Pirates) vs Jose Quintana | 400 | Score 76.1 | STRONG PLAY
+Signals: PITCH|CONTACT
+Pitch edge: 4-Seam Fastball 28.2%
+
+9. Ian Happ (Chicago Cubs) vs JR Ritchie | 430 | Score 75.8 | PLAYABLE
+Signals: SPLITS
+Pitch edge: Curveball 25.7%
+
+10. Corey Seager (Texas Rangers) vs Ryne Nelson | 441 | Score 75.7 | PLAYABLE
+Signals: PITCH
+Pitch edge: 4-Seam Fastball 61%

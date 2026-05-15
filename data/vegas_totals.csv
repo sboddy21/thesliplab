@@ -1,0 +1,26 @@
+event_id,commence_time,away_team,home_team,game,vegas_total,books_count,source
+21ff18fdfd96a55a86867197e834497e,2026-05-13T17:06:00Z,New York Yankees,Baltimore Orioles,New York Yankees @ Baltimore Orioles,7.5,12,the_odds_api_totals
+4546828df054a4ac1c7634c94b4c7012,2026-05-13T22:41:00Z,Washington Nationals,Cincinnati Reds,Washington Nationals @ Cincinnati Reds,9.0,22,the_odds_api_totals
+198e79fae18be9cb416f60f6da4d7996,2026-05-13T22:41:00Z,Colorado Rockies,Pittsburgh Pirates,Colorado Rockies @ Pittsburgh Pirates,8.4,22,the_odds_api_totals
+002b9c5446f97ad6146eb0b6da64db25,2026-05-13T22:46:00Z,Philadelphia Phillies,Boston Red Sox,Philadelphia Phillies @ Boston Red Sox,9.0,22,the_odds_api_totals
+70e80bbf99890d3a610a98c21f3a7419,2026-05-13T23:08:00Z,Tampa Bay Rays,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,7.5,22,the_odds_api_totals
+ca6c0da9264577ed9bb23ff05ee77801,2026-05-13T23:11:00Z,Detroit Tigers,New York Mets,Detroit Tigers @ New York Mets,8.0,22,the_odds_api_totals
+1ae3a00c8d26de69bd61ddda56e9dba1,2026-05-13T23:16:00Z,Chicago Cubs,Atlanta Braves,Chicago Cubs @ Atlanta Braves,8.5,22,the_odds_api_totals
+4d53bfb528444dbb7721172c9851e6c9,2026-05-13T23:41:00Z,Kansas City Royals,Chicago White Sox,Kansas City Royals @ Chicago White Sox,8.0,22,the_odds_api_totals
+18791fe8f5ff31b64bb2cff4f5af59a0,2026-05-13T23:41:00Z,Miami Marlins,Minnesota Twins,Miami Marlins @ Minnesota Twins,8.6,22,the_odds_api_totals
+15bc05498c54cf822aedf7434d3a8bc6,2026-05-13T23:41:00Z,San Diego Padres,Milwaukee Brewers,San Diego Padres @ Milwaukee Brewers,7.0,22,the_odds_api_totals
+4ea6eeeb6626c218d536f9bca6edbeae,2026-05-14T00:06:00Z,Arizona Diamondbacks,Texas Rangers,Arizona Diamondbacks @ Texas Rangers,8.0,22,the_odds_api_totals
+6ff5fdd2fde54dc43326a02792b3e79f,2026-05-14T00:11:00Z,Seattle Mariners,Houston Astros,Seattle Mariners @ Houston Astros,9.0,22,the_odds_api_totals
+d27ba1c4cb8a441ca047f3a9054aab48,2026-05-14T01:41:00Z,St. Louis Cardinals,Athletics,St. Louis Cardinals @ Athletics,10.0,22,the_odds_api_totals
+7018d88c446b88b45928fc75ec91e83c,2026-05-14T02:11:00Z,San Francisco Giants,Los Angeles Dodgers,San Francisco Giants @ Los Angeles Dodgers,7.6,22,the_odds_api_totals
+b707c40c030d32a5c6a52e12bdee39fd,2026-05-14T16:36:00Z,Colorado Rockies,Pittsburgh Pirates,Colorado Rockies @ Pittsburgh Pirates,8.0,8,the_odds_api_totals
+8abdf6d45a3ff089cc31a3d8ae9454b2,2026-05-14T16:41:00Z,Washington Nationals,Cincinnati Reds,Washington Nationals @ Cincinnati Reds,8.3,8,the_odds_api_totals
+e24302ea9f75de2f74247cff5426bb72,2026-05-14T17:11:00Z,Detroit Tigers,New York Mets,Detroit Tigers @ New York Mets,7.5,4,the_odds_api_totals
+0fd9dcf5dd607b0b9074ed98709c23da,2026-05-14T17:41:00Z,Miami Marlins,Minnesota Twins,Miami Marlins @ Minnesota Twins,8.5,6,the_odds_api_totals
+679760ad793188b79273efa2408440ac,2026-05-14T17:41:00Z,San Diego Padres,Milwaukee Brewers,San Diego Padres @ Milwaukee Brewers,8.0,8,the_odds_api_totals
+901a26e0d74ceaadd9981af23f8e1a15,2026-05-14T18:11:00Z,Seattle Mariners,Houston Astros,Seattle Mariners @ Houston Astros,9.3,8,the_odds_api_totals
+07fe304b5fb4622bc1a942801ac904f6,2026-05-14T19:06:00Z,St. Louis Cardinals,Athletics,St. Louis Cardinals @ Athletics,9.8,10,the_odds_api_totals
+6e7d9b2e9bc1d87a475e2a29d5c86b92,2026-05-14T22:46:00Z,Philadelphia Phillies,Boston Red Sox,Philadelphia Phillies @ Boston Red Sox,7.8,8,the_odds_api_totals
+797493921ce7c293a19900840d42e2e1,2026-05-14T23:16:00Z,Chicago Cubs,Atlanta Braves,Chicago Cubs @ Atlanta Braves,7.5,8,the_odds_api_totals
+3e233aef78a3a5c98e1d9fc4ba450901,2026-05-14T23:41:00Z,Kansas City Royals,Chicago White Sox,Kansas City Royals @ Chicago White Sox,8.4,8,the_odds_api_totals
+bc2f7272b3d5ef426608824387a95824,2026-05-15T02:11:00Z,San Francisco Giants,Los Angeles Dodgers,San Francisco Giants @ Los Angeles Dodgers,8.5,6,the_odds_api_totals

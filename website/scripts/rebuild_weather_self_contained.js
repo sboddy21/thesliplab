@@ -1,0 +1,219 @@
+import fs from "fs";
+import path from "path";
+
+const ROOT = process.cwd();
+
+const html = `<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Slip Lab Weather</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;background:#020504;color:#fff;font-family:Arial,Helvetica,sans-serif}
+.header{height:82px;background:#020403;border-bottom:1px solid rgba(255,255,255,.08);display:flex;align-items:center;justify-content:space-between;padding:0 30px;position:sticky;top:0;z-index:20}
+.brand{display:flex;align-items:center;gap:14px;color:#fff;text-decoration:none}
+.logo{width:42px;height:42px;border-radius:11px;background:#00ff88;color:#00170c;display:grid;place-items:center;font-weight:900}
+.brand-title{font-size:22px;font-weight:900}
+.brand-sub{font-size:12px;color:#00ff88;font-weight:900;letter-spacing:.15em}
+.nav{display:flex;gap:24px}
+.nav a{color:#d7d7d7;text-decoration:none;font-size:13px;font-weight:900}
+.nav a.active{color:#00ff88}
+.wrap{max-width:1450px;margin:0 auto;padding:18px}
+.summary{border:1px solid rgba(255,255,255,.1);border-radius:14px;padding:16px;margin-bottom:16px;background:rgba(255,255,255,.025)}
+.summary h3{margin:0 0 12px;color:#00ff88;font-size:12px;letter-spacing:.2em}
+.legend{display:flex;gap:22px;flex-wrap:wrap;color:#cfd8d2;font-size:13px}
+.dot{width:10px;height:10px;border-radius:50%;display:inline-block;margin-right:7px}
+.green{background:#21d66d}.yellow{background:#ffe600}.orange{background:#ff8300}.blue{background:#16c7ff}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.card{height:158px;border:1px solid rgba(255,255,255,.14);border-left:4px solid #00ff88;border-radius:12px;display:grid;grid-template-columns:148px 110px 100px 98px 235px 88px;overflow:hidden;background:linear-gradient(90deg,rgba(0,255,136,.16),rgba(255,255,255,.025))}
+.card.roof{border-left-color:#18cfff;background:linear-gradient(90deg,rgba(0,200,255,.14),rgba(255,255,255,.025))}
+.card.delay{border-left-color:#ff8a00;background:linear-gradient(90deg,rgba(255,138,0,.20),rgba(255,255,255,.025))}
+.cell{border-right:1px solid rgba(255,255,255,.12);display:flex;align-items:center;justify-content:center;padding:12px;min-width:0}
+.cell:last-child{border-right:0}
+.game{align-items:flex-start;justify-content:center;flex-direction:column}
+.matchup{font-size:22px;line-height:1.05;font-weight:900;white-space:pre-line}
+.park{color:#d575ff;font-size:12px;font-weight:800;margin-top:10px}
+.time{color:#cfd8d2;font-size:13px;margin-top:10px}
+.iconbox{flex-direction:column;gap:8px;text-align:center}
+.icon{width:44px;height:44px;border-radius:50%;display:grid;place-items:center;background:rgba(255,255,255,.08);font-size:25px}
+.label{font-size:10px;letter-spacing:.18em;color:#cfd8d2;font-weight:900;line-height:1.15;white-space:pre-line}
+.metric{flex-direction:column}
+.big{font-size:24px;font-weight:900}
+.small{font-size:10px;color:#cfd8d2;font-weight:900;letter-spacing:.18em;margin-top:8px}
+.wind{flex-direction:column;text-align:center}
+.windnum{font-size:23px;font-weight:900}
+.windtxt{font-size:13px;line-height:1.15;margin-top:8px}
+.parkcell{padding:2px}
+.ballpark{width:210px;height:148px;display:block;overflow:visible}
+.fieldfill{fill:rgba(30,125,47,.9)}
+.fieldglow{fill:none;stroke:rgba(0,255,136,.48);stroke-width:5;stroke-linejoin:round}
+.fieldline{fill:none;stroke:rgba(255,255,255,.92);stroke-width:2;stroke-linejoin:round}
+.infield{fill:rgba(192,124,58,.95);stroke:rgba(255,255,255,.55);stroke-width:1.2}
+.base{fill:#fff}
+.dim{fill:white;font-size:12px;font-weight:900;text-anchor:middle;paint-order:stroke;stroke:#07100c;stroke-width:4}
+.sub{fill:white;font-size:8px;font-weight:900;text-anchor:middle;paint-order:stroke;stroke:#07100c;stroke-width:3}
+.arrowcircle{fill:#2477e8;filter:drop-shadow(0 0 10px rgba(50,130,255,.9))}
+.arrow{fill:#fff}
+@media(max-width:1200px){.grid{grid-template-columns:1fr}.card{grid-template-columns:150px 110px 100px 98px 235px 88px}}
+@media(max-width:760px){.header{height:auto;align-items:flex-start;flex-direction:column;padding:16px}.nav{flex-wrap:wrap;gap:12px}.card{height:auto;grid-template-columns:1fr 1fr}.cell{min-height:105px}.parkcell{grid-column:span 2}.ballpark{width:240px;height:170px}}
+</style>
+</head>
+<body>
+<header class="header">
+<a class="brand" href="/">
+<div class="logo">TSL</div>
+<div>
+<div class="brand-title">The Slip Lab</div>
+<div class="brand-sub">MLB HOME RUN INTELLIGENCE</div>
+</div>
+</a>
+<nav class="nav">
+<a href="/">HOME</a>
+<a href="/#top-plays">TOP PLAYS</a>
+<a href="/#value">VALUE</a>
+<a href="/parlay">STACKS</a>
+<a href="/slate">SLATE</a>
+<a class="active" href="/weather">WEATHER</a>
+<a href="/results">RESULTS</a>
+</nav>
+</header>
+
+<main class="wrap">
+<section class="summary">
+<h3>SUMMARY</h3>
+<div class="legend">
+<span><i class="dot green"></i>Clear</span>
+<span><i class="dot yellow"></i>Weather Watch</span>
+<span><i class="dot orange"></i>Delay Risk</span>
+<span><i class="dot blue"></i>Roof</span>
+</div>
+</section>
+<section id="grid" class="grid"></section>
+</main>
+
+<script>
+const PARKS={
+"Target Field":{shape:"M100 144 L34 78 L68 38 L102 28 L132 31 L166 68 L137 104 L118 144 Z",lf:339,lcf:377,cf:411,rcf:367,rf:328},
+"Daikin Park":{shape:"M100 144 L31 77 L58 41 L80 29 L120 28 L151 47 L170 82 L137 111 L116 144 Z",lf:315,lcf:362,cf:409,rcf:373,rf:326},
+"Sutter Health Park":{shape:"M100 144 L33 80 L63 43 L86 30 L127 34 L164 70 L137 107 L118 144 Z",lf:330,lcf:388,cf:403,rcf:388,rf:325},
+"Truist Park":{shape:"M100 144 L33 80 L64 42 L92 30 L126 34 L166 72 L137 109 L118 144 Z",lf:335,lcf:385,cf:400,rcf:375,rf:325},
+"Globe Life Field":{shape:"M100 144 L33 80 L67 42 L91 31 L130 33 L168 72 L138 110 L118 144 Z",lf:329,lcf:372,cf:407,rcf:374,rf:326},
+"Rogers Centre":{shape:"M100 144 L31 82 Q100 25 169 82 L138 111 L118 144 Z",lf:328,lcf:375,cf:400,rcf:375,rf:328},
+"Comerica Park":{shape:"M100 144 L27 81 L61 44 L92 29 L132 32 L170 75 L137 108 L118 144 Z",lf:345,lcf:370,cf:420,rcf:365,rf:330},
+"Oracle Park":{shape:"M100 144 L34 82 L64 41 L86 31 L121 30 L153 51 L176 84 L138 110 L118 144 Z",lf:339,lcf:399,cf:391,rcf:421,rf:309},
+"PNC Park":{shape:"M100 144 L32 83 L58 41 L82 29 L122 31 L166 76 L136 110 L118 144 Z",lf:325,lcf:389,cf:399,rcf:375,rf:320},
+"Fenway Park":{shape:"M100 144 L25 83 L25 48 L74 31 L121 33 L168 76 L136 109 L118 144 Z",lf:310,lcf:379,cf:390,rcf:380,rf:302},
+"Yankee Stadium":{shape:"M100 144 L28 82 L63 42 L91 29 L130 32 L170 78 L138 110 L118 144 Z",lf:318,lcf:399,cf:408,rcf:385,rf:314},
+"Citi Field":{shape:"M100 144 L31 81 L63 40 L90 29 L128 34 L169 78 L138 111 L118 144 Z",lf:335,lcf:385,cf:408,rcf:398,rf:330},
+"Dodger Stadium":{shape:"M100 144 L33 82 L64 43 L94 31 L126 34 L167 78 L138 111 L118 144 Z",lf:330,lcf:375,cf:395,rcf:375,rf:330},
+"Progressive Field":{shape:"M100 144 L33 82 L64 42 L91 30 L128 33 L167 77 L138 110 L118 144 Z",lf:325,lcf:370,cf:405,rcf:375,rf:325},
+"Wrigley Field":{shape:"M100 144 L29 82 L60 42 L91 29 L127 33 L170 80 L137 111 L118 144 Z",lf:355,lcf:368,cf:400,rcf:368,rf:353},
+"Coors Field":{shape:"M100 144 L24 84 L56 43 L91 27 L133 32 L174 80 L138 111 L118 144 Z",lf:347,lcf:390,cf:415,rcf:375,rf:350},
+"Petco Park":{shape:"M100 144 L31 82 L62 41 L91 30 L127 33 L168 77 L139 111 L118 144 Z",lf:336,lcf:390,cf:396,rcf:391,rf:322},
+"Busch Stadium":{shape:"M100 144 L32 82 L64 43 L92 30 L126 34 L168 78 L138 111 L118 144 Z",lf:336,lcf:375,cf:400,rcf:375,rf:335},
+"American Family Field":{shape:"M100 144 L31 82 L61 42 L91 30 L128 33 L168 79 L138 111 L118 144 Z",lf:344,lcf:371,cf:400,rcf:374,rf:345},
+"Kauffman Stadium":{shape:"M100 144 L27 82 Q100 19 173 82 L138 111 L118 144 Z",lf:330,lcf:387,cf:410,rcf:387,rf:330},
+"Chase Field":{shape:"M100 144 L31 82 L64 43 L92 30 L128 34 L168 78 L138 111 L118 144 Z",lf:330,lcf:374,cf:407,rcf:374,rf:334},
+"Angel Stadium":{shape:"M100 144 L29 82 L60 41 L91 30 L127 34 L168 78 L138 111 L118 144 Z",lf:347,lcf:390,cf:396,rcf:370,rf:350},
+"T-Mobile Park":{shape:"M100 144 L32 82 L62 42 L91 30 L128 34 L168 79 L138 111 L118 144 Z",lf:331,lcf:378,cf:401,rcf:381,rf:326},
+"Nationals Park":{shape:"M100 144 L31 82 L62 42 L92 30 L128 34 L168 79 L138 111 L118 144 Z",lf:337,lcf:377,cf:402,rcf:370,rf:335},
+"Great American Ball Park":{shape:"M100 144 L32 82 L62 41 L92 29 L128 34 L168 78 L138 111 L118 144 Z",lf:328,lcf:379,cf:404,rcf:370,rf:325},
+"loanDepot park":{shape:"M100 144 L30 82 L61 41 L91 30 L128 34 L169 78 L138 111 L118 144 Z",lf:344,lcf:386,cf:400,rcf:387,rf:335},
+"Oriole Park at Camden Yards":{shape:"M100 144 L31 82 L63 42 L91 30 L128 34 L168 78 L138 111 L118 144 Z",lf:333,lcf:384,cf:410,rcf:373,rf:318},
+"Rate Field":{shape:"M100 144 L32 82 L63 42 L92 30 L128 34 L168 78 L138 111 L118 144 Z",lf:330,lcf:375,cf:400,rcf:375,rf:335},
+"George M. Steinbrenner Field":{shape:"M100 144 L28 82 L63 42 L91 29 L130 32 L170 78 L138 110 L118 144 Z",lf:318,lcf:399,cf:408,rcf:385,rf:314}
+};
+const DEFAULT={shape:"M100 144 L32 82 L64 42 L92 30 L128 34 L168 78 L138 111 L118 144 Z",lf:330,lcf:375,cf:400,rcf:375,rf:330};
+function clean(v){return String(v||"").toLowerCase().replace(/[^a-z0-9]/g,"")}
+function parkFor(v){const k=clean(v);for(const [n,p] of Object.entries(PARKS)){if(k.includes(clean(n))||clean(n).includes(k))return p}return DEFAULT}
+function status(g){if(Number(g.roof_flag||0)===1||/roof/i.test(g.weather_label||""))return"roof";if(Number(g.precip||0)>=60)return"delay";return"clear"}
+function icon(g){if(status(g)==="roof")return"🏟️";const s=String(g.weather_label||"").toLowerCase();if(s.includes("cloud"))return"☁️";if(s.includes("rain"))return"🌧️";return"☀️"}
+function abbr(t){return String(t||"").split(" ").pop().slice(0,3).toUpperCase()}
+function matchup(g){return (g.away_abbr||abbr(g.away_team))+" @\\n"+(g.home_abbr||abbr(g.home_team))}
+function time(g){const v=g.game_time||g.time||g.commence_time;if(!v)return"";const d=new Date(v);return Number.isNaN(d.getTime())?String(v):d.toLocaleTimeString([],{hour:"numeric",minute:"2-digit"})}
+function rot(g){const s=String(g.wind_text||"").toLowerCase();if(s.includes("out"))return 0;if(s.includes("in"))return 180;if(s.includes("left"))return 270;if(s.includes("right"))return 90;return Number(g.wind_deg||0)||0}
+function svg(g){
+const venue=g.venue||g.park||g.ballpark||"";
+const p=parkFor(venue);
+return \`<svg class="ballpark" viewBox="0 0 200 160">
+<path class="fieldglow" d="\${p.shape}"></path>
+<path class="fieldfill" d="\${p.shape}"></path>
+<path class="fieldline" d="\${p.shape}"></path>
+<path class="infield" d="M100 144 L76 121 L100 98 L124 121 Z"></path>
+<circle class="base" cx="100" cy="144" r="2.7"></circle>
+<circle class="base" cx="76" cy="121" r="2.2"></circle>
+<circle class="base" cx="100" cy="98" r="2.2"></circle>
+<circle class="base" cx="124" cy="121" r="2.2"></circle>
+<text class="dim" x="36" y="88">\${p.lf}</text><text class="sub" x="36" y="100">LF</text>
+<text class="dim" x="67" y="39">\${p.lcf}</text><text class="sub" x="67" y="51">L-CF</text>
+<text class="dim" x="100" y="23">\${p.cf}</text>
+<text class="dim" x="134" y="39">\${p.rcf}</text><text class="sub" x="134" y="51">R-CF</text>
+<text class="dim" x="164" y="88">\${p.rf}</text><text class="sub" x="164" y="100">RF</text>
+<g transform="translate(100 84) rotate(\${rot(g)})">
+<circle class="arrowcircle" cx="0" cy="0" r="20"></circle>
+<path class="arrow" d="M-7 2 L0 -12 L7 2 L3 2 L3 12 L-3 12 L-3 2 Z"></path>
+</g>
+</svg>\`
+}
+function card(g){
+const st=status(g);
+const temp=Math.round(Number(g.temp||0));
+const precip=Math.round(Number(g.precip||0));
+const ws=Math.round(Number(g.wind_speed||0));
+const wt=g.wind_text||"";
+const venue=g.venue||g.park||g.ballpark||"";
+return \`<article class="card \${st}">
+<div class="cell game"><div class="matchup">\${matchup(g)}</div><div class="park">\${venue}</div><div class="time">\${time(g)}</div></div>
+<div class="cell iconbox"><div class="icon">\${icon(g)}</div><div class="label">\${st==="roof"?"ROOF\\nCONTROLLED":"HR\\nBOOST"}</div></div>
+<div class="cell metric"><div class="big">\${temp}°F</div><div class="small">TEMP</div></div>
+<div class="cell metric"><div class="big">\${precip}%</div><div class="small">PRECIP</div></div>
+<div class="cell parkcell">\${svg(g)}</div>
+<div class="cell wind"><div class="windnum">\${ws}</div><div class="small">MPH</div><div class="windtxt">\${wt}</div></div>
+</article>\`
+}
+async function run(){
+const grid=document.getElementById("grid");
+try{
+const res=await fetch("/data/weather_page.json",{cache:"no-store"});
+const raw=await res.json();
+const games=Array.isArray(raw)?raw:raw.games||raw.rows||raw.data||[];
+grid.innerHTML=games.map(card).join("");
+}catch(e){grid.innerHTML="<div style='color:#ff6b6b;padding:20px'>Weather data could not load.</div>";console.error(e)}
+}
+run();
+</script>
+</body>
+</html>`;
+
+fs.writeFileSync(path.join(ROOT, "weather.html"), html);
+
+const build = `import fs from "fs";
+import path from "path";
+
+const ROOT = process.cwd();
+const DIST = path.join(ROOT, "dist");
+
+function rm(dir){if(fs.existsSync(dir))fs.rmSync(dir,{recursive:true,force:true})}
+function copyFile(src,dest){if(!fs.existsSync(src))return;fs.mkdirSync(path.dirname(dest),{recursive:true});fs.copyFileSync(src,dest)}
+function copyDir(src,dest){if(!fs.existsSync(src))return;fs.mkdirSync(dest,{recursive:true});for(const item of fs.readdirSync(src)){const from=path.join(src,item);const to=path.join(dest,item);const stat=fs.statSync(from);if(stat.isDirectory())copyDir(from,to);else copyFile(from,to)}}
+
+rm(DIST);
+fs.mkdirSync(DIST,{recursive:true});
+
+for(const file of fs.readdirSync(ROOT)){
+  if(file.endsWith(".html")||file.endsWith(".js")||file.endsWith(".css")||file==="vercel.json"){
+    copyFile(path.join(ROOT,file),path.join(DIST,file));
+  }
+}
+
+copyDir(path.join(ROOT,"data"),path.join(DIST,"data"));
+copyDir(path.join(ROOT,"assets"),path.join(DIST,"assets"));
+
+console.log("THE SLIP LAB STATIC BUILD COMPLETE");
+`;
+
+fs.writeFileSync(path.join(ROOT, "scripts", "build_static_site.js"), build);
+
+console.log("Weather page rebuilt as self contained HTML");

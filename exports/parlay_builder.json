@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Safest 2 Man",
+    "category": "safe",
+    "plays": [],
+    "combo_score": 0,
+    "combo_raw_score": 0,
+    "combo_ev_rank": 0,
+    "combo_ev": 0,
+    "combo_edge": 0,
+    "legs": 0
+  },
+  {
+    "name": "Balanced 3 Man",
+    "category": "balanced",
+    "plays": [],
+    "combo_score": 0,
+    "combo_raw_score": 0,
+    "combo_ev_rank": 0,
+    "combo_ev": 0,
+    "combo_edge": 0,
+    "legs": 0
+  },
+  {
+    "name": "Upside 4 Man",
+    "category": "upside",
+    "plays": [],
+    "combo_score": 0,
+    "combo_raw_score": 0,
+    "combo_ev_rank": 0,
+    "combo_ev": 0,
+    "combo_edge": 0,
+    "legs": 0
+  },
+  {
+    "name": "Positive EV 3 Man",
+    "category": "positive_ev",
+    "plays": [],
+    "combo_score": 0,
+    "combo_raw_score": 0,
+    "combo_ev_rank": 0,
+    "combo_ev": 0,
+    "combo_edge": 0,
+    "legs": 0
+  },
+  {
+    "name": "Lotto 3 Man",
+    "category": "lotto",
+    "plays": [],
+    "combo_score": 0,
+    "combo_raw_score": 0,
+    "combo_ev_rank": 0,
+    "combo_ev": 0,
+    "combo_edge": 0,
+    "legs": 0
+  }
+]

@@ -1,0 +1,274 @@
+date,board,result,name,team,opponent,pitcher,tier,rank,score,opening_odds,closing_odds,closing_book,opening_implied_pct,closing_implied_pct,fair_close_number,clv_pct,line_movement
+2026-05-12,HR,FLAT,Ke'Bryan Hayes,Cincinnati Reds,,Miles Mikolas,LONGSHOT,1,34.51,820,820,SportsGameOdds,10.87,10.87,820,0.00,0
+2026-05-12,HR,FLAT,TJ Friedl,Cincinnati Reds,,Miles Mikolas,LONGSHOT,2,34.51,730,730,SportsGameOdds,12.05,12.05,730,0.00,0
+2026-05-12,HR,FLAT,Matt McLain,Cincinnati Reds,,Miles Mikolas,LONGSHOT,3,34.51,690,690,SportsGameOdds,12.66,12.66,690,0.00,0
+2026-05-12,HR,FLAT,Tyler Stephenson,Cincinnati Reds,,Miles Mikolas,LONGSHOT,4,34.51,528,528,SportsGameOdds,15.92,15.92,528,0.00,0
+2026-05-12,HR,NEGATIVE CLV,Will Benson,Cincinnati Reds,,Miles Mikolas,LONGSHOT,5,34.51,470,475,SportsGameOdds,17.54,17.39,475,-0.87,5
+2026-05-12,HR,NEGATIVE CLV,Spencer Steer,Cincinnati Reds,,Miles Mikolas,LONGSHOT,6,34.51,425,450,SportsGameOdds,19.05,18.18,450,-4.55,25
+2026-05-12,HR,NEGATIVE CLV,JJ Bleday,Cincinnati Reds,,Miles Mikolas,LONGSHOT,7,34.51,390,400,SportsGameOdds,20.41,20.00,400,-2.00,10
+2026-05-12,HR,FLAT,Sal Stewart,Cincinnati Reds,,Miles Mikolas,LONGSHOT,8,34.51,373,373,SportsGameOdds,21.14,21.14,373,0.00,0
+2026-05-12,HR,NEGATIVE CLV,Elly De La Cruz,Cincinnati Reds,,Miles Mikolas,LONGSHOT,9,34.51,360,375,SportsGameOdds,21.74,21.05,375,-3.16,15
+2026-05-12,HR,FLAT,José Tena,Washington Nationals,,Brady Singer,LONGSHOT,10,34.45,840,840,SportsGameOdds,10.64,10.64,840,0.00,0
+2026-05-12,HR,NEGATIVE CLV,Keibert Ruiz,Washington Nationals,,Brady Singer,LONGSHOT,11,34.45,760,800,SportsGameOdds,11.63,11.11,800,-4.44,40
+2026-05-12,HR,FLAT,Brady House,Washington Nationals,,Brady Singer,LONGSHOT,12,34.45,710,710,SportsGameOdds,12.35,12.35,710,0.00,0
+2026-05-12,HR,FLAT,Daylen Lile,Washington Nationals,,Brady Singer,LONGSHOT,13,34.45,710,710,SportsGameOdds,12.35,12.35,710,0.00,0
+2026-05-12,HR,FLAT,Luis García Jr.,Washington Nationals,,Brady Singer,LONGSHOT,14,34.45,492,492,SportsGameOdds,16.89,16.89,492,0.00,0
+2026-05-12,HR,NEGATIVE CLV,CJ Abrams,Washington Nationals,,Brady Singer,LONGSHOT,15,34.45,370,400,SportsGameOdds,21.28,20.00,400,-6.00,30
+2026-05-12,HR,FLAT,James Wood,Washington Nationals,,Brady Singer,LONGSHOT,16,34.45,275,275,SportsGameOdds,26.67,26.67,275,0.00,0
+2026-05-12,HR,NEGATIVE CLV,Sung-Mun Song,San Diego Padres,,Brandon Sproat,LONGSHOT,17,33.91,825,900,SportsGameOdds,10.81,10.00,900,-7.50,75
+2026-05-12,HR,NEGATIVE CLV,Miguel Andujar,San Diego Padres,,Brandon Sproat,LONGSHOT,18,33.91,820,900,SportsGameOdds,10.87,10.00,900,-8.00,80
+2026-05-12,HR,FLAT,Xander Bogaerts,San Diego Padres,,Brandon Sproat,LONGSHOT,19,33.91,710,710,SportsGameOdds,12.35,12.35,710,0.00,0
+2026-05-12,HR,FLAT,Nick Castellanos,San Diego Padres,,Brandon Sproat,LONGSHOT,20,33.91,630,630,SportsGameOdds,13.70,13.70,630,0.00,0
+2026-05-12,HR,FLAT,Ramón Laureano,San Diego Padres,,Brandon Sproat,LONGSHOT,21,33.91,600,600,SportsGameOdds,14.29,14.29,600,0.00,0
+2026-05-12,HR,FLAT,Gavin Sheets,San Diego Padres,,Brandon Sproat,LONGSHOT,22,33.91,561,561,SportsGameOdds,15.13,15.13,561,0.00,0
+2026-05-12,HR,POSITIVE CLV,Manny Machado,San Diego Padres,,Brandon Sproat,LONGSHOT,23,33.91,520,513,SportsGameOdds,16.13,16.31,513,1.14,-7
+2026-05-12,HR,NEGATIVE CLV,Fernando Tatis Jr.,San Diego Padres,,Brandon Sproat,LONGSHOT,24,33.91,490,501,SportsGameOdds,16.95,16.64,501,-1.83,11
+2026-05-12,HR,NEGATIVE CLV,Jackson Merrill,San Diego Padres,,Brandon Sproat,LONGSHOT,25,33.91,419,450,SportsGameOdds,19.27,18.18,450,-5.64,31
+2026-05-12,HR,FLAT,Freddy Fermin,San Diego Padres,,Brandon Sproat,LONGSHOT,26,32.82,1000,1000,SportsGameOdds,9.09,9.09,1000,0.00,0
+2026-05-12,HR,FLAT,Mookie Betts,Los Angeles Dodgers,,Adrian Houser,LONGSHOT,27,32.21,610,610,SportsGameOdds,14.08,14.08,610,0.00,0
+2026-05-12,HR,FLAT,Andy Pages,Los Angeles Dodgers,,Adrian Houser,LONGSHOT,28,32.21,570,570,SportsGameOdds,14.93,14.93,570,0.00,0
+2026-05-12,HR,FLAT,Will Smith,Los Angeles Dodgers,,Adrian Houser,LONGSHOT,29,32.21,525,525,SportsGameOdds,16.00,16.00,525,0.00,0
+2026-05-12,HR,FLAT,Kyle Tucker,Los Angeles Dodgers,,Adrian Houser,LONGSHOT,30,32.21,490,490,SportsGameOdds,16.95,16.95,490,0.00,0
+2026-05-12,HR,NEGATIVE CLV,Teoscar Hernández,Los Angeles Dodgers,,Adrian Houser,LONGSHOT,31,32.21,475,500,SportsGameOdds,17.39,16.67,500,-4.17,25
+2026-05-12,HR,NEGATIVE CLV,Freddie Freeman,Los Angeles Dodgers,,Adrian Houser,LONGSHOT,32,32.21,475,500,SportsGameOdds,17.39,16.67,500,-4.17,25
+2026-05-12,HR,FLAT,Max Muncy,Los Angeles Dodgers,,Adrian Houser,LONGSHOT,33,32.21,333,333,SportsGameOdds,23.09,23.09,333,0.00,0
+2026-05-12,HR,FLAT,Shohei Ohtani,Los Angeles Dodgers,,Adrian Houser,LONGSHOT,34,32.21,235,235,SportsGameOdds,29.85,29.85,235,0.00,0
+2026-05-12,HR,FLAT,Josh Lowe,Los Angeles Angels,,Slade Cecconi,LONGSHOT,35,32.15,730,730,SportsGameOdds,12.05,12.05,730,0.00,0
+2026-05-12,HR,FLAT,Yoán Moncada,Los Angeles Angels,,Slade Cecconi,LONGSHOT,36,32.15,550,550,SportsGameOdds,15.38,15.38,550,0.00,0
+2026-05-12,HR,FLAT,Jo Adell,Los Angeles Angels,,Slade Cecconi,LONGSHOT,37,32.15,540,540,SportsGameOdds,15.63,15.63,540,0.00,0
+2026-05-12,HR,NEGATIVE CLV,Zach Neto,Los Angeles Angels,,Slade Cecconi,LONGSHOT,38,32.15,540,550,SportsGameOdds,15.63,15.38,550,-1.54,10
+2026-05-12,HR,NEGATIVE CLV,Jorge Soler,Los Angeles Angels,,Slade Cecconi,LONGSHOT,39,32.15,470,475,SportsGameOdds,17.54,17.39,475,-0.87,5
+2026-05-12,HR,FLAT,Mike Trout,Los Angeles Angels,,Slade Cecconi,LONGSHOT,40,32.15,370,370,SportsGameOdds,21.28,21.28,370,0.00,0
+2026-05-12,HR,NEGATIVE CLV,Nolan Schanuel,Los Angeles Angels,,Slade Cecconi,LONGSHOT,41,31.52,980,1000,SportsGameOdds,9.26,9.09,1000,-1.82,20
+2026-05-12,HR,FLAT,Marcus Semien,New York Mets,,Jack Flaherty,LONGSHOT,42,31.28,790,790,SportsGameOdds,11.24,11.24,790,0.00,0
+2026-05-12,HR,NEGATIVE CLV,Brett Baty,New York Mets,,Jack Flaherty,LONGSHOT,43,31.28,790,800,SportsGameOdds,11.24,11.11,800,-1.11,10
+2026-05-12,HR,NEGATIVE CLV,Bo Bichette,New York Mets,,Jack Flaherty,LONGSHOT,44,31.28,790,800,SportsGameOdds,11.24,11.11,800,-1.11,10
+2026-05-12,HR,FLAT,Mark Vientos,New York Mets,,Jack Flaherty,LONGSHOT,45,31.28,640,640,SportsGameOdds,13.51,13.51,640,0.00,0
+2026-05-12,HR,FLAT,Francisco Alvarez,New York Mets,,Jack Flaherty,LONGSHOT,46,31.28,600,600,SportsGameOdds,14.29,14.29,600,0.00,0
+2026-05-12,HR,FLAT,MJ Melendez,New York Mets,,Jack Flaherty,LONGSHOT,47,31.28,570,570,SportsGameOdds,14.93,14.93,570,0.00,0
+2026-05-12,HR,FLAT,Juan Soto,New York Mets,,Jack Flaherty,LONGSHOT,48,31.28,350,350,SportsGameOdds,22.22,22.22,350,0.00,0
+2026-05-12,HR,FLAT,Joey Bart,Pittsburgh Pirates,,Michael Lorenzen,LONGSHOT,49,31.18,900,900,SportsGameOdds,10.00,10.00,900,0.00,0
+2026-05-12,HR,FLAT,Bryan Reynolds,Pittsburgh Pirates,,Michael Lorenzen,LONGSHOT,50,31.18,800,800,SportsGameOdds,11.11,11.11,800,0.00,0
+2026-05-12,HR,FLAT,Ryan O'Hearn,Pittsburgh Pirates,,Michael Lorenzen,LONGSHOT,51,31.18,720,720,SportsGameOdds,12.20,12.20,720,0.00,0
+2026-05-12,HR,NEGATIVE CLV,Henry Davis,Pittsburgh Pirates,,Michael Lorenzen,LONGSHOT,52,31.18,680,700,SportsGameOdds,12.82,12.50,700,-2.50,20
+2026-05-12,HR,FLAT,Marcell Ozuna,Pittsburgh Pirates,,Michael Lorenzen,LONGSHOT,53,31.18,610,610,SportsGameOdds,14.08,14.08,610,0.00,0
+2026-05-12,HR,NEGATIVE CLV,Brandon Lowe,Pittsburgh Pirates,,Michael Lorenzen,LONGSHOT,54,31.18,444,450,SportsGameOdds,18.38,18.18,450,-1.09,6
+2026-05-12,HR,FLAT,Oneil Cruz,Pittsburgh Pirates,,Michael Lorenzen,LONGSHOT,55,31.18,410,410,SportsGameOdds,19.61,19.61,410,0.00,0
+2026-05-12,HR,FLAT,Hyeseong Kim,Los Angeles Dodgers,,Adrian Houser,LONGSHOT,56,31.12,1000,1000,SportsGameOdds,9.09,9.09,1000,0.00,0
+2026-05-12,HR,FLAT,Spencer Horwitz,Pittsburgh Pirates,,Michael Lorenzen,LONGSHOT,57,31.00,960,960,SportsGameOdds,9.43,9.43,960,0.00,0
+2026-05-12,HR,FLAT,Randy Arozarena,Seattle Mariners,,Tatsuya Imai,LONGSHOT,58,30.98,582,582,SportsGameOdds,14.66,14.66,582,0.00,0
+2026-05-12,HR,FLAT,Brendan Donovan,Seattle Mariners,,Tatsuya Imai,LONGSHOT,59,30.98,570,570,SportsGameOdds,14.93,14.93,570,0.00,0
+2026-05-12,HR,FLAT,Josh Naylor,Seattle Mariners,,Tatsuya Imai,LONGSHOT,60,30.98,495,495,SportsGameOdds,16.81,16.81,495,0.00,0
+2026-05-12,HR,NEGATIVE CLV,Dominic Canzone,Seattle Mariners,,Tatsuya Imai,LONGSHOT,61,30.98,490,500,SportsGameOdds,16.95,16.67,500,-1.67,10
+2026-05-12,HR,FLAT,Luke Raley,Seattle Mariners,,Tatsuya Imai,LONGSHOT,62,30.98,473,473,SportsGameOdds,17.45,17.45,473,0.00,0
+2026-05-12,HR,FLAT,Julio Rodríguez,Seattle Mariners,,Tatsuya Imai,LONGSHOT,63,30.98,426,426,SportsGameOdds,19.01,19.01,426,0.00,0
+2026-05-12,HR,FLAT,Cal Raleigh,Seattle Mariners,,Tatsuya Imai,LONGSHOT,64,30.98,300,300,SportsGameOdds,25.00,25.00,300,0.00,0
+2026-05-12,HR,NEGATIVE CLV,Tyrone Taylor,New York Mets,,Jack Flaherty,LONGSHOT,65,30.64,980,1000,SportsGameOdds,9.26,9.09,1000,-1.82,20
+2026-05-12,HR,FLAT,Brooks Lee,Minnesota Twins,,Eury Pérez,LONGSHOT,66,30.53,920,920,SportsGameOdds,9.80,9.80,920,0.00,0
+2026-05-12,HR,NEGATIVE CLV,Austin Martin,Minnesota Twins,,Eury Pérez,LONGSHOT,67,30.53,920,1000,SportsGameOdds,9.80,9.09,1000,-7.27,80
+2026-05-12,HR,FLAT,Trevor Larnach,Minnesota Twins,,Eury Pérez,LONGSHOT,68,30.53,575,575,SportsGameOdds,14.81,14.81,575,0.00,0
+2026-05-12,HR,FLAT,Royce Lewis,Minnesota Twins,,Eury Pérez,LONGSHOT,69,30.53,550,550,SportsGameOdds,15.38,15.38,550,0.00,0
+2026-05-12,HR,FLAT,Josh Bell,Minnesota Twins,,Eury Pérez,LONGSHOT,70,30.53,525,525,SportsGameOdds,16.00,16.00,525,0.00,0
+2026-05-12,HR,FLAT,Ryan Jeffers,Minnesota Twins,,Eury Pérez,LONGSHOT,71,30.53,525,525,SportsGameOdds,16.00,16.00,525,0.00,0
+2026-05-12,HR,FLAT,Kody Clemens,Minnesota Twins,,Eury Pérez,LONGSHOT,72,30.53,500,500,SportsGameOdds,16.67,16.67,500,0.00,0
+2026-05-12,HR,FLAT,Matt Wallner,Minnesota Twins,,Eury Pérez,LONGSHOT,73,30.53,470,470,SportsGameOdds,17.54,17.54,470,0.00,0
+2026-05-12,HR,FLAT,Byron Buxton,Minnesota Twins,,Eury Pérez,LONGSHOT,74,30.53,285,285,SportsGameOdds,25.97,25.97,285,0.00,0
+2026-05-12,HR,FLAT,Nasim Nuñez,Washington Nationals,,Brady Singer,LONGSHOT,75,30.47,1150,1150,SportsGameOdds,8.00,8.00,1150,0.00,0
+2026-05-12,HR,FLAT,Carson Kelly,Chicago Cubs,,Grant Holmes,LONGSHOT,76,30.30,840,840,SportsGameOdds,10.64,10.64,840,0.00,0
+2026-05-12,HR,FLAT,Dansby Swanson,Chicago Cubs,,Grant Holmes,LONGSHOT,77,30.30,790,790,SportsGameOdds,11.24,11.24,790,0.00,0
+2026-05-12,HR,FLAT,Moisés Ballesteros,Chicago Cubs,,Grant Holmes,LONGSHOT,78,30.30,700,700,SportsGameOdds,12.50,12.50,700,0.00,0
+2026-05-12,HR,FLAT,Alex Bregman,Chicago Cubs,,Grant Holmes,LONGSHOT,79,30.30,700,700,SportsGameOdds,12.50,12.50,700,0.00,0
+2026-05-12,HR,FLAT,Pete Crow-Armstrong,Chicago Cubs,,Grant Holmes,LONGSHOT,80,30.30,675,675,SportsGameOdds,12.90,12.90,675,0.00,0
+2026-05-12,HR,FLAT,Michael Busch,Chicago Cubs,,Grant Holmes,LONGSHOT,81,30.30,630,630,SportsGameOdds,13.70,13.70,630,0.00,0
+2026-05-12,HR,NEGATIVE CLV,Seiya Suzuki,Chicago Cubs,,Grant Holmes,LONGSHOT,82,30.30,522,525,SportsGameOdds,16.08,16.00,525,-0.48,3
+2026-05-12,HR,FLAT,Ian Happ,Chicago Cubs,,Grant Holmes,LONGSHOT,83,30.30,500,500,SportsGameOdds,16.67,16.67,500,0.00,0
+2026-05-12,HR,FLAT,J.P. Crawford,Seattle Mariners,,Tatsuya Imai,LONGSHOT,84,29.89,1000,1000,SportsGameOdds,9.09,9.09,1000,0.00,0
+2026-05-12,HR,FLAT,Cole Young,Seattle Mariners,,Tatsuya Imai,LONGSHOT,85,29.89,1000,1000,SportsGameOdds,9.09,9.09,1000,0.00,0
+2026-05-12,HR,FLAT,Jose Fernandez,Arizona Diamondbacks,,MacKenzie Gore,LONGSHOT,86,29.76,910,910,SportsGameOdds,9.90,9.90,910,0.00,0
+2026-05-12,HR,NEGATIVE CLV,Gabriel Moreno,Arizona Diamondbacks,,MacKenzie Gore,LONGSHOT,87,29.76,880,900,SportsGameOdds,10.20,10.00,900,-2.00,20
+2026-05-12,HR,FLAT,Lourdes Gurriel Jr.,Arizona Diamondbacks,,MacKenzie Gore,LONGSHOT,88,29.76,630,630,SportsGameOdds,13.70,13.70,630,0.00,0
+2026-05-12,HR,NEGATIVE CLV,Nolan Arenado,Arizona Diamondbacks,,MacKenzie Gore,LONGSHOT,89,29.76,570,600,SportsGameOdds,14.93,14.29,600,-4.29,30
+2026-05-12,HR,FLAT,Corbin Carroll,Arizona Diamondbacks,,MacKenzie Gore,LONGSHOT,90,29.76,555,555,SportsGameOdds,15.27,15.27,555,0.00,0
+2026-05-12,HR,FLAT,Ketel Marte,Arizona Diamondbacks,,MacKenzie Gore,LONGSHOT,91,29.76,540,540,SportsGameOdds,15.63,15.63,540,0.00,0
+2026-05-12,HR,FLAT,Kyle Isbel,Kansas City Royals,,Erick Fedde,LONGSHOT,92,29.64,910,910,SportsGameOdds,9.90,9.90,910,0.00,0
+2026-05-12,HR,NEGATIVE CLV,Isaac Collins,Kansas City Royals,,Erick Fedde,LONGSHOT,93,29.64,790,800,SportsGameOdds,11.24,11.11,800,-1.11,10
+2026-05-12,HR,POSITIVE CLV,Michael Massey,Kansas City Royals,,Erick Fedde,LONGSHOT,94,29.64,710,680,SportsGameOdds,12.35,12.82,680,3.85,-30
+2026-05-12,HR,FLAT,Maikel Garcia,Kansas City Royals,,Erick Fedde,LONGSHOT,95,29.64,710,710,SportsGameOdds,12.35,12.35,710,0.00,0
+2026-05-12,HR,FLAT,Jac Caglianone,Kansas City Royals,,Erick Fedde,LONGSHOT,96,29.64,550,550,SportsGameOdds,15.38,15.38,550,0.00,0
+2026-05-12,HR,FLAT,Salvador Perez,Kansas City Royals,,Erick Fedde,LONGSHOT,97,29.64,440,440,SportsGameOdds,18.52,18.52,440,0.00,0
+2026-05-12,HR,NEGATIVE CLV,Vinnie Pasquantino,Kansas City Royals,,Erick Fedde,LONGSHOT,98,29.64,394,400,SportsGameOdds,20.24,20.00,400,-1.20,6
+2026-05-12,HR,FLAT,Bobby Witt Jr.,Kansas City Royals,,Erick Fedde,LONGSHOT,99,29.64,390,390,SportsGameOdds,20.41,20.41,390,0.00,0
+2026-05-12,HR,NEGATIVE CLV,Carter Jensen,Kansas City Royals,,Erick Fedde,LONGSHOT,100,29.64,382,400,SportsGameOdds,20.75,20.00,400,-3.60,18
+2026-05-12,HR,FLAT,Evan Carter,Texas Rangers,,Zac Gallen,LONGSHOT,101,29.42,780,780,SportsGameOdds,11.36,11.36,780,0.00,0
+2026-05-12,HR,FLAT,Danny Jansen,Texas Rangers,,Zac Gallen,LONGSHOT,102,29.42,760,760,SportsGameOdds,11.63,11.63,760,0.00,0
+2026-05-12,HR,FLAT,Josh Jung,Texas Rangers,,Zac Gallen,LONGSHOT,103,29.42,650,650,SportsGameOdds,13.33,13.33,650,0.00,0
+2026-05-12,HR,FLAT,Brandon Nimmo,Texas Rangers,,Zac Gallen,LONGSHOT,104,29.42,610,610,SportsGameOdds,14.08,14.08,610,0.00,0
+2026-05-12,HR,FLAT,Jake Burger,Texas Rangers,,Zac Gallen,LONGSHOT,105,29.42,588,588,SportsGameOdds,14.53,14.53,588,0.00,0
+2026-05-12,HR,NEGATIVE CLV,Kyle Higashioka,Texas Rangers,,Zac Gallen,LONGSHOT,106,29.42,570,600,SportsGameOdds,14.93,14.29,600,-4.29,30
+2026-05-12,HR,FLAT,Joc Pederson,Texas Rangers,,Zac Gallen,LONGSHOT,107,29.42,540,540,SportsGameOdds,15.63,15.63,540,0.00,0
+2026-05-12,HR,NEGATIVE CLV,Corey Seager,Texas Rangers,,Zac Gallen,LONGSHOT,108,29.42,410,425,SportsGameOdds,19.61,19.05,425,-2.86,15
+2026-05-12,HR,FLAT,Ezequiel Duran,Texas Rangers,,Zac Gallen,LONGSHOT,109,29.23,960,960,SportsGameOdds,9.43,9.43,960,0.00,0
+2026-05-12,HR,FLAT,Carlos Cortes,Athletics,,Andre Pallante,LONGSHOT,110,29.14,825,825,SportsGameOdds,10.81,10.81,825,0.00,0
+2026-05-12,HR,FLAT,Lawrence Butler,Athletics,,Andre Pallante,LONGSHOT,111,29.14,670,670,SportsGameOdds,12.99,12.99,670,0.00,0
+2026-05-12,HR,FLAT,Zack Gelof,Athletics,,Andre Pallante,LONGSHOT,112,29.14,630,630,SportsGameOdds,13.70,13.70,630,0.00,0
+2026-05-12,HR,FLAT,Tyler Soderstrom,Athletics,,Andre Pallante,LONGSHOT,113,29.14,503,503,SportsGameOdds,16.58,16.58,503,0.00,0
+2026-05-12,HR,FLAT,Brent Rooker,Athletics,,Andre Pallante,LONGSHOT,114,29.14,375,375,SportsGameOdds,21.05,21.05,375,0.00,0
+2026-05-12,HR,FLAT,Nick Kurtz,Athletics,,Andre Pallante,LONGSHOT,115,29.14,340,340,SportsGameOdds,22.73,22.73,340,0.00,0
+2026-05-12,HR,FLAT,Shea Langeliers,Athletics,,Andre Pallante,LONGSHOT,116,29.14,290,290,SportsGameOdds,25.64,25.64,290,0.00,0
+2026-05-12,HR,FLAT,Jorge Barrosa,Arizona Diamondbacks,,MacKenzie Gore,LONGSHOT,117,29.13,980,980,SportsGameOdds,9.26,9.26,980,0.00,0
+2026-05-12,HR,NEGATIVE CLV,J.T. Realmuto,Philadelphia Phillies,,Jovani Morán,LONGSHOT,118,28.84,920,980,SportsGameOdds,9.80,9.26,980,-5.56,60
+2026-05-12,HR,FLAT,Trea Turner,Philadelphia Phillies,,Jovani Morán,LONGSHOT,119,28.84,800,800,SportsGameOdds,11.11,11.11,800,0.00,0
+2026-05-12,HR,FLAT,Adolis García,Philadelphia Phillies,,Jovani Morán,LONGSHOT,120,28.84,575,575,SportsGameOdds,14.81,14.81,575,0.00,0
+2026-05-12,HR,FLAT,Bryce Harper,Philadelphia Phillies,,Jovani Morán,LONGSHOT,121,28.84,508,508,SportsGameOdds,16.45,16.45,508,0.00,0
+2026-05-12,HR,FLAT,Kyle Schwarber,Philadelphia Phillies,,Jovani Morán,LONGSHOT,122,28.84,280,280,SportsGameOdds,26.32,26.32,280,0.00,0
+2026-05-12,HR,NEGATIVE CLV,Jacob Young,Washington Nationals,,Brady Singer,LONGSHOT,123,28.75,1260,1300,SportsGameOdds,7.35,7.14,1300,-2.86,40
+2026-05-12,HR,FLAT,Vaughn Grissom,Los Angeles Angels,,Slade Cecconi,LONGSHOT,124,28.70,1120,1120,SportsGameOdds,8.20,8.20,1120,0.00,0
+2026-05-12,HR,NEGATIVE CLV,Nico Hoerner,Chicago Cubs,,Grant Holmes,LONGSHOT,125,28.17,1050,1100,SportsGameOdds,8.70,8.33,1100,-4.17,50
+2026-05-12,HR,FLAT,Mike Yastrzemski,Atlanta Braves,,Colin Rea,LONGSHOT,126,27.82,820,820,SportsGameOdds,10.87,10.87,820,0.00,0
+2026-05-12,HR,FLAT,Ozzie Albies,Atlanta Braves,,Colin Rea,LONGSHOT,127,27.82,710,710,SportsGameOdds,12.35,12.35,710,0.00,0
+2026-05-12,HR,FLAT,Austin Riley,Atlanta Braves,,Colin Rea,LONGSHOT,128,27.82,650,650,SportsGameOdds,13.33,13.33,650,0.00,0
+2026-05-12,HR,FLAT,Michael Harris II,Atlanta Braves,,Colin Rea,LONGSHOT,129,27.82,550,550,SportsGameOdds,15.38,15.38,550,0.00,0
+2026-05-12,HR,FLAT,Drake Baldwin,Atlanta Braves,,Colin Rea,LONGSHOT,130,27.82,525,525,SportsGameOdds,16.00,16.00,525,0.00,0
+2026-05-12,HR,FLAT,Matt Olson,Atlanta Braves,,Colin Rea,LONGSHOT,131,27.82,366,366,SportsGameOdds,21.46,21.46,366,0.00,0
+2026-05-12,HR,NEGATIVE CLV,José Caballero,New York Yankees,,Trevor Rogers,LONGSHOT,132,27.49,940,1000,SportsGameOdds,9.62,9.09,1000,-5.45,60
+2026-05-12,HR,FLAT,Austin Wells,New York Yankees,,Trevor Rogers,LONGSHOT,133,27.49,920,920,SportsGameOdds,9.80,9.80,920,0.00,0
+2026-05-12,HR,FLAT,Ryan McMahon,New York Yankees,,Trevor Rogers,LONGSHOT,134,27.49,820,820,SportsGameOdds,10.87,10.87,820,0.00,0
+2026-05-12,HR,FLAT,Amed Rosario,New York Yankees,,Trevor Rogers,LONGSHOT,135,27.49,750,750,SportsGameOdds,11.76,11.76,750,0.00,0
+2026-05-12,HR,FLAT,Jazz Chisholm Jr.,New York Yankees,,Trevor Rogers,LONGSHOT,136,27.49,710,710,SportsGameOdds,12.35,12.35,710,0.00,0
+2026-05-12,HR,NEGATIVE CLV,Spencer Jones,New York Yankees,,Trevor Rogers,LONGSHOT,137,27.49,680,700,SportsGameOdds,12.82,12.50,700,-2.50,20
+2026-05-12,HR,FLAT,Cody Bellinger,New York Yankees,,Trevor Rogers,LONGSHOT,138,27.49,650,650,SportsGameOdds,13.33,13.33,650,0.00,0
+2026-05-12,HR,FLAT,Trent Grisham,New York Yankees,,Trevor Rogers,LONGSHOT,139,27.49,630,630,SportsGameOdds,13.70,13.70,630,0.00,0
+2026-05-12,HR,FLAT,Paul Goldschmidt,New York Yankees,,Trevor Rogers,LONGSHOT,140,27.49,590,590,SportsGameOdds,14.49,14.49,590,0.00,0
+2026-05-12,HR,NEGATIVE CLV,Ben Rice,New York Yankees,,Trevor Rogers,LONGSHOT,141,27.49,435,450,SportsGameOdds,18.69,18.18,450,-2.73,15
+2026-05-12,HR,NEGATIVE CLV,Aaron Judge,New York Yankees,,Trevor Rogers,LONGSHOT,142,27.49,268,275,SportsGameOdds,27.17,26.67,275,-1.87,7
+2026-05-12,HR,NEGATIVE CLV,Cesar Prieto,St. Louis Cardinals,,Jeffrey Springs,LONGSHOT,143,27.31,920,1000,SportsGameOdds,9.80,9.09,1000,-7.27,80
+2026-05-12,HR,FLAT,José Fermín,St. Louis Cardinals,,Jeffrey Springs,LONGSHOT,144,27.31,900,900,SportsGameOdds,10.00,10.00,900,0.00,0
+2026-05-12,HR,FLAT,Thomas Saggese,St. Louis Cardinals,,Jeffrey Springs,LONGSHOT,145,27.31,800,800,SportsGameOdds,11.11,11.11,800,0.00,0
+2026-05-12,HR,NEGATIVE CLV,Alec Burleson,St. Louis Cardinals,,Jeffrey Springs,LONGSHOT,146,27.31,630,800,SportsGameOdds,13.70,11.11,800,-18.89,170
+2026-05-12,HR,NEGATIVE CLV,Pedro Pagés,St. Louis Cardinals,,Jeffrey Springs,LONGSHOT,147,27.31,625,1150,SportsGameOdds,13.79,8.00,1150,-42.00,525
+2026-05-12,HR,NEGATIVE CLV,Ivan Herrera,St. Louis Cardinals,,Jeffrey Springs,LONGSHOT,148,27.31,575,900,SportsGameOdds,14.81,10.00,900,-32.50,325
+2026-05-12,HR,NEGATIVE CLV,Nolan Gorman,St. Louis Cardinals,,Jeffrey Springs,LONGSHOT,149,27.31,470,650,SportsGameOdds,17.54,13.33,650,-24.00,180
+2026-05-12,HR,NEGATIVE CLV,Jordan Walker,St. Louis Cardinals,,Jeffrey Springs,LONGSHOT,150,27.31,350,650,SportsGameOdds,22.22,13.33,650,-40.00,300
+2026-05-12,HR,FLAT,Angel Martínez,Cleveland Guardians,,Walbert Ureña,LONGSHOT,151,27.04,920,920,SportsGameOdds,9.80,9.80,920,0.00,0
+2026-05-12,HR,FLAT,Chase DeLauter,Cleveland Guardians,,Walbert Ureña,LONGSHOT,152,27.04,730,730,SportsGameOdds,12.05,12.05,730,0.00,0
+2026-05-12,HR,FLAT,Kyle Manzardo,Cleveland Guardians,,Walbert Ureña,LONGSHOT,153,27.04,680,680,SportsGameOdds,12.82,12.82,680,0.00,0
+2026-05-12,HR,FLAT,José Ramírez,Cleveland Guardians,,Walbert Ureña,LONGSHOT,154,27.04,570,570,SportsGameOdds,14.93,14.93,570,0.00,0
+2026-05-12,HR,FLAT,Nick Fortes,Tampa Bay Rays,,Patrick Corbin,LONGSHOT,155,27.02,920,920,SportsGameOdds,9.80,9.80,920,0.00,0
+2026-05-12,HR,FLAT,Yandy Díaz,Tampa Bay Rays,,Patrick Corbin,LONGSHOT,156,27.02,710,710,SportsGameOdds,12.35,12.35,710,0.00,0
+2026-05-12,HR,NEGATIVE CLV,Jonathan Aranda,Tampa Bay Rays,,Patrick Corbin,LONGSHOT,157,27.02,710,910,SportsGameOdds,12.35,9.90,910,-19.80,200
+2026-05-12,HR,NEGATIVE CLV,Junior Caminero,Tampa Bay Rays,,Patrick Corbin,LONGSHOT,158,27.02,367,375,SportsGameOdds,21.41,21.05,375,-1.68,8
+2026-05-12,HR,FLAT,Jakob Marsee,Miami Marlins,,Bailey Ober,LONGSHOT,159,26.83,820,820,SportsGameOdds,10.87,10.87,820,0.00,0
+2026-05-12,HR,FLAT,Connor Norby,Miami Marlins,,Bailey Ober,LONGSHOT,160,26.83,710,710,SportsGameOdds,12.35,12.35,710,0.00,0
+2026-05-12,HR,NEGATIVE CLV,Otto Lopez,Miami Marlins,,Bailey Ober,LONGSHOT,161,26.83,710,750,SportsGameOdds,12.35,11.76,750,-4.71,40
+2026-05-12,HR,FLAT,Joe Mack,Miami Marlins,,Bailey Ober,LONGSHOT,162,26.83,680,680,SportsGameOdds,12.82,12.82,680,0.00,0
+2026-05-12,HR,FLAT,Owen Caissie,Miami Marlins,,Bailey Ober,LONGSHOT,163,26.83,625,625,SportsGameOdds,13.79,13.79,625,0.00,0
+2026-05-12,HR,FLAT,Liam Hicks,Miami Marlins,,Bailey Ober,LONGSHOT,164,26.83,550,550,SportsGameOdds,15.38,15.38,550,0.00,0
+2026-05-12,HR,NEGATIVE CLV,Kyle Stowers,Miami Marlins,,Bailey Ober,LONGSHOT,165,26.83,390,410,SportsGameOdds,20.41,19.61,410,-3.92,20
+2026-05-12,HR,NEGATIVE CLV,Christopher Morel,Miami Marlins,,Bailey Ober,LONGSHOT,166,26.83,390,425,SportsGameOdds,20.41,19.05,425,-6.67,35
+2026-05-12,HR,NEGATIVE CLV,Andrew Benintendi,Chicago White Sox,,Stephen Kolek,LONGSHOT,167,26.81,520,525,SportsGameOdds,16.13,16.00,525,-0.80,5
+2026-05-12,HR,FLAT,Miguel Vargas,Chicago White Sox,,Stephen Kolek,LONGSHOT,168,26.81,475,475,SportsGameOdds,17.39,17.39,475,0.00,0
+2026-05-12,HR,FLAT,Colson Montgomery,Chicago White Sox,,Stephen Kolek,LONGSHOT,169,26.81,370,370,SportsGameOdds,21.28,21.28,370,0.00,0
+2026-05-12,HR,FLAT,Munetaka Murakami,Chicago White Sox,,Stephen Kolek,LONGSHOT,170,26.81,260,260,SportsGameOdds,27.78,27.78,260,0.00,0
+2026-05-12,HR,FLAT,Andrew Vaughn,Milwaukee Brewers,,Bradgley Rodriguez,LONGSHOT,171,26.68,900,900,SportsGameOdds,10.00,10.00,900,0.00,0
+2026-05-12,HR,FLAT,William Contreras,Milwaukee Brewers,,Bradgley Rodriguez,LONGSHOT,172,26.68,900,900,SportsGameOdds,10.00,10.00,900,0.00,0
+2026-05-12,HR,FLAT,Jackson Chourio,Milwaukee Brewers,,Bradgley Rodriguez,LONGSHOT,173,26.68,725,725,SportsGameOdds,12.12,12.12,725,0.00,0
+2026-05-12,HR,NEGATIVE CLV,Christian Yelich,Milwaukee Brewers,,Bradgley Rodriguez,LONGSHOT,174,26.68,630,700,SportsGameOdds,13.70,12.50,700,-8.75,70
+2026-05-12,HR,NEGATIVE CLV,Brice Turang,Milwaukee Brewers,,Bradgley Rodriguez,LONGSHOT,175,26.68,590,1200,SportsGameOdds,14.49,7.69,1200,-46.92,610
+2026-05-12,HR,NEGATIVE CLV,Jake Bauers,Milwaukee Brewers,,Bradgley Rodriguez,LONGSHOT,176,26.68,414,800,SportsGameOdds,19.46,11.11,800,-42.89,386
+2026-05-12,HR,FLAT,Geraldo Perdomo,Arizona Diamondbacks,,MacKenzie Gore,LONGSHOT,177,26.66,1100,1100,SportsGameOdds,8.33,8.33,1100,0.00,0
+2026-05-12,HR,NEGATIVE CLV,Brandon Valenzuela,Toronto Blue Jays,,Shane McClanahan,LONGSHOT,178,26.43,720,800,SportsGameOdds,12.20,11.11,800,-8.89,80
+2026-05-12,HR,FLAT,Daulton Varsho,Toronto Blue Jays,,Shane McClanahan,LONGSHOT,179,26.43,700,700,SportsGameOdds,12.50,12.50,700,0.00,0
+2026-05-12,HR,NEGATIVE CLV,Davis Schneider,Toronto Blue Jays,,Shane McClanahan,LONGSHOT,180,26.43,680,710,SportsGameOdds,12.82,12.35,710,-3.70,30
+2026-05-12,HR,POSITIVE CLV,George Springer,Toronto Blue Jays,,Shane McClanahan,LONGSHOT,181,26.43,520,502,SportsGameOdds,16.13,16.61,502,2.99,-18
+2026-05-12,HR,NEGATIVE CLV,Vladimir Guerrero Jr.,Toronto Blue Jays,,Shane McClanahan,LONGSHOT,182,26.43,440,475,SportsGameOdds,18.52,17.39,475,-6.09,35
+2026-05-12,HR,FLAT,Kazuma Okamoto,Toronto Blue Jays,,Shane McClanahan,LONGSHOT,183,26.43,390,390,SportsGameOdds,20.41,20.41,390,0.00,0
+2026-05-12,HR,NEGATIVE CLV,Jeff McNeil,Athletics,,Andre Pallante,LONGSHOT,184,26.41,1080,1100,SportsGameOdds,8.47,8.33,1100,-1.67,20
+2026-05-12,HR,NEGATIVE CLV,Daniel Schneemann,Cleveland Guardians,,Walbert Ureña,LONGSHOT,185,26.40,980,1000,SportsGameOdds,9.26,9.09,1000,-1.82,20
+2026-05-12,HR,NEGATIVE CLV,Cedric Mullins,Tampa Bay Rays,,Patrick Corbin,LONGSHOT,186,26.38,980,1000,SportsGameOdds,9.26,9.09,1000,-1.82,20
+2026-05-12,HR,FLAT,Cam Smith,Houston Astros,,Bryan Woo,LONGSHOT,187,26.35,790,790,SportsGameOdds,11.24,11.24,790,0.00,0
+2026-05-12,HR,FLAT,Zach Dezenzo,Houston Astros,,Bryan Woo,LONGSHOT,188,26.35,700,700,SportsGameOdds,12.50,12.50,700,0.00,0
+2026-05-12,HR,FLAT,Isaac Paredes,Houston Astros,,Bryan Woo,LONGSHOT,189,26.35,610,610,SportsGameOdds,14.08,14.08,610,0.00,0
+2026-05-12,HR,FLAT,Jose Altuve,Houston Astros,,Bryan Woo,LONGSHOT,190,26.35,610,610,SportsGameOdds,14.08,14.08,610,0.00,0
+2026-05-12,HR,FLAT,Brice Matthews,Houston Astros,,Bryan Woo,LONGSHOT,191,26.35,575,575,SportsGameOdds,14.81,14.81,575,0.00,0
+2026-05-12,HR,NEGATIVE CLV,Christian Walker,Houston Astros,,Bryan Woo,LONGSHOT,192,26.35,490,500,SportsGameOdds,16.95,16.67,500,-1.67,10
+2026-05-12,HR,FLAT,Zach Cole,Houston Astros,,Bryan Woo,LONGSHOT,193,26.35,470,470,SportsGameOdds,17.54,17.54,470,0.00,0
+2026-05-12,HR,FLAT,Yordan Alvarez,Houston Astros,,Bryan Woo,LONGSHOT,194,26.35,240,240,SportsGameOdds,29.41,29.41,240,0.00,0
+2026-05-12,HR,FLAT,Nathan Church,St. Louis Cardinals,,Jeffrey Springs,LONGSHOT,195,26.22,1000,1000,SportsGameOdds,9.09,9.09,1000,0.00,0
+2026-05-12,HR,NEGATIVE CLV,Javier Sanoja,Miami Marlins,,Bailey Ober,LONGSHOT,196,26.19,980,1000,SportsGameOdds,9.26,9.09,1000,-1.82,20
+2026-05-12,HR,NEGATIVE CLV,Jonny DeLuca,Tampa Bay Rays,,Patrick Corbin,LONGSHOT,197,26.14,990,1000,SportsGameOdds,9.17,9.09,1000,-0.91,10
+2026-05-12,HR,NEGATIVE CLV,Ernie Clement,Toronto Blue Jays,,Shane McClanahan,LONGSHOT,198,25.79,980,1000,SportsGameOdds,9.26,9.09,1000,-1.82,20
+2026-05-12,HR,FLAT,Luke Keaschall,Minnesota Twins,,Eury Pérez,LONGSHOT,199,25.72,1200,1200,SportsGameOdds,7.69,7.69,1200,0.00,0
+2026-05-12,HR,FLAT,Trevor Story,Boston Red Sox,,Zack Wheeler,LONGSHOT,200,25.60,890,890,SportsGameOdds,10.10,10.10,890,0.00,0
+2026-05-12,HR,FLAT,Matt Chapman,San Francisco Giants,,Yoshinobu Yamamoto,LONGSHOT,201,25.60,840,840,SportsGameOdds,10.64,10.64,840,0.00,0
+2026-05-12,HR,NEGATIVE CLV,Marcelo Mayer,Boston Red Sox,,Zack Wheeler,LONGSHOT,202,25.60,820,1000,SportsGameOdds,10.87,9.09,1000,-16.36,180
+2026-05-12,HR,FLAT,Willy Adames,San Francisco Giants,,Yoshinobu Yamamoto,LONGSHOT,203,25.60,690,690,SportsGameOdds,12.66,12.66,690,0.00,0
+2026-05-12,HR,NEGATIVE CLV,Jarren Duran,Boston Red Sox,,Zack Wheeler,LONGSHOT,204,25.60,690,700,SportsGameOdds,12.66,12.50,700,-1.25,10
+2026-05-12,HR,FLAT,Heliot Ramos,San Francisco Giants,,Yoshinobu Yamamoto,LONGSHOT,205,25.60,610,610,SportsGameOdds,14.08,14.08,610,0.00,0
+2026-05-12,HR,FLAT,Casey Schmitt,San Francisco Giants,,Yoshinobu Yamamoto,LONGSHOT,206,25.60,598,598,SportsGameOdds,14.33,14.33,598,0.00,0
+2026-05-12,HR,FLAT,Rafael Devers,San Francisco Giants,,Yoshinobu Yamamoto,LONGSHOT,207,25.60,530,530,SportsGameOdds,15.87,15.87,530,0.00,0
+2026-05-12,HR,NEGATIVE CLV,Willson Contreras,Boston Red Sox,,Zack Wheeler,LONGSHOT,208,25.60,525,600,SportsGameOdds,16.00,14.29,600,-10.71,75
+2026-05-12,HR,FLAT,Wilyer Abreu,Boston Red Sox,,Zack Wheeler,LONGSHOT,209,25.60,490,490,SportsGameOdds,16.95,16.95,490,0.00,0
+2026-05-12,HR,FLAT,Alejandro Osuna,Texas Rangers,,Zac Gallen,LONGSHOT,210,25.59,1140,1140,SportsGameOdds,8.06,8.06,1140,0.00,0
+2026-05-12,HR,FLAT,Garrett Mitchell,Milwaukee Brewers,,Bradgley Rodriguez,LONGSHOT,211,25.59,1000,1000,SportsGameOdds,9.09,9.09,1000,0.00,0
+2026-05-12,HR,FLAT,Brandon Marsh,Philadelphia Phillies,,Jovani Morán,LONGSHOT,212,25.39,1120,1120,SportsGameOdds,8.20,8.20,1120,0.00,0
+2026-05-12,HR,FLAT,Nick Gonzales,Pittsburgh Pirates,,Michael Lorenzen,LONGSHOT,213,25.21,1280,1280,SportsGameOdds,7.25,7.25,1280,0.00,0
+2026-05-12,HR,FLAT,Jorge Mateo,Atlanta Braves,,Colin Rea,LONGSHOT,214,25.09,1080,1080,SportsGameOdds,8.47,8.47,1080,0.00,0
+2026-05-12,HR,FLAT,Jeremiah Jackson,Baltimore Orioles,,Will Warren,LONGSHOT,215,24.92,875,875,SportsGameOdds,10.26,10.26,875,0.00,0
+2026-05-12,HR,FLAT,Leody Taveras,Baltimore Orioles,,Will Warren,LONGSHOT,216,24.92,820,820,SportsGameOdds,10.87,10.87,820,0.00,0
+2026-05-12,HR,FLAT,Taylor Ward,Baltimore Orioles,,Will Warren,LONGSHOT,217,24.92,790,790,SportsGameOdds,11.24,11.24,790,0.00,0
+2026-05-12,HR,FLAT,Dylan Beavers,Baltimore Orioles,,Will Warren,LONGSHOT,218,24.92,770,770,SportsGameOdds,11.49,11.49,770,0.00,0
+2026-05-12,HR,FLAT,Coby Mayo,Baltimore Orioles,,Will Warren,LONGSHOT,219,24.92,730,730,SportsGameOdds,12.05,12.05,730,0.00,0
+2026-05-12,HR,NEGATIVE CLV,Adley Rutschman,Baltimore Orioles,,Will Warren,LONGSHOT,220,24.92,680,700,SportsGameOdds,12.82,12.50,700,-2.50,20
+2026-05-12,HR,FLAT,Tyler O'Neill,Baltimore Orioles,,Will Warren,LONGSHOT,221,24.92,590,590,SportsGameOdds,14.49,14.49,590,0.00,0
+2026-05-12,HR,FLAT,Samuel Basallo,Baltimore Orioles,,Will Warren,LONGSHOT,222,24.92,550,550,SportsGameOdds,15.38,15.38,550,0.00,0
+2026-05-12,HR,FLAT,Pete Alonso,Baltimore Orioles,,Will Warren,LONGSHOT,223,24.92,470,470,SportsGameOdds,17.54,17.54,470,0.00,0
+2026-05-12,HR,FLAT,Gunnar Henderson,Baltimore Orioles,,Will Warren,LONGSHOT,224,24.92,442,442,SportsGameOdds,18.45,18.45,442,0.00,0
+2026-05-12,HR,FLAT,Wenceel Pérez,Detroit Tigers,,Freddy Peralta,LONGSHOT,225,24.86,950,950,SportsGameOdds,9.52,9.52,950,0.00,0
+2026-05-12,HR,FLAT,Dillon Dingler,Detroit Tigers,,Freddy Peralta,LONGSHOT,226,24.86,650,650,SportsGameOdds,13.33,13.33,650,0.00,0
+2026-05-12,HR,FLAT,Spencer Torkelson,Detroit Tigers,,Freddy Peralta,LONGSHOT,227,24.86,610,610,SportsGameOdds,14.08,14.08,610,0.00,0
+2026-05-12,HR,FLAT,Riley Greene,Detroit Tigers,,Freddy Peralta,LONGSHOT,228,24.86,541,541,SportsGameOdds,15.60,15.60,541,0.00,0
+2026-05-12,HR,FLAT,Ryan Vilade,Tampa Bay Rays,,Patrick Corbin,LONGSHOT,229,24.68,1060,1060,SportsGameOdds,8.62,8.62,1060,0.00,0
+2026-05-12,HR,FLAT,Mickey Moniak,Colorado Rockies,,Paul Skenes,LONGSHOT,230,24.53,600,600,SportsGameOdds,14.29,14.29,600,0.00,0
+2026-05-12,HR,FLAT,Hunter Goodman,Colorado Rockies,,Paul Skenes,LONGSHOT,231,24.53,550,550,SportsGameOdds,15.38,15.38,550,0.00,0
+2026-05-12,HR,FLAT,Harrison Bader,San Francisco Giants,,Yoshinobu Yamamoto,LONGSHOT,232,24.51,1000,1000,SportsGameOdds,9.09,9.09,1000,0.00,0
+2026-05-12,HR,FLAT,Carlos Narváez,Boston Red Sox,,Zack Wheeler,LONGSHOT,233,24.51,1000,1000,SportsGameOdds,9.09,9.09,1000,0.00,0
+2026-05-12,HR,FLAT,Mickey Gasper,Boston Red Sox,,Zack Wheeler,LONGSHOT,234,24.09,1020,1020,SportsGameOdds,8.93,8.93,1020,0.00,0
+2026-05-12,HR,FLAT,Bryson Stott,Philadelphia Phillies,,Jovani Morán,LONGSHOT,235,24.04,1200,1200,SportsGameOdds,7.69,7.69,1200,0.00,0
+2026-05-12,HR,FLAT,Alec Bohm,Philadelphia Phillies,,Jovani Morán,LONGSHOT,236,24.04,1200,1200,SportsGameOdds,7.69,7.69,1200,0.00,0
+2026-05-12,HR,FLAT,Max Schuemann,New York Yankees,,Trevor Rogers,LONGSHOT,237,24.04,1120,1120,SportsGameOdds,8.20,8.20,1120,0.00,0
+2026-05-12,HR,FLAT,Ha-Seong Kim,Atlanta Braves,,Colin Rea,LONGSHOT,238,24.00,1140,1140,SportsGameOdds,8.06,8.06,1140,0.00,0
+2026-05-12,HR,FLAT,Colt Keith,Detroit Tigers,,Freddy Peralta,LONGSHOT,239,23.98,990,990,SportsGameOdds,9.17,9.17,990,0.00,0
+2026-05-12,HR,FLAT,Ceddanne Rafaela,Boston Red Sox,,Zack Wheeler,LONGSHOT,240,23.66,1040,1040,SportsGameOdds,8.77,8.77,1040,0.00,0
+2026-05-12,HR,NEGATIVE CLV,Darell Hernaiz,Athletics,,Andre Pallante,LONGSHOT,241,23.44,1260,1300,SportsGameOdds,7.35,7.14,1300,-2.86,40
+2026-05-12,HR,FLAT,Matt Vierling,Detroit Tigers,,Freddy Peralta,LONGSHOT,242,23.34,1020,1020,SportsGameOdds,8.93,8.93,1020,0.00,0
+2026-05-12,HR,FLAT,Mauricio Dubón,Atlanta Braves,,Colin Rea,LONGSHOT,243,23.01,1200,1200,SportsGameOdds,7.69,7.69,1200,0.00,0
+2026-05-12,HR,FLAT,Jacob Wilson,Athletics,,Andre Pallante,LONGSHOT,244,22.88,1300,1300,SportsGameOdds,7.14,7.14,1300,0.00,0
+2026-05-12,HR,FLAT,Tristan Peters,Chicago White Sox,,Stephen Kolek,LONGSHOT,245,22.83,1150,1150,SportsGameOdds,8.00,8.00,1150,0.00,0
+2026-05-12,HR,FLAT,Zach McKinstry,Detroit Tigers,,Freddy Peralta,LONGSHOT,246,22.52,1060,1060,SportsGameOdds,8.62,8.62,1060,0.00,0
+2026-05-12,HR,FLAT,Brayan Rocchio,Cleveland Guardians,,Walbert Ureña,LONGSHOT,247,22.23,1200,1200,SportsGameOdds,7.69,7.69,1200,0.00,0
+2026-05-12,HR,POSITIVE CLV,Masataka Yoshida,Boston Red Sox,,Zack Wheeler,LONGSHOT,248,22.15,1120,1100,SportsGameOdds,8.20,8.33,1100,1.67,-20
+2026-05-12,HR,FLAT,Andruw Monasterio,Boston Red Sox,,Zack Wheeler,LONGSHOT,249,22.15,1120,1120,SportsGameOdds,8.20,8.20,1120,0.00,0
+2026-05-12,HR,FLAT,Xavier Edwards,Miami Marlins,,Bailey Ober,LONGSHOT,250,22.02,1200,1200,SportsGameOdds,7.69,7.69,1200,0.00,0
+2026-05-12,HR,FLAT,Chase Meidroth,Chicago White Sox,,Stephen Kolek,LONGSHOT,251,22.00,1200,1200,SportsGameOdds,7.69,7.69,1200,0.00,0
+2026-05-12,HR,NEGATIVE CLV,Taylor Walls,Tampa Bay Rays,,Patrick Corbin,LONGSHOT,252,20.75,1300,1400,SportsGameOdds,7.14,6.67,1400,-6.67,100
+2026-05-12,HR,FLAT,Ben Williamson,Tampa Bay Rays,,Patrick Corbin,LONGSHOT,253,20.49,1320,1320,SportsGameOdds,7.04,7.04,1320,0.00,0
+2026-05-12,HR,FLAT,Edouard Julien,Colorado Rockies,,Paul Skenes,LONGSHOT,254,19.72,1200,1200,SportsGameOdds,7.69,7.69,1200,0.00,0
+2026-05-12,HR,FLAT,Ezequiel Tovar,Colorado Rockies,,Paul Skenes,LONGSHOT,255,19.72,1200,1200,SportsGameOdds,7.69,7.69,1200,0.00,0
+2026-05-12,HR,FLAT,Steven Kwan,Cleveland Guardians,,Walbert Ureña,LONGSHOT,256,19.53,1400,1400,SportsGameOdds,6.67,6.67,1400,0.00,0
+2026-05-12,HR,FLAT,Masyn Winn,St. Louis Cardinals,,Jeffrey Springs,LONGSHOT,257,19.22,1450,1450,SportsGameOdds,6.45,6.45,1450,0.00,0
+2026-05-12,HR,FLAT,Troy Johnston,Colorado Rockies,,Paul Skenes,LONGSHOT,258,18.98,1250,1250,SportsGameOdds,7.41,7.41,1250,0.00,0
+2026-05-12,HR,FLAT,Tyler Heineman,Toronto Blue Jays,,Shane McClanahan,LONGSHOT,259,18.91,1400,1400,SportsGameOdds,6.67,6.67,1400,0.00,0
+2026-05-12,HR,FLAT,Jesus Rodriguez,San Francisco Giants,,Yoshinobu Yamamoto,LONGSHOT,260,18.33,1380,1380,SportsGameOdds,6.76,6.76,1380,0.00,0
+2026-05-12,HR,FLAT,Luis Rengifo,Milwaukee Brewers,,Bradgley Rodriguez,LONGSHOT,261,18.05,1500,1500,SportsGameOdds,6.25,6.25,1500,0.00,0
+2026-05-12,HR,FLAT,David Hamilton,Milwaukee Brewers,,Bradgley Rodriguez,LONGSHOT,262,17.06,1600,1600,SportsGameOdds,5.88,5.88,1600,0.00,0
+2026-05-12,HR,FLAT,Willi Castro,Colorado Rockies,,Paul Skenes,LONGSHOT,263,17.01,1400,1400,SportsGameOdds,6.67,6.67,1400,0.00,0
+2026-05-12,HR,FLAT,Caleb Durbin,Boston Red Sox,,Zack Wheeler,LONGSHOT,264,16.97,1500,1500,SportsGameOdds,6.25,6.25,1500,0.00,0
+2026-05-12,HR,FLAT,Myles Straw,Toronto Blue Jays,,Shane McClanahan,LONGSHOT,265,16.82,1600,1600,SportsGameOdds,5.88,5.88,1600,0.00,0
+2026-05-12,HR,FLAT,Jung Hoo Lee,San Francisco Giants,,Yoshinobu Yamamoto,LONGSHOT,266,15.46,1660,1660,SportsGameOdds,5.68,5.68,1660,0.00,0
+2026-05-12,HR,FLAT,Kyle Karros,Colorado Rockies,,Paul Skenes,LONGSHOT,267,14.92,1600,1600,SportsGameOdds,5.88,5.88,1600,0.00,0
+2026-05-12,HR,FLAT,Tyler Freeman,Colorado Rockies,,Paul Skenes,LONGSHOT,268,14.92,1600,1600,SportsGameOdds,5.88,5.88,1600,0.00,0
+2026-05-12,HR,FLAT,Sal Frelick,Milwaukee Brewers,,Bradgley Rodriguez,LONGSHOT,269,14.09,2000,2000,SportsGameOdds,4.76,4.76,2000,0.00,0
+2026-05-12,HR,FLAT,Jake McCarthy,Colorado Rockies,,Paul Skenes,LONGSHOT,270,13.67,1750,1750,SportsGameOdds,5.41,5.41,1750,0.00,0
+2026-05-12,HR,FLAT,Luis Arraez,San Francisco Giants,,Yoshinobu Yamamoto,LONGSHOT,271,13.65,1900,1900,SportsGameOdds,5.00,5.00,1900,0.00,0
+2026-05-12,HR,FLAT,Victor Scott II,St. Louis Cardinals,,Jeffrey Springs,LONGSHOT,272,13.64,2200,2200,SportsGameOdds,4.35,4.35,2200,0.00,0
+2026-05-12,HR,FLAT,Chandler Simpson,Tampa Bay Rays,,Patrick Corbin,LONGSHOT,273,13.35,2200,2200,SportsGameOdds,4.35,4.35,2200,0.00,0

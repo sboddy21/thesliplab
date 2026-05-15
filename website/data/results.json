@@ -1,0 +1,347 @@
+[
+  {
+    "date": "2026-05-14",
+    "game": "Washington Nationals @ Cincinnati Reds",
+    "player": "JJ Bleday",
+    "team": "Cincinnati Reds",
+    "opponent": "Washington Nationals",
+    "venue": "Great American Ball Park",
+    "home_runs": 2,
+    "hits": 3,
+    "rbi": 6,
+    "at_bats": 5,
+    "result": "HR",
+    "tags": [
+      {
+        "label": "MULTI HR",
+        "type": "hot"
+      },
+      {
+        "label": "HOT BAT",
+        "type": "strong"
+      },
+      {
+        "label": "RBI GAME",
+        "type": "value"
+      },
+      {
+        "label": "POWER GAME",
+        "type": "hot"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-14",
+    "game": "Detroit Tigers @ New York Mets",
+    "player": "A.J. Ewing",
+    "team": "New York Mets",
+    "opponent": "Detroit Tigers",
+    "venue": "Citi Field",
+    "home_runs": 1,
+    "hits": 2,
+    "rbi": 1,
+    "at_bats": 4,
+    "result": "HR",
+    "tags": [
+      {
+        "label": "POWER GAME",
+        "type": "hot"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-14",
+    "game": "Detroit Tigers @ New York Mets",
+    "player": "Brett Baty",
+    "team": "New York Mets",
+    "opponent": "Detroit Tigers",
+    "venue": "Citi Field",
+    "home_runs": 1,
+    "hits": 1,
+    "rbi": 2,
+    "at_bats": 3,
+    "result": "HR",
+    "tags": []
+  },
+  {
+    "date": "2026-05-14",
+    "game": "Washington Nationals @ Cincinnati Reds",
+    "player": "Dane Myers",
+    "team": "Cincinnati Reds",
+    "opponent": "Washington Nationals",
+    "venue": "Great American Ball Park",
+    "home_runs": 1,
+    "hits": 1,
+    "rbi": 3,
+    "at_bats": 4,
+    "result": "HR",
+    "tags": [
+      {
+        "label": "RBI GAME",
+        "type": "value"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-14",
+    "game": "Detroit Tigers @ New York Mets",
+    "player": "Dillon Dingler",
+    "team": "Detroit Tigers",
+    "opponent": "New York Mets",
+    "venue": "Citi Field",
+    "home_runs": 1,
+    "hits": 1,
+    "rbi": 1,
+    "at_bats": 4,
+    "result": "HR",
+    "tags": []
+  },
+  {
+    "date": "2026-05-14",
+    "game": "Detroit Tigers @ New York Mets",
+    "player": "Gage Workman",
+    "team": "Detroit Tigers",
+    "opponent": "New York Mets",
+    "venue": "Citi Field",
+    "home_runs": 1,
+    "hits": 2,
+    "rbi": 3,
+    "at_bats": 4,
+    "result": "HR",
+    "tags": [
+      {
+        "label": "RBI GAME",
+        "type": "value"
+      },
+      {
+        "label": "POWER GAME",
+        "type": "hot"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-14",
+    "game": "St. Louis Cardinals @ Athletics",
+    "player": "Jordan Walker",
+    "team": "St. Louis Cardinals",
+    "opponent": "Athletics",
+    "venue": "Sutter Health Park",
+    "home_runs": 1,
+    "hits": 2,
+    "rbi": 2,
+    "at_bats": 5,
+    "result": "HR",
+    "tags": [
+      {
+        "label": "POWER GAME",
+        "type": "hot"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-14",
+    "game": "Detroit Tigers @ New York Mets",
+    "player": "Juan Soto",
+    "team": "New York Mets",
+    "opponent": "Detroit Tigers",
+    "venue": "Citi Field",
+    "home_runs": 1,
+    "hits": 2,
+    "rbi": 2,
+    "at_bats": 5,
+    "result": "HR",
+    "tags": [
+      {
+        "label": "POWER GAME",
+        "type": "hot"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-14",
+    "game": "Seattle Mariners @ Houston Astros",
+    "player": "Luke Raley",
+    "team": "Seattle Mariners",
+    "opponent": "Houston Astros",
+    "venue": "Daikin Park",
+    "home_runs": 1,
+    "hits": 2,
+    "rbi": 3,
+    "at_bats": 5,
+    "result": "HR",
+    "tags": [
+      {
+        "label": "RBI GAME",
+        "type": "value"
+      },
+      {
+        "label": "POWER GAME",
+        "type": "hot"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-14",
+    "game": "Detroit Tigers @ New York Mets",
+    "player": "Marcus Semien",
+    "team": "New York Mets",
+    "opponent": "Detroit Tigers",
+    "venue": "Citi Field",
+    "home_runs": 1,
+    "hits": 2,
+    "rbi": 1,
+    "at_bats": 3,
+    "result": "HR",
+    "tags": [
+      {
+        "label": "POWER GAME",
+        "type": "hot"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-14",
+    "game": "Detroit Tigers @ New York Mets",
+    "player": "Mark Vientos",
+    "team": "New York Mets",
+    "opponent": "Detroit Tigers",
+    "venue": "Citi Field",
+    "home_runs": 1,
+    "hits": 1,
+    "rbi": 2,
+    "at_bats": 4,
+    "result": "HR",
+    "tags": []
+  },
+  {
+    "date": "2026-05-14",
+    "game": "Washington Nationals @ Cincinnati Reds",
+    "player": "Matt McLain",
+    "team": "Cincinnati Reds",
+    "opponent": "Washington Nationals",
+    "venue": "Great American Ball Park",
+    "home_runs": 1,
+    "hits": 2,
+    "rbi": 2,
+    "at_bats": 3,
+    "result": "HR",
+    "tags": [
+      {
+        "label": "POWER GAME",
+        "type": "hot"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-14",
+    "game": "Seattle Mariners @ Houston Astros",
+    "player": "Mitch Garver",
+    "team": "Seattle Mariners",
+    "opponent": "Houston Astros",
+    "venue": "Daikin Park",
+    "home_runs": 1,
+    "hits": 1,
+    "rbi": 2,
+    "at_bats": 3,
+    "result": "HR",
+    "tags": []
+  },
+  {
+    "date": "2026-05-14",
+    "game": "St. Louis Cardinals @ Athletics",
+    "player": "Nick Kurtz",
+    "team": "Athletics",
+    "opponent": "St. Louis Cardinals",
+    "venue": "Sutter Health Park",
+    "home_runs": 1,
+    "hits": 2,
+    "rbi": 1,
+    "at_bats": 3,
+    "result": "HR",
+    "tags": [
+      {
+        "label": "POWER GAME",
+        "type": "hot"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-14",
+    "game": "Colorado Rockies @ Pittsburgh Pirates",
+    "player": "Ryan O'Hearn",
+    "team": "Pittsburgh Pirates",
+    "opponent": "Colorado Rockies",
+    "venue": "PNC Park",
+    "home_runs": 1,
+    "hits": 3,
+    "rbi": 2,
+    "at_bats": 4,
+    "result": "HR",
+    "tags": [
+      {
+        "label": "HOT BAT",
+        "type": "strong"
+      },
+      {
+        "label": "POWER GAME",
+        "type": "hot"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-14",
+    "game": "St. Louis Cardinals @ Athletics",
+    "player": "Victor Scott II",
+    "team": "St. Louis Cardinals",
+    "opponent": "Athletics",
+    "venue": "Sutter Health Park",
+    "home_runs": 1,
+    "hits": 1,
+    "rbi": 1,
+    "at_bats": 3,
+    "result": "HR",
+    "tags": []
+  },
+  {
+    "date": "2026-05-14",
+    "game": "Seattle Mariners @ Houston Astros",
+    "player": "Yordan Alvarez",
+    "team": "Houston Astros",
+    "opponent": "Seattle Mariners",
+    "venue": "Daikin Park",
+    "home_runs": 1,
+    "hits": 3,
+    "rbi": 1,
+    "at_bats": 3,
+    "result": "HR",
+    "tags": [
+      {
+        "label": "HOT BAT",
+        "type": "strong"
+      },
+      {
+        "label": "POWER GAME",
+        "type": "hot"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-14",
+    "game": "St. Louis Cardinals @ Athletics",
+    "player": "Zack Gelof",
+    "team": "Athletics",
+    "opponent": "St. Louis Cardinals",
+    "venue": "Sutter Health Park",
+    "home_runs": 1,
+    "hits": 2,
+    "rbi": 1,
+    "at_bats": 4,
+    "result": "HR",
+    "tags": [
+      {
+        "label": "POWER GAME",
+        "type": "hot"
+      }
+    ]
+  }
+]

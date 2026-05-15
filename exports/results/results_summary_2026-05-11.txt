@@ -1,0 +1,16 @@
+THE SLIP LAB RESULTS SUMMARY
+Date: 2026-05-11
+
+Total graded plays: 110
+Wins: 1
+Losses: 109
+Hit rate: 0.9%
+Units risked: 110.00
+Profit units: -109.00
+ROI: -99.1%
+
+Breakdown:
+HR | SOLID: 0/8 | 0.0% | ROI -100.0% | -8.00u
+HR | WATCH: 0/16 | 0.0% | ROI -100.0% | -16.00u
+HR | LONGSHOT: 0/82 | 0.0% | ROI -100.0% | -82.00u
+TB | NO TIER: 1/4 | 25.0% | ROI -75.0% | -3.00u

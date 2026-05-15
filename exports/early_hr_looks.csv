@@ -1,0 +1,21 @@
+rank,player,team,game,pitcher,odds,probability,fair,ev,consensus_score,matchup_score,pitcher_splits_score,per_pitch_score,weather_environment_score,market_score,green_lights,red_flags,early_score,label,yesterday_hr_penalty
+1,Ian Happ,Chicago Cubs,Chicago Cubs @ Atlanta Braves,JR Ritchie,430,,,,71.78,68.30,78.00,75.10,51.80,58.00,3,0,79.31,EARLY CORE,NO
+2,Shea Langeliers,Athletics,St. Louis Cardinals @ Athletics,Matthew Liberatore,240,,,,73.61,69.40,76.80,81.40,51.10,62.00,3,0,78.86,EARLY CORE,NO
+3,Dominic Canzone,Seattle Mariners,Seattle Mariners @ Houston Astros,Lance McCullers Jr.,529,,,,69.74,68.20,74.60,69.30,54.10,56.00,3,0,76.94,EARLY LEAN,NO
+4,Moisés Ballesteros,Chicago Cubs,Chicago Cubs @ Atlanta Braves,JR Ritchie,610,,,,68.14,64.40,76.40,73.20,51.80,55.00,2,0,76.84,EARLY LEAN,NO
+5,Corey Seager,Texas Rangers,Arizona Diamondbacks @ Texas Rangers,Ryne Nelson,441,,,,69.33,65.90,74.70,81.00,48.50,56.00,2,0,76.15,EARLY LEAN,NO
+6,Kazuma Okamoto,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,Griffin Jax,398,,,,70.65,67.90,73.80,78.70,45.50,59.00,3,0,76.11,EARLY LEAN,NO
+7,Kyle Stowers,Miami Marlins,Miami Marlins @ Minnesota Twins,Simeon Woods Richardson,400,,,,68.42,67.10,71.80,70.20,48.30,57.00,3,0,75.62,EARLY LEAN,NO
+8,Brandon Nimmo,Texas Rangers,Arizona Diamondbacks @ Texas Rangers,Ryne Nelson,573,,,,65.47,60.80,69.50,73.90,48.50,56.00,2,0,74.18,EARLY LEAN,NO
+9,Otto Lopez,Miami Marlins,Miami Marlins @ Minnesota Twins,Simeon Woods Richardson,850,,,,65.20,63.00,71.90,71.10,48.30,51.00,2,0,73.86,EARLY LEAN,NO
+10,Jordan Walker,St. Louis Cardinals,St. Louis Cardinals @ Athletics,J.T. Ginn,650,,,,64.92,60.10,68.90,73.30,51.10,53.00,2,0,73.58,EARLY LEAN,NO
+11,Tyler Soderstrom,Athletics,St. Louis Cardinals @ Athletics,Matthew Liberatore,475,,,,66.85,65.00,68.40,75.10,51.10,56.00,2,0,73.01,EARLY LEAN,NO
+12,Max Muncy,Los Angeles Dodgers,San Francisco Giants @ Los Angeles Dodgers,Robbie Ray,320,,,,68.28,63.30,68.40,83.90,49.50,59.00,2,0,72.86,EARLY LEAN,NO
+13,Luke Raley,Seattle Mariners,Seattle Mariners @ Houston Astros,Lance McCullers Jr.,474,,,,72.82,72.30,79.90,73.60,54.10,56.00,3,0,72.45,EARLY LEAN,YES
+14,Corbin Carroll,Arizona Diamondbacks,Arizona Diamondbacks @ Texas Rangers,Kumar Rocker,451,,,,65.44,62.40,68.80,72.50,48.50,56.00,2,0,71.49,WATCHLIST,NO
+15,Munetaka Murakami,Chicago White Sox,Kansas City Royals @ Chicago White Sox,Seth Lugo,293,,,,66.73,64.70,68.90,78.50,47.00,55.00,2,0,71.01,WATCHLIST,NO
+16,Michael Harris II,Atlanta Braves,Chicago Cubs @ Atlanta Braves,Shota Imanaga,590,,,,61.49,52.70,60.20,79.10,51.80,58.00,1,0,69.38,VALUE LOOK,NO
+17,Juan Soto,New York Mets,Detroit Tigers @ New York Mets,Framber Valdez,470,,,,63.00,64.50,71.10,79.70,44.10,52.00,2,1,68.34,WATCHLIST,NO
+18,Ketel Marte,Arizona Diamondbacks,Arizona Diamondbacks @ Texas Rangers,Kumar Rocker,426,,,,62.92,61.70,65.70,71.50,48.50,56.00,1,0,67.53,WATCHLIST,NO
+19,Alec Burleson,St. Louis Cardinals,St. Louis Cardinals @ Athletics,J.T. Ginn,575,,,,60.11,54.80,61.40,69.30,51.10,56.00,1,0,67.01,VALUE LOOK,NO
+20,Matt Olson,Atlanta Braves,Chicago Cubs @ Atlanta Braves,Shota Imanaga,400,,,,61.55,54.80,58.00,76.70,51.80,61.00,1,0,66.54,WATCHLIST,NO

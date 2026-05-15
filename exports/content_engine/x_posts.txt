@@ -1,0 +1,43 @@
+THE SLIP LAB — TOP HR PLAYS
+
+1. Max Muncy (Los Angeles Dodgers)
+HR Probability: 15.77%
+Odds: 320
+Pitcher: Robbie Ray
+2. Munetaka Murakami (Chicago White Sox)
+HR Probability: 15.69%
+Odds: 293
+Pitcher: Seth Lugo
+3. Kazuma Okamoto (Toronto Blue Jays)
+HR Probability: 14.53%
+Odds: 398
+Pitcher: Griffin Jax
+4. Ian Happ (Chicago Cubs)
+HR Probability: 14.46%
+Odds: 430
+Pitcher: JR Ritchie
+5. Corey Seager (Texas Rangers)
+HR Probability: 14.25%
+Odds: 441
+Pitcher: Ryne Nelson
+
+THE SLIP LAB — VALUE HR PLAYS
+
+
+THE SLIP LAB — TOP HR STACKS
+
+1. Ian Happ + Moisés Ballesteros
+All HR: 2.1128%
+Grade: SIM_PLAYABLE_2MAN
+2. Bobby Witt Jr. + Munetaka Murakami + Colson Montgomery
+All HR: 0.3127%
+Grade: SIM_PLAYABLE_3MAN
+3. Bobby Witt Jr. + Munetaka Murakami
+All HR: 2.4058%
+Grade: SIM_STRONG_2MAN
+4. Ian Happ + Moisés Ballesteros + Seiya Suzuki + Michael Busch
+All HR: 0.0292%
+Grade: SIM_LEAN_4MAN_LOTTO
+5. Munetaka Murakami + Colson Montgomery
+All HR: 2.4230%
+Grade: SIM_STRONG_2MAN

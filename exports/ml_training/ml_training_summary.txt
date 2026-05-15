@@ -1,0 +1,9 @@
+THE SLIP LAB ML TRAINING DATASET
+Created: 2026-05-12T10:49:32.543Z
+Rows: 110
+
+HR: 0/106 hit | Hit Rate 0.0% | ROI -100.0%
+TB: 1/4 hit | Hit Rate 25.0% | ROI -75.0%
+
+Use this file later for machine learning tuning:
+/Users/stevenboddy/Desktop/mlb-sweeper/exports/ml_training/ml_training_dataset.csv

@@ -1,0 +1,14 @@
+{
+  "name": "mlb-sweeper-scripts",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "full_sweep.js",
+  "scripts": {
+    "sweep": "node full_sweep.js",
+    "merge": "node merge_data.js",
+    "run": "node full_sweep.js && node merge_data.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}

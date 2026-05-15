@@ -1,0 +1,399 @@
+date,player,game,hr,home_runs,game_status,source
+2026-05-13,Jeff McNeil,St. Louis Cardinals @ Athletics,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Caleb Durbin,Philadelphia Phillies @ Boston Red Sox,NO,0,FINAL,MLB_STATS_API
+2026-05-13,James Wood,Washington Nationals @ Cincinnati Reds,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Nick Kurtz,St. Louis Cardinals @ Athletics,YES,1,FINAL,MLB_STATS_API
+2026-05-13,JJ Bleday,Washington Nationals @ Cincinnati Reds,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Willson Contreras,Philadelphia Phillies @ Boston Red Sox,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Ian Happ,Chicago Cubs @ Atlanta Braves,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Luke Raley,Seattle Mariners @ Houston Astros,YES,1,FINAL,MLB_STATS_API
+2026-05-13,Wilyer Abreu,Philadelphia Phillies @ Boston Red Sox,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Tyler Soderstrom,St. Louis Cardinals @ Athletics,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Sal Stewart,Washington Nationals @ Cincinnati Reds,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Oneil Cruz,Colorado Rockies @ Pittsburgh Pirates,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Kazuma Okamoto,Tampa Bay Rays @ Toronto Blue Jays,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Corey Seager,Arizona Diamondbacks @ Texas Rangers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Juan Soto,Detroit Tigers @ New York Mets,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Spencer Steer,Washington Nationals @ Cincinnati Reds,NO,0,FINAL,MLB_STATS_API
+2026-05-13,CJ Abrams,Washington Nationals @ Cincinnati Reds,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Moisés Ballesteros,Chicago Cubs @ Atlanta Braves,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Dominic Canzone,Seattle Mariners @ Houston Astros,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Joey Wiemer,Washington Nationals @ Cincinnati Reds,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Bobby Witt Jr.,Kansas City Royals @ Chicago White Sox,YES,1,FINAL,MLB_STATS_API
+2026-05-13,Brady House,Washington Nationals @ Cincinnati Reds,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Jordan Walker,St. Louis Cardinals @ Athletics,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Christopher Morel,Miami Marlins @ Minnesota Twins,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Tyler Stephenson,Washington Nationals @ Cincinnati Reds,YES,1,FINAL,MLB_STATS_API
+2026-05-13,Pete Crow-Armstrong,Chicago Cubs @ Atlanta Braves,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Shea Langeliers,St. Louis Cardinals @ Athletics,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Brent Rooker,St. Louis Cardinals @ Athletics,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Kyle Stowers,Miami Marlins @ Minnesota Twins,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Brandon Nimmo,Arizona Diamondbacks @ Texas Rangers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Dansby Swanson,Chicago Cubs @ Atlanta Braves,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Mickey Gasper,Philadelphia Phillies @ Boston Red Sox,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Jarren Duran,Philadelphia Phillies @ Boston Red Sox,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Otto Lopez,Miami Marlins @ Minnesota Twins,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Mark Vientos,Detroit Tigers @ New York Mets,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Connor Norby,Miami Marlins @ Minnesota Twins,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Joc Pederson,Arizona Diamondbacks @ Texas Rangers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Heriberto Hernández,Miami Marlins @ Minnesota Twins,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Alec Burleson,St. Louis Cardinals @ Athletics,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Owen Caissie,Miami Marlins @ Minnesota Twins,YES,1,FINAL,MLB_STATS_API
+2026-05-13,Nolan Gorman,St. Louis Cardinals @ Athletics,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Carson Kelly,Chicago Cubs @ Atlanta Braves,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Marcelo Mayer,Philadelphia Phillies @ Boston Red Sox,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Evan Carter,Arizona Diamondbacks @ Texas Rangers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Daylen Lile,Washington Nationals @ Cincinnati Reds,YES,1,FINAL,MLB_STATS_API
+2026-05-13,Liam Hicks,Miami Marlins @ Minnesota Twins,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Carlos Narváez,Philadelphia Phillies @ Boston Red Sox,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Keibert Ruiz,Washington Nationals @ Cincinnati Reds,YES,1,FINAL,MLB_STATS_API
+2026-05-13,Xavier Edwards,Miami Marlins @ Minnesota Twins,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Adrian Del Castillo,Arizona Diamondbacks @ Texas Rangers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Jakob Marsee,Miami Marlins @ Minnesota Twins,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Masataka Yoshida,Philadelphia Phillies @ Boston Red Sox,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Ke'Bryan Hayes,Washington Nationals @ Cincinnati Reds,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Gabriel Moreno,Arizona Diamondbacks @ Texas Rangers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Trevor Story,Philadelphia Phillies @ Boston Red Sox,YES,1,FINAL,MLB_STATS_API
+2026-05-13,Cole Young,Seattle Mariners @ Houston Astros,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Ceddanne Rafaela,Philadelphia Phillies @ Boston Red Sox,YES,1,FINAL,MLB_STATS_API
+2026-05-13,Joe Mack,Miami Marlins @ Minnesota Twins,NO,0,FINAL,MLB_STATS_API
+2026-05-13,J.P. Crawford,Seattle Mariners @ Houston Astros,YES,1,FINAL,MLB_STATS_API
+2026-05-13,Ezequiel Duran,Arizona Diamondbacks @ Texas Rangers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Nathan Church,St. Louis Cardinals @ Athletics,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Nasim Nuñez,Washington Nationals @ Cincinnati Reds,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Darell Hernaiz,St. Louis Cardinals @ Athletics,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Jacob Young,Washington Nationals @ Cincinnati Reds,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Connor Wong,Philadelphia Phillies @ Boston Red Sox,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Luis Torrens,Detroit Tigers @ New York Mets,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Brandon Marsh,Philadelphia Phillies @ Boston Red Sox,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Nico Hoerner,Chicago Cubs @ Atlanta Braves,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Jared Triolo,Colorado Rockies @ Pittsburgh Pirates,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Alejandro Osuna,Arizona Diamondbacks @ Texas Rangers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Tyler Heineman,Tampa Bay Rays @ Toronto Blue Jays,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Masyn Winn,St. Louis Cardinals @ Athletics,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Victor Scott II,St. Louis Cardinals @ Athletics,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Chandler Simpson,Tampa Bay Rays @ Toronto Blue Jays,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Kyle Schwarber,Philadelphia Phillies @ Boston Red Sox,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Elly De La Cruz,Washington Nationals @ Cincinnati Reds,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Max Muncy,San Francisco Giants @ Los Angeles Dodgers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Munetaka Murakami,Kansas City Royals @ Chicago White Sox,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Will Benson,Washington Nationals @ Cincinnati Reds,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Cal Raleigh,Seattle Mariners @ Houston Astros,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Byron Buxton,Miami Marlins @ Minnesota Twins,YES,2,FINAL,MLB_STATS_API
+2026-05-13,Seiya Suzuki,Chicago Cubs @ Atlanta Braves,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Colson Montgomery,Kansas City Royals @ Chicago White Sox,YES,1,FINAL,MLB_STATS_API
+2026-05-13,Corbin Carroll,Arizona Diamondbacks @ Texas Rangers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Michael Busch,Chicago Cubs @ Atlanta Braves,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Ketel Marte,Arizona Diamondbacks @ Texas Rangers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Zack Gelof,St. Louis Cardinals @ Athletics,YES,1,FINAL,MLB_STATS_API
+2026-05-13,Jake Burger,Arizona Diamondbacks @ Texas Rangers,YES,1,FINAL,MLB_STATS_API
+2026-05-13,Matt Olson,Chicago Cubs @ Atlanta Braves,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Riley Greene,Detroit Tigers @ New York Mets,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Yordan Alvarez,Seattle Mariners @ Houston Astros,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Julio Rodríguez,Seattle Mariners @ Houston Astros,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Will Smith,San Francisco Giants @ Los Angeles Dodgers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Colby Thomas,St. Louis Cardinals @ Athletics,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Bryce Harper,Philadelphia Phillies @ Boston Red Sox,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Spencer Torkelson,Detroit Tigers @ New York Mets,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Hunter Goodman,Colorado Rockies @ Pittsburgh Pirates,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Andy Pages,San Francisco Giants @ Los Angeles Dodgers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Teoscar Hernández,San Francisco Giants @ Los Angeles Dodgers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Salvador Perez,Kansas City Royals @ Chicago White Sox,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Freddie Freeman,San Francisco Giants @ Los Angeles Dodgers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Brandon Lowe,Colorado Rockies @ Pittsburgh Pirates,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Mickey Moniak,Colorado Rockies @ Pittsburgh Pirates,YES,1,FINAL,MLB_STATS_API
+2026-05-13,Michael Harris II,Chicago Cubs @ Atlanta Braves,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Josh Naylor,Seattle Mariners @ Houston Astros,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Austin Riley,Chicago Cubs @ Atlanta Braves,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Josh Jung,Arizona Diamondbacks @ Texas Rangers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Alex Bregman,Chicago Cubs @ Atlanta Braves,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Dillon Dingler,Detroit Tigers @ New York Mets,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Christian Walker,Seattle Mariners @ Houston Astros,YES,1,FINAL,MLB_STATS_API
+2026-05-13,Randy Arozarena,Seattle Mariners @ Houston Astros,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Miguel Vargas,Kansas City Royals @ Chicago White Sox,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Vladimir Guerrero Jr.,Tampa Bay Rays @ Toronto Blue Jays,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Dalton Rushing,San Francisco Giants @ Los Angeles Dodgers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Mookie Betts,San Francisco Giants @ Los Angeles Dodgers,YES,1,FINAL,MLB_STATS_API
+2026-05-13,Junior Caminero,Tampa Bay Rays @ Toronto Blue Jays,NO,0,FINAL,MLB_STATS_API
+2026-05-13,George Springer,Tampa Bay Rays @ Toronto Blue Jays,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Daulton Varsho,Tampa Bay Rays @ Toronto Blue Jays,YES,1,FINAL,MLB_STATS_API
+2026-05-13,Drake Baldwin,Chicago Cubs @ Atlanta Braves,YES,1,FINAL,MLB_STATS_API
+2026-05-13,Brendan Donovan,Seattle Mariners @ Houston Astros,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Adolis García,Philadelphia Phillies @ Boston Red Sox,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Ivan Herrera,St. Louis Cardinals @ Athletics,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Zach Cole,Seattle Mariners @ Houston Astros,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Ryan Jeffers,Miami Marlins @ Minnesota Twins,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Kyle Tucker,San Francisco Giants @ Los Angeles Dodgers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Andrew Benintendi,Kansas City Royals @ Chicago White Sox,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Marcell Ozuna,Colorado Rockies @ Pittsburgh Pirates,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Fernando Tatis Jr.,San Diego Padres @ Milwaukee Brewers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Casey Schmitt,San Francisco Giants @ Los Angeles Dodgers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Jackson Chourio,San Diego Padres @ Milwaukee Brewers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Jesús Sánchez,Tampa Bay Rays @ Toronto Blue Jays,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Kody Clemens,Miami Marlins @ Minnesota Twins,YES,1,FINAL,MLB_STATS_API
+2026-05-13,Heliot Ramos,San Francisco Giants @ Los Angeles Dodgers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Danny Jansen,Arizona Diamondbacks @ Texas Rangers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Brice Turang,San Diego Padres @ Milwaukee Brewers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Ramón Laureano,San Diego Padres @ Milwaukee Brewers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Vinnie Pasquantino,Kansas City Royals @ Chicago White Sox,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Matt McLain,Washington Nationals @ Cincinnati Reds,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Maikel Garcia,Kansas City Royals @ Chicago White Sox,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Marcus Semien,Detroit Tigers @ New York Mets,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Jackson Merrill,San Diego Padres @ Milwaukee Brewers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Royce Lewis,Miami Marlins @ Minnesota Twins,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Bryan Reynolds,Colorado Rockies @ Pittsburgh Pirates,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Carter Jensen,Kansas City Royals @ Chicago White Sox,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Henry Davis,Colorado Rockies @ Pittsburgh Pirates,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Pedro Pagés,St. Louis Cardinals @ Athletics,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Jake Bauers,San Diego Padres @ Milwaukee Brewers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Isaac Collins,Kansas City Royals @ Chicago White Sox,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Gavin Sheets,San Diego Padres @ Milwaukee Brewers,YES,1,FINAL,MLB_STATS_API
+2026-05-13,Rafael Devers,San Francisco Giants @ Los Angeles Dodgers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Lane Thomas,Kansas City Royals @ Chicago White Sox,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Ryan O'Hearn,Colorado Rockies @ Pittsburgh Pirates,YES,1,FINAL,MLB_STATS_API
+2026-05-13,Bo Bichette,Detroit Tigers @ New York Mets,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Cesar Prieto,St. Louis Cardinals @ Athletics,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Nolan Arenado,Arizona Diamondbacks @ Texas Rangers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Colt Keith,Detroit Tigers @ New York Mets,NO,0,FINAL,MLB_STATS_API
+2026-05-13,TJ Friedl,Washington Nationals @ Cincinnati Reds,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Josh Bell,Miami Marlins @ Minnesota Twins,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Ozzie Albies,Chicago Cubs @ Atlanta Braves,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Manny Machado,San Diego Padres @ Milwaukee Brewers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,James McCann,Arizona Diamondbacks @ Texas Rangers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Nick Yorke,Colorado Rockies @ Pittsburgh Pirates,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Jonathan Aranda,Tampa Bay Rays @ Toronto Blue Jays,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Garrett Mitchell,San Diego Padres @ Milwaukee Brewers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Lourdes Gurriel Jr.,Arizona Diamondbacks @ Texas Rangers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Ha-Seong Kim,Chicago Cubs @ Atlanta Braves,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Nick Loftin,Kansas City Royals @ Chicago White Sox,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Brice Matthews,Seattle Mariners @ Houston Astros,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Trea Turner,Philadelphia Phillies @ Boston Red Sox,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Nick Gonzales,Colorado Rockies @ Pittsburgh Pirates,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Brett Baty,Detroit Tigers @ New York Mets,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Mike Yastrzemski,Chicago Cubs @ Atlanta Braves,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Billy Cook,Colorado Rockies @ Pittsburgh Pirates,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Tyrone Taylor,Detroit Tigers @ New York Mets,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Wenceel Pérez,Detroit Tigers @ New York Mets,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Matt Vierling,Detroit Tigers @ New York Mets,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Geraldo Perdomo,Arizona Diamondbacks @ Texas Rangers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Jorge Mateo,Chicago Cubs @ Atlanta Braves,NO,0,FINAL,MLB_STATS_API
+2026-05-13,J.T. Realmuto,Philadelphia Phillies @ Boston Red Sox,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Andrés Giménez,Tampa Bay Rays @ Toronto Blue Jays,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Sung-Mun Song,San Diego Padres @ Milwaukee Brewers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Willy Adames,San Francisco Giants @ Los Angeles Dodgers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Jose Altuve,Seattle Mariners @ Houston Astros,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Bryson Stott,Philadelphia Phillies @ Boston Red Sox,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Xander Bogaerts,San Diego Padres @ Milwaukee Brewers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Edouard Julien,Colorado Rockies @ Pittsburgh Pirates,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Ernie Clement,Tampa Bay Rays @ Toronto Blue Jays,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Yandy Díaz,Tampa Bay Rays @ Toronto Blue Jays,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Trevor Larnach,Miami Marlins @ Minnesota Twins,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Isaac Paredes,Seattle Mariners @ Houston Astros,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Willi Castro,Colorado Rockies @ Pittsburgh Pirates,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Vidal Bruján,Detroit Tigers @ New York Mets,NO,0,FINAL,MLB_STATS_API
+2026-05-13,William Contreras,San Diego Padres @ Milwaukee Brewers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Edmundo Sosa,Philadelphia Phillies @ Boston Red Sox,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Harrison Bader,San Francisco Giants @ Los Angeles Dodgers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Alec Bohm,Philadelphia Phillies @ Boston Red Sox,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Troy Johnston,Colorado Rockies @ Pittsburgh Pirates,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Andrew Vaughn,San Diego Padres @ Milwaukee Brewers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Matt Chapman,San Francisco Giants @ Los Angeles Dodgers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Cam Smith,Seattle Mariners @ Houston Astros,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Miguel Andujar,San Diego Padres @ Milwaukee Brewers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Mauricio Dubón,Chicago Cubs @ Atlanta Braves,YES,1,FINAL,MLB_STATS_API
+2026-05-13,César Salazar,Seattle Mariners @ Houston Astros,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Christian Yelich,San Diego Padres @ Milwaukee Brewers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Brooks Lee,Miami Marlins @ Minnesota Twins,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Chase Meidroth,Kansas City Royals @ Chicago White Sox,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Jake Fraley,Tampa Bay Rays @ Toronto Blue Jays,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Ezequiel Tovar,Colorado Rockies @ Pittsburgh Pirates,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Luis Rengifo,San Diego Padres @ Milwaukee Brewers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Jake McCarthy,Colorado Rockies @ Pittsburgh Pirates,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Kyle Karros,Colorado Rockies @ Pittsburgh Pirates,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Nick Fortes,Tampa Bay Rays @ Toronto Blue Jays,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Jung Hoo Lee,San Francisco Giants @ Los Angeles Dodgers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Jesus Rodriguez,San Francisco Giants @ Los Angeles Dodgers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Tyler Freeman,Colorado Rockies @ Pittsburgh Pirates,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Freddy Fermin,San Diego Padres @ Milwaukee Brewers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Cedric Mullins,Tampa Bay Rays @ Toronto Blue Jays,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Taylor Walls,Tampa Bay Rays @ Toronto Blue Jays,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Zach McKinstry,Detroit Tigers @ New York Mets,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Ben Williamson,Tampa Bay Rays @ Toronto Blue Jays,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Jonny DeLuca,Tampa Bay Rays @ Toronto Blue Jays,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Austin Martin,Miami Marlins @ Minnesota Twins,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Ryan Vilade,Tampa Bay Rays @ Toronto Blue Jays,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Luis Arraez,San Francisco Giants @ Los Angeles Dodgers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Luke Keaschall,Miami Marlins @ Minnesota Twins,NO,0,FINAL,MLB_STATS_API
+2026-05-13,David Hamilton,San Diego Padres @ Milwaukee Brewers,NO,0,FINAL,MLB_STATS_API
+2026-05-13,Sal Frelick,San Diego Padres @ Milwaukee Brewers,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Jeff McNeil,St. Louis Cardinals @ Athletics,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Nick Kurtz,St. Louis Cardinals @ Athletics,YES,1,FINAL,MLB_STATS_API
+2026-05-14,Ian Happ,Chicago Cubs @ Atlanta Braves,YES,1,FINAL,MLB_STATS_API
+2026-05-14,Luke Raley,Seattle Mariners @ Houston Astros,YES,1,FINAL,MLB_STATS_API
+2026-05-14,Tyler Soderstrom,St. Louis Cardinals @ Athletics,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Brent Rooker,St. Louis Cardinals @ Athletics,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Kazuma Okamoto,Tampa Bay Rays @ Toronto Blue Jays,,,NO_GAME_MATCH,MLB_STATS_API
+2026-05-14,Corey Seager,Arizona Diamondbacks @ Texas Rangers,,,NO_GAME_MATCH,MLB_STATS_API
+2026-05-14,Juan Soto,Detroit Tigers @ New York Mets,YES,1,FINAL,MLB_STATS_API
+2026-05-14,Dominic Canzone,Seattle Mariners @ Houston Astros,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Moisés Ballesteros,Chicago Cubs @ Atlanta Braves,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Bobby Witt Jr.,Kansas City Royals @ Chicago White Sox,,,PENDING,MLB_STATS_API
+2026-05-14,Jordan Walker,St. Louis Cardinals @ Athletics,YES,1,FINAL,MLB_STATS_API
+2026-05-14,Shea Langeliers,St. Louis Cardinals @ Athletics,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Christopher Morel,Miami Marlins @ Minnesota Twins,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Pete Crow-Armstrong,Chicago Cubs @ Atlanta Braves,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Brandon Nimmo,Arizona Diamondbacks @ Texas Rangers,,,NO_GAME_MATCH,MLB_STATS_API
+2026-05-14,Dansby Swanson,Chicago Cubs @ Atlanta Braves,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Alec Burleson,St. Louis Cardinals @ Athletics,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Mark Vientos,Detroit Tigers @ New York Mets,YES,1,FINAL,MLB_STATS_API
+2026-05-14,Joc Pederson,Arizona Diamondbacks @ Texas Rangers,,,NO_GAME_MATCH,MLB_STATS_API
+2026-05-14,Otto Lopez,Miami Marlins @ Minnesota Twins,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Connor Norby,Miami Marlins @ Minnesota Twins,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Nolan Gorman,St. Louis Cardinals @ Athletics,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Heriberto Hernández,Miami Marlins @ Minnesota Twins,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Owen Caissie,Miami Marlins @ Minnesota Twins,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Carson Kelly,Chicago Cubs @ Atlanta Braves,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Evan Carter,Arizona Diamondbacks @ Texas Rangers,,,NO_GAME_MATCH,MLB_STATS_API
+2026-05-14,Liam Hicks,Miami Marlins @ Minnesota Twins,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Adrian Del Castillo,Arizona Diamondbacks @ Texas Rangers,,,NO_GAME_MATCH,MLB_STATS_API
+2026-05-14,Xavier Edwards,Miami Marlins @ Minnesota Twins,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Jakob Marsee,Miami Marlins @ Minnesota Twins,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Gabriel Moreno,Arizona Diamondbacks @ Texas Rangers,,,NO_GAME_MATCH,MLB_STATS_API
+2026-05-14,Cole Young,Seattle Mariners @ Houston Astros,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Nathan Church,St. Louis Cardinals @ Athletics,NO,0,FINAL,MLB_STATS_API
+2026-05-14,J.P. Crawford,Seattle Mariners @ Houston Astros,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Joe Mack,Miami Marlins @ Minnesota Twins,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Ezequiel Duran,Arizona Diamondbacks @ Texas Rangers,,,NO_GAME_MATCH,MLB_STATS_API
+2026-05-14,Darell Hernaiz,St. Louis Cardinals @ Athletics,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Luis Torrens,Detroit Tigers @ New York Mets,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Nico Hoerner,Chicago Cubs @ Atlanta Braves,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Alejandro Osuna,Arizona Diamondbacks @ Texas Rangers,,,NO_GAME_MATCH,MLB_STATS_API
+2026-05-14,Tyler Heineman,Tampa Bay Rays @ Toronto Blue Jays,,,NO_GAME_MATCH,MLB_STATS_API
+2026-05-14,Masyn Winn,St. Louis Cardinals @ Athletics,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Victor Scott II,St. Louis Cardinals @ Athletics,YES,1,FINAL,MLB_STATS_API
+2026-05-14,Chandler Simpson,Tampa Bay Rays @ Toronto Blue Jays,,,NO_GAME_MATCH,MLB_STATS_API
+2026-05-14,Max Muncy,San Francisco Giants @ Los Angeles Dodgers,,,PENDING,MLB_STATS_API
+2026-05-14,Munetaka Murakami,Kansas City Royals @ Chicago White Sox,,,PENDING,MLB_STATS_API
+2026-05-14,Cal Raleigh,Seattle Mariners @ Houston Astros,,,PLAYER_NOT_FOUND,MLB_STATS_API
+2026-05-14,Kyle Stowers,Miami Marlins @ Minnesota Twins,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Colson Montgomery,Kansas City Royals @ Chicago White Sox,,,PENDING,MLB_STATS_API
+2026-05-14,Byron Buxton,Miami Marlins @ Minnesota Twins,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Seiya Suzuki,Chicago Cubs @ Atlanta Braves,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Corbin Carroll,Arizona Diamondbacks @ Texas Rangers,,,NO_GAME_MATCH,MLB_STATS_API
+2026-05-14,Zack Gelof,St. Louis Cardinals @ Athletics,YES,1,FINAL,MLB_STATS_API
+2026-05-14,Michael Busch,Chicago Cubs @ Atlanta Braves,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Ketel Marte,Arizona Diamondbacks @ Texas Rangers,,,NO_GAME_MATCH,MLB_STATS_API
+2026-05-14,Colby Thomas,St. Louis Cardinals @ Athletics,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Jake Burger,Arizona Diamondbacks @ Texas Rangers,,,NO_GAME_MATCH,MLB_STATS_API
+2026-05-14,Riley Greene,Detroit Tigers @ New York Mets,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Matt Olson,Chicago Cubs @ Atlanta Braves,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Yordan Alvarez,Seattle Mariners @ Houston Astros,YES,1,FINAL,MLB_STATS_API
+2026-05-14,Julio Rodríguez,Seattle Mariners @ Houston Astros,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Will Smith,San Francisco Giants @ Los Angeles Dodgers,,,PENDING,MLB_STATS_API
+2026-05-14,Spencer Torkelson,Detroit Tigers @ New York Mets,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Andy Pages,San Francisco Giants @ Los Angeles Dodgers,,,PENDING,MLB_STATS_API
+2026-05-14,Teoscar Hernández,San Francisco Giants @ Los Angeles Dodgers,,,PENDING,MLB_STATS_API
+2026-05-14,Salvador Perez,Kansas City Royals @ Chicago White Sox,,,PENDING,MLB_STATS_API
+2026-05-14,Freddie Freeman,San Francisco Giants @ Los Angeles Dodgers,,,PENDING,MLB_STATS_API
+2026-05-14,Josh Naylor,Seattle Mariners @ Houston Astros,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Michael Harris II,Chicago Cubs @ Atlanta Braves,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Austin Riley,Chicago Cubs @ Atlanta Braves,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Josh Jung,Arizona Diamondbacks @ Texas Rangers,,,NO_GAME_MATCH,MLB_STATS_API
+2026-05-14,Alex Bregman,Chicago Cubs @ Atlanta Braves,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Dillon Dingler,Detroit Tigers @ New York Mets,YES,1,FINAL,MLB_STATS_API
+2026-05-14,Christian Walker,Seattle Mariners @ Houston Astros,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Randy Arozarena,Seattle Mariners @ Houston Astros,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Miguel Vargas,Kansas City Royals @ Chicago White Sox,,,PENDING,MLB_STATS_API
+2026-05-14,Vladimir Guerrero Jr.,Tampa Bay Rays @ Toronto Blue Jays,,,NO_GAME_MATCH,MLB_STATS_API
+2026-05-14,Dalton Rushing,San Francisco Giants @ Los Angeles Dodgers,,,PENDING,MLB_STATS_API
+2026-05-14,Mookie Betts,San Francisco Giants @ Los Angeles Dodgers,,,PENDING,MLB_STATS_API
+2026-05-14,Junior Caminero,Tampa Bay Rays @ Toronto Blue Jays,,,NO_GAME_MATCH,MLB_STATS_API
+2026-05-14,Ivan Herrera,St. Louis Cardinals @ Athletics,NO,0,FINAL,MLB_STATS_API
+2026-05-14,George Springer,Tampa Bay Rays @ Toronto Blue Jays,,,NO_GAME_MATCH,MLB_STATS_API
+2026-05-14,Daulton Varsho,Tampa Bay Rays @ Toronto Blue Jays,,,NO_GAME_MATCH,MLB_STATS_API
+2026-05-14,Brendan Donovan,Seattle Mariners @ Houston Astros,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Drake Baldwin,Chicago Cubs @ Atlanta Braves,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Zach Cole,Seattle Mariners @ Houston Astros,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Andrew Benintendi,Kansas City Royals @ Chicago White Sox,,,PENDING,MLB_STATS_API
+2026-05-14,Kyle Tucker,San Francisco Giants @ Los Angeles Dodgers,,,PENDING,MLB_STATS_API
+2026-05-14,Ryan Jeffers,Miami Marlins @ Minnesota Twins,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Fernando Tatis Jr.,San Diego Padres @ Milwaukee Brewers,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Casey Schmitt,San Francisco Giants @ Los Angeles Dodgers,,,PENDING,MLB_STATS_API
+2026-05-14,Jackson Chourio,San Diego Padres @ Milwaukee Brewers,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Jesús Sánchez,Tampa Bay Rays @ Toronto Blue Jays,,,NO_GAME_MATCH,MLB_STATS_API
+2026-05-14,Heliot Ramos,San Francisco Giants @ Los Angeles Dodgers,,,PENDING,MLB_STATS_API
+2026-05-14,Danny Jansen,Arizona Diamondbacks @ Texas Rangers,,,NO_GAME_MATCH,MLB_STATS_API
+2026-05-14,Kody Clemens,Miami Marlins @ Minnesota Twins,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Vinnie Pasquantino,Kansas City Royals @ Chicago White Sox,,,PENDING,MLB_STATS_API
+2026-05-14,Brice Turang,San Diego Padres @ Milwaukee Brewers,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Ramón Laureano,San Diego Padres @ Milwaukee Brewers,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Maikel Garcia,Kansas City Royals @ Chicago White Sox,,,PENDING,MLB_STATS_API
+2026-05-14,Marcus Semien,Detroit Tigers @ New York Mets,YES,1,FINAL,MLB_STATS_API
+2026-05-14,Carter Jensen,Kansas City Royals @ Chicago White Sox,,,PENDING,MLB_STATS_API
+2026-05-14,Jackson Merrill,San Diego Padres @ Milwaukee Brewers,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Pedro Pagés,St. Louis Cardinals @ Athletics,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Royce Lewis,Miami Marlins @ Minnesota Twins,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Isaac Collins,Kansas City Royals @ Chicago White Sox,,,PENDING,MLB_STATS_API
+2026-05-14,Jake Bauers,San Diego Padres @ Milwaukee Brewers,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Gavin Sheets,San Diego Padres @ Milwaukee Brewers,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Lane Thomas,Kansas City Royals @ Chicago White Sox,,,PENDING,MLB_STATS_API
+2026-05-14,Rafael Devers,San Francisco Giants @ Los Angeles Dodgers,,,PENDING,MLB_STATS_API
+2026-05-14,Bo Bichette,Detroit Tigers @ New York Mets,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Cesar Prieto,St. Louis Cardinals @ Athletics,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Colt Keith,Detroit Tigers @ New York Mets,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Nolan Arenado,Arizona Diamondbacks @ Texas Rangers,,,NO_GAME_MATCH,MLB_STATS_API
+2026-05-14,Ozzie Albies,Chicago Cubs @ Atlanta Braves,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Manny Machado,San Diego Padres @ Milwaukee Brewers,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Josh Bell,Miami Marlins @ Minnesota Twins,NO,0,FINAL,MLB_STATS_API
+2026-05-14,James McCann,Arizona Diamondbacks @ Texas Rangers,,,NO_GAME_MATCH,MLB_STATS_API
+2026-05-14,Jonathan Aranda,Tampa Bay Rays @ Toronto Blue Jays,,,NO_GAME_MATCH,MLB_STATS_API
+2026-05-14,Nick Loftin,Kansas City Royals @ Chicago White Sox,,,PENDING,MLB_STATS_API
+2026-05-14,Lourdes Gurriel Jr.,Arizona Diamondbacks @ Texas Rangers,,,NO_GAME_MATCH,MLB_STATS_API
+2026-05-14,Ha-Seong Kim,Chicago Cubs @ Atlanta Braves,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Brice Matthews,Seattle Mariners @ Houston Astros,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Brett Baty,Detroit Tigers @ New York Mets,YES,1,FINAL,MLB_STATS_API
+2026-05-14,Garrett Mitchell,San Diego Padres @ Milwaukee Brewers,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Mike Yastrzemski,Chicago Cubs @ Atlanta Braves,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Tyrone Taylor,Detroit Tigers @ New York Mets,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Wenceel Pérez,Detroit Tigers @ New York Mets,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Matt Vierling,Detroit Tigers @ New York Mets,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Geraldo Perdomo,Arizona Diamondbacks @ Texas Rangers,,,NO_GAME_MATCH,MLB_STATS_API
+2026-05-14,Jorge Mateo,Chicago Cubs @ Atlanta Braves,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Andrés Giménez,Tampa Bay Rays @ Toronto Blue Jays,,,NO_GAME_MATCH,MLB_STATS_API
+2026-05-14,Willy Adames,San Francisco Giants @ Los Angeles Dodgers,,,PENDING,MLB_STATS_API
+2026-05-14,Jose Altuve,Seattle Mariners @ Houston Astros,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Sung-Mun Song,San Diego Padres @ Milwaukee Brewers,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Xander Bogaerts,San Diego Padres @ Milwaukee Brewers,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Ernie Clement,Tampa Bay Rays @ Toronto Blue Jays,,,NO_GAME_MATCH,MLB_STATS_API
+2026-05-14,Yandy Díaz,Tampa Bay Rays @ Toronto Blue Jays,,,NO_GAME_MATCH,MLB_STATS_API
+2026-05-14,Isaac Paredes,Seattle Mariners @ Houston Astros,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Trevor Larnach,Miami Marlins @ Minnesota Twins,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Vidal Bruján,Detroit Tigers @ New York Mets,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Harrison Bader,San Francisco Giants @ Los Angeles Dodgers,,,PENDING,MLB_STATS_API
+2026-05-14,William Contreras,San Diego Padres @ Milwaukee Brewers,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Andrew Vaughn,San Diego Padres @ Milwaukee Brewers,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Matt Chapman,San Francisco Giants @ Los Angeles Dodgers,,,PENDING,MLB_STATS_API
+2026-05-14,Cam Smith,Seattle Mariners @ Houston Astros,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Miguel Andujar,San Diego Padres @ Milwaukee Brewers,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Mauricio Dubón,Chicago Cubs @ Atlanta Braves,NO,0,FINAL,MLB_STATS_API
+2026-05-14,César Salazar,Seattle Mariners @ Houston Astros,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Chase Meidroth,Kansas City Royals @ Chicago White Sox,,,PENDING,MLB_STATS_API
+2026-05-14,Christian Yelich,San Diego Padres @ Milwaukee Brewers,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Brooks Lee,Miami Marlins @ Minnesota Twins,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Jake Fraley,Tampa Bay Rays @ Toronto Blue Jays,,,NO_GAME_MATCH,MLB_STATS_API
+2026-05-14,Luis Rengifo,San Diego Padres @ Milwaukee Brewers,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Nick Fortes,Tampa Bay Rays @ Toronto Blue Jays,,,NO_GAME_MATCH,MLB_STATS_API
+2026-05-14,Jung Hoo Lee,San Francisco Giants @ Los Angeles Dodgers,,,PENDING,MLB_STATS_API
+2026-05-14,Jesus Rodriguez,San Francisco Giants @ Los Angeles Dodgers,,,PENDING,MLB_STATS_API
+2026-05-14,Cedric Mullins,Tampa Bay Rays @ Toronto Blue Jays,,,NO_GAME_MATCH,MLB_STATS_API
+2026-05-14,Freddy Fermin,San Diego Padres @ Milwaukee Brewers,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Taylor Walls,Tampa Bay Rays @ Toronto Blue Jays,,,NO_GAME_MATCH,MLB_STATS_API
+2026-05-14,Zach McKinstry,Detroit Tigers @ New York Mets,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Ben Williamson,Tampa Bay Rays @ Toronto Blue Jays,,,NO_GAME_MATCH,MLB_STATS_API
+2026-05-14,Jonny DeLuca,Tampa Bay Rays @ Toronto Blue Jays,,,NO_GAME_MATCH,MLB_STATS_API
+2026-05-14,Luis Arraez,San Francisco Giants @ Los Angeles Dodgers,,,PENDING,MLB_STATS_API
+2026-05-14,Ryan Vilade,Tampa Bay Rays @ Toronto Blue Jays,,,NO_GAME_MATCH,MLB_STATS_API
+2026-05-14,Austin Martin,Miami Marlins @ Minnesota Twins,NO,0,FINAL,MLB_STATS_API
+2026-05-14,David Hamilton,San Diego Padres @ Milwaukee Brewers,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Luke Keaschall,Miami Marlins @ Minnesota Twins,NO,0,FINAL,MLB_STATS_API
+2026-05-14,Sal Frelick,San Diego Padres @ Milwaukee Brewers,NO,0,FINAL,MLB_STATS_API

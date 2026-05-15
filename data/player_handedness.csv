@@ -1,0 +1,228 @@
+name,team,mlbam,batter_hand,throws_hand,source
+Adolis García,Philadelphia Phillies,666969,R,R,MLB_STATS_API
+Adrian Del Castillo,Arizona Diamondbacks,680728,L,R,MLB_STATS_API
+Alec Bohm,Philadelphia Phillies,664761,R,R,MLB_STATS_API
+Alec Burleson,St. Louis Cardinals,676475,L,L,MLB_STATS_API
+Alejandro Osuna,Texas Rangers,696030,L,L,MLB_STATS_API
+Alex Bregman,Chicago Cubs,608324,R,R,MLB_STATS_API
+Andrés Giménez,Toronto Blue Jays,665926,L,R,MLB_STATS_API
+Andrew Benintendi,Chicago White Sox,643217,L,L,MLB_STATS_API
+Andrew Vaughn,Milwaukee Brewers,683734,R,R,MLB_STATS_API
+Andy Pages,Los Angeles Dodgers,681624,R,R,MLB_STATS_API
+Austin Martin,Minnesota Twins,668885,R,R,MLB_STATS_API
+Austin Riley,Atlanta Braves,663586,R,R,MLB_STATS_API
+Ben Williamson,Tampa Bay Rays,810938,R,R,MLB_STATS_API
+Billy Cook,Pittsburgh Pirates,695257,R,R,MLB_STATS_API
+Bo Bichette,New York Mets,666182,R,R,MLB_STATS_API
+Bobby Witt Jr.,Kansas City Royals,677951,R,R,MLB_STATS_API
+Brady House,Washington Nationals,691781,R,R,MLB_STATS_API
+Brandon Lowe,Pittsburgh Pirates,664040,L,R,MLB_STATS_API
+Brandon Marsh,Philadelphia Phillies,669016,L,R,MLB_STATS_API
+Brandon Nimmo,Texas Rangers,607043,L,R,MLB_STATS_API
+Brendan Donovan,Seattle Mariners,680977,L,R,MLB_STATS_API
+Brent Rooker,Athletics,667670,R,R,MLB_STATS_API
+Brett Baty,New York Mets,683146,L,R,MLB_STATS_API
+Brice Matthews,Houston Astros,694728,R,R,MLB_STATS_API
+Brice Turang,Milwaukee Brewers,668930,L,R,MLB_STATS_API
+Brooks Lee,Minnesota Twins,686797,S,R,MLB_STATS_API
+Bryan Reynolds,Pittsburgh Pirates,668804,S,R,MLB_STATS_API
+Bryce Harper,Philadelphia Phillies,547180,L,R,MLB_STATS_API
+Bryson Stott,Philadelphia Phillies,681082,L,R,MLB_STATS_API
+Byron Buxton,Minnesota Twins,621439,R,R,MLB_STATS_API
+Cal Raleigh,Seattle Mariners,663728,S,R,MLB_STATS_API
+Caleb Durbin,Boston Red Sox,702332,R,R,MLB_STATS_API
+Cam Smith,Houston Astros,701358,R,R,MLB_STATS_API
+Carlos Narváez,Boston Red Sox,665966,R,R,MLB_STATS_API
+Carson Kelly,Chicago Cubs,608348,R,R,MLB_STATS_API
+Carter Jensen,Kansas City Royals,695600,L,R,MLB_STATS_API
+Casey Schmitt,San Francisco Giants,669477,R,R,MLB_STATS_API
+Ceddanne Rafaela,Boston Red Sox,678882,R,R,MLB_STATS_API
+Cedric Mullins,Tampa Bay Rays,656775,L,L,MLB_STATS_API
+Cesar Prieto,St. Louis Cardinals,693409,L,R,MLB_STATS_API
+César Salazar,Houston Astros,663967,L,R,MLB_STATS_API
+Chandler Simpson,Tampa Bay Rays,802415,L,R,MLB_STATS_API
+Chase Meidroth,Chicago White Sox,805367,R,R,MLB_STATS_API
+Christian Walker,Houston Astros,572233,R,R,MLB_STATS_API
+Christian Yelich,Milwaukee Brewers,592885,L,R,MLB_STATS_API
+Christopher Morel,Miami Marlins,666624,R,R,MLB_STATS_API
+CJ Abrams,Washington Nationals,682928,L,R,MLB_STATS_API
+Colby Thomas,Athletics,687515,R,R,MLB_STATS_API
+Cole Young,Seattle Mariners,702284,L,R,MLB_STATS_API
+Colson Montgomery,Chicago White Sox,695657,L,R,MLB_STATS_API
+Colt Keith,Detroit Tigers,690993,L,R,MLB_STATS_API
+Connor Norby,Miami Marlins,681393,R,R,MLB_STATS_API
+Connor Wong,Boston Red Sox,657136,R,R,MLB_STATS_API
+Corbin Carroll,Arizona Diamondbacks,682998,L,L,MLB_STATS_API
+Corey Seager,Texas Rangers,608369,L,R,MLB_STATS_API
+Dalton Rushing,Los Angeles Dodgers,687221,L,R,MLB_STATS_API
+Danny Jansen,Texas Rangers,643376,R,R,MLB_STATS_API
+Dansby Swanson,Chicago Cubs,621020,R,R,MLB_STATS_API
+Darell Hernaiz,Athletics,687231,R,R,MLB_STATS_API
+Daulton Varsho,Toronto Blue Jays,662139,L,R,MLB_STATS_API
+David Hamilton,Milwaukee Brewers,666152,L,R,MLB_STATS_API
+Daylen Lile,Washington Nationals,695734,L,R,MLB_STATS_API
+Dillon Dingler,Detroit Tigers,693307,R,R,MLB_STATS_API
+Dominic Canzone,Seattle Mariners,686527,L,R,MLB_STATS_API
+Drake Baldwin,Atlanta Braves,686948,L,R,MLB_STATS_API
+Edmundo Sosa,Philadelphia Phillies,624641,R,R,MLB_STATS_API
+Edouard Julien,Colorado Rockies,666397,L,R,MLB_STATS_API
+Elly De La Cruz,Cincinnati Reds,682829,S,R,MLB_STATS_API
+Ernie Clement,Toronto Blue Jays,676391,R,R,MLB_STATS_API
+Evan Carter,Texas Rangers,694497,L,R,MLB_STATS_API
+Ezequiel Duran,Texas Rangers,677649,R,R,MLB_STATS_API
+Ezequiel Tovar,Colorado Rockies,678662,R,R,MLB_STATS_API
+Fernando Tatis Jr.,San Diego Padres,665487,R,R,MLB_STATS_API
+Freddie Freeman,Los Angeles Dodgers,518692,L,R,MLB_STATS_API
+Freddy Fermin,San Diego Padres,666023,R,R,MLB_STATS_API
+Gabriel Moreno,Arizona Diamondbacks,672515,R,R,MLB_STATS_API
+Garrett Mitchell,Milwaukee Brewers,669003,L,R,MLB_STATS_API
+Gavin Sheets,San Diego Padres,657757,L,L,MLB_STATS_API
+George Springer,Toronto Blue Jays,543807,R,R,MLB_STATS_API
+Geraldo Perdomo,Arizona Diamondbacks,672695,S,R,MLB_STATS_API
+Ha-Seong Kim,Atlanta Braves,673490,R,R,MLB_STATS_API
+Harrison Bader,San Francisco Giants,664056,R,R,MLB_STATS_API
+Heliot Ramos,San Francisco Giants,671218,R,R,MLB_STATS_API
+Henry Davis,Pittsburgh Pirates,680779,R,R,MLB_STATS_API
+Heriberto Hernández,Miami Marlins,681715,R,R,MLB_STATS_API
+Hunter Goodman,Colorado Rockies,696100,R,R,MLB_STATS_API
+Ian Happ,Chicago Cubs,664023,S,R,MLB_STATS_API
+Isaac Collins,Kansas City Royals,686555,S,R,MLB_STATS_API
+Isaac Paredes,Houston Astros,670623,R,R,MLB_STATS_API
+Ivan Herrera,St. Louis Cardinals,671056,R,R,MLB_STATS_API
+J.P. Crawford,Seattle Mariners,641487,L,R,MLB_STATS_API
+J.T. Realmuto,Philadelphia Phillies,592663,R,R,MLB_STATS_API
+Jackson Chourio,Milwaukee Brewers,694192,R,R,MLB_STATS_API
+Jackson Merrill,San Diego Padres,701538,L,R,MLB_STATS_API
+Jacob Young,Washington Nationals,696285,R,R,MLB_STATS_API
+Jake Bauers,Milwaukee Brewers,641343,L,L,MLB_STATS_API
+Jake Burger,Texas Rangers,669394,R,R,MLB_STATS_API
+Jake Fraley,Tampa Bay Rays,641584,L,L,MLB_STATS_API
+Jake McCarthy,Colorado Rockies,664983,L,L,MLB_STATS_API
+Jakob Marsee,Miami Marlins,805300,L,L,MLB_STATS_API
+James McCann,Arizona Diamondbacks,543510,R,R,MLB_STATS_API
+James Wood,Washington Nationals,695578,L,R,MLB_STATS_API
+Jared Triolo,Pittsburgh Pirates,669707,R,R,MLB_STATS_API
+Jarren Duran,Boston Red Sox,680776,L,R,MLB_STATS_API
+Jeff McNeil,Athletics,643446,L,R,MLB_STATS_API
+Jesus Rodriguez,San Francisco Giants,683679,R,R,MLB_STATS_API
+Jesús Sánchez,Toronto Blue Jays,660821,L,R,MLB_STATS_API
+JJ Bleday,Cincinnati Reds,668709,L,L,MLB_STATS_API
+Joc Pederson,Texas Rangers,592626,L,L,MLB_STATS_API
+Joe Mack,Miami Marlins,691788,L,R,MLB_STATS_API
+Joey Wiemer,Washington Nationals,686894,R,R,MLB_STATS_API
+Jonathan Aranda,Tampa Bay Rays,666018,L,R,MLB_STATS_API
+Jonny DeLuca,Tampa Bay Rays,676356,R,R,MLB_STATS_API
+Jordan Walker,St. Louis Cardinals,691023,R,R,MLB_STATS_API
+Jorge Mateo,Atlanta Braves,622761,R,R,MLB_STATS_API
+Jose Altuve,Houston Astros,514888,R,R,MLB_STATS_API
+Josh Bell,Minnesota Twins,605137,S,R,MLB_STATS_API
+Josh Jung,Texas Rangers,673962,R,R,MLB_STATS_API
+Josh Naylor,Seattle Mariners,647304,L,L,MLB_STATS_API
+Juan Soto,New York Mets,665742,L,L,MLB_STATS_API
+Julio Rodríguez,Seattle Mariners,677594,R,R,MLB_STATS_API
+Jung Hoo Lee,San Francisco Giants,808982,L,R,MLB_STATS_API
+Junior Caminero,Tampa Bay Rays,691406,R,R,MLB_STATS_API
+Kazuma Okamoto,Toronto Blue Jays,672960,R,R,MLB_STATS_API
+Ke'Bryan Hayes,Cincinnati Reds,663647,R,R,MLB_STATS_API
+Keibert Ruiz,Washington Nationals,660688,S,R,MLB_STATS_API
+Ketel Marte,Arizona Diamondbacks,606466,S,R,MLB_STATS_API
+Kody Clemens,Minnesota Twins,665019,L,R,MLB_STATS_API
+Kyle Karros,Colorado Rockies,691720,R,R,MLB_STATS_API
+Kyle Schwarber,Philadelphia Phillies,656941,L,R,MLB_STATS_API
+Kyle Stowers,Miami Marlins,669065,L,L,MLB_STATS_API
+Kyle Tucker,Los Angeles Dodgers,663656,L,R,MLB_STATS_API
+Lane Thomas,Kansas City Royals,657041,R,R,MLB_STATS_API
+Liam Hicks,Miami Marlins,689414,L,R,MLB_STATS_API
+Lourdes Gurriel Jr.,Arizona Diamondbacks,666971,R,R,MLB_STATS_API
+Luis Arraez,San Francisco Giants,650333,L,R,MLB_STATS_API
+Luis Rengifo,Milwaukee Brewers,650859,S,R,MLB_STATS_API
+Luis Torrens,New York Mets,620443,R,R,MLB_STATS_API
+Luke Keaschall,Minnesota Twins,807712,R,R,MLB_STATS_API
+Luke Raley,Seattle Mariners,670042,L,R,MLB_STATS_API
+Maikel Garcia,Kansas City Royals,672580,R,R,MLB_STATS_API
+Manny Machado,San Diego Padres,592518,R,R,MLB_STATS_API
+Marcell Ozuna,Pittsburgh Pirates,542303,R,R,MLB_STATS_API
+Marcelo Mayer,Boston Red Sox,691785,L,R,MLB_STATS_API
+Marcus Semien,New York Mets,543760,R,R,MLB_STATS_API
+Mark Vientos,New York Mets,668901,R,R,MLB_STATS_API
+Masataka Yoshida,Boston Red Sox,807799,L,R,MLB_STATS_API
+Masyn Winn,St. Louis Cardinals,691026,R,R,MLB_STATS_API
+Matt Chapman,San Francisco Giants,656305,R,R,MLB_STATS_API
+Matt McLain,Cincinnati Reds,680574,R,R,MLB_STATS_API
+Matt Olson,Atlanta Braves,621566,L,R,MLB_STATS_API
+Matt Vierling,Detroit Tigers,663837,R,R,MLB_STATS_API
+Mauricio Dubón,Atlanta Braves,643289,R,R,MLB_STATS_API
+Max Muncy,Los Angeles Dodgers,571970,L,R,MLB_STATS_API
+Michael Busch,Chicago Cubs,683737,L,R,MLB_STATS_API
+Michael Harris II,Atlanta Braves,671739,L,L,MLB_STATS_API
+Mickey Gasper,Boston Red Sox,681508,S,R,MLB_STATS_API
+Mickey Moniak,Colorado Rockies,666160,L,R,MLB_STATS_API
+Miguel Andujar,San Diego Padres,609280,R,R,MLB_STATS_API
+Miguel Vargas,Chicago White Sox,678246,R,R,MLB_STATS_API
+Mike Yastrzemski,Atlanta Braves,573262,L,L,MLB_STATS_API
+Moisés Ballesteros,Chicago Cubs,694208,L,R,MLB_STATS_API
+Mookie Betts,Los Angeles Dodgers,605141,R,R,MLB_STATS_API
+Munetaka Murakami,Chicago White Sox,808959,L,R,MLB_STATS_API
+Nasim Nuñez,Washington Nationals,683083,S,R,MLB_STATS_API
+Nathan Church,St. Louis Cardinals,701675,L,L,MLB_STATS_API
+Nick Fortes,Tampa Bay Rays,663743,R,R,MLB_STATS_API
+Nick Gonzales,Pittsburgh Pirates,693304,R,R,MLB_STATS_API
+Nick Kurtz,Athletics,701762,L,L,MLB_STATS_API
+Nick Loftin,Kansas City Royals,679845,R,R,MLB_STATS_API
+Nick Yorke,Pittsburgh Pirates,694377,R,R,MLB_STATS_API
+Nico Hoerner,Chicago Cubs,663538,R,R,MLB_STATS_API
+Nolan Arenado,Arizona Diamondbacks,571448,R,R,MLB_STATS_API
+Nolan Gorman,St. Louis Cardinals,669357,L,R,MLB_STATS_API
+Oneil Cruz,Pittsburgh Pirates,665833,L,R,MLB_STATS_API
+Otto Lopez,Miami Marlins,672640,R,R,MLB_STATS_API
+Owen Caissie,Miami Marlins,683357,L,R,MLB_STATS_API
+Ozzie Albies,Atlanta Braves,645277,S,R,MLB_STATS_API
+Pedro Pagés,St. Louis Cardinals,686780,R,R,MLB_STATS_API
+Pete Crow-Armstrong,Chicago Cubs,691718,L,L,MLB_STATS_API
+Rafael Devers,San Francisco Giants,646240,L,R,MLB_STATS_API
+Ramón Laureano,San Diego Padres,657656,R,R,MLB_STATS_API
+Randy Arozarena,Seattle Mariners,668227,R,R,MLB_STATS_API
+Riley Greene,Detroit Tigers,682985,L,L,MLB_STATS_API
+Royce Lewis,Minnesota Twins,668904,R,R,MLB_STATS_API
+Ryan Jeffers,Minnesota Twins,680777,R,R,MLB_STATS_API
+Ryan O'Hearn,Pittsburgh Pirates,656811,L,L,MLB_STATS_API
+Ryan Vilade,Tampa Bay Rays,668723,R,R,MLB_STATS_API
+Sal Frelick,Milwaukee Brewers,686217,L,R,MLB_STATS_API
+Sal Stewart,Cincinnati Reds,701398,R,R,MLB_STATS_API
+Salvador Perez,Kansas City Royals,521692,R,R,MLB_STATS_API
+Seiya Suzuki,Chicago Cubs,673548,R,R,MLB_STATS_API
+Shea Langeliers,Athletics,669127,R,R,MLB_STATS_API
+Spencer Steer,Cincinnati Reds,668715,R,R,MLB_STATS_API
+Spencer Torkelson,Detroit Tigers,679529,R,R,MLB_STATS_API
+Sung-Mun Song,San Diego Padres,823550,L,R,MLB_STATS_API
+Taylor Walls,Tampa Bay Rays,670764,S,R,MLB_STATS_API
+Teoscar Hernández,Los Angeles Dodgers,606192,R,R,MLB_STATS_API
+TJ Friedl,Cincinnati Reds,670770,L,L,MLB_STATS_API
+Trea Turner,Philadelphia Phillies,607208,R,R,MLB_STATS_API
+Trevor Larnach,Minnesota Twins,663616,L,R,MLB_STATS_API
+Trevor Story,Boston Red Sox,596115,R,R,MLB_STATS_API
+Troy Johnston,Colorado Rockies,687859,L,L,MLB_STATS_API
+Tyler Freeman,Colorado Rockies,671289,R,R,MLB_STATS_API
+Tyler Heineman,Toronto Blue Jays,623168,S,R,MLB_STATS_API
+Tyler Soderstrom,Athletics,691016,L,R,MLB_STATS_API
+Tyler Stephenson,Cincinnati Reds,663886,R,R,MLB_STATS_API
+Tyrone Taylor,New York Mets,621438,R,R,MLB_STATS_API
+Victor Scott II,St. Louis Cardinals,687363,L,L,MLB_STATS_API
+Vidal Bruján,New York Mets,660644,S,R,MLB_STATS_API
+Vinnie Pasquantino,Kansas City Royals,686469,L,L,MLB_STATS_API
+Vladimir Guerrero Jr.,Toronto Blue Jays,665489,R,R,MLB_STATS_API
+Wenceel Pérez,Detroit Tigers,672761,S,R,MLB_STATS_API
+Will Benson,Cincinnati Reds,666181,L,L,MLB_STATS_API
+Will Smith,Los Angeles Dodgers,669257,R,R,MLB_STATS_API
+Willi Castro,Colorado Rockies,650489,S,R,MLB_STATS_API
+William Contreras,Milwaukee Brewers,661388,R,R,MLB_STATS_API
+Willson Contreras,Boston Red Sox,575929,R,R,MLB_STATS_API
+Willy Adames,San Francisco Giants,642715,R,R,MLB_STATS_API
+Wilyer Abreu,Boston Red Sox,677800,L,L,MLB_STATS_API
+Xander Bogaerts,San Diego Padres,593428,R,R,MLB_STATS_API
+Xavier Edwards,Miami Marlins,669364,S,R,MLB_STATS_API
+Yandy Díaz,Tampa Bay Rays,650490,R,R,MLB_STATS_API
+Yordan Alvarez,Houston Astros,670541,L,R,MLB_STATS_API
+Zach Cole,Houston Astros,805904,L,R,MLB_STATS_API
+Zach McKinstry,Detroit Tigers,656716,L,R,MLB_STATS_API
+Zack Gelof,Athletics,680869,R,R,MLB_STATS_API

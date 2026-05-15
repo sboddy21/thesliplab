@@ -1,0 +1,111 @@
+date,board,status,result,name,team,opponent,pitcher,tier,rank,score,odds,target,actual,hits,total_bases,home_runs,at_bats,units_risked,profit_units
+2026-05-11,HR,GRADED,LOSS,Aaron Judge,New York Yankees,,Brandon Young,SOLID,1,75.59,330,1,0,0,0,0,1,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Luke Raley,Seattle Mariners,,Peter Lambert,SOLID,2,74.31,490,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Yordan Alvarez,Houston Astros,,George Kirby,SOLID,3,69.00,294,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Andy Pages,Los Angeles Dodgers,,Trevor McDonald,SOLID,4,68.41,620,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Zach Cole,Houston Astros,,George Kirby,SOLID,5,68.14,544,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Kazuma Okamoto,Toronto Blue Jays,,Drew Rasmussen,SOLID,6,66.00,430,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Ben Rice,New York Yankees,,Brandon Young,SOLID,7,65.44,440,1,0,1,1,0,1,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Casey Schmitt,San Francisco Giants,,Roki Sasaki,SOLID,8,64.04,520,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Junior Caminero,Tampa Bay Rays,,Kevin Gausman,WATCH,9,59.96,367,1,0,1,1,0,1,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Christian Walker,Houston Astros,,George Kirby,WATCH,10,57.39,550,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Max Muncy,Los Angeles Dodgers,,Trevor McDonald,WATCH,11,56.80,352,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Julio Rodríguez,Seattle Mariners,,Peter Lambert,WATCH,12,55.14,410,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Pete Alonso,Baltimore Orioles,,Ryan Weathers,WATCH,13,54.27,550,1,0,0,0,0,1,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Adley Rutschman,Baltimore Orioles,,Ryan Weathers,WATCH,14,54.06,950,1,0,0,0,0,1,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Rafael Devers,San Francisco Giants,,Roki Sasaki,WATCH,15,53.63,403,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Cody Bellinger,New York Yankees,,Brandon Young,WATCH,16,52.34,700,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Josh Jung,Texas Rangers,,Michael Soroka,WATCH,17,52.18,760,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Mookie Betts,Los Angeles Dodgers,,Trevor McDonald,WATCH,18,52.05,500,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Heliot Ramos,San Francisco Giants,,Roki Sasaki,WATCH,19,52.01,511,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Brandon Valenzuela,Toronto Blue Jays,,Drew Rasmussen,WATCH,20,51.65,1000,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Jesus Rodriguez,San Francisco Giants,,Roki Sasaki,WATCH,21,50.51,1260,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Mike Trout,Los Angeles Angels,,Joey Cantillo,WATCH,22,50.32,1000,1,0,0,0,0,2,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Jorge Soler,Los Angeles Angels,,Joey Cantillo,WATCH,23,50.07,950,1,0,0,0,0,1,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Ezequiel Duran,Texas Rangers,,Michael Soroka,WATCH,24,50.06,880,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Brice Matthews,Houston Astros,,George Kirby,LONGSHOT,25,49.65,690,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Corbin Carroll,Arizona Diamondbacks,,Jakob Junis,LONGSHOT,26,49.56,390,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Jo Adell,Los Angeles Angels,,Joey Cantillo,LONGSHOT,27,49.49,850,1,0,0,0,0,1,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Jesús Sánchez,Toronto Blue Jays,,Drew Rasmussen,LONGSHOT,28,49.05,700,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Nolan Arenado,Arizona Diamondbacks,,Jakob Junis,LONGSHOT,29,48.02,725,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,David Fry,Cleveland Guardians,,Brent Suter,LONGSHOT,30,47.58,850,1,0,1,1,0,1,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Samuel Basallo,Baltimore Orioles,,Ryan Weathers,LONGSHOT,31,47.06,590,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Evan Carter,Texas Rangers,,Michael Soroka,LONGSHOT,32,46.80,730,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Corey Seager,Texas Rangers,,Michael Soroka,LONGSHOT,33,46.73,390,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Josh Naylor,Seattle Mariners,,Peter Lambert,LONGSHOT,34,45.92,566,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Freddie Freeman,Los Angeles Dodgers,,Trevor McDonald,LONGSHOT,35,44.73,490,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Jake Burger,Texas Rangers,,Michael Soroka,LONGSHOT,36,44.58,499,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Chase DeLauter,Cleveland Guardians,,Brent Suter,LONGSHOT,37,44.55,1300,1,0,0,0,0,1,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Brandon Nimmo,Texas Rangers,,Michael Soroka,LONGSHOT,38,44.00,590,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Yandy Díaz,Tampa Bay Rays,,Kevin Gausman,LONGSHOT,39,43.99,710,1,0,0,0,0,1,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Adrian Del Castillo,Arizona Diamondbacks,,Jakob Junis,LONGSHOT,40,43.41,640,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Joc Pederson,Texas Rangers,,Michael Soroka,LONGSHOT,41,42.95,590,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Jonathan Aranda,Tampa Bay Rays,,Kevin Gausman,LONGSHOT,42,42.74,600,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Will Smith,Los Angeles Dodgers,,Trevor McDonald,LONGSHOT,43,42.57,529,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Cam Smith,Houston Astros,,George Kirby,LONGSHOT,44,42.25,920,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Brendan Donovan,Seattle Mariners,,Peter Lambert,LONGSHOT,45,42.16,680,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Willy Adames,San Francisco Giants,,Roki Sasaki,LONGSHOT,46,42.08,526,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Daulton Varsho,Toronto Blue Jays,,Drew Rasmussen,LONGSHOT,47,41.29,550,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,J.P. Crawford,Seattle Mariners,,Peter Lambert,LONGSHOT,48,41.26,920,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Austin Wells,New York Yankees,,Brandon Young,LONGSHOT,49,41.14,600,1,0,0,0,0,1,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Gunnar Henderson,Baltimore Orioles,,Ryan Weathers,LONGSHOT,50,40.58,850,1,0,0,0,0,1,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Ryan McMahon,New York Yankees,,Brandon Young,LONGSHOT,51,40.49,750,1,0,0,0,0,1,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Angel Martínez,Cleveland Guardians,,Brent Suter,LONGSHOT,52,40.20,980,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Kyle Manzardo,Cleveland Guardians,,Brent Suter,LONGSHOT,53,40.04,1000,1,0,1,1,0,1,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Kyle Tucker,Los Angeles Dodgers,,Trevor McDonald,LONGSHOT,54,39.80,520,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Randy Arozarena,Seattle Mariners,,Peter Lambert,LONGSHOT,55,39.75,570,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Jazz Chisholm Jr.,New York Yankees,,Brandon Young,LONGSHOT,56,39.59,700,1,0,0,0,0,1,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Ketel Marte,Arizona Diamondbacks,,Jakob Junis,LONGSHOT,57,39.53,440,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Jeremiah Jackson,Baltimore Orioles,,Ryan Weathers,LONGSHOT,58,39.21,875,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Jake Fraley,Tampa Bay Rays,,Kevin Gausman,LONGSHOT,59,39.13,1000,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Dominic Canzone,Seattle Mariners,,Peter Lambert,LONGSHOT,60,39.00,525,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Drew Gilbert,San Francisco Giants,,Roki Sasaki,LONGSHOT,61,39.00,980,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Matt Chapman,San Francisco Giants,,Roki Sasaki,LONGSHOT,62,39.00,610,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Shohei Ohtani,Los Angeles Dodgers,,Trevor McDonald,LONGSHOT,63,38.82,240,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,José Ramírez,Cleveland Guardians,,Brent Suter,LONGSHOT,64,38.82,1000,1,0,0,0,0,2,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Zach Neto,Los Angeles Angels,,Joey Cantillo,LONGSHOT,65,38.65,1300,1,0,0,0,0,2,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Daniel Schneemann,Cleveland Guardians,,Brent Suter,LONGSHOT,66,37.69,1300,1,0,1,1,0,2,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Cal Raleigh,Seattle Mariners,,Peter Lambert,LONGSHOT,67,37.67,310,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Teoscar Hernández,Los Angeles Dodgers,,Trevor McDonald,LONGSHOT,68,37.66,477,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Isaac Paredes,Houston Astros,,George Kirby,LONGSHOT,69,37.54,720,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Jose Altuve,Houston Astros,,George Kirby,LONGSHOT,70,37.43,830,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,George Springer,Toronto Blue Jays,,Drew Rasmussen,LONGSHOT,71,36.69,500,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Jung Hoo Lee,San Francisco Giants,,Roki Sasaki,LONGSHOT,72,36.61,1200,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Luis Arraez,San Francisco Giants,,Roki Sasaki,LONGSHOT,73,36.31,1400,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Vladimir Guerrero Jr.,Toronto Blue Jays,,Drew Rasmussen,LONGSHOT,74,36.16,500,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Danny Jansen,Texas Rangers,,Michael Soroka,LONGSHOT,75,35.93,820,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Lourdes Gurriel Jr.,Arizona Diamondbacks,,Jakob Junis,LONGSHOT,76,35.30,880,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Ryan Vilade,Tampa Bay Rays,,Kevin Gausman,LONGSHOT,77,35.02,1120,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Ernie Clement,Toronto Blue Jays,,Drew Rasmussen,LONGSHOT,78,34.55,1500,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,José Caballero,New York Yankees,,Brandon Young,LONGSHOT,79,34.52,1200,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Myles Straw,Toronto Blue Jays,,Drew Rasmussen,LONGSHOT,80,33.96,1800,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Cole Young,Seattle Mariners,,Peter Lambert,LONGSHOT,81,33.72,1050,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Geraldo Perdomo,Arizona Diamondbacks,,Jakob Junis,LONGSHOT,82,33.68,820,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Coby Mayo,Baltimore Orioles,,Ryan Weathers,LONGSHOT,83,33.54,550,1,0,0,0,0,1,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Nick Fortes,Tampa Bay Rays,,Kevin Gausman,LONGSHOT,84,33.26,1120,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Hyeseong Kim,Los Angeles Dodgers,,Trevor McDonald,LONGSHOT,85,32.65,1080,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Tyler O'Neill,Baltimore Orioles,,Ryan Weathers,LONGSHOT,86,32.51,600,1,0,0,0,0,1,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Leody Taveras,Baltimore Orioles,,Ryan Weathers,LONGSHOT,87,32.43,1100,1,0,0,0,0,1,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Blaze Alexander,Baltimore Orioles,,Ryan Weathers,LONGSHOT,88,32.33,1100,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Kyle Higashioka,Texas Rangers,,Michael Soroka,LONGSHOT,89,32.15,575,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Brayan Rocchio,Cleveland Guardians,,Brent Suter,LONGSHOT,90,31.41,1600,1,0,1,1,0,1,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Taylor Ward,Baltimore Orioles,,Ryan Weathers,LONGSHOT,91,31.29,950,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Cedric Mullins,Tampa Bay Rays,,Kevin Gausman,LONGSHOT,92,31.11,980,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Gabriel Moreno,Arizona Diamondbacks,,Jakob Junis,LONGSHOT,93,30.32,1150,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Ben Williamson,Tampa Bay Rays,,Kevin Gausman,LONGSHOT,94,29.47,1200,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Andrés Giménez,Toronto Blue Jays,,Drew Rasmussen,LONGSHOT,95,28.80,1200,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Richie Palacios,Tampa Bay Rays,,Kevin Gausman,LONGSHOT,96,28.15,1100,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Spencer Jones,New York Yankees,,Brandon Young,LONGSHOT,97,27.75,850,1,0,0,0,0,1,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Alejandro Osuna,Texas Rangers,,Michael Soroka,LONGSHOT,98,26.73,1060,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Vaughn Grissom,Los Angeles Angels,,Joey Cantillo,LONGSHOT,99,25.07,2500,1,0,0,0,0,2,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Taylor Walls,Tampa Bay Rays,,Kevin Gausman,LONGSHOT,100,24.79,1300,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Nolan Schanuel,Los Angeles Angels,,Joey Cantillo,LONGSHOT,101,23.26,2000,1,0,1,1,0,1,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Hunter Feduccia,Tampa Bay Rays,,Kevin Gausman,LONGSHOT,102,22.60,1500,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Bryce Teodosio,Los Angeles Angels,,Joey Cantillo,LONGSHOT,103,20.40,2000,1,0,0,0,0,1,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Max Schuemann,New York Yankees,,Brandon Young,LONGSHOT,104,19.95,1400,1,0,0,0,0,1,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Chandler Simpson,Tampa Bay Rays,,Kevin Gausman,LONGSHOT,105,19.09,2500,1,0,0,0,0,1,1.00,-1.00
+2026-05-11,HR,GRADED,LOSS,Steven Kwan,Cleveland Guardians,,Brent Suter,LONGSHOT,106,16.76,3000,1,0,0,0,0,2,1.00,-1.00
+2026-05-11,TB,GRADED,WIN,Ben Rice,New York Yankees,,,,1,,,1,1,1,1,0,1,1.00,0.00
+2026-05-11,TB,GRADED,LOSS,Adley Rutschman,Baltimore Orioles,,,,2,,,1,0,0,0,0,1,1.00,-1.00
+2026-05-11,TB,GRADED,LOSS,Cody Bellinger,New York Yankees,,,,3,,,1,0,0,0,0,0,1.00,-1.00
+2026-05-11,TB,GRADED,LOSS,Aaron Judge,New York Yankees,,,,4,,,1,0,0,0,0,1,1.00,-1.00

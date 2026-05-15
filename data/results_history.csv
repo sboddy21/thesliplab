@@ -1,0 +1,13 @@
+date,slip,category,leg,name,team,prop,result,hit,actual,hits,total_bases,home_runs,score,raw_score,form_score,form_tag,form_boost,tier,confidence,lineup,source,odds,unit_size,profit
+2026-05-09,Safest 2 Man,safe,1,Mark Vientos,New York Mets,1+ Hit,LOSS,0,0,0,0,0,107.24,99,99,HEATER,7,ANCHOR,A,4,HITS,,5,-5
+2026-05-09,Safest 2 Man,safe,2,Bryce Harper,Philadelphia Phillies,2+ TB,LOSS,0,0,0,0,0,104.26,99,99,HEATER,8,ANCHOR,A,3,TB,,5,-5
+2026-05-09,Balanced 3 Man,balanced,1,Juan Soto,New York Mets,3+ TB,LOSS,0,0,0,0,0,87.76,98.07,99,HEATER,8,ANCHOR,A,1,TB,,5,-5
+2026-05-09,Balanced 3 Man,balanced,2,TJ Rumfield,Colorado Rockies,1+ Hit,LOSS,0,0,0,0,0,106.74,99,99,HEATER,7,ANCHOR,A,4,HITS,,5,-5
+2026-05-09,Balanced 3 Man,balanced,3,Tyler Soderstrom,Athletics,1+ Hit,LOSS,0,0,0,0,0,105.74,99,99,HEATER,7,ANCHOR,A,3,HITS,,5,-5
+2026-05-09,Upside 4 Man,upside,1,Juan Soto,New York Mets,3+ TB,LOSS,0,0,0,0,0,87.76,98.07,99,HEATER,8,ANCHOR,A,1,TB,,5,-5
+2026-05-09,Upside 4 Man,upside,2,Bryce Harper,Philadelphia Phillies,2+ TB,LOSS,0,0,0,0,0,104.26,99,99,HEATER,8,ANCHOR,A,3,TB,,5,-5
+2026-05-09,Upside 4 Man,upside,3,Shea Langeliers,Athletics,2+ TB,WIN,1,2,2,2,0,103.76,99,99,HEATER,8,ANCHOR,A,2,TB,,5,5
+2026-05-09,Upside 4 Man,upside,4,Mickey Moniak,Colorado Rockies,2+ TB,LOSS,0,0,0,0,0,103.76,99,91,HEATER,7,ANCHOR,A,2,TB,,5,-5
+2026-05-09,Lotto 3 Man,lotto,1,Kazuma Okamoto,Toronto Blue Jays,HR,LOSS,0,0,1,1,0,45.9,165.83,99,HEATER,8,SAFEST,A,4,HR,,5,-5
+2026-05-09,Lotto 3 Man,lotto,2,Munetaka Murakami,Chicago White Sox,4+ TB,LOSS,0,0,0,0,0,67,99,98,HEATER,8,ANCHOR,A,2,TB,,5,-5
+2026-05-09,Lotto 3 Man,lotto,3,Mickey Moniak,Colorado Rockies,4+ TB,LOSS,0,0,0,0,0,67,99,91,HEATER,7,ANCHOR,A,2,TB,,5,-5

@@ -1,0 +1,60 @@
+THE SLIP LAB PHASE 8 SIMULATION REPORT
+
+TOP HR PROBABILITY PLAYS
+
+1. Max Muncy | Los Angeles Dodgers | Robbie Ray | HR: 15.77% | Fair: 534 | Odds: 320 | EV: -33.76% | PASS_OVERPRICED
+2. Munetaka Murakami | Chicago White Sox | Seth Lugo | HR: 15.69% | Fair: 537 | Odds: 293 | EV: -38.33% | PASS_OVERPRICED
+3. Kazuma Okamoto | Toronto Blue Jays | Griffin Jax | HR: 14.53% | Fair: 588 | Odds: 398 | EV: -27.66% | WATCHLIST
+4. Ian Happ | Chicago Cubs | JR Ritchie | HR: 14.46% | Fair: 591 | Odds: 430 | EV: -23.34% | WATCHLIST
+5. Corey Seager | Texas Rangers | Ryne Nelson | HR: 14.25% | Fair: 602 | Odds: 441 | EV: -22.91% | WATCHLIST
+6. Colson Montgomery | Chicago White Sox | Seth Lugo | HR: 13.03% | Fair: 667 | Odds: 350 | EV: -41.35% | PASS_OVERPRICED
+7. Bobby Witt Jr. | Kansas City Royals | Noah Schultz | HR: 12.86% | Fair: 677 | Odds: 475 | EV: -26.04% | WATCHLIST
+8. Corbin Carroll | Arizona Diamondbacks | Kumar Rocker | HR: 12.52% | Fair: 699 | Odds: 451 | EV: -31.03% | PASS_OVERPRICED
+9. Moisés Ballesteros | Chicago Cubs | JR Ritchie | HR: 12.08% | Fair: 728 | Odds: 610 | EV: -14.24% | WATCHLIST
+10. Ketel Marte | Arizona Diamondbacks | Kumar Rocker | HR: 12.04% | Fair: 730 | Odds: 426 | EV: -36.65% | PASS_OVERPRICED
+11. Seiya Suzuki | Chicago Cubs | JR Ritchie | HR: 12.02% | Fair: 732 | Odds: 425 | EV: -36.88% | PASS_OVERPRICED
+12. Jake Burger | Texas Rangers | Ryne Nelson | HR: 11.85% | Fair: 744 | Odds: 470 | EV: -32.43% | PASS_OVERPRICED
+13. Michael Busch | Chicago Cubs | JR Ritchie | HR: 11.51% | Fair: 769 | Odds: 450 | EV: -36.70% | PASS_OVERPRICED
+14. Will Smith | Los Angeles Dodgers | Robbie Ray | HR: 11.47% | Fair: 772 | Odds: 420 | EV: -40.36% | PASS_OVERPRICED
+15. Brandon Nimmo | Texas Rangers | Ryne Nelson | HR: 11.44% | Fair: 774 | Odds: 573 | EV: -23.02% | PASS
+16. Matt Olson | Atlanta Braves | Shota Imanaga | HR: 10.97% | Fair: 812 | Odds: 400 | EV: -45.17% | PASS_OVERPRICED
+17. Andy Pages | Los Angeles Dodgers | Robbie Ray | HR: 10.92% | Fair: 816 | Odds: 490 | EV: -35.56% | PASS_OVERPRICED
+18. Salvador Perez | Kansas City Royals | Noah Schultz | HR: 10.82% | Fair: 825 | Odds: 430 | EV: -42.68% | PASS_OVERPRICED
+19. Pete Crow-Armstrong | Chicago Cubs | JR Ritchie | HR: 10.74% | Fair: 831 | Odds: 550 | EV: -30.20% | PASS_OVERPRICED
+20. Joc Pederson | Texas Rangers | Ryne Nelson | HR: 10.71% | Fair: 834 | Odds: 590 | EV: -26.09% | PASS
+
+TOP VALUE OR FAIR PRICE PLAYS
+
+1. Moisés Ballesteros | Chicago Cubs | JR Ritchie | EV: -14.24% | HR: 12.08% | Fair: 728 | Odds: 610 | WATCHLIST
+2. Corey Seager | Texas Rangers | Ryne Nelson | EV: -22.91% | HR: 14.25% | Fair: 602 | Odds: 441 | WATCHLIST
+3. Ian Happ | Chicago Cubs | JR Ritchie | EV: -23.34% | HR: 14.46% | Fair: 591 | Odds: 430 | WATCHLIST
+4. Bobby Witt Jr. | Kansas City Royals | Noah Schultz | EV: -26.04% | HR: 12.86% | Fair: 677 | Odds: 475 | WATCHLIST
+5. Kazuma Okamoto | Toronto Blue Jays | Griffin Jax | EV: -27.66% | HR: 14.53% | Fair: 588 | Odds: 398 | WATCHLIST
+
+TOP SIMULATED SAME GAME HR STACKS
+
+1. Bobby Witt Jr. + Munetaka Murakami | Kansas City Royals @ Chicago White Sox | Score: 75.70 | All HR: 2.4058% | Any HR: 26.53% | SIM_STRONG_2MAN | 2MAN_ANY_HR_ENVIRONMENT
+2. Munetaka Murakami + Colson Montgomery | Kansas City Royals @ Chicago White Sox | Score: 75.50 | All HR: 2.4230% | Any HR: 26.68% | SIM_STRONG_2MAN | 2MAN_ANY_HR_ENVIRONMENT
+3. Ian Happ + Moisés Ballesteros | Chicago Cubs @ Atlanta Braves | Score: 75.97 | All HR: 2.1128% | Any HR: 24.79% | SIM_PLAYABLE_2MAN | LOW_CORRELATION_STACK
+4. Ian Happ + Seiya Suzuki | Chicago Cubs @ Atlanta Braves | Score: 75.21 | All HR: 2.1000% | Any HR: 24.74% | SIM_PLAYABLE_2MAN | LOW_CORRELATION_STACK
+5. Ian Happ + Michael Busch | Chicago Cubs @ Atlanta Braves | Score: 74.50 | All HR: 2.0097% | Any HR: 24.31% | SIM_PLAYABLE_2MAN | LOW_CORRELATION_STACK
+6. Corey Seager + Jake Burger | Arizona Diamondbacks @ Texas Rangers | Score: 74.07 | All HR: 2.0335% | Any HR: 24.41% | SIM_PLAYABLE_2MAN | LOW_CORRELATION_STACK
+7. Corey Seager + Brandon Nimmo | Arizona Diamondbacks @ Texas Rangers | Score: 74.01 | All HR: 1.9644% | Any HR: 24.06% | SIM_PLAYABLE_2MAN | LOW_CORRELATION_STACK
+8. Corey Seager + Corbin Carroll | Arizona Diamondbacks @ Texas Rangers | Score: 73.47 | All HR: 2.1489% | Any HR: 24.99% | SIM_PLAYABLE_2MAN | LOW_CORRELATION_STACK
+9. Corey Seager + Ketel Marte | Arizona Diamondbacks @ Texas Rangers | Score: 72.76 | All HR: 2.0658% | Any HR: 24.57% | SIM_PLAYABLE_2MAN | LOW_CORRELATION_STACK
+10. Ian Happ + Pete Crow-Armstrong | Chicago Cubs @ Atlanta Braves | Score: 71.91 | All HR: 1.8759% | Any HR: 23.65% | SIM_PLAYABLE_2MAN | LOW_CORRELATION_STACK
+11. Ian Happ + Dansby Swanson | Chicago Cubs @ Atlanta Braves | Score: 71.73 | All HR: 1.8083% | Any HR: 23.31% | SIM_PLAYABLE_2MAN | LOW_CORRELATION_STACK
+12. Max Muncy + Will Smith | San Francisco Giants @ Los Angeles Dodgers | Score: 71.57 | All HR: 2.1487% | Any HR: 25.43% | SIM_PLAYABLE_2MAN | 2MAN_ANY_HR_ENVIRONMENT
+13. Max Muncy + Andy Pages | San Francisco Giants @ Los Angeles Dodgers | Score: 71.11 | All HR: 2.0460% | Any HR: 24.97% | SIM_PLAYABLE_2MAN | LOW_CORRELATION_STACK
+14. Corey Seager + Joc Pederson | Arizona Diamondbacks @ Texas Rangers | Score: 71.00 | All HR: 1.8378% | Any HR: 23.43% | SIM_PLAYABLE_2MAN | LOW_CORRELATION_STACK
+15. Moisés Ballesteros + Seiya Suzuki | Chicago Cubs @ Atlanta Braves | Score: 70.81 | All HR: 1.7532% | Any HR: 22.65% | SIM_PLAYABLE_2MAN | LOW_CORRELATION_STACK
+16. Max Muncy + Teoscar Hernández | San Francisco Giants @ Los Angeles Dodgers | Score: 70.46 | All HR: 1.9990% | Any HR: 24.77% | SIM_PLAYABLE_2MAN | LOW_CORRELATION_STACK
+17. Max Muncy + Freddie Freeman | San Francisco Giants @ Los Angeles Dodgers | Score: 70.40 | All HR: 1.9170% | Any HR: 24.39% | SIM_PLAYABLE_2MAN | LOW_CORRELATION_STACK
+18. Moisés Ballesteros + Michael Busch | Chicago Cubs @ Atlanta Braves | Score: 70.12 | All HR: 1.6778% | Any HR: 22.20% | SIM_PLAYABLE_2MAN | LOW_CORRELATION_STACK
+19. Ian Happ + Carson Kelly | Chicago Cubs @ Atlanta Braves | Score: 70.04 | All HR: 1.6034% | Any HR: 22.32% | SIM_PLAYABLE_2MAN | LOW_CORRELATION_STACK
+20. Corey Seager + Josh Jung | Arizona Diamondbacks @ Texas Rangers | Score: 70.00 | All HR: 1.7154% | Any HR: 22.82% | SIM_PLAYABLE_2MAN | LOW_CORRELATION_STACK
+21. Ian Happ + Alex Bregman | Chicago Cubs @ Atlanta Braves | Score: 69.94 | All HR: 1.6189% | Any HR: 22.40% | SIM_PLAYABLE_2MAN | LOW_CORRELATION_STACK
+22. Corbin Carroll + Ketel Marte | Arizona Diamondbacks @ Texas Rangers | Score: 69.86 | All HR: 1.8120% | Any HR: 23.05% | SIM_PLAYABLE_2MAN | LOW_CORRELATION_STACK
+23. Salvador Perez + Munetaka Murakami | Kansas City Royals @ Chicago White Sox | Score: 69.60 | All HR: 2.0195% | Any HR: 24.81% | SIM_PLAYABLE_2MAN | LOW_CORRELATION_STACK
+24. Bobby Witt Jr. + Colson Montgomery | Kansas City Royals @ Chicago White Sox | Score: 69.55 | All HR: 1.9951% | Any HR: 24.21% | SIM_PLAYABLE_2MAN | LOW_CORRELATION_STACK
+25. Seiya Suzuki + Michael Busch | Chicago Cubs @ Atlanta Braves | Score: 69.37 | All HR: 1.6677% | Any HR: 22.15% | SIM_PLAYABLE_2MAN | LOW_CORRELATION_STACK

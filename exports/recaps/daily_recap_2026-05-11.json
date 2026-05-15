@@ -1,0 +1,227 @@
+{
+  "date": "2026-05-11",
+  "results": {
+    "total_plays": 110,
+    "wins": 1,
+    "losses": 109,
+    "hit_rate": 0.00909090909090909,
+    "risked": 110,
+    "profit": -109,
+    "roi": -0.990909090909091,
+    "by_board": [
+      {
+        "board": "TB",
+        "plays": 4,
+        "wins": 1,
+        "losses": 3,
+        "hit_rate": 0.25,
+        "risked": 4,
+        "profit": -3,
+        "roi": -0.75
+      },
+      {
+        "board": "HR",
+        "plays": 106,
+        "wins": 0,
+        "losses": 106,
+        "hit_rate": 0,
+        "risked": 106,
+        "profit": -106,
+        "roi": -1
+      }
+    ],
+    "by_tier": [
+      {
+        "board": "TB",
+        "tier": "NO TIER",
+        "plays": 4,
+        "wins": 1,
+        "losses": 3,
+        "hit_rate": 0.25,
+        "risked": 4,
+        "profit": -3,
+        "roi": -0.75
+      },
+      {
+        "board": "HR",
+        "tier": "SOLID",
+        "plays": 8,
+        "wins": 0,
+        "losses": 8,
+        "hit_rate": 0,
+        "risked": 8,
+        "profit": -8,
+        "roi": -1
+      },
+      {
+        "board": "HR",
+        "tier": "WATCH",
+        "plays": 16,
+        "wins": 0,
+        "losses": 16,
+        "hit_rate": 0,
+        "risked": 16,
+        "profit": -16,
+        "roi": -1
+      },
+      {
+        "board": "HR",
+        "tier": "LONGSHOT",
+        "plays": 82,
+        "wins": 0,
+        "losses": 82,
+        "hit_rate": 0,
+        "risked": 82,
+        "profit": -82,
+        "roi": -1
+      }
+    ],
+    "top_wins": [
+      {
+        "board": "TB",
+        "name": "Ben Rice",
+        "team": "New York Yankees",
+        "tier": "",
+        "odds": 0,
+        "profit": 0,
+        "actual": "1",
+        "target": "1"
+      }
+    ],
+    "worst_losses": [
+      {
+        "board": "HR",
+        "name": "Aaron Judge",
+        "team": "New York Yankees",
+        "tier": "SOLID",
+        "odds": 330,
+        "score": 75.59,
+        "actual": "0",
+        "target": "1"
+      },
+      {
+        "board": "HR",
+        "name": "Luke Raley",
+        "team": "Seattle Mariners",
+        "tier": "SOLID",
+        "odds": 490,
+        "score": 74.31,
+        "actual": "0",
+        "target": "1"
+      },
+      {
+        "board": "HR",
+        "name": "Yordan Alvarez",
+        "team": "Houston Astros",
+        "tier": "SOLID",
+        "odds": 294,
+        "score": 69,
+        "actual": "0",
+        "target": "1"
+      },
+      {
+        "board": "HR",
+        "name": "Andy Pages",
+        "team": "Los Angeles Dodgers",
+        "tier": "SOLID",
+        "odds": 620,
+        "score": 68.41,
+        "actual": "0",
+        "target": "1"
+      },
+      {
+        "board": "HR",
+        "name": "Zach Cole",
+        "team": "Houston Astros",
+        "tier": "SOLID",
+        "odds": 544,
+        "score": 68.14,
+        "actual": "0",
+        "target": "1"
+      }
+    ]
+  },
+  "clv": {
+    "total_with_closing_lines": 106,
+    "positive": 0,
+    "negative": 41,
+    "flat": 65,
+    "positive_rate": 0,
+    "avg_clv": -3.38811320754717,
+    "by_board": [
+      {
+        "board": "HR",
+        "plays": 106,
+        "positive": 0,
+        "positive_rate": 0,
+        "avg_clv": -3.38811320754717
+      }
+    ],
+    "top_clv": [
+      {
+        "board": "HR",
+        "name": "Aaron Judge",
+        "team": "New York Yankees",
+        "opening_odds": 330,
+        "closing_odds": 330,
+        "clv_pct": 0
+      },
+      {
+        "board": "HR",
+        "name": "Luke Raley",
+        "team": "Seattle Mariners",
+        "opening_odds": 490,
+        "closing_odds": 490,
+        "clv_pct": 0
+      },
+      {
+        "board": "HR",
+        "name": "Yordan Alvarez",
+        "team": "Houston Astros",
+        "opening_odds": 294,
+        "closing_odds": 294,
+        "clv_pct": 0
+      },
+      {
+        "board": "HR",
+        "name": "Andy Pages",
+        "team": "Los Angeles Dodgers",
+        "opening_odds": 620,
+        "closing_odds": 620,
+        "clv_pct": 0
+      },
+      {
+        "board": "HR",
+        "name": "Kazuma Okamoto",
+        "team": "Toronto Blue Jays",
+        "opening_odds": 430,
+        "closing_odds": 430,
+        "clv_pct": 0
+      },
+      {
+        "board": "HR",
+        "name": "Ben Rice",
+        "team": "New York Yankees",
+        "opening_odds": 440,
+        "closing_odds": 440,
+        "clv_pct": 0
+      },
+      {
+        "board": "HR",
+        "name": "Christian Walker",
+        "team": "Houston Astros",
+        "opening_odds": 550,
+        "closing_odds": 550,
+        "clv_pct": 0
+      },
+      {
+        "board": "HR",
+        "name": "Max Muncy",
+        "team": "Los Angeles Dodgers",
+        "opening_odds": 352,
+        "closing_odds": 352,
+        "clv_pct": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+.env
+*.env
+
+.DS_Store
+node_modules/
+npm-debug.log*
+
+history/
+daily/
+output/
+
+data/player_stats_backup*
+data/*backup*
+data/snapshots/
+
+*.log

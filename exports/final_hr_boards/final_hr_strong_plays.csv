@@ -1,0 +1,9 @@
+rank,name,team,opponent,pitcher,odds,book,final_hr_score,decision_tier,confidence,agreement_count,signal_flags,master_score,matchup_score,split_score,per_pitch_score,primary_pitch_match,primary_pitch_usage_pct,note
+1,James Wood,Washington Nationals,Cincinnati Reds,Nick Lodolo,362,DraftKings,89,SLIP LAB ELITE,HIGH,4,MASTER|MATCHUP|SPLITS|PITCH|CONTACT,88.4,74.1,83.2,83,Sinker,24.4,Multi-layer agreement
+2,Shea Langeliers,Athletics,St. Louis Cardinals,Matthew Liberatore,240,BetMGM,80.7,STRONG PLAY,HIGH,3,MASTER|SPLITS|PITCH,84.4,69.4,76.8,81.4,4-Seam Fastball,32.4,Strong layered support
+3,Luke Raley,Seattle Mariners,Houston Astros,Lance McCullers Jr.,474,DraftKings,80.6,STRONG PLAY,HIGH,4,MASTER|MATCHUP|SPLITS|CONTACT,85.2,72.3,79.9,73.6,Cutter,21.8,Multi-layer agreement
+4,Willson Contreras,Boston Red Sox,Philadelphia Phillies,Andrew Painter,490,FanDuel,80.2,STRONG PLAY,HIGH,4,MASTER|SPLITS|CONTACT,83.4,70.4,79.2,76.8,Slider,17,Strong layered support
+5,Nick Kurtz,Athletics,St. Louis Cardinals,Matthew Liberatore,333,BetMGM,79.8,STRONG PLAY,HIGH,3,MASTER|PITCH|CONTACT,82.8,69.9,74.8,80.7,4-Seam Fastball,32.4,Strong layered support
+6,JJ Bleday,Cincinnati Reds,Washington Nationals,Jake Irvin,390,FanDuel,78.9,STRONG PLAY,MEDIUM,3,MASTER|SPLITS|PITCH|CONTACT,82.1,65.9,75.3,80.7,4-Seam Fastball,23.4,Multi-layer agreement
+7,Kazuma Okamoto,Toronto Blue Jays,Tampa Bay Rays,Griffin Jax,398,DraftKings,76.1,STRONG PLAY,MEDIUM,3,PITCH,79.8,67.9,73.8,78.7,4-Seam Fastball,30.4,Thin profile
+8,Oneil Cruz,Pittsburgh Pirates,Colorado Rockies,Jose Quintana,400,BetMGM,76.1,STRONG PLAY,MEDIUM,3,PITCH|CONTACT,78.7,68.2,74.4,79.2,4-Seam Fastball,28.2,Playable with selectivity

@@ -1,0 +1,31 @@
+date,season,team_id,team,abbreviation,bullpen_games_last_3,bullpen_pitchers_used,bullpen_total_pitches,bullpen_total_outs,bullpen_innings,relievers_20_plus_pitches,relievers_25_plus_pitches,relievers_30_plus_pitches,relievers_back_to_back,relievers_used_multiple_times,high_usage_relievers,fatigue_score,fatigue_grade
+2026-05-13,2026,137,San Francisco Giants,SF,3,13,208,40,13.3,4,2,2,2,5,Keaton Winn 21 pitches 2 app | Caleb Kilian 36 pitches 2 app | Sam Hentges 41 pitches 2 app | Joel Peguero 38 pitches 2 app | Matt Gage 27 pitches 2 app,95.00,EXHAUSTED
+2026-05-13,2026,139,Tampa Bay Rays,TB,3,11,195,34,11.3,4,2,1,2,4,Garrett Cleavinger 37 pitches 2 app | Kevin Kelly 38 pitches 2 app | Bryan Baker 26 pitches 2 app | Ian Seymour 34 pitches 2 app,95.00,EXHAUSTED
+2026-05-13,2026,141,Toronto Blue Jays,TOR,3,11,278,48,16.0,5,4,2,1,2,Tommy Nance 40 pitches 2 app | Eric Lauer 80 pitches 1 app | Braydon Fisher 43 pitches 2 app,95.00,EXHAUSTED
+2026-05-13,2026,110,Baltimore Orioles,BAL,3,10,250,50,16.7,5,2,2,2,2,Rico Garcia 26 pitches 2 app | Chris Bassitt 94 pitches 1 app | Anthony Nunez 34 pitches 2 app,95.00,EXHAUSTED
+2026-05-13,2026,117,Houston Astros,HOU,3,8,212,36,12.0,4,3,3,0,2,AJ Blubaugh 67 pitches 2 app | Cody Bolton 50 pitches 1 app | Jayden Murray 60 pitches 2 app,89.72,EXHAUSTED
+2026-05-13,2026,114,Cleveland Guardians,CLE,3,10,214,33,11.0,5,3,1,0,2,Franco Aleman 52 pitches 2 app | Tim Herrin 26 pitches 2 app,87.04,EXHAUSTED
+2026-05-13,2026,116,Detroit Tigers,DET,2,10,215,38,12.7,4,3,2,0,1,Drew Anderson 39 pitches 1 app | Enmanuel De Jesus 36 pitches 2 app | Ricky Vanasco 38 pitches 1 app,85.53,EXHAUSTED
+2026-05-13,2026,108,Los Angeles Angels,LAA,3,8,210,32,10.7,5,2,1,1,1,Alek Manoah 91 pitches 1 app | José Fermin 34 pitches 2 app,80.73,EXHAUSTED
+2026-05-13,2026,135,San Diego Padres,SD,2,7,173,33,11.0,4,4,3,0,0,Matt Waldron 59 pitches 1 app,72.98,TIRED
+2026-05-13,2026,119,Los Angeles Dodgers,LAD,3,9,148,21,7.0,2,1,1,3,3,Wyatt Mills 48 pitches 2 app | Jack Dreyer 33 pitches 2 app | Blake Treinen 22 pitches 2 app,69.98,TIRED
+2026-05-13,2026,111,Boston Red Sox,BOS,2,8,177,36,12.0,1,1,1,0,2,Zack Kelly 27 pitches 2 app | Tyler Samaniego 21 pitches 2 app | Brayan Bello 88 pitches 1 app,62.12,WATCH
+2026-05-13,2026,113,Cincinnati Reds,CIN,2,8,149,25,8.3,3,3,2,0,1,Sam Moll 30 pitches 2 app,60.31,WATCH
+2026-05-13,2026,147,New York Yankees,NYY,3,11,134,28,9.3,1,0,0,0,4,Tim Hill 15 pitches 2 app | Fernando Cruz 31 pitches 2 app | Jake Bird 19 pitches 2 app | David Bednar 22 pitches 2 app,58.91,WATCH
+2026-05-13,2026,120,Washington Nationals,WSH,2,7,142,24,8.0,4,3,2,0,1,Paxton Schultz 42 pitches 2 app | Brad Lord 36 pitches 1 app,58.52,WATCH
+2026-05-13,2026,138,St. Louis Cardinals,STL,2,9,141,25,8.3,2,1,1,0,4,JoJo Romero 35 pitches 2 app | Riley O'Brien 44 pitches 2 app | George Soriano 28 pitches 2 app | Ryne Stanek 27 pitches 2 app,58.03,WATCH
+2026-05-13,2026,121,New York Mets,NYM,2,5,168,30,10.0,3,2,2,0,0,David Peterson 77 pitches 1 app | Austin Warren 41 pitches 1 app,55.68,WATCH
+2026-05-13,2026,136,Seattle Mariners,SEA,3,8,137,27,9.0,2,1,0,1,1,Eduard Bazardo 32 pitches 2 app,53.72,WATCH
+2026-05-13,2026,118,Kansas City Royals,KC,2,8,149,25,8.3,4,1,0,0,1,Daniel Lynch IV 37 pitches 2 app,50.31,WATCH
+2026-05-13,2026,140,Texas Rangers,TEX,3,7,130,28,9.3,3,1,0,0,1,Jacob Latz 32 pitches 2 app,49.27,NORMAL
+2026-05-13,2026,144,Atlanta Braves,ATL,2,6,116,25,8.3,2,2,2,0,1,Raisel Iglesias 19 pitches 2 app | Didier Fuentes 36 pitches 1 app,46.53,NORMAL
+2026-05-13,2026,142,Minnesota Twins,MIN,1,5,152,24,8.0,3,2,2,0,0,Kendry Rojas 60 pitches 1 app | Travis Adams 43 pitches 1 app,45.12,NORMAL
+2026-05-13,2026,134,Pittsburgh Pirates,PIT,2,7,143,22,7.3,2,1,1,0,1,Gregory Soto 39 pitches 2 app,44.85,NORMAL
+2026-05-13,2026,145,Chicago White Sox,CWS,2,7,113,21,7.0,3,1,0,0,2,Seranthony Domínguez 33 pitches 2 app | Bryan Hudson 16 pitches 2 app,40.38,NORMAL
+2026-05-13,2026,158,Milwaukee Brewers,MIL,2,8,122,23,7.7,1,0,0,0,2,Abner Uribe 32 pitches 2 app | Trevor Megill 31 pitches 2 app,38.65,NORMAL
+2026-05-13,2026,115,Colorado Rockies,COL,2,6,112,18,6.0,4,2,0,0,1,Seth Halvorsen 34 pitches 2 app,38.22,NORMAL
+2026-05-13,2026,109,Arizona Diamondbacks,AZ,3,6,95,20,6.7,1,1,1,0,0,Brandon Pfaadt 39 pitches 1 app,33.33,FRESH
+2026-05-13,2026,146,Miami Marlins,MIA,2,5,89,15,5.0,2,2,1,0,1,Josh Ekness 34 pitches 2 app,30.04,FRESH
+2026-05-13,2026,133,Athletics,ATH,2,6,110,20,6.7,3,0,0,0,0,,29.73,FRESH
+2026-05-13,2026,112,Chicago Cubs,CHC,2,6,94,19,6.3,1,1,0,0,0,,25.01,FRESH
+2026-05-13,2026,143,Philadelphia Phillies,PHI,2,4,51,11,3.7,1,0,0,0,1,Jhoan Duran 36 pitches 2 app,12.00,FRESH

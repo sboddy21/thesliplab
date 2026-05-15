@@ -1,0 +1,33 @@
+HR VALUE BOMBS
+
+The Slip Lab HR Decision Engine
+
+3. Luke Raley (Seattle Mariners) vs Lance McCullers Jr. | 474 | Score 80.6 | STRONG PLAY
+Signals: MASTER|MATCHUP|SPLITS|CONTACT
+Pitch edge: Cutter 21.8%
+
+4. Willson Contreras (Boston Red Sox) vs Andrew Painter | 490 | Score 80.2 | STRONG PLAY
+Signals: MASTER|SPLITS|CONTACT
+Pitch edge: Slider 17%
+
+11. Wilyer Abreu (Boston Red Sox) vs Andrew Painter | 490 | Score 75.6 | VALUE BOMB
+Signals: SPLITS|PITCH
+Pitch edge: 4-Seam Fastball 39.2%
+
+16. Juan Soto (New York Mets) vs Framber Valdez | 470 | Score 74.3 | VALUE BOMB
+Signals: PITCH|CONTACT
+Pitch edge: Sinker 39.9%
+
+17. CJ Abrams (Washington Nationals) vs Nick Lodolo | 543 | Score 73.8 | VALUE BOMB
+Signals: MASTER
+Pitch edge: Sinker 24.4%
+
+20. Dominic Canzone (Seattle Mariners) vs Lance McCullers Jr. | 529 | Score 72.2 | VALUE BOMB
+Signals: MASTER
+Pitch edge: Sinker 20.3%
+
+22. Tyler Soderstrom (Athletics) vs Matthew Liberatore | 475 | Score 70.9 | VALUE BOMB
+Pitch edge: 4-Seam Fastball 32.4%
+
+23. Bobby Witt Jr. (Kansas City Royals) vs Noah Schultz | 475 | Score 70.8 | VALUE BOMB
+Pitch edge: 4-Seam Fastball 25.1%

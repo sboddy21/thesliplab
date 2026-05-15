@@ -1,0 +1,129 @@
+THE SLIP LAB DAILY SLATE REPORT
+
+TOP HR PROBABILITY PLAYS
+
+1. Max Muncy | Los Angeles Dodgers
+HR Probability: 15.77%
+Odds: 320
+Pitcher: Robbie Ray
+Tier: PASS_OVERPRICED
+
+2. Munetaka Murakami | Chicago White Sox
+HR Probability: 15.69%
+Odds: 293
+Pitcher: Seth Lugo
+Tier: PASS_OVERPRICED
+
+3. Kazuma Okamoto | Toronto Blue Jays
+HR Probability: 14.53%
+Odds: 398
+Pitcher: Griffin Jax
+Tier: WATCHLIST
+
+4. Ian Happ | Chicago Cubs
+HR Probability: 14.46%
+Odds: 430
+Pitcher: JR Ritchie
+Tier: WATCHLIST
+
+5. Corey Seager | Texas Rangers
+HR Probability: 14.25%
+Odds: 441
+Pitcher: Ryne Nelson
+Tier: WATCHLIST
+
+6. Colson Montgomery | Chicago White Sox
+HR Probability: 13.03%
+Odds: 350
+Pitcher: Seth Lugo
+Tier: PASS_OVERPRICED
+
+7. Bobby Witt Jr. | Kansas City Royals
+HR Probability: 12.86%
+Odds: 475
+Pitcher: Noah Schultz
+Tier: WATCHLIST
+
+8. Corbin Carroll | Arizona Diamondbacks
+HR Probability: 12.52%
+Odds: 451
+Pitcher: Kumar Rocker
+Tier: PASS_OVERPRICED
+
+9. Moisés Ballesteros | Chicago Cubs
+HR Probability: 12.08%
+Odds: 610
+Pitcher: JR Ritchie
+Tier: WATCHLIST
+
+10. Ketel Marte | Arizona Diamondbacks
+HR Probability: 12.04%
+Odds: 426
+Pitcher: Kumar Rocker
+Tier: PASS_OVERPRICED
+
+
+BEST VALUE HR PLAYS
+
+
+TOP HR STACK ENVIRONMENTS
+
+1. Ian Happ + Moisés Ballesteros
+Game: Chicago Cubs @ Atlanta Braves
+Any HR: 24.79%
+All HR: 2.1128%
+Grade: SIM_PLAYABLE_2MAN
+
+2. Bobby Witt Jr. + Munetaka Murakami + Colson Montgomery
+Game: Kansas City Royals @ Chicago White Sox
+Any HR: 36.11%
+All HR: 0.3127%
+Grade: SIM_PLAYABLE_3MAN
+
+3. Bobby Witt Jr. + Munetaka Murakami
+Game: Kansas City Royals @ Chicago White Sox
+Any HR: 26.53%
+All HR: 2.4058%
+Grade: SIM_STRONG_2MAN
+
+4. Ian Happ + Moisés Ballesteros + Seiya Suzuki + Michael Busch
+Game: Chicago Cubs @ Atlanta Braves
+Any HR: 41.45%
+All HR: 0.0292%
+Grade: SIM_LEAN_4MAN_LOTTO
+
+5. Munetaka Murakami + Colson Montgomery
+Game: Kansas City Royals @ Chicago White Sox
+Any HR: 26.68%
+All HR: 2.4230%
+Grade: SIM_STRONG_2MAN
+
+6. Ian Happ + Moisés Ballesteros + Seiya Suzuki + Pete Crow-Armstrong
+Game: Chicago Cubs @ Atlanta Braves
+Any HR: 40.94%
+All HR: 0.0272%
+Grade: SIM_LEAN_4MAN_LOTTO
+
+7. Ian Happ + Moisés Ballesteros + Seiya Suzuki + Dansby Swanson
+Game: Chicago Cubs @ Atlanta Braves
+Any HR: 40.68%
+All HR: 0.0262%
+Grade: SIM_LEAN_4MAN_LOTTO
+
+8. Ian Happ + Seiya Suzuki
+Game: Chicago Cubs @ Atlanta Braves
+Any HR: 24.74%
+All HR: 2.1000%
+Grade: SIM_PLAYABLE_2MAN
+
+9. Ian Happ + Moisés Ballesteros + Pete Crow-Armstrong + Michael Busch
+Game: Chicago Cubs @ Atlanta Braves
+Any HR: 40.60%
+All HR: 0.0261%
+Grade: SIM_LEAN_4MAN_LOTTO
+
+10. Ian Happ + Moisés Ballesteros + Dansby Swanson + Michael Busch
+Game: Chicago Cubs @ Atlanta Braves
+Any HR: 40.34%
+All HR: 0.0251%
+Grade: SIM_LEAN_4MAN_LOTTO

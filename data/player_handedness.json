@@ -1,0 +1,1818 @@
+[
+  {
+    "name": "Adolis García",
+    "team": "Philadelphia Phillies",
+    "mlbam": 666969,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Adrian Del Castillo",
+    "team": "Arizona Diamondbacks",
+    "mlbam": 680728,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Alec Bohm",
+    "team": "Philadelphia Phillies",
+    "mlbam": 664761,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Alec Burleson",
+    "team": "St. Louis Cardinals",
+    "mlbam": 676475,
+    "batter_hand": "L",
+    "throws_hand": "L",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Alejandro Osuna",
+    "team": "Texas Rangers",
+    "mlbam": 696030,
+    "batter_hand": "L",
+    "throws_hand": "L",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Alex Bregman",
+    "team": "Chicago Cubs",
+    "mlbam": 608324,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Andrés Giménez",
+    "team": "Toronto Blue Jays",
+    "mlbam": 665926,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Andrew Benintendi",
+    "team": "Chicago White Sox",
+    "mlbam": 643217,
+    "batter_hand": "L",
+    "throws_hand": "L",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Andrew Vaughn",
+    "team": "Milwaukee Brewers",
+    "mlbam": 683734,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Andy Pages",
+    "team": "Los Angeles Dodgers",
+    "mlbam": 681624,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Austin Martin",
+    "team": "Minnesota Twins",
+    "mlbam": 668885,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Austin Riley",
+    "team": "Atlanta Braves",
+    "mlbam": 663586,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Ben Williamson",
+    "team": "Tampa Bay Rays",
+    "mlbam": 810938,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Billy Cook",
+    "team": "Pittsburgh Pirates",
+    "mlbam": 695257,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Bo Bichette",
+    "team": "New York Mets",
+    "mlbam": 666182,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Bobby Witt Jr.",
+    "team": "Kansas City Royals",
+    "mlbam": 677951,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Brady House",
+    "team": "Washington Nationals",
+    "mlbam": 691781,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Brandon Lowe",
+    "team": "Pittsburgh Pirates",
+    "mlbam": 664040,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Brandon Marsh",
+    "team": "Philadelphia Phillies",
+    "mlbam": 669016,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Brandon Nimmo",
+    "team": "Texas Rangers",
+    "mlbam": 607043,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Brendan Donovan",
+    "team": "Seattle Mariners",
+    "mlbam": 680977,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Brent Rooker",
+    "team": "Athletics",
+    "mlbam": 667670,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Brett Baty",
+    "team": "New York Mets",
+    "mlbam": 683146,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Brice Matthews",
+    "team": "Houston Astros",
+    "mlbam": 694728,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Brice Turang",
+    "team": "Milwaukee Brewers",
+    "mlbam": 668930,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Brooks Lee",
+    "team": "Minnesota Twins",
+    "mlbam": 686797,
+    "batter_hand": "S",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Bryan Reynolds",
+    "team": "Pittsburgh Pirates",
+    "mlbam": 668804,
+    "batter_hand": "S",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Bryce Harper",
+    "team": "Philadelphia Phillies",
+    "mlbam": 547180,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Bryson Stott",
+    "team": "Philadelphia Phillies",
+    "mlbam": 681082,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Byron Buxton",
+    "team": "Minnesota Twins",
+    "mlbam": 621439,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Cal Raleigh",
+    "team": "Seattle Mariners",
+    "mlbam": 663728,
+    "batter_hand": "S",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Caleb Durbin",
+    "team": "Boston Red Sox",
+    "mlbam": 702332,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Cam Smith",
+    "team": "Houston Astros",
+    "mlbam": 701358,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Carlos Narváez",
+    "team": "Boston Red Sox",
+    "mlbam": 665966,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Carson Kelly",
+    "team": "Chicago Cubs",
+    "mlbam": 608348,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Carter Jensen",
+    "team": "Kansas City Royals",
+    "mlbam": 695600,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Casey Schmitt",
+    "team": "San Francisco Giants",
+    "mlbam": 669477,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Ceddanne Rafaela",
+    "team": "Boston Red Sox",
+    "mlbam": 678882,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Cedric Mullins",
+    "team": "Tampa Bay Rays",
+    "mlbam": 656775,
+    "batter_hand": "L",
+    "throws_hand": "L",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Cesar Prieto",
+    "team": "St. Louis Cardinals",
+    "mlbam": 693409,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "César Salazar",
+    "team": "Houston Astros",
+    "mlbam": 663967,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Chandler Simpson",
+    "team": "Tampa Bay Rays",
+    "mlbam": 802415,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Chase Meidroth",
+    "team": "Chicago White Sox",
+    "mlbam": 805367,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Christian Walker",
+    "team": "Houston Astros",
+    "mlbam": 572233,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Christian Yelich",
+    "team": "Milwaukee Brewers",
+    "mlbam": 592885,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Christopher Morel",
+    "team": "Miami Marlins",
+    "mlbam": 666624,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "CJ Abrams",
+    "team": "Washington Nationals",
+    "mlbam": 682928,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Colby Thomas",
+    "team": "Athletics",
+    "mlbam": 687515,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Cole Young",
+    "team": "Seattle Mariners",
+    "mlbam": 702284,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Colson Montgomery",
+    "team": "Chicago White Sox",
+    "mlbam": 695657,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Colt Keith",
+    "team": "Detroit Tigers",
+    "mlbam": 690993,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Connor Norby",
+    "team": "Miami Marlins",
+    "mlbam": 681393,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Connor Wong",
+    "team": "Boston Red Sox",
+    "mlbam": 657136,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Corbin Carroll",
+    "team": "Arizona Diamondbacks",
+    "mlbam": 682998,
+    "batter_hand": "L",
+    "throws_hand": "L",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Corey Seager",
+    "team": "Texas Rangers",
+    "mlbam": 608369,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Dalton Rushing",
+    "team": "Los Angeles Dodgers",
+    "mlbam": 687221,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Danny Jansen",
+    "team": "Texas Rangers",
+    "mlbam": 643376,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Dansby Swanson",
+    "team": "Chicago Cubs",
+    "mlbam": 621020,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Darell Hernaiz",
+    "team": "Athletics",
+    "mlbam": 687231,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Daulton Varsho",
+    "team": "Toronto Blue Jays",
+    "mlbam": 662139,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "David Hamilton",
+    "team": "Milwaukee Brewers",
+    "mlbam": 666152,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Daylen Lile",
+    "team": "Washington Nationals",
+    "mlbam": 695734,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Dillon Dingler",
+    "team": "Detroit Tigers",
+    "mlbam": 693307,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Dominic Canzone",
+    "team": "Seattle Mariners",
+    "mlbam": 686527,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Drake Baldwin",
+    "team": "Atlanta Braves",
+    "mlbam": 686948,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Edmundo Sosa",
+    "team": "Philadelphia Phillies",
+    "mlbam": 624641,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Edouard Julien",
+    "team": "Colorado Rockies",
+    "mlbam": 666397,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Elly De La Cruz",
+    "team": "Cincinnati Reds",
+    "mlbam": 682829,
+    "batter_hand": "S",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Ernie Clement",
+    "team": "Toronto Blue Jays",
+    "mlbam": 676391,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Evan Carter",
+    "team": "Texas Rangers",
+    "mlbam": 694497,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Ezequiel Duran",
+    "team": "Texas Rangers",
+    "mlbam": 677649,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Ezequiel Tovar",
+    "team": "Colorado Rockies",
+    "mlbam": 678662,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Fernando Tatis Jr.",
+    "team": "San Diego Padres",
+    "mlbam": 665487,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Freddie Freeman",
+    "team": "Los Angeles Dodgers",
+    "mlbam": 518692,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Freddy Fermin",
+    "team": "San Diego Padres",
+    "mlbam": 666023,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Gabriel Moreno",
+    "team": "Arizona Diamondbacks",
+    "mlbam": 672515,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Garrett Mitchell",
+    "team": "Milwaukee Brewers",
+    "mlbam": 669003,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Gavin Sheets",
+    "team": "San Diego Padres",
+    "mlbam": 657757,
+    "batter_hand": "L",
+    "throws_hand": "L",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "George Springer",
+    "team": "Toronto Blue Jays",
+    "mlbam": 543807,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Geraldo Perdomo",
+    "team": "Arizona Diamondbacks",
+    "mlbam": 672695,
+    "batter_hand": "S",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Ha-Seong Kim",
+    "team": "Atlanta Braves",
+    "mlbam": 673490,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Harrison Bader",
+    "team": "San Francisco Giants",
+    "mlbam": 664056,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Heliot Ramos",
+    "team": "San Francisco Giants",
+    "mlbam": 671218,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Henry Davis",
+    "team": "Pittsburgh Pirates",
+    "mlbam": 680779,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Heriberto Hernández",
+    "team": "Miami Marlins",
+    "mlbam": 681715,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Hunter Goodman",
+    "team": "Colorado Rockies",
+    "mlbam": 696100,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Ian Happ",
+    "team": "Chicago Cubs",
+    "mlbam": 664023,
+    "batter_hand": "S",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Isaac Collins",
+    "team": "Kansas City Royals",
+    "mlbam": 686555,
+    "batter_hand": "S",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Isaac Paredes",
+    "team": "Houston Astros",
+    "mlbam": 670623,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Ivan Herrera",
+    "team": "St. Louis Cardinals",
+    "mlbam": 671056,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "J.P. Crawford",
+    "team": "Seattle Mariners",
+    "mlbam": 641487,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "J.T. Realmuto",
+    "team": "Philadelphia Phillies",
+    "mlbam": 592663,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Jackson Chourio",
+    "team": "Milwaukee Brewers",
+    "mlbam": 694192,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Jackson Merrill",
+    "team": "San Diego Padres",
+    "mlbam": 701538,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Jacob Young",
+    "team": "Washington Nationals",
+    "mlbam": 696285,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Jake Bauers",
+    "team": "Milwaukee Brewers",
+    "mlbam": 641343,
+    "batter_hand": "L",
+    "throws_hand": "L",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Jake Burger",
+    "team": "Texas Rangers",
+    "mlbam": 669394,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Jake Fraley",
+    "team": "Tampa Bay Rays",
+    "mlbam": 641584,
+    "batter_hand": "L",
+    "throws_hand": "L",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Jake McCarthy",
+    "team": "Colorado Rockies",
+    "mlbam": 664983,
+    "batter_hand": "L",
+    "throws_hand": "L",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Jakob Marsee",
+    "team": "Miami Marlins",
+    "mlbam": 805300,
+    "batter_hand": "L",
+    "throws_hand": "L",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "James McCann",
+    "team": "Arizona Diamondbacks",
+    "mlbam": 543510,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "James Wood",
+    "team": "Washington Nationals",
+    "mlbam": 695578,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Jared Triolo",
+    "team": "Pittsburgh Pirates",
+    "mlbam": 669707,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Jarren Duran",
+    "team": "Boston Red Sox",
+    "mlbam": 680776,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Jeff McNeil",
+    "team": "Athletics",
+    "mlbam": 643446,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Jesus Rodriguez",
+    "team": "San Francisco Giants",
+    "mlbam": 683679,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Jesús Sánchez",
+    "team": "Toronto Blue Jays",
+    "mlbam": 660821,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "JJ Bleday",
+    "team": "Cincinnati Reds",
+    "mlbam": 668709,
+    "batter_hand": "L",
+    "throws_hand": "L",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Joc Pederson",
+    "team": "Texas Rangers",
+    "mlbam": 592626,
+    "batter_hand": "L",
+    "throws_hand": "L",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Joe Mack",
+    "team": "Miami Marlins",
+    "mlbam": 691788,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Joey Wiemer",
+    "team": "Washington Nationals",
+    "mlbam": 686894,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Jonathan Aranda",
+    "team": "Tampa Bay Rays",
+    "mlbam": 666018,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Jonny DeLuca",
+    "team": "Tampa Bay Rays",
+    "mlbam": 676356,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Jordan Walker",
+    "team": "St. Louis Cardinals",
+    "mlbam": 691023,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Jorge Mateo",
+    "team": "Atlanta Braves",
+    "mlbam": 622761,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Jose Altuve",
+    "team": "Houston Astros",
+    "mlbam": 514888,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Josh Bell",
+    "team": "Minnesota Twins",
+    "mlbam": 605137,
+    "batter_hand": "S",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Josh Jung",
+    "team": "Texas Rangers",
+    "mlbam": 673962,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Josh Naylor",
+    "team": "Seattle Mariners",
+    "mlbam": 647304,
+    "batter_hand": "L",
+    "throws_hand": "L",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Juan Soto",
+    "team": "New York Mets",
+    "mlbam": 665742,
+    "batter_hand": "L",
+    "throws_hand": "L",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Julio Rodríguez",
+    "team": "Seattle Mariners",
+    "mlbam": 677594,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Jung Hoo Lee",
+    "team": "San Francisco Giants",
+    "mlbam": 808982,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Junior Caminero",
+    "team": "Tampa Bay Rays",
+    "mlbam": 691406,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Kazuma Okamoto",
+    "team": "Toronto Blue Jays",
+    "mlbam": 672960,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Ke'Bryan Hayes",
+    "team": "Cincinnati Reds",
+    "mlbam": 663647,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Keibert Ruiz",
+    "team": "Washington Nationals",
+    "mlbam": 660688,
+    "batter_hand": "S",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Ketel Marte",
+    "team": "Arizona Diamondbacks",
+    "mlbam": 606466,
+    "batter_hand": "S",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Kody Clemens",
+    "team": "Minnesota Twins",
+    "mlbam": 665019,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Kyle Karros",
+    "team": "Colorado Rockies",
+    "mlbam": 691720,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Kyle Schwarber",
+    "team": "Philadelphia Phillies",
+    "mlbam": 656941,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Kyle Stowers",
+    "team": "Miami Marlins",
+    "mlbam": 669065,
+    "batter_hand": "L",
+    "throws_hand": "L",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Kyle Tucker",
+    "team": "Los Angeles Dodgers",
+    "mlbam": 663656,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Lane Thomas",
+    "team": "Kansas City Royals",
+    "mlbam": 657041,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Liam Hicks",
+    "team": "Miami Marlins",
+    "mlbam": 689414,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Lourdes Gurriel Jr.",
+    "team": "Arizona Diamondbacks",
+    "mlbam": 666971,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Luis Arraez",
+    "team": "San Francisco Giants",
+    "mlbam": 650333,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Luis Rengifo",
+    "team": "Milwaukee Brewers",
+    "mlbam": 650859,
+    "batter_hand": "S",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Luis Torrens",
+    "team": "New York Mets",
+    "mlbam": 620443,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Luke Keaschall",
+    "team": "Minnesota Twins",
+    "mlbam": 807712,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Luke Raley",
+    "team": "Seattle Mariners",
+    "mlbam": 670042,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Maikel Garcia",
+    "team": "Kansas City Royals",
+    "mlbam": 672580,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Manny Machado",
+    "team": "San Diego Padres",
+    "mlbam": 592518,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Marcell Ozuna",
+    "team": "Pittsburgh Pirates",
+    "mlbam": 542303,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Marcelo Mayer",
+    "team": "Boston Red Sox",
+    "mlbam": 691785,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Marcus Semien",
+    "team": "New York Mets",
+    "mlbam": 543760,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Mark Vientos",
+    "team": "New York Mets",
+    "mlbam": 668901,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Masataka Yoshida",
+    "team": "Boston Red Sox",
+    "mlbam": 807799,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Masyn Winn",
+    "team": "St. Louis Cardinals",
+    "mlbam": 691026,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Matt Chapman",
+    "team": "San Francisco Giants",
+    "mlbam": 656305,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Matt McLain",
+    "team": "Cincinnati Reds",
+    "mlbam": 680574,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Matt Olson",
+    "team": "Atlanta Braves",
+    "mlbam": 621566,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Matt Vierling",
+    "team": "Detroit Tigers",
+    "mlbam": 663837,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Mauricio Dubón",
+    "team": "Atlanta Braves",
+    "mlbam": 643289,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Max Muncy",
+    "team": "Los Angeles Dodgers",
+    "mlbam": 571970,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Michael Busch",
+    "team": "Chicago Cubs",
+    "mlbam": 683737,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Michael Harris II",
+    "team": "Atlanta Braves",
+    "mlbam": 671739,
+    "batter_hand": "L",
+    "throws_hand": "L",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Mickey Gasper",
+    "team": "Boston Red Sox",
+    "mlbam": 681508,
+    "batter_hand": "S",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Mickey Moniak",
+    "team": "Colorado Rockies",
+    "mlbam": 666160,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Miguel Andujar",
+    "team": "San Diego Padres",
+    "mlbam": 609280,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Miguel Vargas",
+    "team": "Chicago White Sox",
+    "mlbam": 678246,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Mike Yastrzemski",
+    "team": "Atlanta Braves",
+    "mlbam": 573262,
+    "batter_hand": "L",
+    "throws_hand": "L",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Moisés Ballesteros",
+    "team": "Chicago Cubs",
+    "mlbam": 694208,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Mookie Betts",
+    "team": "Los Angeles Dodgers",
+    "mlbam": 605141,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Munetaka Murakami",
+    "team": "Chicago White Sox",
+    "mlbam": 808959,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Nasim Nuñez",
+    "team": "Washington Nationals",
+    "mlbam": 683083,
+    "batter_hand": "S",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Nathan Church",
+    "team": "St. Louis Cardinals",
+    "mlbam": 701675,
+    "batter_hand": "L",
+    "throws_hand": "L",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Nick Fortes",
+    "team": "Tampa Bay Rays",
+    "mlbam": 663743,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Nick Gonzales",
+    "team": "Pittsburgh Pirates",
+    "mlbam": 693304,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Nick Kurtz",
+    "team": "Athletics",
+    "mlbam": 701762,
+    "batter_hand": "L",
+    "throws_hand": "L",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Nick Loftin",
+    "team": "Kansas City Royals",
+    "mlbam": 679845,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Nick Yorke",
+    "team": "Pittsburgh Pirates",
+    "mlbam": 694377,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Nico Hoerner",
+    "team": "Chicago Cubs",
+    "mlbam": 663538,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Nolan Arenado",
+    "team": "Arizona Diamondbacks",
+    "mlbam": 571448,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Nolan Gorman",
+    "team": "St. Louis Cardinals",
+    "mlbam": 669357,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Oneil Cruz",
+    "team": "Pittsburgh Pirates",
+    "mlbam": 665833,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Otto Lopez",
+    "team": "Miami Marlins",
+    "mlbam": 672640,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Owen Caissie",
+    "team": "Miami Marlins",
+    "mlbam": 683357,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Ozzie Albies",
+    "team": "Atlanta Braves",
+    "mlbam": 645277,
+    "batter_hand": "S",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Pedro Pagés",
+    "team": "St. Louis Cardinals",
+    "mlbam": 686780,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Pete Crow-Armstrong",
+    "team": "Chicago Cubs",
+    "mlbam": 691718,
+    "batter_hand": "L",
+    "throws_hand": "L",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Rafael Devers",
+    "team": "San Francisco Giants",
+    "mlbam": 646240,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Ramón Laureano",
+    "team": "San Diego Padres",
+    "mlbam": 657656,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Randy Arozarena",
+    "team": "Seattle Mariners",
+    "mlbam": 668227,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Riley Greene",
+    "team": "Detroit Tigers",
+    "mlbam": 682985,
+    "batter_hand": "L",
+    "throws_hand": "L",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Royce Lewis",
+    "team": "Minnesota Twins",
+    "mlbam": 668904,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Ryan Jeffers",
+    "team": "Minnesota Twins",
+    "mlbam": 680777,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Ryan O'Hearn",
+    "team": "Pittsburgh Pirates",
+    "mlbam": 656811,
+    "batter_hand": "L",
+    "throws_hand": "L",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Ryan Vilade",
+    "team": "Tampa Bay Rays",
+    "mlbam": 668723,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Sal Frelick",
+    "team": "Milwaukee Brewers",
+    "mlbam": 686217,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Sal Stewart",
+    "team": "Cincinnati Reds",
+    "mlbam": 701398,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Salvador Perez",
+    "team": "Kansas City Royals",
+    "mlbam": 521692,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Seiya Suzuki",
+    "team": "Chicago Cubs",
+    "mlbam": 673548,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Shea Langeliers",
+    "team": "Athletics",
+    "mlbam": 669127,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Spencer Steer",
+    "team": "Cincinnati Reds",
+    "mlbam": 668715,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Spencer Torkelson",
+    "team": "Detroit Tigers",
+    "mlbam": 679529,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Sung-Mun Song",
+    "team": "San Diego Padres",
+    "mlbam": 823550,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Taylor Walls",
+    "team": "Tampa Bay Rays",
+    "mlbam": 670764,
+    "batter_hand": "S",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Teoscar Hernández",
+    "team": "Los Angeles Dodgers",
+    "mlbam": 606192,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "TJ Friedl",
+    "team": "Cincinnati Reds",
+    "mlbam": 670770,
+    "batter_hand": "L",
+    "throws_hand": "L",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Trea Turner",
+    "team": "Philadelphia Phillies",
+    "mlbam": 607208,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Trevor Larnach",
+    "team": "Minnesota Twins",
+    "mlbam": 663616,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Trevor Story",
+    "team": "Boston Red Sox",
+    "mlbam": 596115,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Troy Johnston",
+    "team": "Colorado Rockies",
+    "mlbam": 687859,
+    "batter_hand": "L",
+    "throws_hand": "L",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Tyler Freeman",
+    "team": "Colorado Rockies",
+    "mlbam": 671289,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Tyler Heineman",
+    "team": "Toronto Blue Jays",
+    "mlbam": 623168,
+    "batter_hand": "S",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Tyler Soderstrom",
+    "team": "Athletics",
+    "mlbam": 691016,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Tyler Stephenson",
+    "team": "Cincinnati Reds",
+    "mlbam": 663886,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Tyrone Taylor",
+    "team": "New York Mets",
+    "mlbam": 621438,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Victor Scott II",
+    "team": "St. Louis Cardinals",
+    "mlbam": 687363,
+    "batter_hand": "L",
+    "throws_hand": "L",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Vidal Bruján",
+    "team": "New York Mets",
+    "mlbam": 660644,
+    "batter_hand": "S",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Vinnie Pasquantino",
+    "team": "Kansas City Royals",
+    "mlbam": 686469,
+    "batter_hand": "L",
+    "throws_hand": "L",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Vladimir Guerrero Jr.",
+    "team": "Toronto Blue Jays",
+    "mlbam": 665489,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Wenceel Pérez",
+    "team": "Detroit Tigers",
+    "mlbam": 672761,
+    "batter_hand": "S",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Will Benson",
+    "team": "Cincinnati Reds",
+    "mlbam": 666181,
+    "batter_hand": "L",
+    "throws_hand": "L",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Will Smith",
+    "team": "Los Angeles Dodgers",
+    "mlbam": 669257,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Willi Castro",
+    "team": "Colorado Rockies",
+    "mlbam": 650489,
+    "batter_hand": "S",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "William Contreras",
+    "team": "Milwaukee Brewers",
+    "mlbam": 661388,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Willson Contreras",
+    "team": "Boston Red Sox",
+    "mlbam": 575929,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Willy Adames",
+    "team": "San Francisco Giants",
+    "mlbam": 642715,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Wilyer Abreu",
+    "team": "Boston Red Sox",
+    "mlbam": 677800,
+    "batter_hand": "L",
+    "throws_hand": "L",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Xander Bogaerts",
+    "team": "San Diego Padres",
+    "mlbam": 593428,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Xavier Edwards",
+    "team": "Miami Marlins",
+    "mlbam": 669364,
+    "batter_hand": "S",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Yandy Díaz",
+    "team": "Tampa Bay Rays",
+    "mlbam": 650490,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Yordan Alvarez",
+    "team": "Houston Astros",
+    "mlbam": 670541,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Zach Cole",
+    "team": "Houston Astros",
+    "mlbam": 805904,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Zach McKinstry",
+    "team": "Detroit Tigers",
+    "mlbam": 656716,
+    "batter_hand": "L",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  },
+  {
+    "name": "Zack Gelof",
+    "team": "Athletics",
+    "mlbam": 680869,
+    "batter_hand": "R",
+    "throws_hand": "R",
+    "source": "MLB_STATS_API"
+  }
+]

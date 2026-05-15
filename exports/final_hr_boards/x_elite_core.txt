@@ -1,0 +1,7 @@
+HR ELITE / CORE PLAYS
+
+The Slip Lab HR Decision Engine
+
+1. James Wood (Washington Nationals) vs Nick Lodolo | 362 | Score 89 | SLIP LAB ELITE
+Signals: MASTER|MATCHUP|SPLITS|PITCH|CONTACT
+Pitch edge: Sinker 24.4%

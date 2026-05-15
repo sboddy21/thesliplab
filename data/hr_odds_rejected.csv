@@ -1,0 +1,17 @@
+player,team,game,reason,raw_books,source_file
+Brandon Valenzuela,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,REJECT_WIDE_VARIANCE,BetMGM:+650 | BetMGM:+650,sgo_best_lines.csv
+Hunter Feduccia,Tampa Bay Rays,Tampa Bay Rays @ Boston Red Sox,REJECT_WIDE_VARIANCE,FanDuel:+1500 | FanDuel:+1500,sgo_best_lines.csv
+Javier Sanoja,Miami Marlins,Miami Marlins @ Minnesota Twins,REJECT_WIDE_VARIANCE,BetMGM:+1050 | BetMGM:+1050,sgo_best_lines.csv
+Joey Ortiz,Milwaukee Brewers,San Diego Padres @ Milwaukee Brewers,REJECT_WIDE_VARIANCE,BetMGM:+850 | BetMGM:+850,sgo_best_lines.csv
+Miguel Rojas,Los Angeles Dodgers,San Francisco Giants @ Los Angeles Dodgers,REJECT_WIDE_VARIANCE,FanDuel:+680 | FanDuel:+680,sgo_best_lines.csv
+Richie Palacios,Tampa Bay Rays,Tampa Bay Rays @ Toronto Blue Jays,REJECT_WIDE_VARIANCE,BetMGM:+800 | BetMGM:+800,sgo_best_lines.csv
+Thomas Saggese,St Louis Cardinals,St. Louis Cardinals @ Athletics,REJECT_WIDE_VARIANCE,BetMGM:+850 | BetMGM:+850,sgo_best_lines.csv
+Tristan Peters,Chicago White Sox,Kansas City Royals @ Chicago White Sox,REJECT_WIDE_VARIANCE,BetMGM:+1200 | FanDuel:+790 | Caesars:+750 | DraftKings:+700 | BetMGM:+1200,sgo_best_lines.csv
+Brandon Valenzuela,Toronto Blue Jays,Tampa Bay Rays @ Toronto Blue Jays,REJECT_WIDE_VARIANCE,BetMGM:+650 | BetMGM:+650,best_lines.csv
+Hunter Feduccia,Tampa Bay Rays,Tampa Bay Rays @ Boston Red Sox,REJECT_WIDE_VARIANCE,FanDuel:+1500 | FanDuel:+1500,best_lines.csv
+Javier Sanoja,Miami Marlins,Miami Marlins @ Minnesota Twins,REJECT_WIDE_VARIANCE,BetMGM:+1050 | BetMGM:+1050,best_lines.csv
+Joey Ortiz,Milwaukee Brewers,San Diego Padres @ Milwaukee Brewers,REJECT_WIDE_VARIANCE,BetMGM:+850 | BetMGM:+850,best_lines.csv
+Miguel Rojas,Los Angeles Dodgers,San Francisco Giants @ Los Angeles Dodgers,REJECT_WIDE_VARIANCE,FanDuel:+680 | FanDuel:+680,best_lines.csv
+Richie Palacios,Tampa Bay Rays,Tampa Bay Rays @ Toronto Blue Jays,REJECT_WIDE_VARIANCE,BetMGM:+800 | BetMGM:+800,best_lines.csv
+Thomas Saggese,St Louis Cardinals,St. Louis Cardinals @ Athletics,REJECT_WIDE_VARIANCE,BetMGM:+850 | BetMGM:+850,best_lines.csv
+Tristan Peters,Chicago White Sox,Kansas City Royals @ Chicago White Sox,REJECT_WIDE_VARIANCE,BetMGM:+1200 | FanDuel:+790 | Caesars:+750 | DraftKings:+700 | BetMGM:+1200,best_lines.csv

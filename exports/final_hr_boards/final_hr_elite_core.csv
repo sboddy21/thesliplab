@@ -1,0 +1,2 @@
+rank,name,team,opponent,pitcher,odds,book,final_hr_score,decision_tier,confidence,agreement_count,signal_flags,master_score,matchup_score,split_score,per_pitch_score,primary_pitch_match,primary_pitch_usage_pct,note
+1,James Wood,Washington Nationals,Cincinnati Reds,Nick Lodolo,362,DraftKings,89,SLIP LAB ELITE,HIGH,4,MASTER|MATCHUP|SPLITS|PITCH|CONTACT,88.4,74.1,83.2,83,Sinker,24.4,Multi-layer agreement

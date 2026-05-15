@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+  <rect width="1600" height="1000" fill="#050912"/>
+  <circle cx="1380" cy="160" r="300" fill="#0b4f24" opacity="0.35"/>
+  <circle cx="120" cy="930" r="360" fill="#0b4f24" opacity="0.28"/>
+
+  <text x="60" y="85" fill="#ffffff" font-size="44" font-weight="900">THE SLIP LAB</text>
+  <text x="60" y="135" fill="#39ff14" font-size="34" font-weight="900">HR VALUE WATCH</text>
+  <text x="60" y="170" fill="#aeb7c2" font-size="24">Best price plus model combinations</text>
+
+  <rect x="60" y="220" width="1280" height="54" rx="14" fill="#111827" stroke="#223047"/>
+  <text x="75" y="255" fill="#d7dee8" font-size="20" font-weight="800">Rank</text>
+  <text x="145" y="255" fill="#d7dee8" font-size="20" font-weight="800">Batter</text>
+  <text x="430" y="255" fill="#d7dee8" font-size="20" font-weight="800">Team</text>
+  <text x="555" y="255" fill="#d7dee8" font-size="20" font-weight="800">Grade</text>
+  <text x="705" y="255" fill="#d7dee8" font-size="20" font-weight="800">HR Prob</text>
+  <text x="840" y="255" fill="#d7dee8" font-size="20" font-weight="800">Pitcher</text>
+  <text x="1065" y="255" fill="#d7dee8" font-size="20" font-weight="800">Odds</text>
+  <text x="1185" y="255" fill="#d7dee8" font-size="20" font-weight="800">EV</text>
+  <text x="1300" y="255" fill="#d7dee8" font-size="20" font-weight="800" text-anchor="end">Score</text>
+
+  
+      <rect x="60" y="267" width="1280" height="54" fill="#0b1118" stroke="#1d2836"/>
+      <text x="75" y="305" fill="#d7dee8" font-size="22">1</text>
+      <text x="145" y="305" fill="#f2f5f7" font-size="23" font-weight="800">Xavier Edwards</text>
+      <text x="430" y="305" fill="#d7dee8" font-size="21">Miami Marlins</text>
+      <text x="555" y="305" fill="#39ff14" font-size="22">C</text>
+      <text x="705" y="305" fill="#d7dee8" font-size="21">9.52%</text>
+      <text x="840" y="305" fill="#d7dee8" font-size="21">Simeon Woods Rich…</text>
+      <text x="1065" y="305" fill="#d7dee8" font-size="21">+950</text>
+      <text x="1185" y="305" fill="#39ff14" font-size="21">N/A</text>
+      <text x="1300" y="305" fill="#39ff14" font-size="21" text-anchor="end">33.0</text>
+    
+      <rect x="60" y="321" width="1280" height="54" fill="#080d13" stroke="#1d2836"/>
+      <text x="75" y="359" fill="#d7dee8" font-size="22">2</text>
+      <text x="145" y="359" fill="#f2f5f7" font-size="23" font-weight="800">Liam Hicks</text>
+      <text x="430" y="359" fill="#d7dee8" font-size="21">Miami Marlins</text>
+      <text x="555" y="359" fill="#39ff14" font-size="22">C</text>
+      <text x="705" y="359" fill="#d7dee8" font-size="21">10.00%</text>
+      <text x="840" y="359" fill="#d7dee8" font-size="21">Simeon Woods Rich…</text>
+      <text x="1065" y="359" fill="#d7dee8" font-size="21">+900</text>
+      <text x="1185" y="359" fill="#39ff14" font-size="21">N/A</text>
+      <text x="1300" y="359" fill="#39ff14" font-size="21" text-anchor="end">33.0</text>
+    
+      <rect x="60" y="375" width="1280" height="54" fill="#0b1118" stroke="#1d2836"/>
+      <text x="75" y="413" fill="#d7dee8" font-size="22">3</text>
+      <text x="145" y="413" fill="#f2f5f7" font-size="23" font-weight="800">Jakob Marsee</text>
+      <text x="430" y="413" fill="#d7dee8" font-size="21">Miami Marlins</text>
+      <text x="555" y="413" fill="#39ff14" font-size="22">C</text>
+      <text x="705" y="413" fill="#d7dee8" font-size="21">10.00%</text>
+      <text x="840" y="413" fill="#d7dee8" font-size="21">Simeon Woods Rich…</text>
+      <text x="1065" y="413" fill="#d7dee8" font-size="21">+900</text>
+      <text x="1185" y="413" fill="#39ff14" font-size="21">N/A</text>
+      <text x="1300" y="413" fill="#39ff14" font-size="21" text-anchor="end">33.0</text>
+    
+      <rect x="60" y="429" width="1280" height="54" fill="#080d13" stroke="#1d2836"/>
+      <text x="75" y="467" fill="#d7dee8" font-size="22">4</text>
+      <text x="145" y="467" fill="#f2f5f7" font-size="23" font-weight="800">Joe Mack</text>
+      <text x="430" y="467" fill="#d7dee8" font-size="21">Miami Marlins</text>
+      <text x="555" y="467" fill="#39ff14" font-size="22">C</text>
+      <text x="705" y="467" fill="#d7dee8" font-size="21">10.00%</text>
+      <text x="840" y="467" fill="#d7dee8" font-size="21">Simeon Woods Rich…</text>
+      <text x="1065" y="467" fill="#d7dee8" font-size="21">+900</text>
+      <text x="1185" y="467" fill="#39ff14" font-size="21">N/A</text>
+      <text x="1300" y="467" fill="#39ff14" font-size="21" text-anchor="end">33.0</text>
+    
+      <rect x="60" y="483" width="1280" height="54" fill="#0b1118" stroke="#1d2836"/>
+      <text x="75" y="521" fill="#d7dee8" font-size="22">5</text>
+      <text x="145" y="521" fill="#f2f5f7" font-size="23" font-weight="800">Keibert Ruiz</text>
+      <text x="430" y="521" fill="#d7dee8" font-size="21">Washington Nati…</text>
+      <text x="555" y="521" fill="#39ff14" font-size="22">C</text>
+      <text x="705" y="521" fill="#d7dee8" font-size="21">10.20%</text>
+      <text x="840" y="521" fill="#d7dee8" font-size="21">Nick Lodolo</text>
+      <text x="1065" y="521" fill="#d7dee8" font-size="21">+880</text>
+      <text x="1185" y="521" fill="#39ff14" font-size="21">N/A</text>
+      <text x="1300" y="521" fill="#39ff14" font-size="21" text-anchor="end">33.0</text>
+    
+      <rect x="60" y="537" width="1280" height="54" fill="#080d13" stroke="#1d2836"/>
+      <text x="75" y="575" fill="#d7dee8" font-size="22">6</text>
+      <text x="145" y="575" fill="#f2f5f7" font-size="23" font-weight="800">Owen Caissie</text>
+      <text x="430" y="575" fill="#d7dee8" font-size="21">Miami Marlins</text>
+      <text x="555" y="575" fill="#39ff14" font-size="22">C</text>
+      <text x="705" y="575" fill="#d7dee8" font-size="21">10.53%</text>
+      <text x="840" y="575" fill="#d7dee8" font-size="21">Simeon Woods Rich…</text>
+      <text x="1065" y="575" fill="#d7dee8" font-size="21">+850</text>
+      <text x="1185" y="575" fill="#39ff14" font-size="21">N/A</text>
+      <text x="1300" y="575" fill="#39ff14" font-size="21" text-anchor="end">33.0</text>
+    
+      <rect x="60" y="591" width="1280" height="54" fill="#0b1118" stroke="#1d2836"/>
+      <text x="75" y="629" fill="#d7dee8" font-size="22">7</text>
+      <text x="145" y="629" fill="#f2f5f7" font-size="23" font-weight="800">Otto Lopez</text>
+      <text x="430" y="629" fill="#d7dee8" font-size="21">Miami Marlins</text>
+      <text x="555" y="629" fill="#39ff14" font-size="22">C</text>
+      <text x="705" y="629" fill="#d7dee8" font-size="21">10.53%</text>
+      <text x="840" y="629" fill="#d7dee8" font-size="21">Simeon Woods Rich…</text>
+      <text x="1065" y="629" fill="#d7dee8" font-size="21">+850</text>
+      <text x="1185" y="629" fill="#39ff14" font-size="21">N/A</text>
+      <text x="1300" y="629" fill="#39ff14" font-size="21" text-anchor="end">33.0</text>
+    
+      <rect x="60" y="645" width="1280" height="54" fill="#080d13" stroke="#1d2836"/>
+      <text x="75" y="683" fill="#d7dee8" font-size="22">8</text>
+      <text x="145" y="683" fill="#f2f5f7" font-size="23" font-weight="800">Daylen Lile</text>
+      <text x="430" y="683" fill="#d7dee8" font-size="21">Washington Nati…</text>
+      <text x="555" y="683" fill="#39ff14" font-size="22">C</text>
+      <text x="705" y="683" fill="#d7dee8" font-size="21">10.87%</text>
+      <text x="840" y="683" fill="#d7dee8" font-size="21">Nick Lodolo</text>
+      <text x="1065" y="683" fill="#d7dee8" font-size="21">+820</text>
+      <text x="1185" y="683" fill="#39ff14" font-size="21">N/A</text>
+      <text x="1300" y="683" fill="#39ff14" font-size="21" text-anchor="end">33.0</text>
+    
+      <rect x="60" y="699" width="1280" height="54" fill="#0b1118" stroke="#1d2836"/>
+      <text x="75" y="737" fill="#d7dee8" font-size="22">9</text>
+      <text x="145" y="737" fill="#f2f5f7" font-size="23" font-weight="800">Cole Young</text>
+      <text x="430" y="737" fill="#d7dee8" font-size="21">Seattle Mariners</text>
+      <text x="555" y="737" fill="#39ff14" font-size="22">C</text>
+      <text x="705" y="737" fill="#d7dee8" font-size="21">9.09%</text>
+      <text x="840" y="737" fill="#d7dee8" font-size="21">Lance McCullers J…</text>
+      <text x="1065" y="737" fill="#d7dee8" font-size="21">+1000</text>
+      <text x="1185" y="737" fill="#39ff14" font-size="21">N/A</text>
+      <text x="1300" y="737" fill="#39ff14" font-size="21" text-anchor="end">32.0</text>
+    
+      <rect x="60" y="753" width="1280" height="54" fill="#080d13" stroke="#1d2836"/>
+      <text x="75" y="791" fill="#d7dee8" font-size="22">10</text>
+      <text x="145" y="791" fill="#f2f5f7" font-size="23" font-weight="800">Brady House</text>
+      <text x="430" y="791" fill="#d7dee8" font-size="21">Washington Nati…</text>
+      <text x="555" y="791" fill="#39ff14" font-size="22">C</text>
+      <text x="705" y="791" fill="#d7dee8" font-size="21">12.82%</text>
+      <text x="840" y="791" fill="#d7dee8" font-size="21">Nick Lodolo</text>
+      <text x="1065" y="791" fill="#d7dee8" font-size="21">+680</text>
+      <text x="1185" y="791" fill="#39ff14" font-size="21">N/A</text>
+      <text x="1300" y="791" fill="#39ff14" font-size="21" text-anchor="end">33.0</text>
+    
+      <rect x="60" y="807" width="1280" height="54" fill="#0b1118" stroke="#1d2836"/>
+      <text x="75" y="845" fill="#d7dee8" font-size="22">11</text>
+      <text x="145" y="845" fill="#f2f5f7" font-size="23" font-weight="800">Connor Norby</text>
+      <text x="430" y="845" fill="#d7dee8" font-size="21">Miami Marlins</text>
+      <text x="555" y="845" fill="#39ff14" font-size="22">C</text>
+      <text x="705" y="845" fill="#d7dee8" font-size="21">13.33%</text>
+      <text x="840" y="845" fill="#d7dee8" font-size="21">Simeon Woods Rich…</text>
+      <text x="1065" y="845" fill="#d7dee8" font-size="21">+650</text>
+      <text x="1185" y="845" fill="#39ff14" font-size="21">N/A</text>
+      <text x="1300" y="845" fill="#39ff14" font-size="21" text-anchor="end">33.0</text>
+    
+      <rect x="60" y="861" width="1280" height="54" fill="#080d13" stroke="#1d2836"/>
+      <text x="75" y="899" fill="#d7dee8" font-size="22">12</text>
+      <text x="145" y="899" fill="#f2f5f7" font-size="23" font-weight="800">Connor Wong</text>
+      <text x="430" y="899" fill="#d7dee8" font-size="21">Boston Red Sox</text>
+      <text x="555" y="899" fill="#39ff14" font-size="22">C</text>
+      <text x="705" y="899" fill="#d7dee8" font-size="21">9.80%</text>
+      <text x="840" y="899" fill="#d7dee8" font-size="21">Andrew Painter</text>
+      <text x="1065" y="899" fill="#d7dee8" font-size="21">+920</text>
+      <text x="1185" y="899" fill="#39ff14" font-size="21">N/A</text>
+      <text x="1300" y="899" fill="#39ff14" font-size="21" text-anchor="end">31.5</text>
+    
+
+  <text x="60" y="930" fill="#ffffff" font-size="25" font-weight="900">Free data backed looks. No paywall.</text>
+  <text x="60" y="960" fill="#aeb7c2" font-size="19">Model output, not a guarantee. Bet responsibly.</text>
+  <text x="1250" y="930" fill="#39ff14" font-size="26" font-weight="900">@TheSlip_Lab</text>
+  <text x="1250" y="960" fill="#aeb7c2" font-size="18">TAILING? LIKE RT COMMENT LOCKED</text>
+</svg>

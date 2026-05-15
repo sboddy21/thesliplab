@@ -1,0 +1,12 @@
+THE SLIP LAB CLV SUMMARY
+Date: 2026-05-12
+
+Plays with closing lines: 273
+Positive CLV: 4
+Negative CLV: 68
+Flat: 201
+Positive CLV rate: 1.5%
+Average CLV: -1.76%
+
+By board:
+HR: 4/273 positive | 1.5% | Avg CLV -1.76%

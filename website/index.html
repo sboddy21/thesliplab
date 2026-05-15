@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Slip Lab</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="./public/css/park_dimensions.css"></head>
+
+<body>
+
+<header class="tsl-site-header">
+  <a class="tsl-brand" href="index.html">
+    <div class="tsl-logo">TSL</div>
+    <div>
+      <div class="tsl-brand-title">The Slip Lab</div>
+      <div class="tsl-brand-subtitle">MLB Home Run Intelligence</div>
+    </div>
+  </a>
+
+  <nav class="tsl-pill-nav">
+    <a class="tsl-pill-link" href="index.html">Home</a>
+    <a class="tsl-pill-link" href="index.html#top-plays">Top Plays</a>
+    <a class="tsl-pill-link" href="index.html#value-plays">Value</a>
+    <a class="tsl-pill-link" href="power-zones.html">Power Zones</a>
+    <a class="tsl-pill-link" href="index.html#stacks">Stacks</a>
+    <a class="tsl-pill-link" href="slate.html">Slate</a>
+    <a class="tsl-pill-link" href="weather.html">Weather</a>
+    <a class="tsl-pill-link" href="results.html">Results</a>
+  </nav>
+</header>
+
+<section  class="tsl-scroll-target"><section class="hero">
+    <div class="heroText">
+      <p class="eyebrow">Data driven MLB HR projections</p>
+
+      <h2>
+        Find the best home run spots before the market catches up.
+      </h2>
+
+      <p class="sub">
+        The Slip Lab combines matchup intelligence, pitcher splits,
+        pitch type data, weather, Vegas totals, correlation,
+        simulations, and tracking into one daily HR board.
+      </p>
+
+      <div class="heroButtons">
+        <a href="#top" class="button primary">View Top Plays</a>
+        <a href="#" data-scroll-section="stacks" class="button ghost">View HR Stacks</a>
+      </div>
+    </div>
+
+    <div class="heroCard">
+      <p class="cardLabel">Today’s Model Status</p>
+
+      <h3 id="statusTitle">Loading slate...</h3>
+
+      <div class="statusGrid">
+        <div>
+          <span id="topCount">0</span>
+          <p>Top Plays</p>
+        </div>
+
+        <div>
+          <span id="valueCount">0</span>
+          <p><span  class="scroll-anchor"><div  class="tsl-real-scroll-anchor"></div>
+</span>Value Plays</p>
+        </div>
+
+        <div>
+          <span id="stackCount">0</span>
+          <p>Stacks</p>
+        </div>
+      </div>
+    </div>
+  </section></section>
+
+  <main>
+    <section  class="tsl-scroll-target"><section  class="tsl-scroll-target"><section id="top" class="section">
+      <div class="sectionHead">
+        <div>
+          <p class="eyebrow">Probability Board</p>
+          <h2>Top HR Plays</h2>
+        </div>
+
+        <p>Ranked by calibrated HR probability.</p>
+      </div>
+
+      <div id="topPlays" class="grid"></div>
+    </section></section>
+
+    <section id="value" class="section">
+      <div class="sectionHead">
+        <div>
+          <p class="eyebrow">Market Edge</p>
+          <h2>Best Value HR Plays</h2>
+        </div>
+
+        <p>Model value and sportsbook pricing.</p>
+      </div>
+
+      <div id="valuePlays" class="grid"></div>
+    </section></section>
+
+    <section  class="section">
+      <div class="sectionHead">
+        <div>
+          <p class="eyebrow">Correlation Engine</p>
+          <h2>Top Same Game HR Stacks</h2>
+        </div>
+
+        <p>Same game HR environments ranked by simulation score.</p>
+      </div>
+
+      <div id="stackPlays" class="stackList"></div>
+    </section>
+
+    
+  <section data-park-dimensions></section></main>
+
+  <footer>
+    <p>
+      The Slip Lab is for informational and entertainment purposes only.
+    </p>
+  </footer>
+
+  <script src="app.js"></script>
+  <script src="./public/js/park_dimensions.js"></script>  
+  
+  
+  
+  
+  <script src="home-scroll-fix.js?v=final-runtime-1"></script>
+</body>
+</html>
+
+
+
+
+
+

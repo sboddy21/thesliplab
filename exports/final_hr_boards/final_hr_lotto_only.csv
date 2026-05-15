@@ -1,0 +1,6 @@
+rank,name,team,opponent,pitcher,odds,book,final_hr_score,decision_tier,confidence,agreement_count,signal_flags,master_score,matchup_score,split_score,per_pitch_score,primary_pitch_match,primary_pitch_usage_pct,note
+27,Jordan Walker,St. Louis Cardinals,Athletics,J.T. Ginn,650,BetMGM,68.2,LOTTO ONLY,LOW,2,CONTACT,75.5,60.1,68.9,73.3,4-Seam Fastball,14.3,Thin profile
+29,Otto Lopez,Miami Marlins,Minnesota Twins,Simeon Woods Richardson,850,BetMGM,65.3,LOTTO ONLY,SPECULATIVE,2,,68.2,63,71.9,71.1,4-Seam Fastball,37.7,Thin profile
+38,Brady House,Washington Nationals,Cincinnati Reds,Nick Lodolo,680,FanDuel,63.3,LOTTO ONLY,SPECULATIVE,1,,74.2,61.4,74.1,69.3,4-Seam Fastball,23.1,Thin profile
+41,Mickey Gasper,Boston Red Sox,Philadelphia Phillies,Andrew Painter,790,FanDuel,62.7,LOTTO ONLY,SPECULATIVE,2,SPLITS|CONTACT,75.1,68,78.9,55.2,,0,Playable with selectivity
+46,Connor Norby,Miami Marlins,Minnesota Twins,Simeon Woods Richardson,650,BetMGM,62.1,LOTTO ONLY,SPECULATIVE,0,,73.4,62.4,68,66.4,4-Seam Fastball,37.7,Thin profile

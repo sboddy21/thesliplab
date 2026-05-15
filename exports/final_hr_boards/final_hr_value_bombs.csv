@@ -1,0 +1,9 @@
+rank,name,team,opponent,pitcher,odds,book,final_hr_score,decision_tier,confidence,agreement_count,signal_flags,master_score,matchup_score,split_score,per_pitch_score,primary_pitch_match,primary_pitch_usage_pct,note
+3,Luke Raley,Seattle Mariners,Houston Astros,Lance McCullers Jr.,474,DraftKings,80.6,STRONG PLAY,HIGH,4,MASTER|MATCHUP|SPLITS|CONTACT,85.2,72.3,79.9,73.6,Cutter,21.8,Multi-layer agreement
+4,Willson Contreras,Boston Red Sox,Philadelphia Phillies,Andrew Painter,490,FanDuel,80.2,STRONG PLAY,HIGH,4,MASTER|SPLITS|CONTACT,83.4,70.4,79.2,76.8,Slider,17,Strong layered support
+11,Wilyer Abreu,Boston Red Sox,Philadelphia Phillies,Andrew Painter,490,FanDuel,75.6,VALUE BOMB,MEDIUM,3,SPLITS|PITCH,79.7,66.6,76,78.2,4-Seam Fastball,39.2,Playable with selectivity
+16,Juan Soto,New York Mets,Detroit Tigers,Framber Valdez,470,FanDuel,74.3,VALUE BOMB,MEDIUM,3,PITCH|CONTACT,77.5,64.6,71.2,79.7,Sinker,39.9,Playable with selectivity
+17,CJ Abrams,Washington Nationals,Cincinnati Reds,Nick Lodolo,543,DraftKings,73.8,VALUE BOMB,MEDIUM,3,MASTER,81.1,63.7,73.4,72.9,Sinker,24.4,Thin profile
+20,Dominic Canzone,Seattle Mariners,Houston Astros,Lance McCullers Jr.,529,DraftKings,72.2,VALUE BOMB,LOW,2,MASTER,80.8,68.2,74.6,69.3,Sinker,20.3,Thin profile
+22,Tyler Soderstrom,Athletics,St. Louis Cardinals,Matthew Liberatore,475,BetMGM,70.9,VALUE BOMB,LOW,2,,77.6,65,68.4,75.1,4-Seam Fastball,32.4,Thin profile
+23,Bobby Witt Jr.,Kansas City Royals,Chicago White Sox,Noah Schultz,475,BetMGM,70.8,VALUE BOMB,LOW,2,,77.1,62.1,69.7,76.8,4-Seam Fastball,25.1,Thin profile
