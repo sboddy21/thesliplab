@@ -39,9 +39,9 @@
     "hh": 41.9,
     "contact": 76.5,
     "pitcherScore": 78.2,
-    "env": 50.3,
+    "env": 49.5,
     "recent": 50,
-    "intel": 68.2,
+    "intel": 68.1,
     "grade": "PLUS"
   },
   {
@@ -159,9 +159,9 @@
     "hh": 63.9,
     "contact": 94.1,
     "pitcherScore": 37,
-    "env": 52.9,
+    "env": 52.5,
     "recent": 50,
-    "intel": 64.8,
+    "intel": 64.7,
     "grade": "NEUTRAL"
   },
   {
@@ -181,21 +181,6 @@
   },
   {
     "rank": 13,
-    "name": "Moisés Ballesteros",
-    "team": "Chicago Cubs",
-    "pitcher": "JR Ritchie",
-    "odds": "610",
-    "brl": 13.4,
-    "hh": 48.8,
-    "contact": 70.5,
-    "pitcherScore": 78.2,
-    "env": 50.3,
-    "recent": 50,
-    "intel": 64.3,
-    "grade": "NEUTRAL"
-  },
-  {
-    "rank": 14,
     "name": "Dominic Canzone",
     "team": "Seattle Mariners",
     "pitcher": "Lance McCullers Jr.",
@@ -210,7 +195,7 @@
     "grade": "NEUTRAL"
   },
   {
-    "rank": 15,
+    "rank": 14,
     "name": "Wilyer Abreu",
     "team": "Boston Red Sox",
     "pitcher": "Andrew Painter",
@@ -225,6 +210,21 @@
     "grade": "NEUTRAL"
   },
   {
+    "rank": 15,
+    "name": "Moisés Ballesteros",
+    "team": "Chicago Cubs",
+    "pitcher": "JR Ritchie",
+    "odds": "610",
+    "brl": 13.4,
+    "hh": 48.8,
+    "contact": 70.5,
+    "pitcherScore": 78.2,
+    "env": 49.5,
+    "recent": 50,
+    "intel": 64.1,
+    "grade": "NEUTRAL"
+  },
+  {
     "rank": 16,
     "name": "Max Muncy",
     "team": "Los Angeles Dodgers",
@@ -234,9 +234,9 @@
     "hh": 55.7,
     "contact": 87.6,
     "pitcherScore": 40.3,
-    "env": 53.7,
+    "env": 53.3,
     "recent": 50,
-    "intel": 63.4,
+    "intel": 63.3,
     "grade": "NEUTRAL"
   },
   {
@@ -249,9 +249,9 @@
     "hh": 43.2,
     "contact": 56.3,
     "pitcherScore": 78.2,
-    "env": 50.3,
+    "env": 49.5,
     "recent": 50,
-    "intel": 62.9,
+    "intel": 62.8,
     "grade": "NEUTRAL"
   },
   {
@@ -294,9 +294,9 @@
     "hh": 51.8,
     "contact": 72.4,
     "pitcherScore": 56.5,
-    "env": 52.3,
+    "env": 51.9,
     "recent": 50,
-    "intel": 62.1,
+    "intel": 62,
     "grade": "NEUTRAL"
   },
   {
@@ -346,21 +346,6 @@
   },
   {
     "rank": 24,
-    "name": "Michael Busch",
-    "team": "Chicago Cubs",
-    "pitcher": "JR Ritchie",
-    "odds": "450",
-    "brl": 8.8,
-    "hh": 39.8,
-    "contact": 51.8,
-    "pitcherScore": 78.2,
-    "env": 50.3,
-    "recent": 50,
-    "intel": 61.8,
-    "grade": "NEUTRAL"
-  },
-  {
-    "rank": 25,
     "name": "Tyler Soderstrom",
     "team": "Athletics",
     "pitcher": "Matthew Liberatore",
@@ -375,7 +360,7 @@
     "grade": "NEUTRAL"
   },
   {
-    "rank": 26,
+    "rank": 25,
     "name": "Ketel Marte",
     "team": "Arizona Diamondbacks",
     "pitcher": "Kumar Rocker",
@@ -390,7 +375,7 @@
     "grade": "NEUTRAL"
   },
   {
-    "rank": 27,
+    "rank": 26,
     "name": "Christopher Morel",
     "team": "Miami Marlins",
     "pitcher": "Simeon Woods Richardson",
@@ -400,6 +385,21 @@
     "contact": 53.5,
     "pitcherScore": 93.6,
     "env": 35,
+    "recent": 50,
+    "intel": 61.6,
+    "grade": "NEUTRAL"
+  },
+  {
+    "rank": 27,
+    "name": "Michael Busch",
+    "team": "Chicago Cubs",
+    "pitcher": "JR Ritchie",
+    "odds": "450",
+    "brl": 8.8,
+    "hh": 39.8,
+    "contact": 51.8,
+    "pitcherScore": 78.2,
+    "env": 49.5,
     "recent": 50,
     "intel": 61.6,
     "grade": "NEUTRAL"
@@ -421,21 +421,6 @@
   },
   {
     "rank": 29,
-    "name": "Pete Crow-Armstrong",
-    "team": "Chicago Cubs",
-    "pitcher": "JR Ritchie",
-    "odds": "550",
-    "brl": 8.1,
-    "hh": 46.8,
-    "contact": 55.7,
-    "pitcherScore": 78.2,
-    "env": 50.3,
-    "recent": 50,
-    "intel": 60.9,
-    "grade": "NEUTRAL"
-  },
-  {
-    "rank": 30,
     "name": "Sal Stewart",
     "team": "Cincinnati Reds",
     "pitcher": "Jake Irvin",
@@ -450,7 +435,7 @@
     "grade": "NEUTRAL"
   },
   {
-    "rank": 31,
+    "rank": 30,
     "name": "Brandon Nimmo",
     "team": "Texas Rangers",
     "pitcher": "Ryne Nelson",
@@ -465,22 +450,22 @@
     "grade": "NEUTRAL"
   },
   {
-    "rank": 32,
-    "name": "Dansby Swanson",
+    "rank": 31,
+    "name": "Pete Crow-Armstrong",
     "team": "Chicago Cubs",
     "pitcher": "JR Ritchie",
-    "odds": "650",
-    "brl": 9.4,
-    "hh": 45.8,
-    "contact": 58.1,
+    "odds": "550",
+    "brl": 8.1,
+    "hh": 46.8,
+    "contact": 55.7,
     "pitcherScore": 78.2,
-    "env": 50.3,
+    "env": 49.5,
     "recent": 50,
     "intel": 60.8,
     "grade": "NEUTRAL"
   },
   {
-    "rank": 33,
+    "rank": 32,
     "name": "Kyle Schwarber",
     "team": "Philadelphia Phillies",
     "pitcher": "Sonny Gray",
@@ -490,6 +475,21 @@
     "contact": 83,
     "pitcherScore": 44.8,
     "env": 35,
+    "recent": 50,
+    "intel": 60.6,
+    "grade": "NEUTRAL"
+  },
+  {
+    "rank": 33,
+    "name": "Dansby Swanson",
+    "team": "Chicago Cubs",
+    "pitcher": "JR Ritchie",
+    "odds": "650",
+    "brl": 9.4,
+    "hh": 45.8,
+    "contact": 58.1,
+    "pitcherScore": 78.2,
+    "env": 49.5,
     "recent": 50,
     "intel": 60.6,
     "grade": "NEUTRAL"
@@ -594,28 +594,13 @@
     "hh": 45,
     "contact": 56,
     "pitcherScore": 78.2,
-    "env": 50.3,
+    "env": 49.5,
     "recent": 50,
-    "intel": 59.2,
+    "intel": 59.1,
     "grade": "NEUTRAL"
   },
   {
     "rank": 41,
-    "name": "Alex Bregman",
-    "team": "Chicago Cubs",
-    "pitcher": "JR Ritchie",
-    "odds": "576",
-    "brl": 6,
-    "hh": 45.1,
-    "contact": 49.1,
-    "pitcherScore": 78.2,
-    "env": 50.3,
-    "recent": 50,
-    "intel": 59,
-    "grade": "NEUTRAL"
-  },
-  {
-    "rank": 42,
     "name": "Heriberto Hernández",
     "team": "Miami Marlins",
     "pitcher": "Simeon Woods Richardson",
@@ -630,7 +615,7 @@
     "grade": "NEUTRAL"
   },
   {
-    "rank": 43,
+    "rank": 42,
     "name": "Joc Pederson",
     "team": "Texas Rangers",
     "pitcher": "Ryne Nelson",
@@ -645,7 +630,7 @@
     "grade": "NEUTRAL"
   },
   {
-    "rank": 44,
+    "rank": 43,
     "name": "Joey Wiemer",
     "team": "Washington Nationals",
     "pitcher": "Nick Lodolo",
@@ -655,6 +640,21 @@
     "contact": 61.2,
     "pitcherScore": 77.2,
     "env": 35,
+    "recent": 50,
+    "intel": 58.8,
+    "grade": "NEUTRAL"
+  },
+  {
+    "rank": 44,
+    "name": "Alex Bregman",
+    "team": "Chicago Cubs",
+    "pitcher": "JR Ritchie",
+    "odds": "576",
+    "brl": 6,
+    "hh": 45.1,
+    "contact": 49.1,
+    "pitcherScore": 78.2,
+    "env": 49.5,
     "recent": 50,
     "intel": 58.8,
     "grade": "NEUTRAL"
@@ -766,21 +766,6 @@
   },
   {
     "rank": 52,
-    "name": "Salvador Perez",
-    "team": "Kansas City Royals",
-    "pitcher": "Noah Schultz",
-    "odds": "430",
-    "brl": 9,
-    "hh": 40.2,
-    "contact": 52.7,
-    "pitcherScore": 56.5,
-    "env": 52.3,
-    "recent": 50,
-    "intel": 57.2,
-    "grade": "NEUTRAL"
-  },
-  {
-    "rank": 53,
     "name": "Colson Montgomery",
     "team": "Chicago White Sox",
     "pitcher": "Seth Lugo",
@@ -789,7 +774,22 @@
     "hh": 41.8,
     "contact": 67.2,
     "pitcherScore": 37,
-    "env": 52.9,
+    "env": 52.5,
+    "recent": 50,
+    "intel": 57.1,
+    "grade": "NEUTRAL"
+  },
+  {
+    "rank": 53,
+    "name": "Salvador Perez",
+    "team": "Kansas City Royals",
+    "pitcher": "Noah Schultz",
+    "odds": "430",
+    "brl": 9,
+    "hh": 40.2,
+    "contact": 52.7,
+    "pitcherScore": 56.5,
+    "env": 51.9,
     "recent": 50,
     "intel": 57.1,
     "grade": "NEUTRAL"
@@ -939,7 +939,7 @@
     "hh": 38.1,
     "contact": 62,
     "pitcherScore": 40.3,
-    "env": 53.7,
+    "env": 53.3,
     "recent": 50,
     "intel": 55.9,
     "grade": "NEUTRAL"
@@ -969,7 +969,7 @@
     "hh": 44,
     "contact": 72,
     "pitcherScore": 37,
-    "env": 52.9,
+    "env": 52.5,
     "recent": 50,
     "intel": 55.7,
     "grade": "NEUTRAL"
@@ -1044,9 +1044,9 @@
     "hh": 47.8,
     "contact": 66,
     "pitcherScore": 40.3,
-    "env": 53.7,
+    "env": 53.3,
     "recent": 50,
-    "intel": 55.4,
+    "intel": 55.3,
     "grade": "NEUTRAL"
   },
   {
@@ -1074,7 +1074,7 @@
     "hh": 43,
     "contact": 60.9,
     "pitcherScore": 56.5,
-    "env": 52.3,
+    "env": 51.9,
     "recent": 50,
     "intel": 54.9,
     "grade": "THIN"
@@ -1111,21 +1111,6 @@
   },
   {
     "rank": 75,
-    "name": "Matt Olson",
-    "team": "Atlanta Braves",
-    "pitcher": "Shota Imanaga",
-    "odds": "400",
-    "brl": 19,
-    "hh": 51.2,
-    "contact": 84,
-    "pitcherScore": 10.7,
-    "env": 50.1,
-    "recent": 50,
-    "intel": 54.7,
-    "grade": "THIN"
-  },
-  {
-    "rank": 76,
     "name": "Mark Vientos",
     "team": "New York Mets",
     "pitcher": "Framber Valdez",
@@ -1140,7 +1125,7 @@
     "grade": "THIN"
   },
   {
-    "rank": 77,
+    "rank": 76,
     "name": "Spencer Torkelson",
     "team": "Detroit Tigers",
     "pitcher": "Christian Scott",
@@ -1155,7 +1140,7 @@
     "grade": "THIN"
   },
   {
-    "rank": 78,
+    "rank": 77,
     "name": "Jeff McNeil",
     "team": "Athletics",
     "pitcher": "Matthew Liberatore",
@@ -1170,7 +1155,7 @@
     "grade": "THIN"
   },
   {
-    "rank": 79,
+    "rank": 78,
     "name": "Bryce Harper",
     "team": "Philadelphia Phillies",
     "pitcher": "Sonny Gray",
@@ -1185,6 +1170,21 @@
     "grade": "THIN"
   },
   {
+    "rank": 79,
+    "name": "Matt Olson",
+    "team": "Atlanta Braves",
+    "pitcher": "Shota Imanaga",
+    "odds": "400",
+    "brl": 19,
+    "hh": 51.2,
+    "contact": 84,
+    "pitcherScore": 10.7,
+    "env": 49.3,
+    "recent": 50,
+    "intel": 54.6,
+    "grade": "THIN"
+  },
+  {
     "rank": 80,
     "name": "Andy Pages",
     "team": "Los Angeles Dodgers",
@@ -1194,9 +1194,9 @@
     "hh": 52.5,
     "contact": 58.5,
     "pitcherScore": 40.3,
-    "env": 53.7,
+    "env": 53.3,
     "recent": 50,
-    "intel": 54.6,
+    "intel": 54.5,
     "grade": "THIN"
   },
   {
@@ -1231,21 +1231,6 @@
   },
   {
     "rank": 83,
-    "name": "Dalton Rushing",
-    "team": "Los Angeles Dodgers",
-    "pitcher": "Robbie Ray",
-    "odds": "520",
-    "brl": 11.1,
-    "hh": 44.4,
-    "contact": 61.3,
-    "pitcherScore": 40.3,
-    "env": 53.7,
-    "recent": 50,
-    "intel": 54.2,
-    "grade": "THIN"
-  },
-  {
-    "rank": 84,
     "name": "Riley Greene",
     "team": "Detroit Tigers",
     "pitcher": "Christian Scott",
@@ -1260,6 +1245,21 @@
     "grade": "THIN"
   },
   {
+    "rank": 84,
+    "name": "Dalton Rushing",
+    "team": "Los Angeles Dodgers",
+    "pitcher": "Robbie Ray",
+    "odds": "520",
+    "brl": 11.1,
+    "hh": 44.4,
+    "contact": 61.3,
+    "pitcherScore": 40.3,
+    "env": 53.3,
+    "recent": 50,
+    "intel": 54.1,
+    "grade": "THIN"
+  },
+  {
     "rank": 85,
     "name": "Teoscar Hernández",
     "team": "Los Angeles Dodgers",
@@ -1269,28 +1269,13 @@
     "hh": 43.3,
     "contact": 55.1,
     "pitcherScore": 40.3,
-    "env": 53.7,
+    "env": 53.3,
     "recent": 50,
     "intel": 54.1,
     "grade": "THIN"
   },
   {
     "rank": 86,
-    "name": "Vinnie Pasquantino",
-    "team": "Kansas City Royals",
-    "pitcher": "Noah Schultz",
-    "odds": "680",
-    "brl": 10,
-    "hh": 40,
-    "contact": 55,
-    "pitcherScore": 56.5,
-    "env": 52.3,
-    "recent": 50,
-    "intel": 54.1,
-    "grade": "THIN"
-  },
-  {
-    "rank": 87,
     "name": "Colby Thomas",
     "team": "Athletics",
     "pitcher": "Matthew Liberatore",
@@ -1300,6 +1285,21 @@
     "contact": 38.6,
     "pitcherScore": 71.5,
     "env": 35,
+    "recent": 50,
+    "intel": 54,
+    "grade": "THIN"
+  },
+  {
+    "rank": 87,
+    "name": "Vinnie Pasquantino",
+    "team": "Kansas City Royals",
+    "pitcher": "Noah Schultz",
+    "odds": "680",
+    "brl": 10,
+    "hh": 40,
+    "contact": 55,
+    "pitcherScore": 56.5,
+    "env": 51.9,
     "recent": 50,
     "intel": 54,
     "grade": "THIN"
@@ -1374,7 +1374,7 @@
     "hh": 53.2,
     "contact": 66.3,
     "pitcherScore": 37,
-    "env": 52.9,
+    "env": 52.5,
     "recent": 50,
     "intel": 53.4,
     "grade": "THIN"
@@ -1419,9 +1419,9 @@
     "hh": 41.3,
     "contact": 54.3,
     "pitcherScore": 56.5,
-    "env": 52.3,
+    "env": 51.9,
     "recent": 50,
-    "intel": 53,
+    "intel": 52.9,
     "grade": "THIN"
   },
   {
@@ -1434,9 +1434,9 @@
     "hh": 58.9,
     "contact": 87.6,
     "pitcherScore": 10.7,
-    "env": 50.1,
+    "env": 49.3,
     "recent": 50,
-    "intel": 52.6,
+    "intel": 52.5,
     "grade": "THIN"
   },
   {
@@ -1494,9 +1494,9 @@
     "hh": 43.9,
     "contact": 48.4,
     "pitcherScore": 56.5,
-    "env": 52.3,
+    "env": 51.9,
     "recent": 50,
-    "intel": 52.1,
+    "intel": 52,
     "grade": "THIN"
   },
   {
@@ -1599,7 +1599,7 @@
     "hh": 34.4,
     "contact": 41.3,
     "pitcherScore": 40.3,
-    "env": 53.7,
+    "env": 53.3,
     "recent": 50,
     "intel": 51.3,
     "grade": "THIN"
@@ -1674,7 +1674,7 @@
     "hh": 41.9,
     "contact": 48.5,
     "pitcherScore": 40.3,
-    "env": 53.7,
+    "env": 53.3,
     "recent": 50,
     "intel": 50.7,
     "grade": "THIN"
@@ -1741,21 +1741,6 @@
   },
   {
     "rank": 117,
-    "name": "Drake Baldwin",
-    "team": "Atlanta Braves",
-    "pitcher": "Shota Imanaga",
-    "odds": "525",
-    "brl": 14.7,
-    "hh": 50.4,
-    "contact": 75.1,
-    "pitcherScore": 10.7,
-    "env": 50.1,
-    "recent": 50,
-    "intel": 50,
-    "grade": "THIN"
-  },
-  {
-    "rank": 118,
     "name": "Alejandro Osuna",
     "team": "Texas Rangers",
     "pitcher": "Ryne Nelson",
@@ -1770,7 +1755,7 @@
     "grade": "THIN"
   },
   {
-    "rank": 119,
+    "rank": 118,
     "name": "Tyler Heineman",
     "team": "Toronto Blue Jays",
     "pitcher": "Griffin Jax",
@@ -1785,7 +1770,7 @@
     "grade": "THIN"
   },
   {
-    "rank": 120,
+    "rank": 119,
     "name": "Luis Torrens",
     "team": "New York Mets",
     "pitcher": "Framber Valdez",
@@ -1800,22 +1785,22 @@
     "grade": "THIN"
   },
   {
-    "rank": 121,
-    "name": "Lane Thomas",
-    "team": "Kansas City Royals",
-    "pitcher": "Noah Schultz",
-    "odds": "680",
-    "brl": 3.6,
-    "hh": 37.5,
-    "contact": 38,
-    "pitcherScore": 56.5,
-    "env": 52.3,
+    "rank": 120,
+    "name": "Drake Baldwin",
+    "team": "Atlanta Braves",
+    "pitcher": "Shota Imanaga",
+    "odds": "525",
+    "brl": 14.7,
+    "hh": 50.4,
+    "contact": 75.1,
+    "pitcherScore": 10.7,
+    "env": 49.3,
     "recent": 50,
-    "intel": 49.7,
+    "intel": 49.8,
     "grade": "THIN"
   },
   {
-    "rank": 122,
+    "rank": 121,
     "name": "Jackson Chourio",
     "team": "Milwaukee Brewers",
     "pitcher": "Michael King",
@@ -1825,6 +1810,21 @@
     "contact": 77.3,
     "pitcherScore": 27.6,
     "env": 35,
+    "recent": 50,
+    "intel": 49.6,
+    "grade": "THIN"
+  },
+  {
+    "rank": 122,
+    "name": "Lane Thomas",
+    "team": "Kansas City Royals",
+    "pitcher": "Noah Schultz",
+    "odds": "680",
+    "brl": 3.6,
+    "hh": 37.5,
+    "contact": 38,
+    "pitcherScore": 56.5,
+    "env": 51.9,
     "recent": 50,
     "intel": 49.6,
     "grade": "THIN"
@@ -1861,21 +1861,6 @@
   },
   {
     "rank": 125,
-    "name": "Nico Hoerner",
-    "team": "Chicago Cubs",
-    "pitcher": "JR Ritchie",
-    "odds": "1280",
-    "brl": 2,
-    "hh": 26.1,
-    "contact": 30,
-    "pitcherScore": 78.2,
-    "env": 50.3,
-    "recent": 50,
-    "intel": 49.2,
-    "grade": "THIN"
-  },
-  {
-    "rank": 126,
     "name": "Zach Cole",
     "team": "Houston Astros",
     "pitcher": "Bryce Miller",
@@ -1885,6 +1870,21 @@
     "contact": 83,
     "pitcherScore": 2.9,
     "env": 35,
+    "recent": 50,
+    "intel": 49.1,
+    "grade": "THIN"
+  },
+  {
+    "rank": 126,
+    "name": "Nico Hoerner",
+    "team": "Chicago Cubs",
+    "pitcher": "JR Ritchie",
+    "odds": "1280",
+    "brl": 2,
+    "hh": 26.1,
+    "contact": 30,
+    "pitcherScore": 78.2,
+    "env": 49.5,
     "recent": 50,
     "intel": 49.1,
     "grade": "THIN"
@@ -1959,7 +1959,7 @@
     "hh": 38.5,
     "contact": 41.6,
     "pitcherScore": 56.5,
-    "env": 52.3,
+    "env": 51.9,
     "recent": 50,
     "intel": 48.3,
     "grade": "THIN"
@@ -1996,21 +1996,6 @@
   },
   {
     "rank": 134,
-    "name": "Austin Riley",
-    "team": "Atlanta Braves",
-    "pitcher": "Shota Imanaga",
-    "odds": "441",
-    "brl": 10.6,
-    "hh": 46,
-    "contact": 61.3,
-    "pitcherScore": 10.7,
-    "env": 50.1,
-    "recent": 50,
-    "intel": 48,
-    "grade": "THIN"
-  },
-  {
-    "rank": 135,
     "name": "Bo Bichette",
     "team": "New York Mets",
     "pitcher": "Framber Valdez",
@@ -2022,6 +2007,21 @@
     "env": 35,
     "recent": 50,
     "intel": 48,
+    "grade": "THIN"
+  },
+  {
+    "rank": 135,
+    "name": "Austin Riley",
+    "team": "Atlanta Braves",
+    "pitcher": "Shota Imanaga",
+    "odds": "441",
+    "brl": 10.6,
+    "hh": 46,
+    "contact": 61.3,
+    "pitcherScore": 10.7,
+    "env": 49.3,
+    "recent": 50,
+    "intel": 47.9,
     "grade": "THIN"
   },
   {
@@ -2056,21 +2056,6 @@
   },
   {
     "rank": 138,
-    "name": "Casey Schmitt",
-    "team": "San Francisco Giants",
-    "pitcher": "Shohei Ohtani",
-    "odds": "550",
-    "brl": 14.7,
-    "hh": 47.6,
-    "contact": 72.8,
-    "pitcherScore": 3.6,
-    "env": 51.4,
-    "recent": 50,
-    "intel": 47.7,
-    "grade": "THIN"
-  },
-  {
-    "rank": 139,
     "name": "Vidal Bruján",
     "team": "New York Mets",
     "pitcher": "Framber Valdez",
@@ -2082,6 +2067,21 @@
     "env": 35,
     "recent": 50,
     "intel": 47.7,
+    "grade": "THIN"
+  },
+  {
+    "rank": 139,
+    "name": "Casey Schmitt",
+    "team": "San Francisco Giants",
+    "pitcher": "Shohei Ohtani",
+    "odds": "550",
+    "brl": 14.7,
+    "hh": 47.6,
+    "contact": 72.8,
+    "pitcherScore": 3.6,
+    "env": 51,
+    "recent": 50,
+    "intel": 47.6,
     "grade": "THIN"
   },
   {
@@ -2116,21 +2116,6 @@
   },
   {
     "rank": 142,
-    "name": "Heliot Ramos",
-    "team": "San Francisco Giants",
-    "pitcher": "Shohei Ohtani",
-    "odds": "575",
-    "brl": 13.1,
-    "hh": 50,
-    "contact": 70.8,
-    "pitcherScore": 3.6,
-    "env": 51.4,
-    "recent": 50,
-    "intel": 46.9,
-    "grade": "THIN"
-  },
-  {
-    "rank": 143,
     "name": "Brett Baty",
     "team": "New York Mets",
     "pitcher": "Framber Valdez",
@@ -2142,6 +2127,21 @@
     "env": 35,
     "recent": 50,
     "intel": 46.9,
+    "grade": "THIN"
+  },
+  {
+    "rank": 143,
+    "name": "Heliot Ramos",
+    "team": "San Francisco Giants",
+    "pitcher": "Shohei Ohtani",
+    "odds": "575",
+    "brl": 13.1,
+    "hh": 50,
+    "contact": 70.8,
+    "pitcherScore": 3.6,
+    "env": 51,
+    "recent": 50,
+    "intel": 46.8,
     "grade": "THIN"
   },
   {
@@ -2199,9 +2199,9 @@
     "hh": 66.7,
     "contact": 70,
     "pitcherScore": 10.7,
-    "env": 50.1,
+    "env": 49.3,
     "recent": 50,
-    "intel": 46.6,
+    "intel": 46.5,
     "grade": "THIN"
   },
   {
@@ -2529,9 +2529,9 @@
     "hh": 45.4,
     "contact": 55.3,
     "pitcherScore": 3.6,
-    "env": 51.4,
+    "env": 51,
     "recent": 50,
-    "intel": 43.4,
+    "intel": 43.3,
     "grade": "AVOID"
   },
   {
@@ -2619,9 +2619,9 @@
     "hh": 37,
     "contact": 39.4,
     "pitcherScore": 37,
-    "env": 52.9,
+    "env": 52.5,
     "recent": 50,
-    "intel": 42.4,
+    "intel": 42.3,
     "grade": "AVOID"
   },
   {
@@ -2671,21 +2671,6 @@
   },
   {
     "rank": 179,
-    "name": "Jorge Mateo",
-    "team": "Atlanta Braves",
-    "pitcher": "Shota Imanaga",
-    "odds": "960",
-    "brl": 11.1,
-    "hh": 41.7,
-    "contact": 59.1,
-    "pitcherScore": 10.7,
-    "env": 50.1,
-    "recent": 50,
-    "intel": 41.5,
-    "grade": "AVOID"
-  },
-  {
-    "rank": 180,
     "name": "Edouard Julien",
     "team": "Colorado Rockies",
     "pitcher": "Mitch Keller",
@@ -2695,6 +2680,21 @@
     "contact": 58.7,
     "pitcherScore": 15.8,
     "env": 35,
+    "recent": 50,
+    "intel": 41.3,
+    "grade": "AVOID"
+  },
+  {
+    "rank": 180,
+    "name": "Jorge Mateo",
+    "team": "Atlanta Braves",
+    "pitcher": "Shota Imanaga",
+    "odds": "960",
+    "brl": 11.1,
+    "hh": 41.7,
+    "contact": 59.1,
+    "pitcherScore": 10.7,
+    "env": 49.3,
     "recent": 50,
     "intel": 41.3,
     "grade": "AVOID"
@@ -2784,9 +2784,9 @@
     "hh": 40.5,
     "contact": 51.9,
     "pitcherScore": 3.6,
-    "env": 51.4,
+    "env": 51,
     "recent": 50,
-    "intel": 40.2,
+    "intel": 40.1,
     "grade": "AVOID"
   },
   {
@@ -2829,9 +2829,9 @@
     "hh": 37.2,
     "contact": 39.5,
     "pitcherScore": 10.7,
-    "env": 50.1,
+    "env": 49.3,
     "recent": 50,
-    "intel": 39.9,
+    "intel": 39.8,
     "grade": "AVOID"
   },
   {
@@ -2889,28 +2889,13 @@
     "hh": 28,
     "contact": 30.9,
     "pitcherScore": 10.7,
-    "env": 50.1,
+    "env": 49.3,
     "recent": 50,
-    "intel": 38.6,
+    "intel": 38.4,
     "grade": "AVOID"
   },
   {
     "rank": 194,
-    "name": "Harrison Bader",
-    "team": "San Francisco Giants",
-    "pitcher": "Shohei Ohtani",
-    "odds": "900",
-    "brl": 7.3,
-    "hh": 43.9,
-    "contact": 51.4,
-    "pitcherScore": 3.6,
-    "env": 51.4,
-    "recent": 50,
-    "intel": 38.2,
-    "grade": "AVOID"
-  },
-  {
-    "rank": 195,
     "name": "Xander Bogaerts",
     "team": "San Diego Padres",
     "pitcher": "Jacob Misiorowski",
@@ -2920,6 +2905,21 @@
     "contact": 46.6,
     "pitcherScore": 13,
     "env": 35,
+    "recent": 50,
+    "intel": 38.1,
+    "grade": "AVOID"
+  },
+  {
+    "rank": 195,
+    "name": "Harrison Bader",
+    "team": "San Francisco Giants",
+    "pitcher": "Shohei Ohtani",
+    "odds": "900",
+    "brl": 7.3,
+    "hh": 43.9,
+    "contact": 51.4,
+    "pitcherScore": 3.6,
+    "env": 51,
     "recent": 50,
     "intel": 38.1,
     "grade": "AVOID"
@@ -3084,9 +3084,9 @@
     "hh": 38.9,
     "contact": 49.1,
     "pitcherScore": 3.6,
-    "env": 51.4,
+    "env": 51,
     "recent": 50,
-    "intel": 36.6,
+    "intel": 36.5,
     "grade": "AVOID"
   },
   {
@@ -3151,21 +3151,6 @@
   },
   {
     "rank": 211,
-    "name": "Matt Chapman",
-    "team": "San Francisco Giants",
-    "pitcher": "Shohei Ohtani",
-    "odds": "790",
-    "brl": 5.4,
-    "hh": 30.7,
-    "contact": 36.1,
-    "pitcherScore": 3.6,
-    "env": 51.4,
-    "recent": 50,
-    "intel": 35.7,
-    "grade": "AVOID"
-  },
-  {
-    "rank": 212,
     "name": "Miguel Andujar",
     "team": "San Diego Padres",
     "pitcher": "Jacob Misiorowski",
@@ -3180,7 +3165,7 @@
     "grade": "AVOID"
   },
   {
-    "rank": 213,
+    "rank": 212,
     "name": "Troy Johnston",
     "team": "Colorado Rockies",
     "pitcher": "Mitch Keller",
@@ -3195,22 +3180,22 @@
     "grade": "AVOID"
   },
   {
-    "rank": 214,
-    "name": "Mauricio Dubón",
-    "team": "Atlanta Braves",
-    "pitcher": "Shota Imanaga",
-    "odds": "890",
-    "brl": 5,
-    "hh": 30.6,
-    "contact": 35,
-    "pitcherScore": 10.7,
-    "env": 50.1,
+    "rank": 213,
+    "name": "Matt Chapman",
+    "team": "San Francisco Giants",
+    "pitcher": "Shohei Ohtani",
+    "odds": "790",
+    "brl": 5.4,
+    "hh": 30.7,
+    "contact": 36.1,
+    "pitcherScore": 3.6,
+    "env": 51,
     "recent": 50,
-    "intel": 35.5,
+    "intel": 35.6,
     "grade": "AVOID"
   },
   {
-    "rank": 215,
+    "rank": 214,
     "name": "Kyle Karros",
     "team": "Colorado Rockies",
     "pitcher": "Mitch Keller",
@@ -3222,6 +3207,21 @@
     "env": 35,
     "recent": 50,
     "intel": 35.4,
+    "grade": "AVOID"
+  },
+  {
+    "rank": 215,
+    "name": "Mauricio Dubón",
+    "team": "Atlanta Braves",
+    "pitcher": "Shota Imanaga",
+    "odds": "890",
+    "brl": 5,
+    "hh": 30.6,
+    "contact": 35,
+    "pitcherScore": 10.7,
+    "env": 49.3,
+    "recent": 50,
+    "intel": 35.3,
     "grade": "AVOID"
   },
   {
@@ -3309,9 +3309,9 @@
     "hh": 19,
     "contact": 40,
     "pitcherScore": 3.6,
-    "env": 51.4,
+    "env": 51,
     "recent": 50,
-    "intel": 33.7,
+    "intel": 33.6,
     "grade": "AVOID"
   },
   {
@@ -3354,7 +3354,7 @@
     "hh": 31.9,
     "contact": 33.5,
     "pitcherScore": 3.6,
-    "env": 51.4,
+    "env": 51,
     "recent": 50,
     "intel": 32.9,
     "grade": "AVOID"

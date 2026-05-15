@@ -4,9 +4,9 @@ Chicago Cubs @ Atlanta Braves
 Type: TEAMMATE_HR_STACK
 Grade: C
 Confidence: LOW
-Correlation: 52.73
-Stack Score: 57.65
-Environment: 45.50
+Correlation: 52.67
+Stack Score: 57.58
+Environment: 45.27
 Pitcher Collapse: 77.21
 Risk: HIGH_RISK
 Payout: NO_ODDS
@@ -14,30 +14,30 @@ Payout: NO_ODDS
 ============================
 
 #2
-Ian Happ + Seiya Suzuki
+Ian Happ + Moisés Ballesteros + Seiya Suzuki
 Chicago Cubs @ Atlanta Braves
 Type: TEAMMATE_HR_STACK
 Grade: C
 Confidence: LOW
-Correlation: 52.55
-Stack Score: 57.44
-Environment: 45.22
-Pitcher Collapse: 76.55
+Correlation: 52.49
+Stack Score: 57.37
+Environment: 44.97
+Pitcher Collapse: 76.71
 Risk: HIGH_RISK
 Payout: NO_ODDS
 
 ============================
 
 #3
-Ian Happ + Moisés Ballesteros + Seiya Suzuki
+Ian Happ + Seiya Suzuki
 Chicago Cubs @ Atlanta Braves
 Type: TEAMMATE_HR_STACK
 Grade: C
 Confidence: LOW
-Correlation: 52.54
-Stack Score: 57.44
-Environment: 45.20
-Pitcher Collapse: 76.71
+Correlation: 52.50
+Stack Score: 57.36
+Environment: 44.98
+Pitcher Collapse: 76.55
 Risk: HIGH_RISK
 Payout: NO_ODDS
 
@@ -49,9 +49,9 @@ Chicago Cubs @ Atlanta Braves
 Type: TEAMMATE_HR_STACK
 Grade: C
 Confidence: LOW
-Correlation: 52.47
-Stack Score: 57.39
-Environment: 45.18
+Correlation: 52.41
+Stack Score: 57.32
+Environment: 44.95
 Pitcher Collapse: 76.84
 Risk: HIGH_RISK
 Payout: NO_ODDS
@@ -64,9 +64,9 @@ Chicago Cubs @ Atlanta Braves
 Type: TEAMMATE_HR_STACK
 Grade: C
 Confidence: LOW
-Correlation: 52.45
-Stack Score: 57.37
-Environment: 45.18
+Correlation: 52.39
+Stack Score: 57.30
+Environment: 44.95
 Pitcher Collapse: 76.75
 Risk: HIGH_RISK
 Payout: NO_ODDS
@@ -79,9 +79,9 @@ Chicago Cubs @ Atlanta Braves
 Type: TEAMMATE_HR_STACK
 Grade: C
 Confidence: LOW
-Correlation: 52.41
-Stack Score: 57.34
-Environment: 45.19
+Correlation: 52.35
+Stack Score: 57.27
+Environment: 44.96
 Pitcher Collapse: 76.70
 Risk: HIGH_RISK
 Payout: NO_ODDS
@@ -94,9 +94,9 @@ Chicago Cubs @ Atlanta Braves
 Type: TEAMMATE_HR_STACK
 Grade: C
 Confidence: LOW
-Correlation: 52.40
-Stack Score: 57.30
-Environment: 45.03
+Correlation: 52.34
+Stack Score: 57.22
+Environment: 44.80
 Pitcher Collapse: 76.56
 Risk: HIGH_RISK
 Payout: NO_ODDS
@@ -109,9 +109,9 @@ Chicago Cubs @ Atlanta Braves
 Type: TEAMMATE_HR_STACK
 Grade: C
 Confidence: LOW
-Correlation: 52.35
-Stack Score: 57.28
-Environment: 45.20
+Correlation: 52.30
+Stack Score: 57.22
+Environment: 44.98
 Pitcher Collapse: 76.54
 Risk: HIGH_RISK
 Payout: NO_ODDS
@@ -124,9 +124,9 @@ Chicago Cubs @ Atlanta Braves
 Type: TEAMMATE_HR_STACK
 Grade: C
 Confidence: LOW
-Correlation: 52.34
-Stack Score: 57.27
-Environment: 45.09
+Correlation: 52.29
+Stack Score: 57.20
+Environment: 44.86
 Pitcher Collapse: 76.64
 Risk: HIGH_RISK
 Payout: NO_ODDS
@@ -139,9 +139,9 @@ Chicago Cubs @ Atlanta Braves
 Type: TEAMMATE_HR_STACK
 Grade: C
 Confidence: LOW
-Correlation: 52.35
-Stack Score: 57.26
-Environment: 45.04
+Correlation: 52.30
+Stack Score: 57.18
+Environment: 44.81
 Pitcher Collapse: 76.45
 Risk: HIGH_RISK
 Payout: NO_ODDS
@@ -154,9 +154,9 @@ Chicago Cubs @ Atlanta Braves
 Type: TEAMMATE_HR_STACK
 Grade: C
 Confidence: LOW
-Correlation: 52.36
-Stack Score: 57.25
-Environment: 44.99
+Correlation: 52.30
+Stack Score: 57.18
+Environment: 44.76
 Pitcher Collapse: 76.40
 Risk: HIGH_RISK
 Payout: NO_ODDS
@@ -169,9 +169,9 @@ Chicago Cubs @ Atlanta Braves
 Type: TEAMMATE_HR_STACK
 Grade: C
 Confidence: LOW
-Correlation: 52.35
-Stack Score: 57.23
-Environment: 44.89
+Correlation: 52.29
+Stack Score: 57.15
+Environment: 44.66
 Pitcher Collapse: 76.36
 Risk: HIGH_RISK
 Payout: NO_ODDS
@@ -184,9 +184,9 @@ Chicago Cubs @ Atlanta Braves
 Type: TEAMMATE_HR_STACK
 Grade: C
 Confidence: LOW
-Correlation: 52.30
-Stack Score: 57.22
-Environment: 45.02
+Correlation: 52.24
+Stack Score: 57.15
+Environment: 44.80
 Pitcher Collapse: 76.55
 Risk: HIGH_RISK
 Payout: NO_ODDS
@@ -199,9 +199,9 @@ Chicago Cubs @ Atlanta Braves
 Type: TEAMMATE_HR_STACK
 Grade: C
 Confidence: LOW
-Correlation: 52.30
-Stack Score: 57.21
-Environment: 44.97
+Correlation: 52.25
+Stack Score: 57.14
+Environment: 44.74
 Pitcher Collapse: 76.41
 Risk: HIGH_RISK
 Payout: NO_ODDS
@@ -209,30 +209,30 @@ Payout: NO_ODDS
 ============================
 
 #15
-Ian Happ + Seiya Suzuki + Pete Crow-Armstrong
+Ian Happ + Michael Busch
 Chicago Cubs @ Atlanta Braves
 Type: TEAMMATE_HR_STACK
 Grade: C
 Confidence: LOW
-Correlation: 52.29
-Stack Score: 57.19
-Environment: 45.00
-Pitcher Collapse: 76.26
+Correlation: 52.20
+Stack Score: 57.12
+Environment: 44.82
+Pitcher Collapse: 76.45
 Risk: HIGH_RISK
 Payout: NO_ODDS
 
 ============================
 
 #16
-Ian Happ + Michael Busch
+Ian Happ + Seiya Suzuki + Pete Crow-Armstrong
 Chicago Cubs @ Atlanta Braves
 Type: TEAMMATE_HR_STACK
 Grade: C
 Confidence: LOW
-Correlation: 52.25
-Stack Score: 57.19
-Environment: 45.05
-Pitcher Collapse: 76.45
+Correlation: 52.24
+Stack Score: 57.12
+Environment: 44.77
+Pitcher Collapse: 76.26
 Risk: HIGH_RISK
 Payout: NO_ODDS
 
@@ -244,9 +244,9 @@ Chicago Cubs @ Atlanta Braves
 Type: TEAMMATE_HR_STACK
 Grade: C
 Confidence: LOW
-Correlation: 52.25
-Stack Score: 57.17
-Environment: 44.95
+Correlation: 52.19
+Stack Score: 57.10
+Environment: 44.72
 Pitcher Collapse: 76.50
 Risk: HIGH_RISK
 Payout: NO_ODDS
@@ -254,30 +254,30 @@ Payout: NO_ODDS
 ============================
 
 #18
-Moisés Ballesteros + Dansby Swanson
+Ian Happ + Moisés Ballesteros + Carson Kelly
 Chicago Cubs @ Atlanta Braves
 Type: TEAMMATE_HR_STACK
 Grade: C
 Confidence: LOW
-Correlation: 52.24
-Stack Score: 57.16
-Environment: 44.85
-Pitcher Collapse: 76.56
+Correlation: 52.18
+Stack Score: 57.08
+Environment: 44.72
+Pitcher Collapse: 76.32
 Risk: HIGH_RISK
 Payout: NO_ODDS
 
 ============================
 
 #19
-Ian Happ + Moisés Ballesteros + Carson Kelly
+Moisés Ballesteros + Dansby Swanson
 Chicago Cubs @ Atlanta Braves
 Type: TEAMMATE_HR_STACK
 Grade: C
 Confidence: LOW
-Correlation: 52.24
-Stack Score: 57.15
-Environment: 44.95
-Pitcher Collapse: 76.32
+Correlation: 52.18
+Stack Score: 57.08
+Environment: 44.62
+Pitcher Collapse: 76.56
 Risk: HIGH_RISK
 Payout: NO_ODDS
 
@@ -289,9 +289,9 @@ Chicago Cubs @ Atlanta Braves
 Type: TEAMMATE_HR_STACK
 Grade: C
 Confidence: LOW
-Correlation: 52.22
-Stack Score: 57.15
-Environment: 44.98
+Correlation: 52.17
+Stack Score: 57.08
+Environment: 44.75
 Pitcher Collapse: 76.39
 Risk: HIGH_RISK
 Payout: NO_ODDS
@@ -304,9 +304,9 @@ Chicago Cubs @ Atlanta Braves
 Type: TEAMMATE_HR_STACK
 Grade: C
 Confidence: LOW
-Correlation: 52.23
-Stack Score: 57.14
-Environment: 44.86
+Correlation: 52.18
+Stack Score: 57.07
+Environment: 44.63
 Pitcher Collapse: 76.35
 Risk: HIGH_RISK
 Payout: NO_ODDS
@@ -319,9 +319,9 @@ Chicago Cubs @ Atlanta Braves
 Type: TEAMMATE_HR_STACK
 Grade: C
 Confidence: LOW
-Correlation: 52.23
-Stack Score: 57.13
-Environment: 44.90
+Correlation: 52.18
+Stack Score: 57.06
+Environment: 44.67
 Pitcher Collapse: 76.20
 Risk: HIGH_RISK
 Payout: NO_ODDS
@@ -334,9 +334,9 @@ Chicago Cubs @ Atlanta Braves
 Type: TEAMMATE_HR_STACK
 Grade: C
 Confidence: LOW
-Correlation: 52.20
-Stack Score: 57.13
-Environment: 44.96
+Correlation: 52.15
+Stack Score: 57.06
+Environment: 44.73
 Pitcher Collapse: 76.40
 Risk: HIGH_RISK
 Payout: NO_ODDS
@@ -349,9 +349,9 @@ Chicago Cubs @ Atlanta Braves
 Type: TEAMMATE_HR_STACK
 Grade: C
 Confidence: LOW
-Correlation: 52.23
-Stack Score: 57.12
-Environment: 44.86
+Correlation: 52.17
+Stack Score: 57.04
+Environment: 44.63
 Pitcher Collapse: 76.17
 Risk: HIGH_RISK
 Payout: NO_ODDS
@@ -359,14 +359,14 @@ Payout: NO_ODDS
 ============================
 
 #25
-Moisés Ballesteros + Seiya Suzuki + Dansby Swanson
+Ian Happ + Seiya Suzuki + Dansby Swanson + Pete Crow-Armstrong
 Chicago Cubs @ Atlanta Braves
 Type: TEAMMATE_HR_STACK
 Grade: C
 Confidence: LOW
-Correlation: 52.22
-Stack Score: 57.11
-Environment: 44.77
-Pitcher Collapse: 76.27
+Correlation: 52.16
+Stack Score: 57.04
+Environment: 44.65
+Pitcher Collapse: 76.22
 Risk: HIGH_RISK
 Payout: NO_ODDS

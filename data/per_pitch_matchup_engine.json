@@ -27,7 +27,7 @@
     "per_pitch_score": 83.9,
     "per_pitch_grade": "ATTACK",
     "split_engine_score": "68.4",
-    "matchup_intel_score": "63.4",
+    "matchup_intel_score": "63.3",
     "master_score": "76.6",
     "master_tier": "STRONG"
   },
@@ -282,8 +282,8 @@
     "market_score": 64.2,
     "per_pitch_score": 79.1,
     "per_pitch_grade": "PLUS",
-    "split_engine_score": "60.2",
-    "matchup_intel_score": "52.6",
+    "split_engine_score": "60.1",
+    "matchup_intel_score": "52.5",
     "master_score": "68.9",
     "master_tier": "GOOD"
   },
@@ -411,7 +411,7 @@
     "per_pitch_score": 78.5,
     "per_pitch_grade": "PLUS",
     "split_engine_score": "68.9",
-    "matchup_intel_score": "64.8",
+    "matchup_intel_score": "64.7",
     "master_score": "77",
     "master_tier": "STRONG"
   },
@@ -570,8 +570,8 @@
     "market_score": 76.5,
     "per_pitch_score": 76.8,
     "per_pitch_grade": "PLUS",
-    "split_engine_score": "69.7",
-    "matchup_intel_score": "62.1",
+    "split_engine_score": "69.6",
+    "matchup_intel_score": "62",
     "master_score": "77.1",
     "master_tier": "STRONG"
   },
@@ -602,8 +602,8 @@
     "market_score": 83,
     "per_pitch_score": 76.7,
     "per_pitch_grade": "PLUS",
-    "split_engine_score": "57.9",
-    "matchup_intel_score": "54.7",
+    "split_engine_score": "57.8",
+    "matchup_intel_score": "54.6",
     "master_score": "71.6",
     "master_tier": "GOOD"
   },
@@ -698,8 +698,8 @@
     "market_score": 78,
     "per_pitch_score": 75.8,
     "per_pitch_grade": "PLUS",
-    "split_engine_score": "52",
-    "matchup_intel_score": "48",
+    "split_engine_score": "51.9",
+    "matchup_intel_score": "47.9",
     "master_score": "63.4",
     "master_tier": "STANDARD"
   },
@@ -762,8 +762,8 @@
     "market_score": 75.4,
     "per_pitch_score": 75.6,
     "per_pitch_grade": "PLUS",
-    "split_engine_score": "59.2",
-    "matchup_intel_score": "54.6",
+    "split_engine_score": "59.1",
+    "matchup_intel_score": "54.5",
     "master_score": "68.1",
     "master_tier": "GOOD"
   },
@@ -794,8 +794,8 @@
     "market_score": 68.3,
     "per_pitch_score": 75.4,
     "per_pitch_grade": "PLUS",
-    "split_engine_score": "59.5",
-    "matchup_intel_score": "55.4",
+    "split_engine_score": "59.4",
+    "matchup_intel_score": "55.3",
     "master_score": "68.6",
     "master_tier": "GOOD"
   },
@@ -827,7 +827,7 @@
     "per_pitch_score": 75.2,
     "per_pitch_grade": "PLUS",
     "split_engine_score": "51.1",
-    "matchup_intel_score": "46.9",
+    "matchup_intel_score": "46.8",
     "master_score": "62.3",
     "master_tier": "STANDARD"
   },
@@ -858,8 +858,8 @@
     "market_score": 78,
     "per_pitch_score": 75.1,
     "per_pitch_grade": "PLUS",
-    "split_engine_score": "78",
-    "matchup_intel_score": "68.2",
+    "split_engine_score": "77.9",
+    "matchup_intel_score": "68.1",
     "master_score": "79.3",
     "master_tier": "STRONG"
   },
@@ -955,7 +955,7 @@
     "per_pitch_score": 74.5,
     "per_pitch_grade": "PLUS",
     "split_engine_score": "52.2",
-    "matchup_intel_score": "47.7",
+    "matchup_intel_score": "47.6",
     "master_score": "66",
     "master_tier": "GOOD"
   },
@@ -1338,8 +1338,8 @@
     "market_score": 63.2,
     "per_pitch_score": 73.2,
     "per_pitch_grade": "PLUS",
-    "split_engine_score": "76.4",
-    "matchup_intel_score": "64.3",
+    "split_engine_score": "76.3",
+    "matchup_intel_score": "64.1",
     "master_score": "74.2",
     "master_tier": "GOOD"
   },
@@ -1530,8 +1530,8 @@
     "market_score": 68,
     "per_pitch_score": 71.9,
     "per_pitch_grade": "PLUS",
-    "split_engine_score": "54",
-    "matchup_intel_score": "50",
+    "split_engine_score": "53.9",
+    "matchup_intel_score": "49.8",
     "master_score": "66.9",
     "master_tier": "GOOD"
   },
@@ -1787,7 +1787,7 @@
     "per_pitch_score": 70.7,
     "per_pitch_grade": "PLUS",
     "split_engine_score": "50.9",
-    "matchup_intel_score": "41.5",
+    "matchup_intel_score": "41.3",
     "master_score": "56.1",
     "master_tier": "STANDARD"
   },
@@ -1818,7 +1818,7 @@
     "market_score": 78,
     "per_pitch_score": 70.6,
     "per_pitch_grade": "PLUS",
-    "split_engine_score": "57.6",
+    "split_engine_score": "57.5",
     "matchup_intel_score": "54.1",
     "master_score": "66.6",
     "master_tier": "GOOD"
@@ -1882,7 +1882,7 @@
     "market_score": 66.5,
     "per_pitch_score": 70.4,
     "per_pitch_grade": "PLUS",
-    "split_engine_score": "60.6",
+    "split_engine_score": "60.5",
     "matchup_intel_score": "55.7",
     "master_score": "71.3",
     "master_tier": "GOOD"
@@ -1946,7 +1946,7 @@
     "market_score": 61.3,
     "per_pitch_score": 70.2,
     "per_pitch_grade": "PLUS",
-    "split_engine_score": "58",
+    "split_engine_score": "57.9",
     "matchup_intel_score": "53.4",
     "master_score": "65.9",
     "master_tier": "GOOD"
@@ -2203,7 +2203,7 @@
     "per_pitch_score": 68.7,
     "per_pitch_grade": "NEUTRAL",
     "split_engine_score": "56.1",
-    "matchup_intel_score": "54.2",
+    "matchup_intel_score": "54.1",
     "master_score": "68",
     "master_tier": "GOOD"
   },
@@ -2234,8 +2234,8 @@
     "market_score": 61.3,
     "per_pitch_score": 68.6,
     "per_pitch_grade": "NEUTRAL",
-    "split_engine_score": "68.3",
-    "matchup_intel_score": "60.8",
+    "split_engine_score": "68.2",
+    "matchup_intel_score": "60.6",
     "master_score": "71.4",
     "master_tier": "GOOD"
   },
@@ -2459,7 +2459,7 @@
     "per_pitch_score": 68,
     "per_pitch_grade": "NEUTRAL",
     "split_engine_score": "46",
-    "matchup_intel_score": "43.4",
+    "matchup_intel_score": "43.3",
     "master_score": "60.3",
     "master_tier": "STANDARD"
   },
@@ -2491,7 +2491,7 @@
     "per_pitch_score": 67.6,
     "per_pitch_grade": "NEUTRAL",
     "split_engine_score": "59.4",
-    "matchup_intel_score": "57.2",
+    "matchup_intel_score": "57.1",
     "master_score": "69",
     "master_tier": "GOOD"
   },
@@ -2618,7 +2618,7 @@
     "market_score": 67.5,
     "per_pitch_score": 67.2,
     "per_pitch_grade": "NEUTRAL",
-    "split_engine_score": "52.3",
+    "split_engine_score": "52.2",
     "matchup_intel_score": "50.7",
     "master_score": "63.6",
     "master_tier": "STANDARD"
@@ -2714,8 +2714,8 @@
     "market_score": 78,
     "per_pitch_score": 66.6,
     "per_pitch_grade": "NEUTRAL",
-    "split_engine_score": "67.3",
-    "matchup_intel_score": "62.9",
+    "split_engine_score": "67.2",
+    "matchup_intel_score": "62.8",
     "master_score": "74.6",
     "master_tier": "GOOD"
   },
@@ -2778,8 +2778,8 @@
     "market_score": 66.5,
     "per_pitch_score": 66.5,
     "per_pitch_grade": "NEUTRAL",
-    "split_engine_score": "69.2",
-    "matchup_intel_score": "60.9",
+    "split_engine_score": "69.1",
+    "matchup_intel_score": "60.8",
     "master_score": "71.4",
     "master_tier": "GOOD"
   },
@@ -2970,8 +2970,8 @@
     "market_score": 78,
     "per_pitch_score": 65.6,
     "per_pitch_grade": "NEUTRAL",
-    "split_engine_score": "67.6",
-    "matchup_intel_score": "61.8",
+    "split_engine_score": "67.5",
+    "matchup_intel_score": "61.6",
     "master_score": "72.2",
     "master_tier": "GOOD"
   },
@@ -3098,7 +3098,7 @@
     "market_score": 50.8,
     "per_pitch_score": 65.2,
     "per_pitch_grade": "NEUTRAL",
-    "split_engine_score": "59.6",
+    "split_engine_score": "59.5",
     "matchup_intel_score": "54.9",
     "master_score": "67.1",
     "master_tier": "GOOD"
@@ -3131,7 +3131,7 @@
     "per_pitch_score": 65.2,
     "per_pitch_grade": "NEUTRAL",
     "split_engine_score": "45.1",
-    "matchup_intel_score": "38.2",
+    "matchup_intel_score": "38.1",
     "master_score": "54.5",
     "master_tier": "LOTTO"
   },
@@ -3419,7 +3419,7 @@
     "per_pitch_score": 64.5,
     "per_pitch_grade": "NEUTRAL",
     "split_engine_score": "59.7",
-    "matchup_intel_score": "53",
+    "matchup_intel_score": "52.9",
     "master_score": "64.6",
     "master_tier": "STANDARD"
   },
@@ -3515,7 +3515,7 @@
     "per_pitch_score": 64.2,
     "per_pitch_grade": "NEUTRAL",
     "split_engine_score": "59.2",
-    "matchup_intel_score": "52.1",
+    "matchup_intel_score": "52",
     "master_score": "64.7",
     "master_tier": "STANDARD"
   },
@@ -3802,8 +3802,8 @@
     "market_score": 55.1,
     "per_pitch_score": 62.8,
     "per_pitch_grade": "NEUTRAL",
-    "split_engine_score": "57.1",
-    "matchup_intel_score": "54.1",
+    "split_engine_score": "57",
+    "matchup_intel_score": "54",
     "master_score": "66.5",
     "master_tier": "GOOD"
   },
@@ -3834,8 +3834,8 @@
     "market_score": 68.5,
     "per_pitch_score": 62.7,
     "per_pitch_grade": "NEUTRAL",
-    "split_engine_score": "39.7",
-    "matchup_intel_score": "38.6",
+    "split_engine_score": "39.6",
+    "matchup_intel_score": "38.4",
     "master_score": "56.4",
     "master_tier": "STANDARD"
   },
@@ -4155,7 +4155,7 @@
     "per_pitch_score": 61.8,
     "per_pitch_grade": "NEUTRAL",
     "split_engine_score": "42.9",
-    "matchup_intel_score": "40.2",
+    "matchup_intel_score": "40.1",
     "master_score": "57.5",
     "master_tier": "STANDARD"
   },
@@ -4283,7 +4283,7 @@
     "per_pitch_score": 61.3,
     "per_pitch_grade": "NEUTRAL",
     "split_engine_score": "64.3",
-    "matchup_intel_score": "59",
+    "matchup_intel_score": "58.8",
     "master_score": "69.7",
     "master_tier": "GOOD"
   },
@@ -4474,8 +4474,8 @@
     "market_score": 55.1,
     "per_pitch_score": 61,
     "per_pitch_grade": "NEUTRAL",
-    "split_engine_score": "52.3",
-    "matchup_intel_score": "49.7",
+    "split_engine_score": "52.2",
+    "matchup_intel_score": "49.6",
     "master_score": "60.5",
     "master_tier": "STANDARD"
   },
@@ -4538,8 +4538,8 @@
     "market_score": 55.1,
     "per_pitch_score": 60.8,
     "per_pitch_grade": "NEUTRAL",
-    "split_engine_score": "67.1",
-    "matchup_intel_score": "59.2",
+    "split_engine_score": "67",
+    "matchup_intel_score": "59.1",
     "master_score": "69.6",
     "master_tier": "GOOD"
   },
@@ -4987,7 +4987,7 @@
     "per_pitch_score": 59.1,
     "per_pitch_grade": "NEUTRAL",
     "split_engine_score": "41.2",
-    "matchup_intel_score": "35.5",
+    "matchup_intel_score": "35.3",
     "master_score": "51.4",
     "master_tier": "LOTTO"
   },
@@ -5466,8 +5466,8 @@
     "market_score": 62.7,
     "per_pitch_score": 57.6,
     "per_pitch_grade": "THIN",
-    "split_engine_score": "38.2",
-    "matchup_intel_score": "39.9",
+    "split_engine_score": "38.1",
+    "matchup_intel_score": "39.8",
     "master_score": "54.9",
     "master_tier": "LOTTO"
   },
@@ -5787,7 +5787,7 @@
     "per_pitch_score": 56.6,
     "per_pitch_grade": "THIN",
     "split_engine_score": "57.1",
-    "matchup_intel_score": "49.2",
+    "matchup_intel_score": "49.1",
     "master_score": "54.9",
     "master_tier": "LOTTO"
   },
@@ -5818,8 +5818,8 @@
     "market_score": 51.1,
     "per_pitch_score": 56.6,
     "per_pitch_grade": "THIN",
-    "split_engine_score": "35.9",
-    "matchup_intel_score": "35.7",
+    "split_engine_score": "35.8",
+    "matchup_intel_score": "35.6",
     "master_score": "51.4",
     "master_tier": "LOTTO"
   },
@@ -6106,8 +6106,8 @@
     "market_score": 32.6,
     "per_pitch_score": 56,
     "per_pitch_grade": "THIN",
-    "split_engine_score": "40",
-    "matchup_intel_score": "33.7",
+    "split_engine_score": "39.9",
+    "matchup_intel_score": "33.6",
     "master_score": "42.2",
     "master_tier": "DEEP FADE"
   },
@@ -6138,8 +6138,8 @@
     "market_score": 36.2,
     "per_pitch_score": 55.9,
     "per_pitch_grade": "THIN",
-    "split_engine_score": "45.3",
-    "matchup_intel_score": "42.4",
+    "split_engine_score": "45.2",
+    "matchup_intel_score": "42.3",
     "master_score": "48.1",
     "master_tier": "LOTTO"
   },
@@ -6171,7 +6171,7 @@
     "per_pitch_score": 55.9,
     "per_pitch_grade": "THIN",
     "split_engine_score": "40.3",
-    "matchup_intel_score": "36.6",
+    "matchup_intel_score": "36.5",
     "master_score": "46",
     "master_tier": "WATCH"
   },
@@ -6907,7 +6907,7 @@
     "per_pitch_score": 50,
     "per_pitch_grade": "THIN",
     "split_engine_score": "44.7",
-    "matchup_intel_score": "46.6",
+    "matchup_intel_score": "46.5",
     "master_score": "58.4",
     "master_tier": "STANDARD"
   },

@@ -2460,9 +2460,9 @@
     "date": "2026-05-14",
     "player": "Max Muncy",
     "game": "San Francisco Giants @ Los Angeles Dodgers",
-    "hr": "",
-    "home_runs": "",
-    "game_status": "PENDING",
+    "hr": "NO",
+    "home_runs": 0,
+    "game_status": "FINAL",
     "source": "MLB_STATS_API"
   },
   {
@@ -2613,9 +2613,9 @@
     "date": "2026-05-14",
     "player": "Will Smith",
     "game": "San Francisco Giants @ Los Angeles Dodgers",
-    "hr": "",
-    "home_runs": "",
-    "game_status": "PENDING",
+    "hr": "YES",
+    "home_runs": 1,
+    "game_status": "FINAL",
     "source": "MLB_STATS_API"
   },
   {
@@ -2631,18 +2631,18 @@
     "date": "2026-05-14",
     "player": "Andy Pages",
     "game": "San Francisco Giants @ Los Angeles Dodgers",
-    "hr": "",
-    "home_runs": "",
-    "game_status": "PENDING",
+    "hr": "NO",
+    "home_runs": 0,
+    "game_status": "FINAL",
     "source": "MLB_STATS_API"
   },
   {
     "date": "2026-05-14",
     "player": "Teoscar Hernández",
     "game": "San Francisco Giants @ Los Angeles Dodgers",
-    "hr": "",
-    "home_runs": "",
-    "game_status": "PENDING",
+    "hr": "NO",
+    "home_runs": 0,
+    "game_status": "FINAL",
     "source": "MLB_STATS_API"
   },
   {
@@ -2658,9 +2658,9 @@
     "date": "2026-05-14",
     "player": "Freddie Freeman",
     "game": "San Francisco Giants @ Los Angeles Dodgers",
-    "hr": "",
-    "home_runs": "",
-    "game_status": "PENDING",
+    "hr": "NO",
+    "home_runs": 0,
+    "game_status": "FINAL",
     "source": "MLB_STATS_API"
   },
   {
@@ -2757,18 +2757,18 @@
     "date": "2026-05-14",
     "player": "Dalton Rushing",
     "game": "San Francisco Giants @ Los Angeles Dodgers",
-    "hr": "",
-    "home_runs": "",
-    "game_status": "PENDING",
+    "hr": "NO",
+    "home_runs": 0,
+    "game_status": "FINAL",
     "source": "MLB_STATS_API"
   },
   {
     "date": "2026-05-14",
     "player": "Mookie Betts",
     "game": "San Francisco Giants @ Los Angeles Dodgers",
-    "hr": "",
-    "home_runs": "",
-    "game_status": "PENDING",
+    "hr": "NO",
+    "home_runs": 0,
+    "game_status": "FINAL",
     "source": "MLB_STATS_API"
   },
   {
@@ -2847,9 +2847,9 @@
     "date": "2026-05-14",
     "player": "Kyle Tucker",
     "game": "San Francisco Giants @ Los Angeles Dodgers",
-    "hr": "",
-    "home_runs": "",
-    "game_status": "PENDING",
+    "hr": "NO",
+    "home_runs": 0,
+    "game_status": "FINAL",
     "source": "MLB_STATS_API"
   },
   {
@@ -2874,9 +2874,9 @@
     "date": "2026-05-14",
     "player": "Casey Schmitt",
     "game": "San Francisco Giants @ Los Angeles Dodgers",
-    "hr": "",
-    "home_runs": "",
-    "game_status": "PENDING",
+    "hr": "NO",
+    "home_runs": 0,
+    "game_status": "FINAL",
     "source": "MLB_STATS_API"
   },
   {
@@ -2901,9 +2901,9 @@
     "date": "2026-05-14",
     "player": "Heliot Ramos",
     "game": "San Francisco Giants @ Los Angeles Dodgers",
-    "hr": "",
-    "home_runs": "",
-    "game_status": "PENDING",
+    "hr": "NO",
+    "home_runs": 0,
+    "game_status": "FINAL",
     "source": "MLB_STATS_API"
   },
   {
@@ -3045,9 +3045,9 @@
     "date": "2026-05-14",
     "player": "Rafael Devers",
     "game": "San Francisco Giants @ Los Angeles Dodgers",
-    "hr": "",
-    "home_runs": "",
-    "game_status": "PENDING",
+    "hr": "NO",
+    "home_runs": 0,
+    "game_status": "FINAL",
     "source": "MLB_STATS_API"
   },
   {
@@ -3252,9 +3252,9 @@
     "date": "2026-05-14",
     "player": "Willy Adames",
     "game": "San Francisco Giants @ Los Angeles Dodgers",
-    "hr": "",
-    "home_runs": "",
-    "game_status": "PENDING",
+    "hr": "NO",
+    "home_runs": 0,
+    "game_status": "FINAL",
     "source": "MLB_STATS_API"
   },
   {
@@ -3333,9 +3333,9 @@
     "date": "2026-05-14",
     "player": "Harrison Bader",
     "game": "San Francisco Giants @ Los Angeles Dodgers",
-    "hr": "",
-    "home_runs": "",
-    "game_status": "PENDING",
+    "hr": "NO",
+    "home_runs": 0,
+    "game_status": "FINAL",
     "source": "MLB_STATS_API"
   },
   {
@@ -3360,9 +3360,9 @@
     "date": "2026-05-14",
     "player": "Matt Chapman",
     "game": "San Francisco Giants @ Los Angeles Dodgers",
-    "hr": "",
-    "home_runs": "",
-    "game_status": "PENDING",
+    "hr": "NO",
+    "home_runs": 0,
+    "game_status": "FINAL",
     "source": "MLB_STATS_API"
   },
   {
@@ -3459,18 +3459,18 @@
     "date": "2026-05-14",
     "player": "Jung Hoo Lee",
     "game": "San Francisco Giants @ Los Angeles Dodgers",
-    "hr": "",
-    "home_runs": "",
-    "game_status": "PENDING",
+    "hr": "YES",
+    "home_runs": 1,
+    "game_status": "FINAL",
     "source": "MLB_STATS_API"
   },
   {
     "date": "2026-05-14",
     "player": "Jesus Rodriguez",
     "game": "San Francisco Giants @ Los Angeles Dodgers",
-    "hr": "",
-    "home_runs": "",
-    "game_status": "PENDING",
+    "hr": "NO",
+    "home_runs": 0,
+    "game_status": "FINAL",
     "source": "MLB_STATS_API"
   },
   {
@@ -3531,9 +3531,9 @@
     "date": "2026-05-14",
     "player": "Luis Arraez",
     "game": "San Francisco Giants @ Los Angeles Dodgers",
-    "hr": "",
-    "home_runs": "",
-    "game_status": "PENDING",
+    "hr": "NO",
+    "home_runs": 0,
+    "game_status": "FINAL",
     "source": "MLB_STATS_API"
   },
   {
