@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Slip Lab Power Zones</title>
+<link rel="stylesheet" href="./power-zones.css">
+</head>
+<body>
+<header class="tsl-header">
+  <a class="tsl-brand" href="/">
+    <div class="tsl-logo">TSL</div>
+    <div>
+      <div class="tsl-name">The Slip Lab</div>
+      <div class="tsl-sub">MLB HOME RUN INTELLIGENCE</div>
+    </div>
+  </a>
+
+  <nav class="tsl-nav">
+    <a href="/">HOME</a>
+    <a href="/power-zones" class="active">POWER ZONES</a>
+    <a href="/slate">SLATE</a>
+    <a href="/weather">WEATHER</a>
+    <a href="/results">RESULTS</a>
+    <a href="/parlay">STACKS</a>
+  </nav>
+</header>
+
+<main class="page">
+  <section class="hero">
+    <div>
+      <div class="kicker">THE SLIP LAB</div>
+      <h1>Power Zones</h1>
+      <p>Daily HR power profile board built around hitter damage, pitcher vulnerability, park context, weather, and matchup strength.</p>
+    </div>
+
+    <div class="hero-actions">
+      <div id="updatedAt" class="updated">Loading data</div>
+      <button id="refreshBtn">Refresh</button>
+    </div>
+  </section>
+
+  <section class="controls">
+    <input id="searchInput" type="search" placeholder="Search player, team, pitcher, park..." />
+
+    <div class="chips">
+      <button class="chip active" data-filter="ALL">All</button>
+      <button class="chip" data-filter="CORE">Core</button>
+      <button class="chip" data-filter="DANGER">Danger</button>
+      <button class="chip" data-filter="VALUE">Value</button>
+      <button class="chip" data-filter="SLEEPER">Sleeper</button>
+    </div>
+
+    <select id="sortSelect">
+      <option value="score">Sort by Slip Score</option>
+      <option value="hr">Sort by HR</option>
+      <option value="slg">Sort by SLG</option>
+      <option value="iso">Sort by ISO</option>
+      <option value="odds">Sort by Odds</option>
+    </select>
+  </section>
+
+  <section id="cardsGrid" class="cards-grid"></section>
+</main>
+
+<div id="modalBackdrop" class="modal-backdrop">
+  <aside class="player-modal">
+    <button id="closeModal" class="close-btn">×</button>
+
+    <section class="modal-top">
+      <div class="avatar" id="modalInitials">TSL</div>
+      <div>
+        <h2 id="modalName">Player</h2>
+        <p id="modalSub">Team • Matchup</p>
+      </div>
+      <div id="modalBadge" class="modal-score">0</div>
+    </section>
+
+    <section class="modal-metrics" id="modalMetrics"></section>
+
+    <nav class="modal-tabs">
+      <button class="tab active" data-tab="overview">Overview</button>
+      <button class="tab" data-tab="matchup">Matchup</button>
+      <button class="tab" data-tab="power">Power</button>
+      <button class="tab" data-tab="weather">Weather</button>
+    </nav>
+
+    <section id="tabContent" class="tab-content"></section>
+  </aside>
+</div>
+
+<script src="./power-zones.js"></script>
+</body>
+</html>

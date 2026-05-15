@@ -3,5 +3,27 @@
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
   "cleanUrls": true,
-  "trailingSlash": false
+  "trailingSlash": false,
+  "rewrites": [
+    {
+      "source": "/power-zones",
+      "destination": "/power-zones.html"
+    },
+    {
+      "source": "/weather",
+      "destination": "/weather.html"
+    },
+    {
+      "source": "/slate",
+      "destination": "/slate.html"
+    },
+    {
+      "source": "/results",
+      "destination": "/results.html"
+    },
+    {
+      "source": "/parlay",
+      "destination": "/parlay.html"
+    }
+  ]
 }
