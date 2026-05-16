@@ -1,4 +1,4 @@
-const DATA_URL = "./data/power_zones.json?ts=" + Date.now();
+const DATA_URL = "https://raw.githubusercontent.com/sboddy21/mlb-sweeper/main/website/data/power_zones.json?ts=" + Date.now();
 
 let allRows = [];
 let rankedRows = [];
