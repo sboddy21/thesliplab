@@ -4,8 +4,8 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>The Slip Lab | Power Zones</title>
-  <link rel="stylesheet" href="style.css?v=pz-clean-1" />
-  <link rel="stylesheet" href="power-zones.css?v=pz-clean-1" />
+  <link rel="stylesheet" href="style.css?v=pz-live-pool-1" />
+  <link rel="stylesheet" href="power-zones.css?v=pz-live-pool-1" />
 </head>
 <body>
 <header class="tsl-site-header">
@@ -64,31 +64,6 @@
     <div id="pzDrawerContent"></div>
   </aside>
 </div>
-<script src="power-zones.js?v=pz-clean-1"></script>
-<script>
-(function(){
-  function num(t){var n=Number(String(t||'').replace(/[^0-9.\-]/g,''));return Number.isFinite(n)?n:0;}
-  function cleanCards(){
-    document.querySelectorAll('.pz-card').forEach(function(card){
-      var txt=card.innerText||'';
-      var stats=[...card.querySelectorAll('.pz-stat-grid strong')].map(function(x){return x.textContent.trim();});
-      var hr=num(stats[0]);
-      var iso=num(stats[1]);
-      var slg=num(stats[2]);
-      var badStats=hr<=0&&iso<=0.05&&slg<=0.25;
-      var badPitcher=/Unknown Pitcher|Pitcher N\/A/i.test(txt);
-      if(badStats||badPitcher){card.remove();}
-    });
-    var grid=document.getElementById('pzGrid');
-    if(grid&&!grid.querySelector('.pz-card')){
-      grid.innerHTML='<div class="pz-empty">No valid Power Zones in this bucket. Empty stat profiles are hidden until real hitter data is available.</div>';
-    }
-  }
-  var obs=new MutationObserver(cleanCards);
-  var grid=document.getElementById('pzGrid');
-  if(grid)obs.observe(grid,{childList:true,subtree:true});
-  setInterval(cleanCards,750);
-})();
-</script>
+<script src="power-zones.js?v=pz-live-pool-1"></script>
 </body>
 </html>
